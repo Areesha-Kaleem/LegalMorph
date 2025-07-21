@@ -1,0 +1,89 @@
+{
+  "case_title": "COMMISSIONER OF WEALTH TAX vs TRUSTEES OF SAHEBZADI ANWAR BEGUM TRUST",
+  "reference_no_or_id": "Case Referred No. 41 of 1989",
+  "judgment_date": "1998-08-07",
+  "first_hearing_date": "N/A",
+  "court": "Andhra Pradesh High Court",
+  "bench_type": "Full Bench",
+  "judges": [
+    "P. Venkatarama Reddy",
+    "Krishna Saran Shrivastav",
+    "A. Hanumanthu"
+  ],
+  "appellant": [
+    "Commissioner of Wealth Tax"
+  ],
+  "respondant": [
+    "Trustees of Sahebzadi Anwar Begum Trust"
+  ],
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": []
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "The case involves the assessment of wealth tax on the Trustees of Sahebzadi Anwar Begum Trust, specifically regarding the jewellery and shares funds held in trust for the sole beneficiary, Sahebzadi Anwar Begum.",
+  "investigation_summary": "The Wealth Tax Officer assessed the value of the jewellery and shares funds under Section 16(3) of the Wealth Tax Act. The assessments were challenged, leading to appeals and references to the Tribunal and High Court.",
+  "judgment_summary": "The court held that the right of Sahebzadi Anwar Begum to wear jewellery on ceremonial occasions does not constitute an 'asset' under Section 2(e) of the Wealth Tax Act. The jewellery fund and shares fund were deemed not liable for wealth tax. The court affirmed the Tribunal's decision and ruled in favor of the assessee.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Order accordingly; questions answered in favor of the assessee.",
+  "legal_arguments": [
+    "Whether the jewellery fund constitutes an asset under Section 2(e) of the Wealth Tax Act.",
+    "Applicability of Section 21(1) for assessing trustees when direct assessment on the beneficiary was already made.",
+    "Whether the shares fund constitutes an asset under Section 2(e)."
+  ],
+  "assets": [
+    "Jewellery Fund (Part-I and Part-II)",
+    "Shares Fund"
+  ],
+  "statutes": [
+    "Wealth Tax Act"
+  ],
+  "sections": [
+    "Section 2(e)",
+    "Section 21(1)",
+    "Section 16(3)"
+  ],
+  "citations": [
+    "CWT v. Trustees of H.E.H. The Nizam's Sahebzadi Anwar Begum Trust (1981) 129 ITR 796",
+    "R.C. No. 67 of 1969",
+    "Nawab Sir Mir Osman Ali Khan v. CWT (1986) 162 ITR 888",
+    "CIT v. H.H. Maharani Usha Devi (1998) 231 ITR 793"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Wealth Tax",
+    "Trust Law"
+  ],
+  "key_issues": [
+    "Whether the right to wear jewellery constitutes an asset.",
+    "Applicability of wealth tax on trustees for assets held in trust.",
+    "Conflict between earlier decisions on similar issues."
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "Asset": "Defined under Section 2(e) of the Wealth Tax Act as property of every description.",
+    "Beneficial Interest": "The right to benefit from property held in trust."
+  },
+  "words_and_phrases": {
+    "Net Wealth": "Aggregate value of all assets minus debts as per Section 2(m) of the Wealth Tax Act.",
+    "Trustee": "A person holding property on behalf of another under a trust."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around the interpretation of 'asset' under the Wealth Tax Act and whether the limited rights of Sahebzadi Anwar Begum over the jewellery fund and shares fund qualify as taxable assets. The court ruled in favor of the trustees, affirming that these rights do not constitute assets under the Act."
+}

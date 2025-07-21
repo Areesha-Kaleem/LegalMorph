@@ -1,0 +1,137 @@
+{
+  "case_title": "Jameel Ahmed vs The State",
+  "reference_no_or_id": "Criminal Appeal No. 14 of 2024",
+  "judgment_date": "2024-09-03",
+  "first_hearing_date": "2024-03-20",
+  "court": "Balochistan High Court",
+  "bench_type": "Single Bench",
+  "judges": [
+    {
+      "name": "Abdullah Baloch",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Iqbal Ahmed Kasi",
+      "role": "Author Judge"
+    }
+  ],
+  "appellant": [
+    {
+      "name": "Jameel Ahmed",
+      "relation": "Son of Hassan"
+    }
+  ],
+  "respondant": [
+    {
+      "name": "The State"
+    }
+  ],
+  "accussed_details": [
+    {
+      "name": "Jameel Ahmed",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "N/A",
+      "allegation": [
+        "Possession of 1178 grams of Charas",
+        "Violation of Section 9(3)(c) of Control of Narcotic Substances Act, 1997"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Sher Jan, SI"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "On 18th October 2023, SI Sher Jan lodged FIR No. 281/2023 alleging that Jameel Ahmed was found in possession of 1178 grams of Charas during patrolling at Danuk Link Road.",
+  "investigation_summary": "The investigation revealed contradictions in witness statements, improper documentation, and lack of evidence such as site maps and arrest cards. The prosecution failed to establish safe custody and transmission of seized contraband.",
+  "judgment_summary": "The court found that the prosecution failed to prove the charges beyond reasonable doubt due to contradictory witness statements, procedural lapses, and lack of credible evidence. The conviction by the trial court was overturned, and Jameel Ahmed was acquitted.",
+  "punishment": "Original sentence: 9 years rigorous imprisonment and Rs. 80,000 fine, or 3 months simple imprisonment in default. Acquitted on appeal.",
+  "Decision_or_verdict": "Appeal allowed; conviction overturned; appellant acquitted.",
+  "legal_arguments": [
+    "Contradictions in witness statements undermined credibility.",
+    "Failure to produce mandatory documents such as Randhari and site map.",
+    "Improper handling of seized contraband and lack of safe custody evidence.",
+    "Benefit of doubt principle applied due to lack of consistent evidence."
+  ],
+  "assets": [
+    {
+      "type": "Contraband",
+      "description": "1178 grams of Charas",
+      "status": "Seized"
+    }
+  ],
+  "statutes": [
+    "Control of Narcotic Substances Act, 1997",
+    "Qanun-e-Shahadat Order, 1984"
+  ],
+  "sections": [
+    "Section 9(3)(c) of CNS Act, 1997",
+    "Section 382-B, Cr.P.C."
+  ],
+  "citations": [
+    "2025 YLR 141",
+    "2018 SCMR 2039",
+    "1995 SCMR 1345"
+  ],
+  "witnesses": [
+    {
+      "name": "Zakir Ali",
+      "role": "Head Moharar"
+    },
+    {
+      "name": "Munawar Ahmed",
+      "role": "Recovery Witness"
+    },
+    {
+      "name": "Abdul Ghani",
+      "role": "Special Messenger"
+    },
+    {
+      "name": "Sher Jan",
+      "role": "Complainant"
+    },
+    {
+      "name": "Khatir Ali",
+      "role": "Investigating Officer"
+    }
+  ],
+  "witness_statement": {
+    "contradictions": [
+      "PW-1 failed to obtain signatures of IO in Register No. 19.",
+      "PW-2 contradicted timing of parcel preparation and recovery memo.",
+      "PW-3 failed to produce Randhari or FSL receipt.",
+      "PW-4 contradicted earlier statements regarding place and time of occurrence.",
+      "PW-5 admitted procedural lapses including absence of site map."
+    ]
+  },
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Criminal Law",
+    "Narcotics Control"
+  ],
+  "key_issues": [
+    "Contradictory witness statements",
+    "Procedural lapses in investigation",
+    "Improper handling of evidence",
+    "Application of benefit of doubt principle"
+  ],
+  "maxims": {
+    "benefit_of_doubt": "Accused entitled to benefit of doubt as a matter of right."
+  },
+  "legal_terms": {
+    "Randhari": "Document detailing safe custody of evidence.",
+    "Murasila": "Memo prepared during investigation."
+  },
+  "words_and_phrases": {
+    "misreading": "Incorrect interpretation of evidence.",
+    "non-reading": "Failure to consider relevant evidence."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The appellant was acquitted due to lack of credible evidence, procedural lapses, and contradictions in witness statements. The trial court's judgment was overturned, emphasizing the principle of benefit of doubt."
+}

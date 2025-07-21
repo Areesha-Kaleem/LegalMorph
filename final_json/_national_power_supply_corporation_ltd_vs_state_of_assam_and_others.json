@@ -1,0 +1,163 @@
+{
+  "case_title": "NATIONAL POWER SUPPLY CORPORATION Ltd. vs STATE OF ASSAM And Others",
+  "reference_no_or_id": "Civil Rule No. 576 of 1961",
+  "judgment_date": "1962-08-24",
+  "first_hearing_date": "1959-02-13",
+  "court": "Assam High Court",
+  "bench_type": "Division Bench",
+  "judges": [
+    "S. K. Dutta",
+    "M. P. Mehrotra"
+  ],
+  "appellant": [
+    "NATIONAL POWER SUPPLY CORPORATION Ltd."
+  ],
+  "respondant": [
+    "STATE OF ASSAM",
+    "Goalpara Zilla Electric Supply Workers’ Union, Dhubri",
+    "Sri Benode Behari Kar",
+    "Sri Nihar Kanta Chakraborty",
+    "Sri Nepal Chandra Ghosh",
+    "Sri Nagina Much"
+  ],
+  "accussed_details": [
+    {
+      "name": "Sri Hirendra Nath Bhattacharjee",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Employee at Dhubri Branch",
+      "allegation": [
+        "Dismissal leading to industrial dispute"
+      ]
+    },
+    {
+      "name": "Sri Benode Behari Kar",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Workman",
+      "allegation": [
+        "Dismissal during pendency of industrial dispute",
+        "Violation of natural justice for Trade Union activities"
+      ]
+    },
+    {
+      "name": "Sri Nihar Kanta Chakraborty",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Workman",
+      "allegation": [
+        "Dismissal during pendency of industrial dispute",
+        "Violation of natural justice for Trade Union activities"
+      ]
+    },
+    {
+      "name": "Sri Nepal Chandra Ghosh",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Workman",
+      "allegation": [
+        "Dismissal during pendency of industrial dispute",
+        "Violation of natural justice for Trade Union activities"
+      ]
+    },
+    {
+      "name": "Sri Nagina Much",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Workman",
+      "allegation": [
+        "Dismissal during pendency of industrial dispute",
+        "Violation of natural justice for Trade Union activities"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [],
+    "defense": []
+  },
+  "complaint_summary": "Dismissal of employees during pendency of industrial dispute allegedly violating principles of natural justice and contravening Section 33 of the Industrial Disputes Act.",
+  "investigation_summary": "The Labour Court adjudicated the dispute under Section 33-A of the Industrial Disputes Act, addressing allegations of contravention of Section 33 and dismissal of workmen for Trade Union activities.",
+  "judgment_summary": {
+    "decision": "Petition allowed; award set aside.",
+    "reasoning": "Union lacked authority from aggrieved workmen to file application under Section 33-A. Labour Court committed error of law."
+  },
+  "punishment": "N/A",
+  "Decision_or_verdict": "Petition allowed; award set aside.",
+  "legal_arguments": [
+    "Section 33-A requires determination of contravention of Section 33 before adjudicating merits.",
+    "Union cannot independently file a petition under Section 33-A without authorization from aggrieved workmen.",
+    "Dismissal of workmen during pendency of industrial dispute constitutes violation of natural justice."
+  ],
+  "assets": [],
+  "statutes": [
+    "Industrial Disputes Act, 1947"
+  ],
+  "sections": [
+    "Section 33",
+    "Section 33-A",
+    "Section 10",
+    "Section 18(3)"
+  ],
+  "citations": [
+    "Equitable Coal Co., Ltd. v. Algu Singh (1957) 17 F J R 184",
+    "New India Motors Private Ltd., New Delhi v. K. T. Morris (1960) 19 F J R 8",
+    "Belur Iron and Steel Workers' Union, Belur v. Shyam Engineering Works (1952 Lab. A C 279)",
+    "Steel Brothers & Co., Ltd. v. Their Workmen (1954) 1 L L J 314"
+  ],
+  "precedents_cited": [
+    {
+      "case_name": "Equitable Coal Co., Ltd. v. Algu Singh",
+      "citation": "(1957) 17 F J R 184",
+      "relevance": "Two-stage inquiry under Section 23 of Industrial Disputes (Appellate Tribunal) Act, 1950."
+    },
+    {
+      "case_name": "New India Motors Private Ltd., New Delhi v. K. T. Morris",
+      "citation": "(1960) 19 F J R 8",
+      "relevance": "Definition of 'workmen concerned in such dispute'."
+    },
+    {
+      "case_name": "Belur Iron and Steel Workers' Union, Belur v. Shyam Engineering Works",
+      "citation": "1952 Lab. A C 279 (Cal.)",
+      "relevance": "Complaint by Union under Section 23 of Appellate Tribunal Act, 1950."
+    },
+    {
+      "case_name": "Steel Brothers & Co., Ltd. v. Their Workmen",
+      "citation": "(1954) 1 L L J 314",
+      "relevance": "Union authority to file application under Section 33-A."
+    }
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Industrial Dispute",
+    "Labor Law",
+    "Trade Union Activities"
+  ],
+  "key_issues": [
+    "Whether the Union Secretary was authorized to file a petition under Section 33-A.",
+    "Whether the dismissal of workmen violated Section 33 of the Industrial Disputes Act.",
+    "Whether the Labour Court erred in adjudicating preliminary and merits issues simultaneously."
+  ],
+  "key_points": {
+    "industrial_dispute": "Dismissal of Sri Hirendra Nath Bhattacharjee led to Reference No. 10 of 1959.",
+    "union_application": "Goalpara Zilla Electric Supply Workers’ Union filed under Section 33-A alleging dismissal of workmen for trade union activities.",
+    "labour_court_award": "Labour Court repelled preliminary objections and decided on merits.",
+    "section_33-A": "Petitioner argued two distinct stages required: contravention determination and merits adjudication.",
+    "court_ruling": "Labour Court not bound to separate stages; no prejudice to petitioner found.",
+    "union_authority": "Union lacked authority from aggrieved workmen to file application under Section 33-A."
+  },
+  "maxims": {},
+  "legal_terms": {
+    "Industrial Dispute": "A dispute between employers and employees concerning employment terms.",
+    "Natural Justice": "Legal principles ensuring fair treatment in judicial and administrative proceedings."
+  },
+  "words_and_phrases": {
+    "Contravention": "Violation or breach of a law or regulation.",
+    "Aggrieved Workman": "An employee adversely affected by an employer's action."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around the dismissal of workmen during an industrial dispute, alleged contravention of Section 33 of the Industrial Disputes Act, and procedural errors by the Labour Court. The Assam High Court ruled that the Union Secretary's petition was invalid without proper authorization from the aggrieved workmen, setting aside the Labour Court's award."
+}

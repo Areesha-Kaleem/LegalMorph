@@ -1,0 +1,88 @@
+{
+  "case_title": "MAULA DAD alias MAULADonor vs THE STATE Donee",
+  "reference_no_or_id": "Appeal No, 119/112 of 1971",
+  "judgment_date": "1973-06-30",
+  "first_hearing_date": "N/A",
+  "court": "Board of Revenue",
+  "bench_type": "Single Bench",
+  "judges": [
+    "A. G. Riza"
+  ],
+  "appellant": [
+    "Maula Dad alias Maula"
+  ],
+  "respondant": [
+    "The State"
+  ],
+  "accussed_details": [
+    {
+      "name": "Maula Dad alias Maula",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Landowner",
+      "allegation": [
+        "Illegal alienation of mortgaged land",
+        "Violation of M.L.R. 115 provisions"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "The appellant, Maula Dad, gifted 157 acres, 5 kanals, and 19 marlas of agricultural land to his sons without obtaining consent from the Agricultural Development Bank, which had a mortgage on the land.",
+  "investigation_summary": "The Land Commissioner scrutinized the transfer and deemed it invalid due to the mortgage. The Agricultural Development Bank objected to the alienation and requested criminal proceedings against the appellant.",
+  "judgment_summary": "The court ruled that the gift was legally defective as the land was mortgaged at the time of transfer. The alienation was deemed void under para. 7(1)(a) of M.L.R. 115 since it occurred after the crucial date of 20-12-1971.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "The gift mutation No. 714 was invalidated, and the land was counted as part of the appellant's holding under M.L.R. 115.",
+  "legal_arguments": [
+    "The defense argued that the alienation was voidable but not void and presented evidence of mortgage repayment.",
+    "The prosecution highlighted the bank's objection and the legal defect in the gift transfer."
+  ],
+  "assets": [
+    {
+      "type": "Land",
+      "details": "157 acres, 5 kanals, and 19 marlas of agricultural land"
+    }
+  ],
+  "statutes": [
+    "M.L.R. 115"
+  ],
+  "sections": [
+    "Para. 7(1)(a)",
+    "Para. 8"
+  ],
+  "citations": [
+    "P L D 1976 Revenue 24"
+  ],
+  "witnesses": [
+    "N/A"
+  ],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Land Law",
+    "Mortgage Law"
+  ],
+  "key_issues": [
+    "Validity of gift transfer of mortgaged land",
+    "Compliance with M.L.R. 115 provisions"
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "alienation": "The transfer of property rights to another party.",
+    "mortgage": "A legal agreement by which a bank lends money in exchange for taking title of the debtor's property."
+  },
+  "words_and_phrases": {
+    "mutation": "A legal process of transferring property ownership.",
+    "encumbrance": "A claim or liability attached to property."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around the invalidation of a gift transfer of mortgaged land under M.L.R. 115. The court ruled the transfer void due to non-compliance with legal provisions and objections raised by the Agricultural Development Bank."
+}

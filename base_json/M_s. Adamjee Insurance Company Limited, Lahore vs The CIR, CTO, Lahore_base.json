@@ -1,0 +1,93 @@
+{
+  "case_title": "M/s. Adamjee Insurance Company Limited, Lahore vs The CIR, CTO, Lahore",
+  "reference_no_or_id": "ITA No. 2451/LB/2023",
+  "judgment_date": "2023-07-18",
+  "first_hearing_date": "N/A",
+  "court": "Appellate Tribunal Inland Revenue",
+  "bench_type": "Two-member bench",
+  "judges": [
+    "Nasir Mahmud",
+    "Ch. Anwaar-ul-Haq"
+  ],
+  "appellant": [
+    "M/s. Adamjee Insurance Company Limited, Lahore"
+  ],
+  "respondant": [
+    "The CIR, CTO, Lahore"
+  ],
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": [
+        "Non-payment of super tax for tax year 2022"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Learned DR",
+      "Learned ACIR"
+    ],
+    "defense": [
+      "Learned AR"
+    ]
+  },
+  "complaint_summary": "The appellant challenged the imposition of super tax under Section 4C of the Income Tax Ordinance, 2001 for tax year 2022, arguing that Rule 6(DA) of the Fourth Schedule makes it applicable from tax year 2023 onwards.",
+  "investigation_summary": "The assessing officer imposed super tax on the appellant for tax year 2022, which was upheld by the Commissioner Inland Revenue (Appeals). The appellant argued that Rule 6(DA) excludes tax year 2022 from super tax applicability.",
+  "judgment_summary": "The Tribunal annulled the orders passed by the Commissioner Inland Revenue (Appeals) and the assessing officer, holding that Rule 6(DA) of the Fourth Schedule makes super tax applicable from tax year 2023 onwards in the case of insurance companies.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Appeal accepted; orders imposing super tax for tax year 2022 annulled.",
+  "legal_arguments": [
+    "Rule 6(DA) of the Fourth Schedule excludes tax year 2022 from super tax applicability.",
+    "Section 4C does not override Rule 6(DA) as both are part of the same statute.",
+    "Where two interpretations are possible, the one favoring the taxpayer should be adopted.",
+    "Fiscal statutes must be strictly construed."
+  ],
+  "assets": [],
+  "statutes": [
+    "Income Tax Ordinance, 2001",
+    "Fourth Schedule to the Income Tax Ordinance, 2001"
+  ],
+  "sections": [
+    "Section 4C",
+    "Section 99"
+  ],
+  "citations": [
+    "1997 PTD 1693",
+    "2003 PTD 1321",
+    "2011 PTD 2042",
+    "2022 PTD 618",
+    "PLD 1975 Lah 65",
+    "PTCL 2023 CL. 162"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Taxation",
+    "Fiscal Law"
+  ],
+  "key_issues": [
+    "Applicability of super tax under Section 4C for tax year 2022.",
+    "Interpretation of Rule 6(DA) of the Fourth Schedule."
+  ],
+  "maxims": {
+    "No redundancy can be ascribed to legislature": "PLD 2022 SC 39",
+    "Where two interpretations are possible, the one favoring the taxpayer should be adopted": "N/A",
+    "Fiscal statutes must be strictly construed": "N/A"
+  },
+  "legal_terms": {
+    "Super Tax": "Additional tax imposed on high-income entities.",
+    "Fourth Schedule": "Special provisions for computation of profits and gains of insurance companies."
+  },
+  "words_and_phrases": {
+    "Tax Year 2022 onwards": "Phrase used in Rule 6(DA) indicating applicability timeframe."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around the interpretation of Section 4C and Rule 6(DA) of the Income Tax Ordinance, 2001. The Tribunal ruled in favor of the appellant, holding that super tax is applicable from tax year 2023 onwards for insurance companies as per Rule 6(DA)."
+}

@@ -1,0 +1,79 @@
+{
+  "case_title": "Agha MUHAMMAD KAZIM vs MEMBER (COLONIES), BOARD OF REVENUE, PUNJAB AND Other",
+  "reference_no_or_id": "Civil Petition for Special Leave to Appeal No. 157-R of 1981, Writ Petition No. 3208 of 1981",
+  "judgment_date": "1983-11-11",
+  "first_hearing_date": "N/A",
+  "court": "Supreme Court of Pakistan",
+  "bench_type": "Coram",
+  "judges": [
+    "Shahnawaz Khan",
+    "Muhammad Haleem"
+  ],
+  "appellant": [
+    "Agha MUHAMMAD KAZIM"
+  ],
+  "respondant": [
+    "MEMBER (COLONIES), BOARD OF REVENUE, PUNJAB"
+  ],
+  "accussed_details": [
+    {
+      "name": "Agha MUHAMMAD KAZIM",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Advocate",
+      "allegation": [
+        "Ineligible to retain land as sub-tenant under Board of Revenue circular dated 7th February, 1978"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [],
+    "defense": []
+  },
+  "complaint_summary": "The petitioner, a sub-tenant of land leased to his brother, was denied proprietary rights due to his designation as an Advocate, which disqualified him as an 'actual tiller' under the Board of Revenue circular.",
+  "investigation_summary": "The petitioner was recorded as a sub-tenant of land leased to his brother under the Tender Scheme. His brother retained parts of the land but the petitioner was deemed ineligible to purchase proprietary rights due to his profession.",
+  "judgment_summary": "Leave to appeal granted to the petitioner. Status quo on possession maintained. Security for costs set at Rs. 2,000. Appeal to be heard on the present record with liberty for parties to file additional documents.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Leave granted to appeal.",
+  "legal_arguments": [
+    "Petitioner was cultivating the land as a sub-tenant.",
+    "Board of Revenue circular disqualified Advocates from being 'actual tillers'.",
+    "Petitioner’s eligibility to retain land needs reconsideration."
+  ],
+  "assets": [
+    {
+      "description": "Land in Squares Nos. 113 and 126 (lots Nos. 7 and 16) in Chak No. 125/15-L, Tehsil Khanewal",
+      "status": "Possession maintained as status quo"
+    }
+  ],
+  "statutes": [
+    "Board of Revenue circular dated 7th February, 1978"
+  ],
+  "sections": [],
+  "citations": [
+    "1983 S C M R 148"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Land Law",
+    "Tenancy Law"
+  ],
+  "key_issues": [
+    "Eligibility of petitioner as sub-tenant under Board of Revenue circular",
+    "Interpretation of 'actual tiller' requirement"
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "Khud Kasht": "Land cultivated by the owner or lessee themselves",
+    "Sub-tenant": "A person who rents land from a tenant rather than directly from the owner"
+  },
+  "words_and_phrases": {
+    "Status quo": "Maintain the current state of affairs"
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "Petitioner challenged denial of proprietary rights for land leased to his brother under the Tender Scheme. The Board of Revenue circular disqualified him as an 'actual tiller' due to his profession as an Advocate. Leave to appeal granted with status quo maintained on possession."
+}

@@ -1,0 +1,80 @@
+{
+  "case_title": "Co-Operation Department vs MUSHTAQ AHMAD (MUSHTAQ ALI)",
+  "reference_no_or_id": "Case No. 537 of 1974",
+  "judgment_date": "1974-11-29",
+  "first_hearing_date": "1965-12-09",
+  "court": "Administrative Tribunal",
+  "bench_type": "Coram",
+  "judges": [
+    "Ashfaq Ali Khan",
+    "Khalid Farooq Akbar"
+  ],
+  "appellant": [
+    "Co-Operation Department",
+    "Province of West Pakistan"
+  ],
+  "respondant": [
+    "Mushtaq Ahmad (Mushtaq Ali)"
+  ],
+  "accussed_details": [
+    {
+      "name": "Mushtaq Ahmad (Mushtaq Ali)",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": [
+        "Claim for salary for the period 1-12-1961 to 12-2-1964"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Government Pleader"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "The respondent filed a suit claiming salary for the period 1-12-1961 to 12-2-1964, arguing that it was not a bounty of the State.",
+  "investigation_summary": "The original suit was filed in the Court of Administrative Civil Judge, Jhang on 9-12-1965 and decreed in favor of the respondent. Subsequent appeals by the appellant were dismissed by the Additional District Judge, Jhang on 11-11-1967.",
+  "judgment_summary": "The Administrative Tribunal dismissed the appeal in limine, finding no merit in the appellant's argument that the salary was a bounty of the State during the relevant period.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Appeal dismissed in limine.",
+  "legal_arguments": [
+    "The salary for the period in question was not a bounty of the State.",
+    "Rights of parties must be adjudicated based on the law prevailing at the time of suit institution."
+  ],
+  "assets": [],
+  "statutes": [
+    "Constitution of 1961"
+  ],
+  "sections": [],
+  "citations": [
+    "PLD 1970 SC 415",
+    "1975 P L C [C.S.T.] 90"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Administrative Law",
+    "Employment Law"
+  ],
+  "key_issues": [
+    "Applicability of the doctrine of bounty to accrued salary",
+    "Adjudication based on prevailing law at suit institution"
+  ],
+  "maxims": {
+    "General Rule": "Rights of parties to a suit must be adjudicated upon based on the law prevailing at the date of the institution of the suit."
+  },
+  "legal_terms": {
+    "Doctrine of Bounty": "A principle concerning whether salary is considered a discretionary benefit or a legal entitlement."
+  },
+  "words_and_phrases": {
+    "Bounty of State": "Refers to discretionary payments by the government, not legally enforceable entitlements."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around the respondent's claim for salary during a specific period, initially decreed in their favor by lower courts. The appellant's argument that the salary was a bounty of the State was dismissed, with the tribunal affirming that accrued salary rights must be adjudicated based on prevailing law at the time of suit institution."
+}

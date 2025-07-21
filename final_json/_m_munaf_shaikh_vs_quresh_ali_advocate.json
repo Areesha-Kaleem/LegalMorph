@@ -1,0 +1,131 @@
+{
+  "case_title": "M. MUNAF SHAIKH vs QURESH ALI, ADVOCATE",
+  "reference_no_or_id": "P.M.C.No,31 of 1992",
+  "judgment_date": "2001-04-21",
+  "first_hearing_date": "1993-02-27",
+  "court": "Bar Council Tribunal",
+  "bench_type": "Tribunal",
+  "judges": [
+    "S. A. Sarwana",
+    "Abrar Hasan",
+    "Abdul Aziz Shaikh"
+  ],
+  "appellant": [
+    "M. MUNAF SHAIKH"
+  ],
+  "respondant": [
+    "QURESH ALI, ADVOCATE"
+  ],
+  "accussed_details": [
+    {
+      "name": "Quresh Ali Sheikh",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Primary School Teacher / Advocate",
+      "allegation": [
+        "Professional misconduct",
+        "Perjury",
+        "Suppression of material facts",
+        "Submission of false affidavits",
+        "Violation of bond of service with Education Department"
+      ],
+      "employment_details": {
+        "position": "Primary School Teacher",
+        "department": "Education Department, Government of Sindh",
+        "employment_period": "1960-09-21 to 1979-05-01"
+      },
+      "pupilage_details": {
+        "mentor": "Mr. Mazhar Ali Siddiqui",
+        "training_period": "1971-07-15 to 1972-01-15"
+      },
+      "enrolment_details": {
+        "certificate_number": "00442",
+        "date_of_enrolment": "1976-10-23",
+        "viva_voce_exam_date": "1976",
+        "application_for_high_court_enrolment": "1987-02-07/08"
+      }
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Muhammad Munaf Shaikh"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "The complainant alleged that the respondent suppressed material facts, submitted false affidavits, misrepresented his employment status while applying for enrolment as an advocate, and violated the bond of service with the Education Department. He was simultaneously employed as a Primary School Teacher and conducting pupilage, violating professional ethics and rules.",
+  "investigation_summary": "The Sindh Bar Council Disciplinary Committee conducted inquiries and found the allegations substantiated. The respondent admitted to filing false affidavits and suppressing facts. The matter was referred to the Tribunal for further action.",
+  "judgment_summary": "The Tribunal found the respondent guilty of professional misconduct and perjury. It ordered his immediate removal from practice under section 41 of the Legal Practitioners and Bar Councils Rules, 1973. Criminal proceedings under section 191, P.P.C. were refrained due to the respondent's apology.",
+  "punishment": "Immediate removal from practice under section 41 of the Legal Practitioners and Bar Councils Rules, 1973.",
+  "Decision_or_verdict": "Guilty of professional misconduct and perjury; removal from practice.",
+  "legal_arguments": [
+    "Violation of section 41 of the Legal Practitioners and Bar Councils Act, 1973.",
+    "Submission of false affidavits and suppression of material facts.",
+    "Professional misconduct as per Cannons of Conducts and Ethics prescribed for Advocates."
+  ],
+  "assets": [],
+  "statutes": [
+    "Legal Practitioners and Bar Councils Act, 1973"
+  ],
+  "sections": [
+    "Section 41 of the Legal Practitioners and Bar Councils Act, 1973",
+    "Section 191, P.P.C."
+  ],
+  "citations": [
+    "2001 Y L R 2977",
+    "1996 MLD 513"
+  ],
+  "witnesses": [
+    "Muhammad Munaf Shaikh",
+    "Quresh Ali Sheikh"
+  ],
+  "witness_statement": {
+    "Muhammad Munaf Shaikh": "Filed a complaint alleging professional misconduct and perjury by the respondent.",
+    "Quresh Ali Sheikh": "Admitted to filing false affidavits and termed the actions as a 'lapse'."
+  },
+  "disciplinary_proceedings": {
+    "initial_referral_date": "1993-02-27",
+    "committee_decision_date": "1997-06-14",
+    "tribunal_decision_date": "2000-12-23"
+  },
+  "tribunal_findings": {
+    "misconduct": "Professional misconduct and perjury",
+    "evidence": "Suppression of material facts and submission of false affidavits",
+    "disciplinary_action": "Immediate removal from practice under section 41 of Legal Practitioners and Bar Councils Rules, 1973",
+    "criminal_prosecution": "Not pursued due to respondent's apology"
+  },
+  "legal_references": {
+    "laws": [
+      "Legal Practitioners and Bar Councils Act, 1973",
+      "Section 191, P.P.C."
+    ],
+    "precedent_case": "Qamar Zaman Shinwari v. S. Nadir Shah Gillani, Advocate, 1996 MLD 513"
+  },
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Professional Misconduct",
+    "Perjury"
+  ],
+  "key_issues": [
+    "Suppression of material facts",
+    "Submission of false affidavits",
+    "Simultaneous employment and pupilage",
+    "Violation of bond of service with Education Department"
+  ],
+  "maxims": {
+    "N/A": "N/A"
+  },
+  "legal_terms": {
+    "Perjury": "The offense of willfully telling an untruth or making a misrepresentation under oath.",
+    "Professional Misconduct": "Violation of professional ethics or rules governing the conduct of advocates."
+  },
+  "words_and_phrases": {
+    "Lapse": "A minor or temporary failure; used by the respondent to describe his actions.",
+    "Cannons of Conducts and Ethics": "Rules governing the professional behavior of advocates."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case involves allegations of professional misconduct and perjury against Quresh Ali Sheikh, who simultaneously worked as a Primary School Teacher and pursued pupilage. The Tribunal found him guilty and ordered his removal from practice under section 41 of the Legal Practitioners and Bar Councils Rules, 1973. Criminal proceedings were refrained due to his apology."
+}

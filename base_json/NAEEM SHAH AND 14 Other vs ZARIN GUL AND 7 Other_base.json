@@ -1,0 +1,76 @@
+{
+  "case_title": "NAEEM SHAH AND 14 Other vs ZARIN GUL AND 7 Other",
+  "reference_no_or_id": "Writ Petition No. 639 of 1980",
+  "judgment_date": "1981-03-22",
+  "first_hearing_date": "N/A",
+  "court": "Peshawar High Court",
+  "bench_type": "Coram",
+  "judges": [
+    "Shahnawaz Khan",
+    "Syed Usman Ali Shah"
+  ],
+  "appellant": [
+    "Naeem Shah",
+    "14 Others"
+  ],
+  "respondant": [
+    "Zarin Gul",
+    "7 Others"
+  ],
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": []
+    }
+  ],
+  "lawyers": {
+    "prosecution": [],
+    "defense": []
+  },
+  "complaint_summary": "The petitioners challenged eviction proceedings initiated by Respondents 1 to 4, arguing that the property in question was a vacant site and thus outside the jurisdiction of the Rent Controller under section 2(a) of the Cantonments Rent Restriction Act, 1963.",
+  "investigation_summary": "The Rent Controller examined whether the property qualified as a vacant site under section 2(a) of the Cantonments Rent Restriction Act, 1963. Evidence presented included sanctioned plans showing existing godowns and garages and intended further construction.",
+  "judgment_summary": "The court dismissed the petition, ruling that the property could not be classified as a vacant site due to existing structures and its location in a developed area. The court emphasized progressive societal trends and held that section 2(a) of the Act was not applicable.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Petition dismissed with no order as to costs.",
+  "legal_arguments": [
+    "Petitioners argued that the Rent Controller lacked jurisdiction under section 2(a) of the Cantonments Rent Restriction Act, 1963.",
+    "Respondents presented evidence of existing structures and plans for further development, asserting the property was not a vacant site."
+  ],
+  "assets": [
+    "Plot No. 16, Dabgari Gardens, Peshawar Cantt"
+  ],
+  "statutes": [
+    "Cantonments Rent Restriction Act, 1963"
+  ],
+  "sections": [
+    "Section 2(a)"
+  ],
+  "citations": [
+    "P L D 1981 Peshawar 141"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Property Law",
+    "Rent Control"
+  ],
+  "key_issues": [
+    "Jurisdiction of Rent Controller under section 2(a) of the Cantonments Rent Restriction Act, 1963",
+    "Definition of vacant site"
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "vacant site": "A site without existing structures or buildings."
+  },
+  "words_and_phrases": {
+    "progressive trends": "Societal development and urbanization influencing legal interpretations."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around the jurisdiction of the Rent Controller concerning eviction proceedings on a property alleged to be a vacant site. The court ruled against the petitioners, emphasizing the presence of existing structures and societal development trends."
+}

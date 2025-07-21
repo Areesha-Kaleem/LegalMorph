@@ -1,0 +1,86 @@
+{
+  "case_title": "ABDULLAH BUTT vs S. H. MUZAFFAR ZAIDI",
+  "reference_no_or_id": "Case No. 4(235) of 1976",
+  "judgment_date": "1976-11-11",
+  "first_hearing_date": "N/A",
+  "court": "National Industrial Relations Commission",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Qaisar Khan"
+  ],
+  "appellant": [
+    "Abdullah Butt"
+  ],
+  "respondant": [
+    "S. H. Muzaffar Zaidi"
+  ],
+  "accussed_details": [
+    {
+      "name": "S. H. Muzaffar Zaidi",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Executive Vice-President, United Bank Ltd., Rawalpindi Zone",
+      "allegation": [
+        "Withdrawal of scooter provided for trade union activities to force resignation from union leadership"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "Abdullah Butt, a Machine Operator at United Bank Ltd., Abpara Branch, Islamabad, alleged that the accused withdrew a scooter provided for trade union activities to force him to resign from his position as President of UBL Employees Union, Rawalpindi Zone.",
+  "investigation_summary": "The complainant presented his statement and two witnesses, Rashid Malik and S. Mumtaz, who lacked personal knowledge of the scooter's provision. Rashid Malik, a Sub-Accountant at Agriculture Development Bank of Pakistan, and S. Mumtaz, a Teller at State Bank of Pakistan, only reiterated the complainant's claims. No documentary evidence was produced to substantiate the allegations.",
+  "judgment_summary": "The court found insufficient evidence to prove the scooter was provided for trade union activities or withdrawn unfairly. The withdrawal of the facility did not constitute unfair labor practice under Section 15(f) of the I.R.O. The accused was acquitted due to lack of proof and absence of settlement-related demands.",
+  "punishment": "None (Accused acquitted)",
+  "Decision_or_verdict": "Accused acquitted",
+  "legal_arguments": [
+    "Withdrawal of a facility does not constitute unfair labor practice unless aimed at forcing a settlement.",
+    "No evidence of a demand or settlement between the union and management."
+  ],
+  "assets": [
+    "Scooter (alleged)"
+  ],
+  "statutes": [
+    "Industrial Relations Ordinance (I.R.O.)"
+  ],
+  "sections": [
+    "Section 53",
+    "Section 15(f)"
+  ],
+  "citations": [
+    "1977 P L C 212"
+  ],
+  "witnesses": [
+    "Rashid Malik",
+    "S. Mumtaz"
+  ],
+  "witness_statement": {
+    "Rashid Malik": "No personal knowledge; stated complainant told him about the scooter.",
+    "S. Mumtaz": "No personal knowledge; stated complainant told him about the scooter."
+  },
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Labor Law",
+    "Trade Union Rights"
+  ],
+  "key_issues": [
+    "Whether withdrawal of a facility constitutes unfair labor practice under I.R.O.",
+    "Lack of evidence to substantiate the complainant's claims."
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "Unfair Labor Practice": "Actions by employers that violate workers' rights under labor laws."
+  },
+  "words_and_phrases": {
+    "Trade Union Activities": "Activities undertaken by union members to represent and advocate for workers' rights."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around allegations of unfair labor practices under the I.R.O. Abdullah Butt, a union leader, claimed the accused withdrew a scooter provided for trade union activities to force his resignation. The court acquitted the accused due to lack of evidence proving the scooter's purpose or unfair withdrawal."
+}

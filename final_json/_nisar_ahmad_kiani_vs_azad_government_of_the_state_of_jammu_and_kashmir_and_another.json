@@ -1,0 +1,167 @@
+{
+  "case_title": "NISAR AHMAD KIANI vs AZAD GOVERNMENT OF THE STATE OF JAMMU AND KASHMIR And Another",
+  "reference_no_or_id": "Service Appeal No.244 of 1984",
+  "judgment_date": "1986-11-18",
+  "first_hearing_date": "1982-08-24",
+  "court": "Azad Jammu and Kashmir Service Tribunal",
+  "bench_type": "Service Tribunal",
+  "judges": [
+    "Muhammad Siddique Farooqi",
+    "Khawaja Abdus Samad"
+  ],
+  "appellant": [
+    "Nisar Ahmad Kiani"
+  ],
+  "respondant": [
+    "Azad Government of the State of Jammu and Kashmir",
+    "Another"
+  ],
+  "accussed_details": [
+    {
+      "name": "Nisar Ahmad Kiani",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Executive Engineer (formerly Superintending Engineer)",
+      "allegation": [
+        "Forgery",
+        "Corruption",
+        "Dishonesty",
+        "Violation of Efficiency & Discipline Rules, 1977"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Additional Advocate-General"
+    ],
+    "defense": [
+      "Counsel for Nisar Ahmad Kiani"
+    ]
+  },
+  "complaint_summary": "The appellant challenged his retirement order issued by the government following allegations of corruption, forgery, and misconduct under the Efficiency & Discipline Rules, 1977.",
+  "investigation_summary": "The Vigilance Commission conducted a preliminary inquiry into the appellant's alleged misconduct in the Electricity Operation Division, Kotli. Evidence included forged documents, fraudulent account operations, and irregular procurement practices.",
+  "judgment_summary": "The tribunal dismissed the appeal, finding sufficient evidence of forgery, corruption, and procedural violations. The appellant's objections regarding procedural irregularities and lack of evidence were rejected.",
+  "punishment": "Retirement from service effective 10-07-1984.",
+  "Decision_or_verdict": "Appeal dismissed.",
+  "legal_arguments": [
+    "Violation of Rule 6(5) of Efficiency & Discipline Rules, 1977 regarding inquiry officer's rank.",
+    "Non-compliance with Rule 8 requiring a show-cause notice.",
+    "Recording of evidence without oath.",
+    "Examination of witnesses in absence of the appellant.",
+    "Non-summoning of defense witnesses."
+  ],
+  "assets": [
+    "Forged Account No.158 in United Bank Limited",
+    "Fraudulent procurement records"
+  ],
+  "statutes": [
+    "Efficiency & Discipline Rules, 1977",
+    "Azad Kashmir Penal Code (Act XLV of 1860)"
+  ],
+  "sections": [
+    "Rule 6(5)",
+    "Rule 8",
+    "Rule 12(2)"
+  ],
+  "citations": [
+    "P L D 1978 Kar. 132",
+    "P L D 1970 Pesh. 170",
+    "N L R 1981, Services 40",
+    "P L D 1973, Head Notes 36, 132",
+    "P L D 1963 Lah. 295",
+    "P L D 1966 S C 253",
+    "P L D 1978 Lah. 972",
+    "P L D 1963 S C 460",
+    "1974 P Cr. L J 273"
+  ],
+  "witnesses": [
+    "Sultan Room",
+    "Shaukat Ali",
+    "Nizamuddin",
+    "Yaqoob Bhatti",
+    "Javed Akhtar",
+    "Muhammad Nazir",
+    "Abdul Aziz Awan",
+    "Manzoor Awan",
+    "Muhammad Ali",
+    "Muhammad Nazir Khokhar",
+    "Muhammad Ibrahim",
+    "Abdul Shakoor",
+    "Mir Abdul Karim"
+  ],
+  "witness_statement": {
+    "Sultan Room": "Denied supplying materials or receiving payments.",
+    "Javed Akhtar": "Admitted involvement in fictitious purchases and fraudulent transactions."
+  },
+  "appeal_number": "244 of 1984",
+  "legal_categories": [
+    "Service Law",
+    "Administrative Law",
+    "Corruption and Misconduct"
+  ],
+  "key_issues": [
+    "Forgery of documents",
+    "Fraudulent account operations",
+    "Violation of procurement rules",
+    "Procedural irregularities in inquiry"
+  ],
+  "maxims": {
+    "Nemo debet esse judex in propria causa": "No one should be a judge in their own cause."
+  },
+  "legal_terms": {
+    "Efficiency & Discipline Rules": "Rules governing conduct and disciplinary actions for government employees."
+  },
+  "words_and_phrases": {
+    "Judicial Proceedings": "Proceedings deemed judicial under specific legal provisions.",
+    "Forgery": "Falsification of documents or records."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk",
+    "reported_as": "1987 P L C (C. S.) 335"
+  },
+  "summary_vector_notes": "The case involved allegations of corruption and forgery against Nisar Ahmad Kiani, leading to his retirement from service. The tribunal upheld the government's decision, citing sufficient evidence of misconduct and procedural violations.",
+  "key_issues_details": {
+    "retirement_order": "Order No. Admn.S-IV/General-8/9/84 dated 10-7-1984",
+    "suspension_order": "Order No. Admin-1182-93/82 dated 9-6-1981",
+    "charge_sheet": "Issued by Secretary Services vide No. Works/2366/82 dated 29-6-1982",
+    "rules_invoked": "Efficiency & Discipline Rules, 1977"
+  },
+  "arguments": {
+    "appellant_objections": [
+      "Secretary Works was a member of Vigilance Commission and could not act as authorized officer.",
+      "Inquiry Officer was not senior in rank to the appellant, violating Rule 6(5) of Efficiency & Discipline Rules, 1977.",
+      "Show-cause notice under Rule 8 was not served.",
+      "Mandatory provisions of Rule 8 were not complied with.",
+      "Lack of confidence expressed in Inquiry Officer.",
+      "Witnesses examined without oath.",
+      "Witnesses examined in absence of appellant.",
+      "Defense witness Tariq Mahmood was not summoned."
+    ],
+    "respondent_defense": [
+      "Secretary Works acted in official capacity without personal interest.",
+      "Appellant was charge-sheeted as Executive Engineer, not as Superintending Engineer.",
+      "Oath not required under Efficiency & Discipline Rules, 1977.",
+      "Opportunity of hearing was provided to appellant.",
+      "Inquiry Officer not bound to summon all defense witnesses.",
+      "Evidence recorded in absence of appellant was due to his negligence."
+    ]
+  },
+  "charges": {
+    "charge_1": "Forgery related to fraudulent operation of Account No. 158 in United Bank Limited.",
+    "charge_2": "Payment of 7 bills to Sultan Room Contractor, involving forgery and fictitious transactions.",
+    "charge_d": "Embezzlement (not established).",
+    "charge_e": "Dishonesty (proved).",
+    "charge_f": "Previous conduct (dropped)."
+  },
+  "findings": {
+    "charge_1": "Proved - Forgery and fraudulent operation of Account No. 158.",
+    "charge_2": "Proved - Fictitious transactions and forged documents.",
+    "charge_d": "Not established - No evidence of embezzlement.",
+    "charge_e": "Proved - Dishonesty in transactions.",
+    "charge_f": "Dropped - No evidence of past conduct."
+  },
+  "decision": {
+    "summary": "Appeal dismissed.",
+    "reasoning": "Documentary evidence and circumstances proved allegations. No extenuating circumstances to award lesser penalty."
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "case_title": "M/S Habib Modaraba Management (Pvt.) Limited vs Commissioner (Appeals), SRB, Karachi and Assistant Commissioner (Unit-), SRB, Karachi",
+  "reference_no_or_id": "APPEAL NO. AT-164/2015",
+  "judgment_date": "2016-01-06",
+  "first_hearing_date": "N/A",
+  "court": "Appellate Tribunal Sindh Revenue Board",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Razia Sultana Taher"
+  ],
+  "appellant": [
+    "M/S Habib Modaraba Management (Pvt.) Limited"
+  ],
+  "respondant": [
+    "Commissioner (Appeals), SRB, Karachi",
+    "Assistant Commissioner (Unit-), SRB, Karachi"
+  ],
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": [
+        "Failure to e-file Sales Tax returns",
+        "Non-payment of Sales Tax"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "The appellant challenged the imposition of sales tax on remuneration received for management services provided to Modarabas, arguing that the remuneration constituted profit sharing rather than taxable service charges.",
+  "investigation_summary": "The Assistant Commissioner concluded that management services provided by Modaraba Management Companies are taxable under tariff heading 9824.0000 of the Sindh Sales Tax on Services Act, 2011. Penalties were imposed for non-payment of sales tax and non-filing of returns. Financial records of M/S First Habib Modaraba for 2011-12 revealed Rs.95,408,940 paid as management fees, covering the tax period from July 2011 to January 2013.",
+  "judgment_summary": "The court held that Modaraba Management Companies provide taxable management services under tariff heading 9824.0000. It dismissed the appellant's argument that remuneration constituted profit sharing. The appeal was dismissed, upholding the Order-in-Appeal with modifications to penalties.",
+  "punishment": "Payment of Rs.4,089,409/- as sales tax, Rs.204,470/- penalty for non-payment, and Rs.15,000/- penalty for non-filing of returns.",
+  "Decision_or_verdict": "Appeal dismissed.",
+  "legal_arguments": [
+    "Appellant argued remuneration is profit sharing, not service charges.",
+    "Appellant claimed no service is provided as Modaraba and Management Company are partners.",
+    "Respondent argued remuneration constitutes taxable management services under tariff heading 9824.0000.",
+    "Respondent emphasized Modaraba and Management Company are separate legal entities under the Modaraba Ordinance."
+  ],
+  "assets": [
+    "N/A"
+  ],
+  "statutes": [
+    "Sindh Sales Tax on Services Act, 2011",
+    "Modaraba Companies and Modaraba (Floatation and Control) Ordinance, 1980"
+  ],
+  "sections": [
+    "Section 44 of Sindh Sales Tax on Services Act, 2011",
+    "Section 43(3) of Sindh Sales Tax on Services Act, 2011",
+    "Section 43(2) of Sindh Sales Tax on Services Act, 2011",
+    "Section 18 of Modaraba Companies and Modaraba Ordinance, 1980"
+  ],
+  "citations": [
+    "2016 SRB 48",
+    "M/S UDL Modaraba Management Company vs Commissioner Appeals, SRB",
+    "M/S Habib Safe Deposit Vault (Pvt.) Limited vs SRB"
+  ],
+  "witnesses": [
+    "N/A"
+  ],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Taxation Law",
+    "Corporate Law"
+  ],
+  "key_issues": [
+    "Whether Modaraba and Modaraba Management Companies are separate entities.",
+    "Whether remuneration constitutes taxable management services.",
+    "Whether the services fall under taxable tariff heading 9824.0000.",
+    "Whether tax liability arises from remuneration received from profit earned."
+  ],
+  "key_findings": {
+    "modaraba_and_management_company": "Separate legal entities with distinct rights and liabilities.",
+    "nature_of_service": "Management services including fund and asset management.",
+    "taxability": "Remuneration received is taxable under tariff heading 9824.0000."
+  },
+  "penalties": {
+    "default_surcharge": "Under section 44 of the Sindh Sales Tax on Services Act, 2011.",
+    "penalty_for_non_payment": "Rs.204,470 under section 43(3).",
+    "penalty_for_non_filing": "Rs.15,000 under section 43(2)."
+  },
+  "maxims": {
+    "quid_pro_quo": "Exchange of goods or services contingent upon mutual consideration."
+  },
+  "legal_terms": {
+    "remuneration": "Payment for services rendered.",
+    "management services": "Executive, administrative, and supervisory services."
+  },
+  "words_and_phrases": {
+    "management": "To exercise executive, administrative, and supervisory powers.",
+    "service": "Anything which is not goods and involves providing of non-goods."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around the taxation of management services provided by Modaraba Management Companies under Sindh Sales Tax on Services Act, 2011. The court upheld the taxability of these services and dismissed the appeal."
+}

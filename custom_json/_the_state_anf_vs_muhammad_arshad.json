@@ -1,0 +1,71 @@
+{
+  "case_title": "The State/ANF vs Muhammad Arshad",
+  "case_number": "CRIMINAL APPEAL NO. 21-K OF 2016",
+  "court": "Supreme Court of Pakistan",
+  "judgment_date": "2016-12-08",
+  "reported_as": "2016 SCP 110",
+  "result": "Appeal Allowed",
+  "judges": [
+    "Khilji Arif Hussain",
+    "Maqbool Baqar",
+    "Faisal Arab"
+  ],
+  "appellant": "The State/ANF",
+  "respondent": "Muhammad Arshad",
+  "facts": {
+    "arrest_location": "Karachi Airport",
+    "destination": "Bangkok",
+    "initial_hospital": "Nihal Hospital, Malir",
+    "xray_findings": "Foreign bodies in abdomen",
+    "subsequent_hospital": "Jinnah Hospital, Karachi",
+    "medications_administered": [
+      "Lactulose syrup",
+      "Omerprazole capsule"
+    ],
+    "capsules_excreted": 50,
+    "heroin_quantity": "550 grams"
+  },
+  "trial_court": {
+    "name": "Special Court-II, ANF, Karachi",
+    "verdict": "Guilty",
+    "sentence": {
+      "imprisonment": "5 years RI",
+      "fine": "Rs. 50,000",
+      "default_imprisonment": "6 months"
+    }
+  },
+  "high_court": {
+    "decision": "Acquittal",
+    "reasoning": [
+      "Dr. Inam Khan (PW-5) did not support prosecution version",
+      "No evidence of capsules excreted in doctor's presence",
+      "No examination of Nihal Hospital staff or paramedics"
+    ]
+  },
+  "supreme_court": {
+    "decision": "Conviction restored",
+    "reasoning": [
+      "X-Ray and receipt linked to respondent",
+      "Capsules excreted under ANF staff watch",
+      "Capsules chemically confirmed to contain heroin",
+      "No material contradictions in prosecution evidence"
+    ]
+  },
+  "key_witnesses": [
+    {
+      "name": "Dr. Inam Khan",
+      "role": "Administered medicine",
+      "testimony": "Confirmed excretion process and capsules handed to ANF staff"
+    },
+    {
+      "name": "Dr. Fazal Elahi",
+      "role": "Chemical Examiner",
+      "testimony": "Confirmed heroin content in capsules"
+    },
+    {
+      "name": "Head Constable (PW-3)",
+      "role": "ANF staff present during excretion",
+      "testimony": "Witnessed capsule recovery"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "case_title": "Mst. SHARAM KHATOON vs HAZOOR DIN And Other",
+  "reference_no_or_id": "Civil Appeal No. 13-A of 1954",
+  "judgment_date": "1955-02-16",
+  "first_hearing_date": "1954-02-07",
+  "court": "Baghdad-ul-Jadid",
+  "bench_type": "Coram",
+  "judges": [
+    "Abdul Hameed Malik",
+    "Faiz Muhammad"
+  ],
+  "appellant": [
+    "Mst. Sharam Khatoon"
+  ],
+  "respondant": [
+    "Hazoor Din",
+    "Ali Muhammad",
+    "Muhammad Abdullah"
+  ],
+  "accussed_details": [
+    {
+      "name": "Hazoor Din",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Father of the plaintiff",
+      "allegation": [
+        "Sale of land without pre-emption rights"
+      ]
+    },
+    {
+      "name": "Ali Muhammad",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Vendee",
+      "allegation": [
+        "Purchase of land without pre-emption rights"
+      ]
+    },
+    {
+      "name": "Muhammad Abdullah",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Vendee",
+      "allegation": [
+        "Purchase of land without pre-emption rights"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "The plaintiff, Mst. Sharam Khatoon, filed a suit for possession of land sold by her father, Hazoor Din, to the defendants, claiming a superior right of pre-emption as the vendor's daughter.",
+  "investigation_summary": "The defendants argued that the sale was sanctioned by the Deputy Commissioner under Section 3(2) of the Punjab Land Alienation Act of 1900, making the land immune from pre-emption under Section 9 of the Punjab Pre-emption Act of 1913.",
+  "judgment_summary": "The court dismissed the appeal, holding that Section 9 of the Punjab Pre-emption Act repealed conflicting provisions of Section 5 of the Punjab Land Alienation Act. It also ruled that Section 75 of the Interim Constitution Act of 1952 preserved the validity of the Land Alienation Act.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Appeal dismissed",
+  "legal_arguments": {
+    "plaintiff_arguments": [
+      "Section 9 of the Punjab Pre-emption Act of 1913 does not repeal Section 5 of the Punjab Land Alienation Act of 1900.",
+      "Improper enquiry by Deputy Commissioner before sanctioning sale under Section 3(2) of the Punjab Land Alienation Act.",
+      "Section 72 of the Interim Constitution Act 1952 of Bahawalpur renders the Land Alienation Act of 1900 inoperative and void."
+    ],
+    "defendant_arguments": [
+      "Sale sanctioned by Deputy Commissioner under Section 3(2) of the Punjab Land Alienation Act of 1900.",
+      "Land not pre-emptiable under Section 9 of the Punjab Pre-emption Act."
+    ]
+  },
+  "assets": [
+    {
+      "type": "Land",
+      "location": "Mouza Gahi, Tehsil Sadiqabad",
+      "value": "Rs. 15,000",
+      "sale_date": "1952-03-26"
+    }
+  ],
+  "statutes": [
+    "Punjab Land Alienation Act of 1900",
+    "Punjab Pre-emption Act of 1913",
+    "Interim Constitution Act of 1952 (Bahawalpur)"
+  ],
+  "sections": [
+    "Section 3(2) of the Punjab Land Alienation Act of 1900",
+    "Section 9 of the Punjab Pre-emption Act of 1913",
+    "Section 72 of the Interim Constitution Act of 1952",
+    "Section 75 of the Interim Constitution Act of 1952"
+  ],
+  "citations": [
+    "124 P R 388",
+    "P L D 1955 Baghdad-ul-Jadid 13",
+    "Unreported ruling of High Court dated 1952-10-27"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "Civil Appeal No. 13-A of 1954",
+  "legal_categories": [
+    "Pre-emption rights",
+    "Land Alienation",
+    "Constitutional validity"
+  ],
+  "key_issues": [
+    "Whether Section 9 of the Punjab Pre-emption Act repeals Section 5 of the Punjab Land Alienation Act.",
+    "Whether the Deputy Commissioner's sanctioning of the sale bars pre-emption claims.",
+    "Whether Section 72 of the Interim Constitution Act invalidates the Land Alienation Act."
+  ],
+  "court_findings": {
+    "section_9_pre_emption_act": "Explicitly bars pre-emption for sales sanctioned under Section 3(2) of the Punjab Land Alienation Act.",
+    "section_21_land_alienation_act": "Debars Civil Courts from questioning Deputy Commissioner's exercise of powers under the Act.",
+    "section_72_interim_constitution_act": "Prohibition clause does not invalidate the Land Alienation Act due to Section 75 of the Interim Constitution Act, which preserves prior laws."
+  },
+  "legal_precedents": [
+    {
+      "citation": "124 P R 388",
+      "finding": "Section 9 of the Pre-emption Act repeals conflicting provisions of Section 5 of the Punjab Land Alienation Act."
+    },
+    {
+      "citation": "Unreported ruling of High Court dated 1952-10-27",
+      "finding": "Civil Courts lack jurisdiction over matters decided by Revenue Officers under the Punjab Land Alienation Act."
+    }
+  ],
+  "decision": {
+    "reasoning": "Sale sanctioned under Section 3(2) of the Punjab Land Alienation Act is immune from pre-emption under Section 9 of the Pre-emption Act. Land Alienation Act remains valid under Section 75 of the Interim Constitution Act.",
+    "costs": "Parties to bear their own costs."
+  },
+  "reported_as": "P L D 1955 Baghdad-ul-Jadid 13",
+  "legal_terms": {
+    "Pre-emption": "The right to purchase property before others.",
+    "Alienation": "Transfer of property ownership."
+  },
+  "words_and_phrases": {
+    "Repugnant": "Inconsistent or conflicting with another provision.",
+    "Sanctioned": "Officially approved or authorized."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around pre-emption rights under conflicting statutes. The court upheld the validity of the Land Alienation Act, dismissing the plaintiff's appeal.",
+  "facts": {
+    "plaintiff": "Mst. Sharam Khatoon",
+    "defendants": [
+      "Ali Muhammad",
+      "Muhammad Abdullah"
+    ],
+    "land_location": "Mouza Gahi, Tehsil Sadiqabad",
+    "sale_price": "Rs. 15,000",
+    "sale_date": "1952-03-26",
+    "pre_emption_suit_date": "1953-06-15",
+    "claim_basis": "Plaintiff claimed superior right of pre-emption as daughter of the vendor."
+  }
+}

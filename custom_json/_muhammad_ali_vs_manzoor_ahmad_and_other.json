@@ -1,0 +1,81 @@
+{
+  "case_title": "MUHAMMAD ALI vs MANZOOR AHMAD AND Other",
+  "case_number": "Criminal Appeal No. 21 of 1977, Criminal Appeal No. 580 of 1974",
+  "judgment_date": "1982-12-15",
+  "court": "Supreme Court of Pakistan",
+  "judges": [
+    "Shahnawaz Khan",
+    "Muhammad Haleem",
+    "Shafi-ur-Rehman"
+  ],
+  "appellant": "Muhammad Ali",
+  "respondents": [
+    "Manzoor Ahmad",
+    "Fateh Ali"
+  ],
+  "result": "Appeal accepted",
+  "reported_as": "1982 S C M R 1186",
+  "facts": {
+    "incident_date": "1973-11-05",
+    "location": "Chak No. 195/R.B., District Faisalabad",
+    "dispute": "Turn of water for cultivation",
+    "altercation": "Led to a fight involving firearms and sharp-edged weapons",
+    "deceased": [
+      "Anwar",
+      "Hakam Ali"
+    ],
+    "injured": [
+      "Muhammad Ali",
+      "Ghulam Rasul"
+    ],
+    "respondent_injured": [
+      "Manzoor Ahmad"
+    ]
+  },
+  "trial_court_decision": {
+    "manzoor_ahmad": {
+      "conviction": "Section 307, P.P.C.",
+      "sentence": "7 years R.I., Rs. 500 fine or 1 year R.I. in default"
+    },
+    "fateh_ali": {
+      "conviction": [
+        "Section 302, P.P.C.",
+        "Section 304, P.P.C."
+      ],
+      "sentence": [
+        "Death (subject to High Court confirmation), Rs. 1,000 fine or 2 years R.I. in default",
+        "6 months R.I. for injuries to Muhammad Ali and Ghulam Rasul"
+      ]
+    }
+  },
+  "high_court_decision": {
+    "result": "Acquittal of respondents",
+    "reasoning": "Prosecution case had infirmities, benefit of doubt granted"
+  },
+  "supreme_court_decision": {
+    "manzoor_ahmad": {
+      "conviction": "Section 308, P.P.C.",
+      "sentence": "3 years R.I., Rs. 2,000 fine as compensation to Ghulam Rasul, 6 months R.I. in default"
+    },
+    "fateh_ali": {
+      "conviction": [
+        "Section 304, Part 1, P.P.C.",
+        "Section 308, P.P.C."
+      ],
+      "sentence": [
+        "10 years R.I., Rs. 5,000 fine as compensation to heirs of Anwar",
+        "3 years R.I., Rs. 2,000 fine as compensation to Muhammad Ali and Ghulam Rasul (each count), 6 months R.I. in default"
+      ]
+    },
+    "benefit": "Section 382-B, Cr.P.C. applied"
+  },
+  "key_points": {
+    "nature_of_incident": "Sudden fight without premeditation",
+    "relationship": "Close blood relations, no prior enmity",
+    "weapons_used": [
+      "Firearm",
+      "Sharp-edged weapon"
+    ],
+    "legal_analysis": "Application of Exception IV to Section 300, P.P.C."
+  }
+}

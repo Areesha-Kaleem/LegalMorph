@@ -1,0 +1,98 @@
+{
+  "case_title": "GUL MUHAMMAD vs THE ASSISTANT COLLECTOR, CENTRAL EXCISE AND LAND CUSTOMS AND 2 Other",
+  "reference_no_or_id": "Writ Petition No. 843 of 1979",
+  "judgment_date": "1981-11-23",
+  "first_hearing_date": "N/A",
+  "court": "Peshawar High Court",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Shahnawaz Khan",
+    "Shah Abdur Rashid"
+  ],
+  "appellant": [
+    "Gul Muhammad"
+  ],
+  "respondant": [
+    "The Assistant Collector, Central Excise and Land Customs",
+    "Collector, Central Excise and Land Customs",
+    "Joint Secretary (Customs), Finance Department, Government of Pakistan"
+  ],
+  "accussed_details": [
+    {
+      "name": "Gul Muhammad",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Petitioner",
+      "allegation": [
+        "Possession of a car imported into Pakistan without payment of customs duty",
+        "Violation of clauses (8), (9), (89), and (90) of Table to section 156(1) of the Customs Act (IV of 1969)"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Deputy Attorney-General"
+    ],
+    "defense": [
+      "Counsel for Gul Muhammad"
+    ]
+  },
+  "complaint_summary": "Petitioner sought release of a car confiscated by customs authorities, alleging improper seizure and non-compliance with statutory notice requirements under section 180 of the Customs Act.",
+  "investigation_summary": "Customs authorities detained the car on 5-6-1974 for verification of documents and formally seized it on 14-11-1974. Subsequent notices and hearings led to the confiscation of the car and imposition of a Rs. 5,000 penalty, later waived upon appeal.",
+  "judgment_summary": "The court dismissed the petition, holding that the petitioner failed to establish lawful importation of the car and payment of customs duty. The court declined to issue a writ under Article 199 of the Constitution, citing discretionary jurisdiction and the petitioner's obligation to pay government dues.",
+  "punishment": "Petition dismissed; no costs imposed.",
+  "Decision_or_verdict": "Petition dismissed; car subject to payment of customs duty and government dues.",
+  "legal_arguments": [
+    "Petitioner argued improper seizure under section 168(1) and failure to serve notice under section 180 within two months.",
+    "Respondents contended the car was detained for verification on 5-6-1974 and formally seized on 14-11-1974, with notice served within statutory limits.",
+    "Court held petitioner liable for customs duty under section 18 and dismissed claims for unconditional release of the car."
+  ],
+  "assets": [
+    {
+      "type": "Car",
+      "details": {
+        "registration_no": "KAQ-3426",
+        "status": "Confiscated; subject to payment of customs duty"
+      }
+    }
+  ],
+  "statutes": [
+    "Customs Act (IV of 1969)",
+    "Imports and Exports (Control) Act, 1950"
+  ],
+  "sections": [
+    "Section 156(1) clauses (8), (9), (89), (90)",
+    "Section 168(1) and (2)",
+    "Section 180",
+    "Section 202",
+    "Section 31 of Imports and Exports (Control) Act, 1950"
+  ],
+  "citations": [
+    "P L D 1982 Peshawar 30",
+    "1980 S C M R 114"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Customs Law",
+    "Constitutional Law"
+  ],
+  "key_issues": [
+    "Whether the seizure of the car complied with statutory requirements under the Customs Act.",
+    "Whether the petitioner was liable for payment of customs duty and government dues."
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "Seizure": "Taking possession of goods by authorities for legal violations.",
+    "Customs Duty": "Tax imposed on imported goods."
+  },
+  "words_and_phrases": {
+    "Detention": "Temporary holding of goods for verification.",
+    "Confiscation": "Permanent seizure of goods for legal violations."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "Petitioner challenged the confiscation of a car under Customs Act provisions, alleging improper seizure and notice delays. Court dismissed the petition, emphasizing the petitioner's liability for customs duty and discretionary jurisdiction under Article 199."
+}

@@ -1,0 +1,58 @@
+{
+  "case_title": "Jawwad S. Khawaja vs. Federation of Pakistan",
+  "court": "Supreme Court of Pakistan",
+  "judgment_date": "January 9, 2024",
+  "reported_as": "PLD 2024 Supreme Court 337, 2023 SCMR 1732",
+  "petition_numbers": [
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "30 of 2023"
+  ],
+  "petitioner": "Jawwad S. Khawaja",
+  "respondent": "Federation of Pakistan",
+  "background": {
+    "events": "May 9-10, 2023",
+    "allegations": "Civilians attacked military installations and public property.",
+    "government_action": "Decided to try 103 civilians under the Pakistan Army Act, 1952."
+  },
+  "provisions_challenged": {
+    "section_2_1_d": "Subjects civilians to the Army Act for seducing military personnel or committing offenses under the Official Secrets Act, 1923.",
+    "section_59_4": "Allows civilians accused under Section 2(1)(d) to be tried by military courts."
+  },
+  "constitutional_issues": [
+    "Whether civilians can be tried by military courts under the Army Act.",
+    "Whether the provisions violate fundamental rights under Articles 9, 10A, 25, and 175 of the Constitution.",
+    "Whether the provisions fall under the exception in Article 8(3)(a) for laws related to the armed forces."
+  ],
+  "petitioners_arguments": {
+    "fair_trial_violation": "Military courts violate Article 10A (right to fair trial) and lack independence and procedural safeguards.",
+    "judicial_independence": "Military courts undermine Article 175 (separation of powers).",
+    "fundamental_rights": "Provisions infringe on Articles 4, 9, and 25 (equality before the law)."
+  },
+  "respondents_arguments": {
+    "article_8_3_a": "Provisions are exempt from fundamental rights scrutiny as they relate to armed forces.",
+    "precedents": "Relied on F.B. Ali case (1975) to justify military trials of civilians."
+  },
+  "judgment": {
+    "decision": "Sections 2(1)(d) and 59(4) of the Pakistan Army Act, 1952, declared unconstitutional.",
+    "reasoning": {
+      "fundamental_rights": "Provisions violate Article 10A by denying civilians access to independent and impartial courts.",
+      "article_8_3_a": "Exemption applies only to laws directly related to armed forces members, not civilians.",
+      "separation_of_powers": "Military courts are not part of the judiciary under Article 175."
+    },
+    "trial_direction": "Civilians accused in the May 9-10 incidents must be tried in ordinary criminal courts."
+  },
+  "key_precedents": {
+    "f_b_ali_case_1975": "Upheld military trials of civilians but did not address Article 10A.",
+    "liaquat_hussain_case_1999": "Declared military trials of civilians unconstitutional without explicit constitutional amendments.",
+    "district_bar_association_case_2015": "Allowed temporary military trials under constitutional amendments with a sunset clause."
+  },
+  "impact": {
+    "fundamental_rights": "Reaffirmed the supremacy of fundamental rights, particularly the right to a fair trial.",
+    "judicial_independence": "Limited the jurisdiction of military courts to members of the armed forces.",
+    "rule_of_law": "Strengthened procedural safeguards for civilians."
+  }
+}

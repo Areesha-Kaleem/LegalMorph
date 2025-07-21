@@ -1,0 +1,101 @@
+{
+  "case_title": "Jawwad S. Khawaja vs. Federation of Pakistan, etc.",
+  "reference_no_or_id": "Constitution Petition Nos. 24, 25, 26, 27, 28, and 30 of 2023",
+  "judgment_date": "2024-01-09",
+  "first_hearing_date": "N/A",
+  "court": "Supreme Court of Pakistan",
+  "bench_type": "Constitutional Bench",
+  "judges": [
+    "Justice Yahya Afridi",
+    "Justice Syed Mansoor Ali Shah",
+    "Justice Sardar Tariq Masood",
+    "Justice Ijaz-ul-Ahsan",
+    "Chief Justice of Pakistan"
+  ],
+  "appellant": [
+    "Jawwad S. Khawaja"
+  ],
+  "respondant": [
+    "Federation of Pakistan"
+  ],
+  "accussed_details": [
+    {
+      "name": "103 civilians",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": [
+        "Involvement in May 9-10, 2023 incidents",
+        "Attacks on military installations",
+        "Damage to public property"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Attorney General for Pakistan"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "Petitions challenged the trial of civilians under Pakistan Army Act, 1952, following violent incidents on May 9-10, 2023, arguing violation of fundamental rights including Article 10A (fair trial).",
+  "investigation_summary": "Government decided to try 103 civilians under the Pakistan Army Act, 1952, for their alleged involvement in attacks on military installations and public property.",
+  "judgment_summary": "The Supreme Court declared Sections 2(1)(d) and 59(4) of the Pakistan Army Act unconstitutional, ruling that civilians must be tried in ordinary criminal courts. The Court emphasized the violation of fundamental rights, including Article 10A, and the lack of procedural safeguards in military courts. It reaffirmed the separation of powers under Article 175.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Sections 2(1)(d) and 59(4) of the Army Act invalidated; civilians to be tried in ordinary courts.",
+  "legal_arguments": [
+    "Violation of Article 10A (fair trial)",
+    "Article 8(3)(a) exemption applies only to military personnel",
+    "Military courts lack independence and procedural safeguards",
+    "Provisions infringe on Articles 4, 9, and 25 (equality before the law)",
+    "Precedent in F.B. Ali v. State distinguished due to constitutional evolution post-2010"
+  ],
+  "assets": [],
+  "statutes": [
+    "Pakistan Army Act, 1952",
+    "Official Secrets Act, 1923",
+    "Anti-Terrorism Act, 1997"
+  ],
+  "sections": [
+    "Section 2(1)(d) of Pakistan Army Act",
+    "Section 59(4) of Pakistan Army Act",
+    "Article 10A of Constitution",
+    "Article 8(3)(a) of Constitution",
+    "Article 175 of Constitution",
+    "Articles 4, 9, and 25 of Constitution"
+  ],
+  "citations": [
+    "F.B. Ali v. State (PLD 1975 SC 506)",
+    "Liaquat Hussain v. Federation (PLD 1999 SC 504)",
+    "District Bar Association v. Federation (PLD 2015 SC 401)"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Constitutional Law",
+    "Human Rights",
+    "Military Law"
+  ],
+  "key_issues": [
+    "Constitutionality of Sections 2(1)(d) and 59(4) of Army Act",
+    "Violation of fundamental rights under Articles 10A, 9, and 25",
+    "Jurisdiction of military courts over civilians",
+    "Separation of powers under Article 175"
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "Fair Trial": "Guarantee under Article 10A ensuring due process and judicial independence.",
+    "Military Jurisdiction": "Legal authority of military courts, typically limited to armed forces personnel."
+  },
+  "words_and_phrases": {
+    "Constitutional Supremacy": "Principle that the Constitution is the highest law of the land.",
+    "Procedural Safeguards": "Legal protections ensuring fairness in judicial proceedings."
+  },
+  "metadata": {
+    "source_website": "N/A",
+    "reported_as": "PLD 2024 Supreme Court 337, 2023 SCMR 1732"
+  },
+  "summary_vector_notes": "The judgment invalidated military court jurisdiction over civilians under Sections 2(1)(d) and 59(4) of the Army Act, reaffirming constitutional guarantees of fair trial and judicial independence. Civilians involved in May 9-10 incidents to be tried in ordinary courts. The decision strengthens procedural safeguards and limits military court jurisdiction to armed forces personnel."
+}

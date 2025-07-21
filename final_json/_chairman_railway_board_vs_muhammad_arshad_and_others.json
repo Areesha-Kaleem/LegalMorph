@@ -1,0 +1,127 @@
+{
+  "case_title": "CHAIRMAN, RAILWAY BOARD vs MUHAMMAD ARSHAD and others",
+  "reference_no_or_id": "Civil Petition for Leave to Appeal No. 1782 of 2001",
+  "case_number": {
+    "civil_petition": "1782 of 2001",
+    "appeal": "477(L)CS/2000"
+  },
+  "judgment_date": "2001-11-26",
+  "first_hearing_date": "N/A",
+  "court": "Supreme Court of Pakistan",
+  "bench_type": "Coram",
+  "judges": [
+    "Irshad Hasan Khan",
+    "Muhammad Bashir Jehangiri",
+    "Muhammad Arif",
+    "Qazi Muhammad Farooq"
+  ],
+  "appellant": [
+    "Chairman, Railway Board"
+  ],
+  "respondant": [
+    "Muhammad Arshad"
+  ],
+  "accussed_details": [
+    {
+      "name": "Muhammad Arshad",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Assistant Engineer, Pakistan Railways Headquarters at Lahore",
+      "promotion_date": "1987-07-06",
+      "allegation": [
+        "Refunded Rs. 1,89,771 to contractor in violation of provisions of standard Specifications for Execution of Works/1967, Railways Composite Schedule of Rates/1990, and Special Conditions of the contract, causing loss to the Government exchequer."
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Mr. Saeedur Rehman Farrukh"
+    ],
+    "defense": []
+  },
+  "complaint_summary": "Muhammad Arshad was accused of causing a loss of Rs. 1,89,771 to the government exchequer by violating provisions of railway specifications and refunding the deducted amount to a contractor.",
+  "investigation_summary": "Departmental inquiry proved the charge against Muhammad Arshad, leading to his dismissal from service on 2000-01-25 and an order for recovery of Rs. 1,89,771.",
+  "judgment_summary": "The Federal Service Tribunal modified the penalty from dismissal to withholding of promotion for 3 years after a junior was promoted, while maintaining the recovery order. The Supreme Court granted leave to appeal to consider the contentions raised by the petitioner, including the time-barred nature of the respondent's appeal and the Tribunal's justification for awarding a minor penalty.",
+  "punishment": "Recovery of Rs. 1,89,771 and withholding of promotion for 3 years.",
+  "Decision_or_verdict": "Leave to appeal granted; operation of the impugned judgment suspended.",
+  "legal_arguments": [
+    "The respondent's appeal was time-barred and lacked an application for condonation of delay.",
+    "The Tribunal's justification for awarding minor penalty based on the first instance of corruption was challenged."
+  ],
+  "assets": [],
+  "statutes": [
+    "Railways Composite Schedule of Rates/1990",
+    "Standard Specifications for Execution of Works/1967"
+  ],
+  "sections": [
+    "Para 807 of State Railway General Volume"
+  ],
+  "citations": [
+    "2002 SCMR 181",
+    "PLD 2000 SC 869"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "477(L)CS/2000",
+  "legal_categories": [
+    "Corruption",
+    "Administrative Law"
+  ],
+  "key_issues": [
+    "Violation of railway specifications causing financial loss.",
+    "Appropriateness of penalty for corruption."
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "Corruption": "Abuse of public office for private gain."
+  },
+  "words_and_phrases": {
+    "Shrinkage allowance": "Deduction applied to measurements for uncompacted earthwork."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case involves allegations of corruption against Muhammad Arshad, an Assistant Engineer at Pakistan Railways, for refunding Rs. 1,89,771 to a contractor in violation of railway specifications. The Federal Service Tribunal modified his dismissal to withholding of promotion for 3 years while maintaining the recovery order. The Supreme Court granted leave to appeal to examine the contentions raised by the petitioner, including the time-barred nature of the respondent's appeal and the Tribunal's justification for awarding a minor penalty.",
+  "facts": {
+    "respondent_position": "Assistant Engineer, Pakistan Railways Headquarters at Lahore",
+    "promotion_date": "1987-07-06",
+    "charge": "Refunded Rs. 1,89,771 to the contractor in violation of provisions, causing loss to the Government exchequer."
+  },
+  "departmental_enquiry": {
+    "charge_proved": true,
+    "penalty": {
+      "dismissal_date": "2000-01-25",
+      "recovery_order": "Rs. 1,89,771"
+    }
+  },
+  "tribunal_decision": {
+    "appeal_date": "2000-06-10",
+    "result": {
+      "recovery_upheld": true,
+      "penalty_modified": "Withholding of promotion for 3 years after a junior is promoted"
+    }
+  },
+  "arguments": {
+    "petitioner": {
+      "advocate": "Saeedur Rehman Farrukh",
+      "contentions": [
+        "First instance of corruption is not justification for minor penalty.",
+        "Appeal was time-barred and no application for condonation of delay was filed."
+      ]
+    }
+  },
+  "legal_reference": {
+    "case": "Zafar Ali Shah v. General Pervez Musharraf",
+    "citation": "PLD 2000 SC 869",
+    "paragraph": "233",
+    "definition": "Corruption is defined as the abuse of public office for private gain."
+  },
+  "observations": {
+    "tribunal": "First instance of corruption and amount involved being less than Rs. 2 lacs deemed minor.",
+    "court": "Courts have a vital role in eradicating corruption within legal parameters."
+  },
+  "interim_order": {
+    "date": "2001-10-01",
+    "status": "Suspension of impugned judgment"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "case_title": "THE STATE and others vs RAHIM DAD and others",
+  "case_number": "Murder Reference No.30 of 2002, Criminal Jail Appeal No.72 of 2002, Criminal Appeals Nos.73, 76 of 2002 (ATA), Criminal Acquittal Appeal No.89 of 2002 (ATA)",
+  "judgment_date": "2005-04-11",
+  "court": "Balochistan High Court",
+  "judges": [
+    "Amanullah Khan",
+    "Fazal-ur-Rahman"
+  ],
+  "result": "Order accordingly",
+  "reported_as": "2005 M L D 1620",
+  "appellants": [
+    "Fayyaz Ahmad alias Kaka Marri",
+    "Rahim Dad",
+    "Muhammad Afzal"
+  ],
+  "respondents": [
+    "Shah Nazar Lehri (acquitted)",
+    "Mashooq alias Mustafa (absconding)",
+    "Abdul Haq Abro (absconding)",
+    "Haji Muhammad (absconding)"
+  ],
+  "charges": {
+    "sections_ppc": [
+      "365-A",
+      "302",
+      "102-B",
+      "109",
+      "449",
+      "34"
+    ],
+    "anti_terrorism_act": [
+      "7-A",
+      "7-E",
+      "21-L"
+    ]
+  },
+  "sentences": {
+    "Fayyaz_Ahmad_alias_Kaka_Marri": {
+      "365-A": "Death",
+      "302(a)": "Death"
+    },
+    "Rahim_Dad": {
+      "365-A": "Death",
+      "302(a)": "Life Imprisonment"
+    },
+    "Muhammad_Afzal": {
+      "365-A": "Death",
+      "302(a)": "Life Imprisonment"
+    },
+    "Mashooq_alias_Mustafa": {
+      "365-A": "Death",
+      "302(a)": "Life Imprisonment",
+      "21-L": "2 years RI"
+    },
+    "Abdul_Haq_Abro": {
+      "365-K": "Death",
+      "302(a)": "Life Imprisonment",
+      "21-L": "2 years RI"
+    },
+    "Haji_Muhammad": {
+      "21-L": "2 years RI"
+    }
+  },
+  "key_events": {
+    "incident_date": "2002-01-10",
+    "abduction_details": {
+      "victim": "Ambreen (minor)",
+      "location": "Zia House, Amirabad, Tail Godown, Quetta",
+      "culprits": "Entered through kitchen door, forcibly abducted Ambreen, killed Muhammad Ayub (shopkeeper)"
+    },
+    "ransom_demand": {
+      "initial_amount": "Rs.100,000,00",
+      "final_amount": "Rs.30 lacs",
+      "mode": "Letters, audio cassette, telephonic calls"
+    },
+    "recovery": {
+      "date": "2002-02-12",
+      "location": "Chaman",
+      "culprit_arrested": "Muhammad Afzal",
+      "victim_recovered": "Ambreen"
+    }
+  },
+  "appeals": {
+    "criminal_appeals": [
+      "72 of 2002",
+      "73 of 2002",
+      "76 of 2002"
+    ],
+    "criminal_acquittal_appeal": "89 of 2002",
+    "murder_reference": "30 of 2002"
+  },
+  "legal_findings": {
+    "inadmissible_evidence": [
+      "Disclosure memos prepared during investigation",
+      "Statements under section 164 Cr.P.C. not examined in trial court",
+      "Anonymous letters allegedly written by Muhammad Afzal"
+    ],
+    "valid_evidence": [
+      "Confessional statement of Fayyaz Ahmad",
+      "Ballistic match of empties and pistol recovered from Muhammad Illyas"
+    ],
+    "identification_parade": {
+      "Rahim_Dad": "Identified by Ambreen, Laila, and Faqir Muhammad"
+    }
+  },
+  "final_verdict": {
+    "modified_sentence": {
+      "Fayyaz_Ahmad_alias_Kaka_Marri": "Life Imprisonment + Rs.1,00,000 fine",
+      "Rahim_Dad": "Life Imprisonment + Rs.1,00,000 fine",
+      "Muhammad_Afzal": "Life Imprisonment + Rs.1,00,000 fine"
+    },
+    "acquitted": [
+      "Mashooq alias Mustafa",
+      "Abdul Haq Abro",
+      "Haji Muhammad",
+      "Shah Nazar Lehri"
+    ]
+  }
+}

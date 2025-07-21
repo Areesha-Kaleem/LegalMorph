@@ -1,0 +1,128 @@
+{
+  "case_title": "Faisalabad Electric Supply Company Ltd., Faisalabad vs The Commissioner Inland Revenue, Corporate Zone, Regional Tax Office, Jail Road, Faisalabad and 2 others",
+  "reference_no_or_id": "S.T.A. No.686/LB of 2021",
+  "judgment_date": "2022-04-05",
+  "first_hearing_date": "N/A",
+  "court": "Appellate Tribunal Inland Revenue",
+  "bench_type": "Appellate",
+  "judges": [
+    "Muhammad Naeem",
+    "Amina Nazeer Ansari"
+  ],
+  "appellant": [
+    "Faisalabad Electric Supply Company Ltd., Faisalabad"
+  ],
+  "respondant": [
+    "The Commissioner Inland Revenue, Corporate Zone, Regional Tax Office, Jail Road, Faisalabad",
+    "Others"
+  ],
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": []
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Mr. Khurram Ali Qadri"
+    ],
+    "defense": [
+      "Ch. Mumtaz-ul-Hassan"
+    ]
+  },
+  "complaint_summary": "The appellant challenged the disallowance of input tax paid on computers and allied stationery items used for taxable activities under the Sales Tax Act, 1990.",
+  "investigation_summary": "The appellant, a government-owned electricity distribution company serving 4.1 million recipients, argued that computers and stationery items were essential for its taxable activities, including bill printing and complaint redressal. The Commissioner Inland Revenue disallowed input tax claims, citing lack of evidence of usage in taxable activities.",
+  "judgment_summary": "The Tribunal allowed the appeal, ruling that the input tax paid on computers and stationery items was admissible under section 7 of the Sales Tax Act, 1990. It found the disallowance by the Commissioner Inland Revenue arbitrary and contrary to legal provisions.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Appeal allowed; orders of lower authorities annulled.",
+  "legal_arguments": [
+    "Input tax paid on computers and stationery items is admissible under section 7 of the Sales Tax Act, 1990.",
+    "Burden of proof lies on the revenue to establish that the items were not used for taxable activities.",
+    "Disallowance under section 8(1)(h) & (i) of the Sales Tax Act, 1990 is against the text and purpose of the law."
+  ],
+  "assets": [
+    "Computers",
+    "Stationery items (e.g., toner, paper)"
+  ],
+  "statutes": [
+    "Sales Tax Act, 1990",
+    "Qanun-e-Shahadat Order, 1984"
+  ],
+  "sections": [
+    "Section 7",
+    "Section 8(1)(h) & (i)",
+    "Section 11",
+    "Section 34(1)",
+    "Section 33"
+  ],
+  "citations": [
+    "2005 PTD 2012",
+    "2007 PTD (Trib.) 2391",
+    "Hamza Nasir Wire v. Federation of Pakistan 2018 PTD 1071"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "S.T.A. No.686/LB of 2021",
+  "legal_categories": [
+    "Tax Law",
+    "Sales Tax"
+  ],
+  "key_issues": [
+    "Admissibility of input tax on computers and stationery items.",
+    "Burden of proof for taxable activity usage.",
+    "Interpretation of section 8(1)(h) & (i) of the Sales Tax Act, 1990."
+  ],
+  "maxims": {
+    "Burden of Proof": "Articles 117 and 118 of the Qanun-e-Shahadat Order, 1984"
+  },
+  "legal_terms": {
+    "Input Tax": "Tax paid on goods used for taxable activities.",
+    "Taxable Supply": "Goods or services subject to sales tax."
+  },
+  "words_and_phrases": {
+    "Computers and Allied Stationery": "Items essential for operational activities like bill printing and complaint handling."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk",
+    "reported_as": "2023 PTD (Trib.) 1358"
+  },
+  "summary_vector_notes": "The case revolves around the admissibility of input tax paid on computers and stationery items under the Sales Tax Act, 1990. The Tribunal ruled in favor of the appellant, emphasizing the essential nature of these items for taxable activities and the failure of the revenue to prove otherwise.",
+  "grounds_of_appeal": [
+    "The appellate order confirming Order-in-Original No.306/2019 is arbitrary and against the law and facts.",
+    "The CIR(A) unlawfully maintained the impugned order under section 11 of the Sales Tax Act, 1990, disregarding Lahore High Court's judgment in Hamza Nasir Wire v. Federation of Pakistan 2018 PTD 1071.",
+    "Input tax paid on computers and allied stationery items is fully admissible under section 7 of the Sales Tax Act, 1990.",
+    "The appellant, being a government-owned company, used the items solely for taxable supplies.",
+    "Disallowance of input tax under section 8(1)(h) & (i) of the Sales Tax Act, 1990 is against the law and statutory obligations.",
+    "Burden of proof that the items were not related to taxable activity lies with the revenue, which failed to discharge it."
+  ],
+  "facts_of_case": {
+    "appellant_activity": "Distribution of electricity to 4.1 million recipients.",
+    "disputed_items": "Computers and allied stationery items (e.g., toners, ribbons, printers).",
+    "show_cause_notice_date": "2017-12-15",
+    "disallowed_input_tax_amount": "22,415,320",
+    "initial_order_date": "2018-11-21",
+    "appeal_rejection_date": "2020-11-26"
+  },
+  "key_observations": [
+    "Computers and stationery items are essential for the appellant's taxable activity.",
+    "Disallowance of input tax under section 8(1)(h) & (i) of the Sales Tax Act, 1990 is against the text and purpose of the law.",
+    "Burden of proof lies with the revenue, which failed to discharge it."
+  ],
+  "precedents_cited": [
+    {
+      "citation": "2005 PTD 2012",
+      "summary": "Accessories and spare parts of machinery enjoy input tax credit under the Sales Tax Act, 1990."
+    },
+    {
+      "citation": "2007 PTD (Trib.) 2391",
+      "summary": "Input tax is adjustable for items indirectly related to production or industrial activity."
+    }
+  ],
+  "final_decision": {
+    "input_tax_admissibility": "Input tax on computers and stationery items is fully admissible under section 7 of the Sales Tax Act, 1990.",
+    "orders_annulled": "Orders of CIR(A) and ACIR are annulled."
+  }
+}

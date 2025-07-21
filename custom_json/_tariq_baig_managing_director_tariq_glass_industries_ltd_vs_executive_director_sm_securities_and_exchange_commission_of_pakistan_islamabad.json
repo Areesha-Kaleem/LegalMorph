@@ -1,0 +1,50 @@
+{
+  "case_title": "TARIQ BAIG, MANAGING DIRECTOR, TARIQ GLASS INDUSTRIES LTD. vs EXECUTIVE DIRECTOR (SM), SECURITIES AND EXCHANGE COMMISSION OF PAKISTAN, ISLAMABAD",
+  "case_number": "NOT",
+  "judgment_date": "2002-04-25",
+  "court_name": "Appellate Bench of Securities and Exchange Commission of Pakistan",
+  "judges": [
+    "Abdul Rehman Oureshi",
+    "N. K. Shahani"
+  ],
+  "appellant": "Tariq Baig, Managing Director, Tariq Glass Industries Ltd.",
+  "respondent": "Executive Director (SM), Securities and Exchange Commission of Pakistan, Islamabad",
+  "result": "Appeal disposed of",
+  "reported_as": "2002 C L D 1346",
+  "key_issues": {
+    "impugned_order_date": "2001-07-25",
+    "amount_tendered": "Rs. 2,260,000",
+    "law_invoked": "Section 224(2) of the Companies Ordinance, 1984",
+    "appeal_challenges": [
+      "Applicability of Section 224(2)",
+      "Good faith in acquisition of shares",
+      "Exemption under proviso to subsection (1) of Section 224"
+    ]
+  },
+  "arguments": {
+    "appellant": {
+      "claims": [
+        "Shares acquired in satisfaction of debt previously contracted",
+        "Transaction conducted in good faith",
+        "Profit tendered to the company as interest-free loan"
+      ],
+      "legal_basis": "Proviso to subsection (1) of Section 224 of the Companies Ordinance, 1984"
+    },
+    "respondent": {
+      "claims": [
+        "Shares acquired using privileged information",
+        "Transaction executed within six months, attracting Section 224",
+        "Buy-back agreement does not constitute a debt agreement"
+      ]
+    }
+  },
+  "decision": {
+    "main_issue": "Applicability of Section 224 and good faith in acquisition of shares",
+    "findings": [
+      "Purchase not in satisfaction of debt previously contracted",
+      "Transaction lacked good faith",
+      "Profit not lawfully tendered to the company"
+    ],
+    "final_ruling": "Impugned order upheld; appeal dismissed"
+  }
+}

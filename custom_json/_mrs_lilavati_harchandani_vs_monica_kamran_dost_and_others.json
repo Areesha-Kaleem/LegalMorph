@@ -1,0 +1,50 @@
+{
+  "case_title": "Mrs. LILAVATI HARCHANDANI vs MONICA KAMRAN DOST and others",
+  "case_number": "Petition No. 14 of 1985",
+  "judgment_date": "1986-01-23",
+  "court_name": "Election Tribunal",
+  "judge": "Sajjad Ali Shah",
+  "reported_as": "1986 M L D 1969",
+  "result": "Election set aside",
+  "appellant": "Mrs. Lilavati Harchandani",
+  "respondent": "Mrs. Monica Kamran Dost and others",
+  "issues_fraged": [
+    "Non-compliance of sections 54 and 55 of Representation of People Act, 1976",
+    "Whether lot was drawn in accordance with law",
+    "Objection to the manner of drawing lot",
+    "Estoppel from challenging the manner of drawing lot",
+    "Maintainability without grounds under section 68 of Representation of People Act, 1976"
+  ],
+  "key_findings": {
+    "issue_1": "Petition is not liable to be dismissed for non-compliance of sections 54 and 55.",
+    "issue_2_3_4": "Lot was not drawn in accordance with law; violation of mandatory provisions of Rule 66(5).",
+    "issue_5": "Petition is maintainable under section 70 of Representation of People Act, 1976."
+  },
+  "legal_basis": {
+    "representation_of_people_act_1976": {
+      "sections": [
+        "54",
+        "55",
+        "68",
+        "70"
+      ],
+      "rules": [
+        "64",
+        "66"
+      ]
+    },
+    "houses_of_parliament_and_provincial_assemblies_election_order_1977": {
+      "amendments": [
+        "President's Order 16 of 1985"
+      ]
+    }
+  },
+  "facts": {
+    "election_date": "1985-03-13",
+    "seat_type": "Provincial Assembly of Sind reserved for non-Muslim women",
+    "voting_method": "Proportional representation by means of single transferable vote",
+    "electoral_college": "Eight non-Muslim members of Provincial Assembly of Sind"
+  },
+  "grievance": "Returning Officer violated rules by declaring the name picked first in the lot as winner instead of excluding it.",
+  "decision": "Whole election declared void; fresh election directed to be held following Chapter III of rules."
+}

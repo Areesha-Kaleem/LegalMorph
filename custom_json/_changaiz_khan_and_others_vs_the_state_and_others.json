@@ -1,0 +1,127 @@
+{
+  "case_title": "Changaiz Khan and others vs The State and others",
+  "case_number": "Criminal Appeals Nos. 153, 156 of 2024 and Murder Reference No. 04 of 2024",
+  "court_name": "Balochistan High Court",
+  "judgment_date": "2024-11-04",
+  "judges": [
+    "Abdullah Baloch",
+    "Iqbal Ahmed Kasi"
+  ],
+  "result": "Appeals allowed",
+  "appellants": [
+    {
+      "name": "Changaiz Khan",
+      "father_name": "Taj Muhammad"
+    },
+    {
+      "name": "Taimoor Khan",
+      "father_name": "Shah Muhammad"
+    },
+    {
+      "name": "Sikandar Khan",
+      "father_name": "Shah Muhammad"
+    },
+    {
+      "name": "Fazal Muhammad",
+      "father_name": "Mir Shah Dad Khan"
+    },
+    {
+      "name": "Bilal Ahmed",
+      "father_name": "Niaz Muhammad"
+    }
+  ],
+  "respondents": [
+    "The State and others"
+  ],
+  "trial_court": {
+    "name": "Additional Sessions Judge-IV, Quetta",
+    "judgment_date": "2024-05-13",
+    "convictions": [
+      {
+        "section": "302(b) P.P.C.",
+        "sentence": "Death as ta'zir",
+        "compensation": "Rs.400,000 each to legal heirs of deceased",
+        "default_penalty": "6 months imprisonment"
+      },
+      {
+        "section": "324 P.P.C.",
+        "sentence": "6 years imprisonment",
+        "fine": "Rs.50,000 each to injured",
+        "default_penalty": "4 months imprisonment"
+      },
+      {
+        "section": "337-Y P.P.C.",
+        "sentence": "Daman Rs.30,000 each to injured",
+        "default_penalty": "As per Section 337-Y P.P.C."
+      }
+    ]
+  },
+  "murder_reference": {
+    "number": "04 of 2024",
+    "result": "Answered in negative"
+  },
+  "fir_details": {
+    "number": "184 of 2006",
+    "date": "2006-07-28",
+    "police_station": "Saddar, Quetta",
+    "sections": [
+      "302",
+      "324",
+      "147",
+      "148",
+      "149 P.P.C."
+    ],
+    "complainant": {
+      "name": "Ghulam Nabi",
+      "father_name": "Akhtar Muhammad"
+    },
+    "incident_details": {
+      "date": "2006-07-28",
+      "time": "02:30 PM",
+      "location": "Residence of complainant",
+      "accused": [
+        "Changaiz",
+        "Bilal Ahmed",
+        "Sikandar",
+        "Taimoor",
+        "Fazal",
+        "Imran Gul",
+        "5-6 unidentified accomplices"
+      ],
+      "victims": [
+        {
+          "name": "Zahoor Ahmed",
+          "status": "Deceased"
+        },
+        {
+          "name": "Munir Ahmed",
+          "status": "Deceased"
+        },
+        {
+          "name": "Shabbir Ahmed",
+          "status": "Injured"
+        },
+        {
+          "name": "Mir Ahmed",
+          "status": "Injured"
+        }
+      ],
+      "cause": "Dispute over loitering near complainant's house"
+    }
+  },
+  "key_findings": [
+    "Delay in FIR registration (1 hour 40 minutes)",
+    "Complainant's unnatural conduct during incident",
+    "Delay in recording witness statements under Section 161 Cr.P.C.",
+    "Contradictions in witness testimonies and site map",
+    "Failure to exhibit key evidence (e.g., fard-e-bayan, recovery memos)",
+    "No specific role assigned to certain appellants",
+    "Prosecution failed to prove common intention or motive"
+  ],
+  "legal_principles": [
+    "Benefit of doubt must go to accused (Muhammad Shah v. The State, 2010 SCMR 1009)",
+    "Credibility of witnesses questioned due to delayed statements (Muhammad Khan v. Moula Bakhsh, 1998 SCMR 570)",
+    "Withholding best evidence creates presumption against prosecution (Article 129(g), Qanun-e-Shahadat Order, 1984)"
+  ],
+  "reported_as": "2025 MLD 205"
+}

@@ -1,0 +1,103 @@
+{
+  "case_title": "Ch. Wajid Hussain vs Ch. Maqsood Ahmed",
+  "reference_no_or_id": "ROR Nos. 226 and 227 of 2012",
+  "judgment_date": "2012-05-22",
+  "first_hearing_date": "N/A",
+  "court": "Board of Revenue, Punjab",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Dr. Allah Bakhsh Malik"
+  ],
+  "appellant": [
+    {
+      "name": "Ch. Wajid Hussain",
+      "father_name": "Fazal Rahim",
+      "caste": "Jutt",
+      "address": "Khanpur, P.O. Khanbi, Tehsil Sara-e-Almgir, District Gujrat"
+    }
+  ],
+  "respondant": [
+    {
+      "name": "Ch. Maqsood Ahmed"
+    }
+  ],
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": []
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "The appellant challenged the cancellation of Mutation No. 6095, dated 30.11.2000, which was based on a gift to Mr. Zahir Khan. The appellant argued that the rights of the parties had been settled and could not be reviewed by the appellate authority.",
+  "investigation_summary": "The court examined the orders of the learned Additional Commissioner (Revenue), Rawalpindi, and found no evidence of fraud, forgery, or misrepresentation in the proceedings related to Mutation No. 6095. The court also noted that the period of limitation was not adhered to by the District Officer (Revenue), Jhelum.",
+  "judgment_summary": "The court upheld the order of the learned Additional Commissioner (Revenue), Rawalpindi, restoring Mutation No. 6095, dated 30.11.2000, and subsequent Mutations Nos. 7685 and 7686, dated 18.06.2008. The Tehsildar was directed to update the revenue record accordingly.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "ROR allowed; Mutations restored.",
+  "legal_arguments": [
+    "The period of limitation under Section 5 of the Limitation Act, 1908 was not adhered to.",
+    "No fraud, forgery, or misrepresentation was reported regarding Mutation No. 6095.",
+    "Revenue Courts should refrain from adjudicating complicated factual controversies, which are better resolved by Civil Courts."
+  ],
+  "assets": [
+    {
+      "type": "Land",
+      "details": "Gifted land under Mutation No. 6095, dated 30.11.2000."
+    }
+  ],
+  "statutes": [
+    "Land Revenue Act, 1967",
+    "Limitation Act, 1908",
+    "Civil Procedure Code, 1908"
+  ],
+  "sections": [
+    "Section 5 of the Limitation Act, 1908",
+    "Section 29 of the Limitation Act, 1908",
+    "Section 167 of the Land Revenue Act, 1967",
+    "Section 115 of the Civil Procedure Code, 1908"
+  ],
+  "citations": [
+    "PLD 1981 Revenue 34",
+    "1989 CLC 124",
+    "1986 MLD 608",
+    "2004 SCMR 604",
+    "PLD 1985 Revenue 194",
+    "PLJ 1975 Revenue 188",
+    "PLJ 2003 Peshawar 1"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Revenue Law",
+    "Limitation Law",
+    "Civil Procedure"
+  ],
+  "key_issues": [
+    "Applicability of limitation period under the Limitation Act.",
+    "Jurisdiction of Revenue Courts versus Civil Courts.",
+    "Validity of gift-based mutation."
+  ],
+  "maxims": {
+    "Sine qua non": "Essential condition."
+  },
+  "legal_terms": {
+    "Mutation": "A change or transfer in the ownership of land."
+  },
+  "words_and_phrases": {
+    "Record-of-Rights": "Official record documenting ownership and possession of land."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around the restoration of Mutation No. 6095, dated 30.11.2000, which was based on a gift. The court upheld the order of the Additional Commissioner (Revenue), Rawalpindi, citing adherence to substantive law and the absence of fraud or misrepresentation. The judgment emphasized the importance of the limitation period and the jurisdictional boundaries between Revenue and Civil Courts."
+}

@@ -1,0 +1,73 @@
+{
+  "case_title": "Nazar Hussain vs State/Munir Hussain And Other",
+  "case_number": "R.O.R No. 2269 of 1996",
+  "court_name": "Board of Revenue, Punjab",
+  "judgment_date": "2005-09-14",
+  "judge": "Tauqir Ahmad Faiq",
+  "reported_as": "(K.L.R. 2005 Revenue Cases 119)",
+  "result": "Revision Accepted",
+  "parties": {
+    "appellant": "Nazar Hussain",
+    "respondent": "State/Munir Hussain And Other"
+  },
+  "facts": {
+    "temporary_lambardar": "Wali Muhammad",
+    "vacant_post_proceedings": "Initiated by Revenue functionaries",
+    "candidates": [
+      "Nazar Hussain",
+      "Ali Haider",
+      "Munir Hussain"
+    ],
+    "district_collector_decision": "Appointed Nazar Hussain as Lambardar on 19.1.1995 under Rule 17 of the West Pakistan Land Revenue Rules, 1968",
+    "commissioner_decision": "Accepted appeal of Munir Hussain, rejected appeal of Ali Haider, and set aside District Collector's order on 27.11.1996"
+  },
+  "procedural_history": {
+    "revision_petitions": "Filed by Nazar Hussain and Ali Haider in Board of Revenue, dismissed on 5.9.2000",
+    "review_petitions": "Filed by Nazar Hussain and Ali Haider, dismissed on 7.6.2003",
+    "writ_petitions": "Nos. 3936/03 and 3629/03 filed in Lahore High Court, Multan Bench, accepted; case remanded to Member Board of Revenue, Punjab, Lahore"
+  },
+  "arguments": {
+    "nazar_hussain": {
+      "community_majority": "Belongs to majority Dhool community",
+      "rule_17_application": "Appointment under Rule 17 of West Pakistan Land Revenue Rules, 1968",
+      "primogeniture_rule": "Rule 19(2) declared repugnant to Injunctions of Islam",
+      "performance": "Satisfactory Lambardari duties",
+      "land_ownership": "80 kanals"
+    },
+    "ali_haider": {
+      "community_majority": "Belongs to Dhool community",
+      "land_ownership": "120 kanals",
+      "social_standing": "Chairman of Usher Zakat Committee",
+      "criticism": "Described as rigid and argumentative"
+    },
+    "munir_hussain": {
+      "hereditary_claim": "Son of deceased Lambardar Wali Muhammad",
+      "community": "Kharral sub-caste",
+      "land_ownership": "58 acres",
+      "support": "Reports of Revenue field staff in favor"
+    }
+  },
+  "court_findings": {
+    "primogeniture_rule": "Struck down as repugnant to Injunctions of Islam",
+    "community_analysis": {
+      "dhool": {
+        "land_ownership": "630 acres",
+        "population": "210 persons"
+      },
+      "kharral": {
+        "land_ownership": "58 acres",
+        "population": "10 persons"
+      }
+    },
+    "candidate_comparison": {
+      "nazar_hussain": "Preferred due to majority community representation and satisfactory performance",
+      "ali_haider": "Not recommended due to personality concerns",
+      "munir_hussain": "No preferential treatment due to temporary Lambardar status of father"
+    }
+  },
+  "final_decision": {
+    "district_collector_order": "Restored",
+    "commissioner_order": "Set aside",
+    "member_board_of_revenue_order": "Already set aside by High Court"
+  }
+}

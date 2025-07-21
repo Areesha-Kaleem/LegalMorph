@@ -1,0 +1,92 @@
+{
+  "case_title": "ABDUL KARIM vs THE RETURNING OFFICER/AC, HUB",
+  "reference_no_or_id": "C.P. No. 116/1999",
+  "judgment_date": "1999-03-08",
+  "first_hearing_date": "1999-02-22",
+  "court": "Balochistan High Court",
+  "bench_type": "Division Bench",
+  "judges": [
+    "Javaid Iqbal",
+    "Amir-ul-Mulk Mengal"
+  ],
+  "appellant": [
+    {
+      "name": "Abdul Karim",
+      "designation": "Candidate for Councillor"
+    }
+  ],
+  "respondant": [
+    {
+      "name": "Returning Officer/AC, Hub",
+      "designation": "Election Authority"
+    }
+  ],
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": []
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Ashraf Khan Tanoli"
+    ],
+    "defense": [
+      "Attorney General (A.G.)"
+    ]
+  },
+  "complaint_summary": "Petitioner Abdul Karim challenged the rejection of his nomination papers for the position of Councillor from Ward No. 10, Town Committee Hub, citing the absence of his seconder during scrutiny as the reason for rejection.",
+  "investigation_summary": "The Returning Officer rejected the nomination papers due to the absence of the seconder during scrutiny. The Appellate Authority upheld this decision. The petitioner argued that the absence of the seconder was not mandatory under the relevant rules.",
+  "judgment_summary": "The court ruled that the rejection of nomination papers based on the absence of the seconder was not supported by mandatory provisions under Rule 17 of the Balochistan Local Government (Election) Rules, 1983. The orders of the Returning Officer and Appellate Authority were set aside, and Abdul Karim was declared a validly nominated candidate.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Appeal accepted; petitioner declared as validly nominated candidate.",
+  "legal_arguments": [
+    "Rule 17 of the Balochistan Local Government (Election) Rules, 1983 does not mandate the presence of the seconder during scrutiny.",
+    "The word 'may' in Rule 17 is discretionary and does not imply 'shall'.",
+    "Absence of seconder cannot be a valid ground for rejection of nomination papers."
+  ],
+  "assets": [],
+  "statutes": [
+    "Article 199 of the Constitution of Islamic Republic of Pakistan, 1973",
+    "Balochistan Local Government Ordinance, 1980",
+    "Balochistan Local Government (Election) Rules, 1983"
+  ],
+  "sections": [
+    "Section 17(3)(b) of Balochistan Local Government (Election) Rules, 1983",
+    "Section 20 of Balochistan Local Government Ordinance, 1980"
+  ],
+  "citations": [
+    "PLD 1984 150",
+    "C.P. No. 1/97 (Judgment dated 7.1.97)",
+    "K.L.R. 1999 Civil Cases 601"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Election Law",
+    "Constitutional Law"
+  ],
+  "key_issues": [
+    "Whether the absence of the seconder during scrutiny invalidates nomination papers.",
+    "Interpretation of the word 'may' in Rule 17 of the Balochistan Local Government (Election) Rules, 1983."
+  ],
+  "maxims": {
+    "Interpretation of 'may' as discretionary": "The word 'may' in statutory language is permissive unless the context indicates otherwise."
+  },
+  "legal_terms": {
+    "Returning Officer": "An official responsible for overseeing election processes.",
+    "Seconder": "A person who endorses a candidate's nomination."
+  },
+  "words_and_phrases": {
+    "Scrutiny": "Examination of nomination papers to ensure compliance with legal requirements.",
+    "Nomination Papers": "Documents submitted by a candidate to contest an election."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around the rejection of nomination papers due to the absence of the seconder during scrutiny. The court ruled that such absence is not mandatory under the relevant election rules, and the petitioner was declared a validly nominated candidate."
+}

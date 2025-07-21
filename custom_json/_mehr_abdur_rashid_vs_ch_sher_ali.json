@@ -1,0 +1,43 @@
+{
+  "case_title": "Mehr ABDUR RASHID vs Ch. SHER ALI",
+  "case_number": "Petition No. 60 of 1990",
+  "judgment_date": "1992-09-30",
+  "court_name": "Election Tribunal",
+  "judge": "Irshad Hasan Khan",
+  "reported_as": "1993 M L D 2149",
+  "result": "petition dismissed",
+  "legal_basis": {
+    "act": "Representation of the People Act, 1976",
+    "section": "Section 52"
+  },
+  "petitioner": "Mehr ABDUR RASHID",
+  "respondent": "Ch. SHER ALI",
+  "constituency": "NA-65 (Faisalabad-IX)",
+  "election_date": "1990-10-24",
+  "allegations": "Election procured through corrupt and illegal practices",
+  "witnesses": [
+    "Shahadat Khan",
+    "Muhammad Anwar",
+    "Manzoor Ahmad",
+    "Muhammad Aslam",
+    "Sufi Muhammad Sadiq",
+    "Khalid Hussain",
+    "Akhtar Ghaffar alias Jimmi",
+    "Maqsood Ahmad",
+    "Malik Rehmat Ali",
+    "Munawar Hussain",
+    "Mian Nasim Ahmad",
+    "Saeed Ahmad Khan",
+    "Sheikh Muhammad Ashraf"
+  ],
+  "key_findings": {
+    "failure_to_deposit_fees": "Petitioner failed to deposit process fee and diet money for summoning official witnesses.",
+    "non_appearance_of_witnesses": "Petitioner did not produce witnesses for cross-examination.",
+    "negligence": "Petitioner and counsel exhibited gross negligence in pursuing the case."
+  },
+  "tribunal_decision": {
+    "adjournment_request": "Denied due to lack of sufficient cause.",
+    "evidence_closure": "Petitioner's evidence closed due to procedural breaches."
+  },
+  "costs_awarded": "Petition dismissed with costs"
+}

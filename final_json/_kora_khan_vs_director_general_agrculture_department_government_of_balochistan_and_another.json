@@ -1,0 +1,127 @@
+{
+  "case_title": "KORA KHAN vs DIRECTOR-GENERAL AGRICULTURE DEPARTMENT, GOVERNMENT OF BALOCHISTAN and another",
+  "reference_no_or_id": "S.A. No. 22 of 2007",
+  "judgment_date": "2010-12-14",
+  "first_hearing_date": "N/A",
+  "court": "Balochistan Service Tribunal",
+  "bench_type": "Tribunal Bench",
+  "judges": [
+    "Muhammad Hashim Khan Kakar",
+    "Muhammad Idrees Baloch",
+    "Muhammad Anwar Khan"
+  ],
+  "appellant": [
+    "Kora Khan"
+  ],
+  "respondant": [
+    "Director-General Agriculture Department, Government of Balochistan",
+    "Another (unspecified)"
+  ],
+  "accussed_details": [
+    {
+      "name": "Kora Khan",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Junior Clerk",
+      "allegation": [
+        "Murder of Din Muhammad under Section 302 PPC"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Salahuddin Mengal (Advocate-General of Balochistan)"
+    ],
+    "defense": [
+      "Amanullah Kanrani"
+    ]
+  },
+  "complaint_summary": "The appellant, Kora Khan, was accused of murder under Section 302 PPC based on an FIR lodged by Essab Khan. He was acquitted by the trial court, appellate court, and Supreme Court.",
+  "investigation_summary": "An FIR was lodged against Kora Khan alleging murder. After investigation, a challan was submitted, and the trial concluded with his acquittal. Subsequent appeals by the complainant were dismissed by higher courts.",
+  "judgment_summary": "The tribunal accepted the appeal, reinstating Kora Khan in service without back benefits. His absence was deemed non-wilful, resulting from false allegations.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Appeal accepted; reinstatement without back benefits.",
+  "legal_arguments": [
+    "Appellant argued that absence was due to false allegations and acquittal was honorable.",
+    "Prosecution argued absence was not justified and acquittal was not honorable.",
+    "Tribunal ruled absence was non-wilful and acquittal was honorable."
+  ],
+  "assets": [],
+  "statutes": [
+    "Balochistan Service Tribunals Act, 1974"
+  ],
+  "sections": [
+    "Section 4 of Balochistan Service Tribunals Act, 1974",
+    "Section 302 PPC"
+  ],
+  "citations": [
+    "1998 SCMR 1993",
+    "2001 SCMR 269",
+    "2011 P L C (C.S.) 842"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "Criminal Acquittal Appeal No,2 of 2001",
+  "legal_categories": [
+    "Service Law",
+    "Criminal Law"
+  ],
+  "key_issues": [
+    "Whether the appellant's absence from duty was wilful.",
+    "Whether the acquittal was honorable.",
+    "Entitlement to reinstatement and back benefits."
+  ],
+  "maxims": {
+    "Wilful": "Voluntary, knowingly, and deliberate; not accidental or involuntary."
+  },
+  "legal_terms": {
+    "Acquittal": "A legal judgment that officially clears an accused of criminal charges."
+  },
+  "words_and_phrases": {
+    "Extraordinary Leave Without Pay": "A period of absence from duty without salary, granted under special circumstances."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around the wrongful termination of Kora Khan due to absence caused by false criminal allegations. The tribunal ruled the absence was non-wilful and reinstated him without back benefits, emphasizing the honorable nature of his acquittal.",
+  "case_number": "S.A. No. 22 of 2007",
+  "court_name": "Balochistan Service Tribunal",
+  "result": "Appeal accepted",
+  "legal_basis": "Section 4 of the Balochistan Service Tribunals Act, 1974",
+  "facts": {
+    "initial_appointment": "Junior Clerk in Agriculture Department on 1990-07-23",
+    "termination_date": "1994-05-04",
+    "reason_for_termination": "Absence due to false involvement in FIR No. 10192 under Section 302 PPC",
+    "acquittal_details": {
+      "trial_court": "Additional District and Sessions Judge Sibi",
+      "trial_court_acquittal_date": "2000-12-16",
+      "high_court_appeal_dismissal_date": "2005-06-04",
+      "supreme_court_petition_dismissal_date": "2006-04-20"
+    },
+    "absence_period": "1992-04-30 to 1994-05-04"
+  },
+  "arguments": {
+    "appellant": {
+      "contention": "Dismissal was unjust due to false involvement in a criminal case and subsequent acquittal. Entitled to reinstatement with back benefits.",
+      "legal_references": [
+        "1998 SCMR 1993",
+        "2001 SCMR 269"
+      ]
+    },
+    "respondent": {
+      "contention": "Appellant remained absent from duty and was not acquitted honourably."
+    }
+  },
+  "judgment": {
+    "findings": {
+      "absence": "Not wilful or deliberate; caused by false FIR.",
+      "acquittal": "All acquittals are honourable; no distinction made.",
+      "delay": "Condoned as delay was not intentional."
+    },
+    "decision": {
+      "reinstatement": "Appellant reinstated in service from dismissal date.",
+      "back_benefits": "Not granted; absence treated as extraordinary leave without pay."
+    }
+  },
+  "reported_as": "2011 P L C (C.S.) 842"
+}

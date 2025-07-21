@@ -1,0 +1,113 @@
+{
+  "case_title": "FULL BENCH Sardar KARIM HAYAT vs S. AHMAD NAWAZ SHAH",
+  "reference_no_or_id": "P L D 1953 Baghdad-ul-Jadid 59",
+  "judgment_date": "1953-10-14",
+  "first_hearing_date": "1953-09-29",
+  "court": "High Court of Judicature at Baghdad-ul-Jadid",
+  "bench_type": "Full Bench",
+  "judges": [
+    "Abdul Hameed",
+    "Sheikh Abdul Rashid",
+    "Faiz Muhammad"
+  ],
+  "appellant": [
+    "Sardar Karim Hayat"
+  ],
+  "respondant": [
+    "S. Ahmad Nawaz Shah"
+  ],
+  "accussed_details": [
+    {
+      "name": "Sardar Karim Hayat",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Managing Allottee (Claimed)",
+      "allegation": [
+        "Attempting exclusive possession of evacuee property",
+        "Threatening violence and murder"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Sh. Abdur Rahman",
+      "Nisar Ahmad"
+    ],
+    "defense": [
+      "Farzand Ali",
+      "Mahmood Khan"
+    ]
+  },
+  "complaint_summary": "S. Ahmad Nawaz Shah alleged that Sardar Karim Hayat attempted exclusive possession of jointly allotted evacuee property (Dhanpat Mal Diwan Chand Factory) and threatened violence, leading to apprehension of breach of peace.",
+  "investigation_summary": "Magistrate ordered police inquiry, which confirmed imminent breach of peace. Factory was attached under Section 145, Cr. P. C., and sealed.",
+  "judgment_summary": "The Full Bench ruled that the High Court of Judicature at Baghdad-ul-Jadid was validly constituted under Section 50 of the Bahawalpur Interim Constitution Act, 1952. The attachment of evacuee property was deemed invalid under Section 12 of the Pakistan Administration of Evacuee Property Ordinance, 1949.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Attachment of factory set aside; High Court jurisdiction upheld.",
+  "legal_arguments": [
+    "Validity of High Court under Section 50 of Bahawalpur Interim Constitution Act, 1952.",
+    "Applicability of Section 12 of Pakistan Administration of Evacuee Property Ordinance, 1949.",
+    "Concurrent revision powers under Section 435, Cr. P. C.",
+    "Mandatory publication of notice under Section 145(3), Cr. P. C."
+  ],
+  "assets": [
+    {
+      "description": "Dhanpat Mal Diwan Chand Factory",
+      "type": "Evacuee Property",
+      "status": "Attached and sealed (later set aside)"
+    }
+  ],
+  "statutes": [
+    "Bahawalpur Interim Constitution Act, 1952",
+    "Pakistan Administration of Evacuee Property Ordinance, 1949",
+    "Government of India Act, 1935 (as adopted for Pakistan)"
+  ],
+  "sections": [
+    "Section 145, Cr. P. C.",
+    "Section 435, Cr. P. C.",
+    "Section 50, Bahawalpur Interim Constitution Act, 1952",
+    "Section 12, Pakistan Administration of Evacuee Property Ordinance, 1949"
+  ],
+  "citations": [
+    "P L D 1953 Baghdad-ul-Jadid 59"
+  ],
+  "witnesses": [
+    {
+      "name": "Inspector of Police, Sadiqabad",
+      "role": "Reported imminent breach of peace"
+    },
+    {
+      "name": "Three unnamed witnesses",
+      "role": "Statements recorded by police"
+    }
+  ],
+  "witness_statement": {
+    "Inspector of Police": "Confirmed imminent breach of peace based on inquiry and witness statements.",
+    "Unnamed witnesses": "Corroborated allegations of threats and breach of peace."
+  },
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Constitutional Law",
+    "Criminal Procedure",
+    "Property Law"
+  ],
+  "key_issues": [
+    "Validity of High Court under Section 50 of Bahawalpur Interim Constitution Act, 1952.",
+    "Applicability of Section 145, Cr. P. C. to jointly possessed property.",
+    "Exemption of evacuee property from legal process under Section 12 of Pakistan Administration of Evacuee Property Ordinance, 1949."
+  ],
+  "maxims": {
+    "Beneficial Construction": "Interpret statutes to suppress mischief and advance remedy."
+  },
+  "legal_terms": {
+    "Evacuee Property": "Property vested in Custodian under Pakistan Administration of Evacuee Property Ordinance, 1949.",
+    "Attachment": "Legal process to secure property under dispute."
+  },
+  "words_and_phrases": {
+    "High Court": "Highest court of civil and criminal appeals or revisions in a local area.",
+    "Managing Allottee": "Individual responsible for management of jointly allotted property."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case involved the validity of the High Court under constitutional provisions and the applicability of legal exemptions to evacuee property. The Full Bench upheld the High Court's constitution and set aside the attachment of evacuee property, emphasizing procedural compliance and statutory interpretation."
+}

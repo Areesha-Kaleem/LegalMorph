@@ -1,0 +1,88 @@
+{
+  "case_title": "SRI VENKATESWARA LODGE vs COMMISSIONER OF INCOME-TAX, HYDERABAD, AND OTHERS",
+  "case_number": "Writ Petition No. 646 of 1966",
+  "court_name": "Andhra Pradesh High Court",
+  "judgment_date": "1968-03-25",
+  "judges": [
+    "Basi Reddy",
+    "Sambasiva Rao"
+  ],
+  "appellant": "Sri Venkateswara Lodge",
+  "respondents": [
+    "Commissioner of Income-tax, Hyderabad",
+    "Income-tax Officer, A-1 'A' Ward, Hyderabad",
+    "Income-tax Officer, Income-tax-cum-Wealth Tax Circle II, Hyderabad"
+  ],
+  "result": "Dismissed",
+  "legal_provisions": {
+    "income_tax_act_section": "Section 132",
+    "income_tax_rules": "Rule 112",
+    "constitution_articles": [
+      "Article 14",
+      "Article 19(1)(f)",
+      "Article 19(1)(g)"
+    ]
+  },
+  "facts": {
+    "search_date": "1966-01-05",
+    "search_duration": "9:30 AM to 7:30 PM",
+    "premises_searched": [
+      "Sri Venkateswara Lodge, Lakdi-ka-pool, Hyderabad",
+      "Sri Venkateswara Lunch Home near Secretariat",
+      "Residential house at Erramanzil"
+    ],
+    "items_seized": [
+      "Account books",
+      "Documents",
+      "Slips",
+      "Cash (Rs. 222)",
+      "Jewelry"
+    ],
+    "search_authorization": "Issued by Commissioner of Income-tax, Hyderabad"
+  },
+  "petitioners": [
+    "A. Ramaswamy",
+    "K. Ramamurty"
+  ],
+  "petitioners_contentions": [
+    "Search and seizure were illegal and violated Articles 14 and 19 of the Constitution.",
+    "Search warrant lacked specificity.",
+    "Seizure was excessive and amounted to abuse of power.",
+    "Documents seized included irrelevant materials."
+  ],
+  "respondents_contentions": [
+    "Search and seizure were conducted in compliance with Section 132 and Rule 112.",
+    "Seized materials were relevant for assessment proceedings.",
+    "Search was not arbitrary or high-handed."
+  ],
+  "key_findings": {
+    "constitutionality": "Search and seizure powers under Section 132 are constitutional.",
+    "compliance": "Commissioner followed legal procedures and recorded reasons for authorization.",
+    "specificity": "Search warrant did not require specific identification of documents.",
+    "seizure": "Seizure was not arbitrary or excessive."
+  },
+  "precedents_cited": [
+    {
+      "case_name": "M.P. Sharma v. Satish Chandra",
+      "citation": "AIR 1954 SC 300"
+    },
+    {
+      "case_name": "Durga Prasad v. Superintendent (Prevention), Central Excise",
+      "citation": "AIR 1966 SC 1209"
+    },
+    {
+      "case_name": "Seth Brothers v. Commissioner of Income-tax",
+      "citation": "1966 62 ITR 44"
+    },
+    {
+      "case_name": "C. Venkata Reddy v. Income-tax Officer (Central) 1, Bangalore",
+      "citation": "1967 66 ITR 212"
+    }
+  ],
+  "advocates": {
+    "petitioners": "Mr. Kodanda Ramayya",
+    "respondents": "Mr. Ananta Bablu"
+  },
+  "reported_as": "1972 P T D 205",
+  "advocate_fee": "Rs. 150"
+}

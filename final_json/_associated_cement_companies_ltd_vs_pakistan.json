@@ -1,0 +1,148 @@
+{
+  "case_title": "ASSOCIATED CEMENT COMPANIES LTD. vs PAKISTAN",
+  "reference_no_or_id": "Civil Appeals Nos. 86 and 87 of 1971",
+  "judgment_date": "2000-01-07",
+  "first_hearing_date": "N/A",
+  "court": "Supreme Court of Pakistan",
+  "bench_type": "N/A",
+  "judges": [
+    "Qaisar Khan",
+    "Sheikh Anwarul Haq",
+    "Muhammad Haleem",
+    "Ghulam Safdar Shah"
+  ],
+  "appellant": [
+    "Associated Cement Companies Ltd."
+  ],
+  "respondant": [
+    "Pakistan"
+  ],
+  "accussed_details": [
+    {
+      "name": "Associated Cement Companies Ltd.",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "Company",
+      "allegation": [
+        "Failure to pay income tax",
+        "Illegal representation by Custodian of Enemy Property"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "Fazalur Rahman"
+    ]
+  },
+  "complaint_summary": "The appellant challenged income tax assessment orders issued by the respondents, claiming that the Custodian of Enemy Property improperly represented its interests and failed to appeal against the orders.",
+  "investigation_summary": "The property of the appellant was vested in the Custodian of Enemy Property under notifications issued by the Government of West Pakistan. The Custodian admitted liability and paid taxes without filing appeals.",
+  "judgment_summary": "The Supreme Court upheld the Lahore High Court's decision, dismissing the appeals on the grounds that the appellant, being an 'alien enemy,' lacked locus standi to pursue legal action in Pakistan. The Court ruled that the Custodian of Enemy Property had the authority to represent the appellant.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Appeal dismissed",
+  "legal_arguments": [
+    "Article 98 of the Constitution of 1962 does not confer substantive rights but provides remedies for aggrieved parties.",
+    "Section 83 of the Civil Procedure Code bars alien enemies from suing in Pakistani courts.",
+    "The Custodian of Enemy Property has extensive powers under the Enemy Property (Custody and Registration) Order, 1965.",
+    "Assessment orders were passed without jurisdiction and proper notice.",
+    "The Custodian acted beyond authority and failed to preserve the property."
+  ],
+  "assets": [
+    "Wah Cement Factory, Wah",
+    "Rohri Cement Factory, Rohri",
+    "Pakistan Provident Fund of Associated Cement Companies Ltd."
+  ],
+  "statutes": [
+    "Civil Procedure Code, Section 83",
+    "Specific Relief Act, Section 45",
+    "Article 98 of the Constitution of 1962",
+    "Defence of Pakistan Rules, 1965",
+    "Enemy Property (Custody and Registration) Order, 1965"
+  ],
+  "sections": [
+    "Section 22(3) and 29 of the Income Tax Act",
+    "Section 4 of the Defence of Pakistan Ordinance, 1965"
+  ],
+  "citations": [
+    "Porter v. Freudenberg (1915) 1 KB 857",
+    "State Bank of India Ltd v. Custodian of Evacuee Property, West Pakistan (PLD 1969 Kar 1050)",
+    "Madhavan Nair Emperor v. Sibnath Banerjee (AIR 1945 PC 156)"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Tax Law",
+    "Enemy Property Law",
+    "Constitutional Law"
+  ],
+  "key_issues": [
+    "Locus standi of alien enemies in Pakistani courts",
+    "Authority of Custodian of Enemy Property",
+    "Validity of income tax assessment orders",
+    "Jurisdiction of the High Court under Article 98 of the Constitution of 1962",
+    "Applicability of Section 83 of the Civil Procedure Code, 1908"
+  ],
+  "maxims": {
+    "Alien Enemy Doctrine": "Alien enemies are barred from suing in courts during hostilities."
+  },
+  "legal_terms": {
+    "Alien Enemy": "A subject of a state at war with Pakistan or residing in enemy territory.",
+    "Custodian of Enemy Property": "A government-appointed entity managing assets of alien enemies."
+  },
+  "words_and_phrases": {
+    "Locus Standi": "The right to bring an action or appear in a court.",
+    "Enemy Territory": "Territory under the sovereignty or administration of a state at war with Pakistan."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case involved the dismissal of appeals by Associated Cement Companies Ltd., an alien enemy, challenging income tax assessments. The Supreme Court upheld the Lahore High Court's decision, emphasizing the Custodian of Enemy Property's authority and the appellant's lack of locus standi.",
+  "facts": {
+    "company_origin": "Incorporated in India",
+    "properties_in_pakistan": [
+      "Wah Cement Factory, Wah",
+      "Rohri Cement Factory, Rohri"
+    ],
+    "custodian_appointment": [
+      {
+        "notification_date": "1965-09-29",
+        "authority": "Government of West Pakistan",
+        "role": "Deputy Custodian under Rule 182 of the Defence of Pakistan Rules"
+      },
+      {
+        "notification_date": "1966-04-25",
+        "authority": "Government of West Pakistan",
+        "role": "Deputy Custodian for Provident Fund and other properties"
+      },
+      {
+        "notification_date": "1971-03-11",
+        "authority": "West Pakistan Enemy Property Management Board",
+        "role": "Additional Custodian of Enemy Property"
+      }
+    ],
+    "income_tax_dispute": {
+      "assessment_years": [
+        "1965-66",
+        "1966-67"
+      ],
+      "issues": [
+        "Ex parte assessment orders",
+        "No notice served under Sections 22(3) and 29 of the Income Tax Act",
+        "Custodian admitted liability without proper representation"
+      ]
+    }
+  },
+  "legal_findings": {
+    "alien_enemy_status": "The appellant was deemed an alien enemy under Section 83 of the Civil Procedure Code and related Defence of Pakistan Rules.",
+    "custodian_authority": "The Custodian had extensive powers to manage, represent, and act on behalf of the appellant's properties.",
+    "jurisdiction": "The High Court's jurisdiction under Article 98 did not override the bar on alien enemies filing suits.",
+    "assessment_orders": "The Custodian's actions, including accepting tax liabilities, were within the scope of his authority."
+  },
+  "conclusion": {
+    "reasoning": "The appellant, being an alien enemy, lacked the legal standing to challenge the orders. The Custodian acted within his powers under the Defence of Pakistan Rules and Enemy Property Order.",
+    "final_decision": "Appeals dismissed."
+  }
+}

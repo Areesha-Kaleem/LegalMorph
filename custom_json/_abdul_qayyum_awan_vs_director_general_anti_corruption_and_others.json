@@ -1,0 +1,41 @@
+{
+  "case_title": "ABDUL QAYYUM AWAN vs DIRECTOR GENERAL ANTI-CORRUPTION and others",
+  "case_number": "Application for partial suspension of the impugned Notification dated 18.5.2016",
+  "court_name": "Azad Jammu and Kashmir Service Tribunal",
+  "judgment_date": "2016-09-09",
+  "judge": "Ameerullah Khan Mughal",
+  "appellant": "Abdul Qayyum Awan",
+  "respondent": "Director General Anti-Corruption and others",
+  "result": "Notification suspended",
+  "impugned_notification_date": "2016-05-18",
+  "key_issue": "Recovery of salary and emoluments received after retirement date (04.08.2015).",
+  "facts": {
+    "retirement_date": "2015-08-04",
+    "notification_order": "Recovery of salary and benefits received after retirement from pension commutation.",
+    "date_of_birth_correction_request": "Rejected on 2014-11-14",
+    "tribunal_decision": "Accepted correction request, later set aside by apex court on 2016-05-03."
+  },
+  "legal_principles": [
+    {
+      "principle": "Salary drawn after retirement due to litigation cannot be recovered.",
+      "precedent": "Muhammad Afsar Khan v. IGP and others (2014)."
+    },
+    {
+      "principle": "Civil servant working post-retirement without objection cannot have salary recovered.",
+      "precedent": "PLD 1992 SC 207, 2000 PLC (C.S.) 480."
+    },
+    {
+      "principle": "Recovery of salary from pensionary benefits without notice is invalid.",
+      "precedent": "2009 PLC 1400."
+    },
+    {
+      "principle": "Post-retirement salary recovery unjustified if services were performed.",
+      "precedent": "Azad Government v. Mrs. Jamshed Naqvi (2014 SCR 13)."
+    }
+  ],
+  "judgment_summary": {
+    "notification_suspension": "Suspended recovery of salary and emoluments drawn post-retirement until final disposal of appeal.",
+    "reasoning": "Appellant performed additional services post-retirement due to litigation; recovery unjustified."
+  },
+  "reported_as": "2017 P L C (C.S.) 331"
+}

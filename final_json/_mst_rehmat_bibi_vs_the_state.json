@@ -1,0 +1,152 @@
+{
+  "case_title": "Mst. REHMAT BIBI vs THE STATE",
+  "reference_no_or_id": "Criminal Miscellaneous No. 318/Q of 1972",
+  "judgment_date": "1972-07-25",
+  "first_hearing_date": "1972-02-01",
+  "court": "Lahore High Court",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Muhammad Afzal Cheema"
+  ],
+  "appellant": [
+    "Mst. Rehmat Bibi"
+  ],
+  "respondant": [
+    "The State"
+  ],
+  "accussed_details": [
+    {
+      "name": "Sarang",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "N/A",
+      "allegation": [
+        "Trespassing",
+        "Assault",
+        "Dragging complainant outside"
+      ]
+    },
+    {
+      "name": "Ramzan",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "N/A",
+      "allegation": [
+        "Trespassing",
+        "Assault",
+        "Dragging complainant outside"
+      ]
+    },
+    {
+      "name": "Nizai",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "N/A",
+      "allegation": [
+        "Trespassing",
+        "Assault",
+        "Dragging complainant outside"
+      ]
+    },
+    {
+      "name": "Ali",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "N/A",
+      "allegation": [
+        "Trespassing",
+        "Assault",
+        "Dragging complainant outside"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [],
+    "defense": []
+  },
+  "complaint_summary": "Mst. Khurshid Bibi alleged that Sarang, Ramzan, Nizai, and Ali trespassed into her house, assaulted her, and dragged her outside. She sustained six injuries, including on her knee, back, thigh, and head, and lodged a report after medical examination conducted the next morning.",
+  "investigation_summary": "Police investigation found Mst. Rehmat Bibi and Nizam innocent and placed them in Column 2. The trial magistrate, Mr. M. Ria, M.I.C., Khanewal, summoned all accused, including Mst. Rehmat Bibi.",
+  "judgment_summary": "The court found no evidence implicating Mst. Rehmat Bibi in the alleged crimes. Proceedings against her were partially quashed due to lack of justification for summoning her as an accused, while continuing against other accused.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Petition allowed; proceedings partially quashed for Mst. Rehmat Bibi.",
+  "legal_arguments": [
+    "No evidence from complainant or her husband implicating Mst. Rehmat Bibi.",
+    "Authority exists for partial quashing of proceedings."
+  ],
+  "assets": [],
+  "statutes": [
+    "Pakistan Penal Code"
+  ],
+  "sections": [
+    "354",
+    "452"
+  ],
+  "citations": [
+    "1973 P Cr. L J 246"
+  ],
+  "witnesses": [
+    "Mst. Khurshid Bibi",
+    "Shah Jamal"
+  ],
+  "witness_statement": {
+    "Mst. Khurshid Bibi": "Did not name Mst. Rehmat Bibi as the visitor or involved in the crime.",
+    "Shah Jamal": "Testimony based on information from his wife; did not implicate Mst. Rehmat Bibi."
+  },
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Criminal Law",
+    "Procedural Law"
+  ],
+  "key_issues": [
+    "Whether Mst. Rehmat Bibi was involved in the alleged crimes.",
+    "Validity of summoning Mst. Rehmat Bibi based on evidence."
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "Purdahnashin": "A woman who observes purdah (seclusion).",
+    "Partial Quashing": "Legal dismissal of proceedings against specific individuals."
+  },
+  "words_and_phrases": {
+    "Trespassing": "Entering someone's property without permission.",
+    "Lathis": "Wooden sticks used as weapons."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "Case involves allegations of trespassing and assault under sections 354 and 452 of PPC. Proceedings against Mst. Rehmat Bibi were quashed due to lack of evidence.",
+  "case_details": {
+    "incident_date": "Approximately 10-11 days before 1972-02-01",
+    "incident_time": "8/9 p.m.",
+    "location": "Complainant's house",
+    "complainant": "Mst. Khurshid Bibi",
+    "accused": [
+      "Sarang",
+      "Ramzan",
+      "Nizai",
+      "Ali"
+    ],
+    "injuries_sustained": [
+      "knee",
+      "back",
+      "thigh",
+      "head"
+    ],
+    "medical_examination_date": "Next morning after incident",
+    "police_findings": {
+      "innocent_persons": [
+        "Mst. Rehmat Bibi",
+        "Nizam"
+      ],
+      "placement": "Column 2"
+    }
+  },
+  "proceedings": {
+    "trial_magistrate": "Mr. M. Ria, M.I.C., Khanewal",
+    "summoned_persons": [
+      "Accused persons",
+      "Mst. Rehmat Bibi"
+    ],
+    "complainant_testimony": "Did not name Mst. Rehmat Bibi",
+    "husband_testimony": "Did not name Mst. Rehmat Bibi"
+  }
+}

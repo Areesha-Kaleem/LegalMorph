@@ -1,0 +1,119 @@
+{
+  "case_title": "Messrs GHARIBWAL CEMENT LIMITED and others vs RASHID SADIQ, EXECUTIVE DIRECTOR (ENFORCEMENT AND MONITORING), SECURITIES AND EXCHANGE COMMISSION OF PAKISTAN",
+  "reference_no_or_id": "Appeal against Order dated 5-12-2001",
+  "judgment_date": "2002-04-02",
+  "first_hearing_date": "2002-03-05",
+  "court": "Appellate Bench of Securities and Exchange Commission of Pakistan",
+  "bench_type": "Appellate Bench",
+  "judges": [
+    "Shahid Ghaffar",
+    "M. Zafar-Ul-Haq Hijazi"
+  ],
+  "appellant": [
+    "Messrs GHARIBWAL CEMENT LIMITED"
+  ],
+  "respondant": [
+    "RASHID SADIQ, EXECUTIVE DIRECTOR (ENFORCEMENT AND MONITORING), SECURITIES AND EXCHANGE COMMISSION OF PAKISTAN"
+  ],
+  "accussed_details": [
+    {
+      "name": "Directors of Gharibwal Cement Limited",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "Directors",
+      "allegation": [
+        "Violation of Section 208 of Companies Ordinance, 1984",
+        "Unauthorized investments exceeding 30% threshold",
+        "Failure to obtain prior shareholder approval"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "Dr. Parvez Hassan"
+    ]
+  },
+  "complaint_summary": "The Executive Director (E&M) alleged that Gharibwal Cement Limited violated Section 208 of the Companies Ordinance, 1984 by making unauthorized investments in Dandot Cement Company Limited exceeding the 30% threshold without prior shareholder approval.",
+  "investigation_summary": "The Executive Director (E&M) issued a show-cause notice after observing investments and loans made by Gharibwal Cement Limited to Dandot Cement Company Limited. The investigation revealed that these investments were made without prior shareholder approval and were in contravention of Section 208 of the Companies Ordinance, 1984.",
+  "judgment_summary": "The appellate bench concluded that Gharibwal Cement Limited violated Section 208 of the Companies Ordinance, 1984 by making unauthorized investments in Dandot Cement Company Limited. The penalty imposed on directors was reduced from Rs. 300,000 to Rs. 100,000 per director, and Rs. 200,000 for the CEO. The company was directed to recover any shortfall in returns from Dandot Cement Company Limited within specified timelines.",
+  "punishment": {
+    "directors": {
+      "original_penalty": "Rs 300,000 each",
+      "reduced_penalty": "Rs 100,000 each"
+    },
+    "chief_executive_officer": {
+      "penalty": "Rs 200,000"
+    }
+  },
+  "directions": {
+    "auditor_certificate": "Gharibwal must submit a certificate from its auditors confirming the actual amount to be brought back within 15 days.",
+    "shortfall_recovery": "Any shortfall indicated in the auditor's certificate must be recovered from Dandot within 30 days, failing which the directors will be held liable."
+  },
+  "Decision_or_verdict": "Appeal disposed of with reduced penalties and directives for recovery of shortfall.",
+  "legal_arguments": [
+    "Whether ratification by shareholders can rectify violations under Section 208.",
+    "Applicability of Section 208 to investments made in associated companies.",
+    "Nature of financial facilities provided by Gharibwal to Dandot.",
+    "Extent of loss suffered by Gharibwal due to investments in Dandot.",
+    "Compliance with Section 195(5) and Section 488 of the Companies Ordinance, 1984.",
+    "Buy-back arrangement with Saudi-Pak Leasing and its compliance with Section 208."
+  ],
+  "assets": [
+    "11,429,708 shares of Dandot Cement Company Limited",
+    "Loans amounting to Rs. 337.8 million",
+    "Purchase of 966,500 shares for Rs 7.3 million"
+  ],
+  "statutes": [
+    "Companies Ordinance, 1984"
+  ],
+  "sections": [
+    "Section 208",
+    "Section 476",
+    "Section 195(5)",
+    "Section 488"
+  ],
+  "citations": [
+    "2003 C L D 131",
+    "Brooke Bond India Ltd. v. UB Ltd. (1994) 79 Companies Cases 346",
+    "Mathura Prasad Saraf v. Company Law Board",
+    "East Indian Produce Limited v. Naresh Acharya Bhaduri (1988) 64 Comp. Cas. 259"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Corporate Law",
+    "Investment Regulations",
+    "Governance Compliance"
+  ],
+  "key_issues": [
+    "Unauthorized investments exceeding statutory limits",
+    "Ratification of investments post-violation",
+    "Financial losses due to non-compliance",
+    "Governance issues in disclosure and shareholder approval",
+    "Buy-back arrangement with Saudi-Pak Leasing and its compliance with Section 208"
+  ],
+  "violations": {
+    "section_208": {
+      "description": "Investments made by Gharibwal in Dandot exceeded the 30% threshold without prior shareholder approval.",
+      "extent": "Purchase of 966,500 shares for Rs 7.3 million and advances of Rs 337.8 million."
+    }
+  },
+  "maxims": {
+    "Cuilibet licet renuntiar juri prose introducto": "Any one may waive or renounce the benefit of a principle or rule of law that exists only for his protection."
+  },
+  "legal_terms": {
+    "Associated Company": "A company in which another company holds 20% or more of the shareholding.",
+    "Special Resolution": "A resolution passed by shareholders requiring a higher threshold of approval."
+  },
+  "words_and_phrases": {
+    "Normal Trade Credit": "Credit extended in the ordinary course of business transactions."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around violations of Section 208 of the Companies Ordinance, 1984 by Gharibwal Cement Limited due to unauthorized investments in Dandot Cement Company Limited. The appellate bench reduced penalties and directed recovery of shortfall in returns. Key issues include governance compliance, ratification of investments, financial losses, and buy-back arrangements."
+}

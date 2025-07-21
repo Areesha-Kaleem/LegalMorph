@@ -1,0 +1,34 @@
+{
+  "case_title": "NABI BAKHSH and others vs HOTE MUHAMMAD and others",
+  "case_number": "Review No,n of 1987",
+  "judgment_date": "1989-02-20",
+  "court_name": "Board of Revenue, Punjab",
+  "judge": "Javed Ahmad Qureshi",
+  "reported_as": "P L D 1989 Revenue 22",
+  "result": "Review petition rejected",
+  "laws_referenced": "Section 8 of the Board of Revenue Act, 1957",
+  "appellant": "NABI BAKHSH and others",
+  "respondent": "HOTE MUHAMMAD and others",
+  "case_summary": {
+    "initial_order_date": "1987-02-10",
+    "initial_order_by": "Member (Cons.), Board of Revenue, Punjab",
+    "appeal_details": {
+      "appeal_by": "Petitioners",
+      "appeal_against": "Order of Consolidation Officer, Rajanpur",
+      "collector_decision_date": "1982-10-31",
+      "collector_decision": "Amendments in Khatas",
+      "additional_commissioner_decision_date": "1985-12-15",
+      "additional_commissioner_decision": "Appeal dismissed"
+    },
+    "review_petition": {
+      "grounds": "Ex parte decision, incorrect impleading of parties",
+      "petitioners_request": "Set aside order dated 1987-02-10 and decide revision afresh",
+      "respondents_rebuttal": "Affidavits submitted indicating satisfaction with the decision"
+    }
+  },
+  "final_decision": {
+    "application_rejected": "Petitioner No. 1's application to implead parties as respondents",
+    "reason_for_rejection": "Most petitioners wanted to withdraw the review petition",
+    "status": "Review petition deemed infructuous"
+  }
+}

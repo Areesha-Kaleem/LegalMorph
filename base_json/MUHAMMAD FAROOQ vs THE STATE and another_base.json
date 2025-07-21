@@ -1,0 +1,83 @@
+{
+  "case_title": "MUHAMMAD FAROOQ vs THE STATE and another",
+  "reference_no_or_id": "Criminal Miscellaneous No. 255 of 2007, Petition No. 100 of 2006",
+  "judgment_date": "2007-10-27",
+  "first_hearing_date": "N/A",
+  "court": "Supreme Court of Pakistan",
+  "bench_type": "Coram 2",
+  "judges": [
+    "Falak Sher",
+    "Sardar Muhammad Raza Khan"
+  ],
+  "appellant": [
+    "MUHAMMAD FAROOQ"
+  ],
+  "respondant": [
+    "THE STATE",
+    "Another"
+  ],
+  "accussed_details": [
+    {
+      "name": "MUHAMMAD FAROOQ",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Petitioner-Convict",
+      "allegation": [
+        "Criminal offense under sections 338-E, 309, 310, and 311 of P.P.C."
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [],
+    "defense": []
+  },
+  "complaint_summary": "The case involves a criminal offense where the petitioner-convict was accused under sections 338-E, 309, 310, and 311 of P.P.C. The matter pertains to a compromise between legal heirs of the deceased.",
+  "investigation_summary": "The investigation revealed that the father of the deceased waived his right, while the mother did not. The mother is entitled to Badl-i-Sulh/compensation.",
+  "judgment_summary": "The court directed the petitioner-convict to deposit Rs. 300,000 as Badl-i-Sulh with the Registrar of the Supreme Court of Pakistan by 22-11-2007. The case was to be re-listed for further considerations after the deposit.",
+  "punishment": "Deposit of Rs. 300,000 as Badl-i-Sulh compensation.",
+  "Decision_or_verdict": "Order accordingly. The case is not of Qisas but Ta'zir, requiring compromise from all legal heirs.",
+  "legal_arguments": [
+    "Reference to sections 338-E, 309, 310, and 311 of P.P.C.",
+    "Discussion on the entitlement of Badl-i-Sulh/compensation.",
+    "Clarification that the case falls under Ta'zir, not Qisas."
+  ],
+  "assets": [],
+  "statutes": [
+    "Pakistan Penal Code (P.P.C.)"
+  ],
+  "sections": [
+    "338-E",
+    "309",
+    "310",
+    "311"
+  ],
+  "citations": [
+    "2008 SCMR 265"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Criminal Law",
+    "Compromise",
+    "Ta'zir"
+  ],
+  "key_issues": [
+    "Entitlement of Badl-i-Sulh compensation.",
+    "Requirement of compromise from all legal heirs.",
+    "Classification of the case as Ta'zir instead of Qisas."
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "Badl-i-Sulh": "Compensation paid as part of a compromise in criminal cases.",
+    "Ta'zir": "Punishment determined by the court, not fixed by Islamic law."
+  },
+  "words_and_phrases": {
+    "Qisas": "Retribution in Islamic law.",
+    "Compromise": "Agreement between parties to settle the matter."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case involves a compromise under Ta'zir law, requiring all legal heirs to agree. The petitioner-convict was directed to pay Rs. 300,000 as Badl-i-Sulh compensation to the mother of the deceased. Further proceedings were scheduled after the deposit."
+}

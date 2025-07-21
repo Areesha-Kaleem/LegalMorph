@@ -1,0 +1,157 @@
+{
+  "case_title": "Messrs Hussain Mills Limited, Karachi vs The Commissioner Inland Revenue, Zone-III, LTU, Karachi",
+  "reference_no_or_id": "I.T.As. Nos.856/KB to 876/KB of 2019",
+  "case_number": "I.T.As. Nos.856/KB to 876/KB of 2019",
+  "judgment_date": "2019-12-11",
+  "first_hearing_date": "N/A",
+  "court": "Appellate Tribunal Inland Revenue",
+  "court_name": "Appellate Tribunal Inland Revenue",
+  "bench_type": "N/A",
+  "judges": [
+    "Saif Ullah Khan",
+    "Ambreen Aslam"
+  ],
+  "appellant": [
+    "Messrs Hussain Mills Limited, Karachi"
+  ],
+  "respondant": [
+    "The Commissioner Inland Revenue, Zone-III, LTU, Karachi"
+  ],
+  "accussed_details": [
+    {
+      "name": "Messrs Hussain Mills Limited",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "Private Limited Company",
+      "allegation": [
+        "Failure to file monthly withholding tax statements under Section 165 of Income Tax Ordinance, 2001 for specified months",
+        "Violation of prescribed format for withholding tax statements",
+        "Non-compliance with Section 182 of Income Tax Ordinance, 2001"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Mr. Asif Jamali"
+    ],
+    "defense": [
+      "Mr. Ameer Ali Akbar, ACA",
+      "Mr. Muhammad Siddiq, ITP"
+    ]
+  },
+  "complaint_summary": "The taxpayer failed to file monthly withholding tax statements for specified months, violating Section 165 of the Income Tax Ordinance, 2001, and was penalized under Section 182.",
+  "investigation_summary": "Show-cause notices were issued to the taxpayer for non-compliance with Section 165 of the Income Tax Ordinance, 2001. The taxpayer responded, citing technical issues with the FBR IRIS portal. The department rejected the explanation and imposed penalties.",
+  "judgment_summary": "The Tribunal accepted the taxpayer's appeals, finding no mens rea or ulterior motive in the delayed filing of withholding tax statements. The penalties imposed by the department were deemed excessive and uncalled for.",
+  "punishment": "Penalties imposed under Section 182 were set aside.",
+  "Decision_or_verdict": "Appeals accepted; penalties annulled.",
+  "result": "Appeals accepted",
+  "legal_arguments": [
+    "Technical issues with FBR IRIS portal prevented timely filing of statements.",
+    "No mens rea or ulterior motive involved in the delay.",
+    "Taxpayer fulfilled primary obligation of tax deduction and payment.",
+    "Penalties under Section 182 were excessive and uncalled for."
+  ],
+  "grounds_of_appeal": [
+    "Combined Order passed for the months from July 2015 to November 2016 and March 2017 to June 2017 under section 129 of Income Tax Ordinance, 2001 is bad in law and on facts.",
+    "Learned CIRA erred in confirming action of DCIR of passing an order under section 182 of the Ordinance.",
+    "DCIR levied penalty for late filing of monthly statement under section 165 of the Ordinance without considering technical issues with FBR IRIS portal.",
+    "Penalty under section 182(1) was excessive and uncalled for as no mens rea or ulterior motive was involved.",
+    "Due tax on payments was deducted and paid in time, and penalty related to supplementary compliance should be deleted."
+  ],
+  "assets": [],
+  "statutes": [
+    "Income Tax Ordinance, 2001"
+  ],
+  "sections": [
+    "Section 165",
+    "Section 182"
+  ],
+  "citations": [
+    "2021 P T D (Trib.) 35",
+    "2010 PTD (Trib.) 1373",
+    "2017 PTD 770"
+  ],
+  "reported_as": "2021 P T D (Trib.) 35",
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Tax Law",
+    "Administrative Law"
+  ],
+  "key_issues": [
+    "Delayed filing of withholding tax statements",
+    "Technical issues with FBR IRIS portal",
+    "Excessive penalties under Section 182",
+    "Mens rea and negligence in filing withholding tax statements"
+  ],
+  "penalty_details": [
+    {
+      "period": "July 2015",
+      "days": 492,
+      "penalty_amount": 1230000
+    },
+    {
+      "period": "August 2015",
+      "days": 461,
+      "penalty_amount": 1152500
+    },
+    {
+      "period": "September 2015",
+      "days": 430,
+      "penalty_amount": 1075000
+    },
+    {
+      "period": "October 2015",
+      "days": 400,
+      "penalty_amount": 1000000
+    },
+    {
+      "period": "November 2015",
+      "days": 370,
+      "penalty_amount": 925000
+    },
+    {
+      "period": "March 2017",
+      "days": 671,
+      "penalty_amount": 1677500
+    },
+    {
+      "period": "April 2017",
+      "days": 640,
+      "penalty_amount": 1600000
+    },
+    {
+      "period": "May 2017",
+      "days": 610,
+      "penalty_amount": 1525000
+    }
+  ],
+  "arguments_by_appellant": [
+    "Technical issues with FBR IRIS portal prevented timely filing.",
+    "No mens rea or negligence involved in late filing.",
+    "Tax was deducted and paid in time, fulfilling primary obligations."
+  ],
+  "arguments_by_respondent": [
+    "Penalties imposed were lawful and within the framework of the law.",
+    "Appellant failed to provide sufficient evidence of technical issues.",
+    "Non-compliance with prescribed format for withholding statements."
+  ],
+  "tribunal_observations": [
+    "Taxpayer provided reasonable cause for late filing due to technical issues with IRIS portal.",
+    "Department failed to counter taxpayer's claims regarding system inefficiencies.",
+    "No mens rea or negligence was established on the part of the taxpayer."
+  ],
+  "final_decision": "Impugned order set aside; appeals accepted.",
+  "maxims": {},
+  "legal_terms": {
+    "mens rea": "The intention or knowledge of wrongdoing."
+  },
+  "words_and_phrases": {
+    "withholding tax": "Tax deducted at source from payments made to individuals or entities."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around penalties imposed on Messrs Hussain Mills Limited for delayed filing of withholding tax statements. The taxpayer argued technical issues with the FBR IRIS portal and lack of mens rea. The Tribunal accepted the appeals, setting aside penalties as excessive and uncalled for."
+}

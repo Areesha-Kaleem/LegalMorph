@@ -1,0 +1,21 @@
+{
+  "case_title": "COMMISSIONER OF INCOME-TAX vs PARKE DAVIS (INDIA) LIMITED",
+  "case_number": "Income-tax Case No.93 of 1998",
+  "court_name": "Andhra Pradesh High Court",
+  "judgment_date": "1999-06-08",
+  "judges": "P. Venkatarama Reddy, A. Hanumanthu",
+  "appellant": "Commissioner of Income-tax",
+  "respondent": "Parke Davis (India) Limited",
+  "result": "Application dismissed",
+  "reported_as": "2001 P T D 2313",
+  "legal_provisions": {
+    "section_256_2": "Income Tax Act, 1961",
+    "section_127": "Income Tax Act, 1961"
+  },
+  "key_points": {
+    "jurisdiction_issue": "The Andhra Pradesh High Court determined it lacked jurisdiction to entertain the application under section 256(2).",
+    "appellate_tribunal_location": "Mumbai Bench of the Income-tax Appellate Tribunal",
+    "reason_for_filing_in_AP": "Assessment files of the respondent company were transferred to Hyderabad after the appeal disposal.",
+    "interpretation_of_section_127": "Section 127 does not allow transfer of proceedings from one Appellate Tribunal to another or alter High Court jurisdiction."
+  }
+}

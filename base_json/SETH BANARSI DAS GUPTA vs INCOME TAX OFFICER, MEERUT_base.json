@@ -1,0 +1,85 @@
+{
+  "case_title": "SETH BANARSI DAS GUPTA vs INCOME TAX OFFICER, MEERUT",
+  "reference_no_or_id": "Income tax Reference No. 610 of 1973",
+  "judgment_date": "1977-04-29",
+  "first_hearing_date": "N/A",
+  "court": "Allahabad High Court",
+  "bench_type": "Division Bench",
+  "judges": [
+    "R. M. Sahai",
+    "D. M. Chandrashekhar"
+  ],
+  "appellant": [
+    "SETH BANARSI DAS GUPTA"
+  ],
+  "respondant": [
+    "INCOME TAX OFFICER, MEERUT"
+  ],
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": []
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "Sri Khanna"
+    ]
+  },
+  "complaint_summary": "The appellant challenged the disallowance of depreciation on a 1/6th share in S.B. Sugar Mills, Bijnor, and the classification of a Rs. 3,90,750 loss on the sale of shares of Jaswant Sugar Mills Ltd. as a capital loss.",
+  "investigation_summary": "The Income Tax Tribunal determined that the shares were acquired as investments and not stock-in-trade. The appellant failed to provide evidence to support claims of trade-related transactions.",
+  "judgment_summary": "The court ruled against the appellant on both questions, affirming that depreciation was not allowable on the 1/6th share in S.B. Sugar Mills, Bijnor, and that the Rs. 3,90,750 loss on the sale of shares was a capital loss. The department was awarded costs of Rs. 200.",
+  "punishment": "Costs assessed at Rs. 200, counsel's fee also assessed at Rs. 200.",
+  "Decision_or_verdict": "Questions answered against the assessee and in favor of the department.",
+  "legal_arguments": [
+    "The appellant argued that the shares were stock-in-trade and the loss should be treated as revenue loss.",
+    "The appellant relied on precedents such as Investment Ltd. v. Commissioner of Income-tax [1970] 77 ITR 533 (SC) and Raj Kishen Pretn Chandra Jain v. Commissioner of Income-tax [1959] 35 ITR 590 (Punj).",
+    "The court found these precedents inapplicable as the appellant's transactions were isolated and not in the nature of trade."
+  ],
+  "assets": [
+    "1/6th share in S.B. Sugar Mills, Bijnor",
+    "Shares of Jaswant Sugar Mills Ltd."
+  ],
+  "statutes": [
+    "Income Tax Act"
+  ],
+  "sections": [
+    "N/A"
+  ],
+  "citations": [
+    "[1971] 81 ITR 170 (All)",
+    "[1970] 77 ITR 533 (SC)",
+    "[1959] 35 ITR 590 (Punj)"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Income Tax",
+    "Capital Gains",
+    "Depreciation"
+  ],
+  "key_issues": [
+    "Depreciation on 1/6th share in S.B. Sugar Mills, Bijnor.",
+    "Classification of Rs. 3,90,750 loss on sale of shares as capital loss."
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "Capital Loss": "Loss incurred on the sale of a capital asset.",
+    "Depreciation": "Reduction in the value of an asset over time."
+  },
+  "words_and_phrases": {
+    "Stock-in-trade": "Goods or assets held for sale in the ordinary course of business.",
+    "Adventure in the nature of trade": "A transaction undertaken with the intention of earning profit through trade."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case involves the disallowance of depreciation on a 1/6th share in S.B. Sugar Mills, Bijnor, and classification of a Rs. 3,90,750 loss on the sale of shares as capital loss. The court ruled against the appellant, affirming the Tribunal's findings that the shares were investments and not stock-in-trade."
+}

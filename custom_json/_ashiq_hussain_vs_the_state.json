@@ -1,0 +1,54 @@
+{
+  "case_title": "ASHIQ HUSSAIN vs THE STATE",
+  "case_number": "Criminal Revision No. 115 of 1980",
+  "judgment_date": "1981-02-22",
+  "court_name": "Peshawar High Court",
+  "judge": "Shahnawaz Khan",
+  "reported_as": "P L D 1981 Peshawar 98",
+  "appellant": "Ashiq Hussain",
+  "respondent": "The State",
+  "result": "Petition accepted",
+  "charges": {
+    "law": "Suppression of Prostitution Ordinance, 1961",
+    "section": "Section 3",
+    "allegations": "Running a brothel house and allowing bad character people to visit."
+  },
+  "initial_verdict": {
+    "court": "Magistrate Ist Class, Nowshera",
+    "judge": "Gui Rehman Khan",
+    "sentence": {
+      "imprisonment": "1 month simple imprisonment",
+      "fine": "Rs. 200",
+      "default_penalty": "2 months simple imprisonment"
+    }
+  },
+  "defense_arguments": {
+    "witnesses": "Respectable individuals testified to the good character of the petitioner.",
+    "key_defense_witnesses": [
+      {
+        "name": "Mian Shahzada",
+        "role": "Proprietor of the building"
+      },
+      {
+        "name": "Sh. Zainul Abideen",
+        "role": "Ex-Vice President of Cantonment Board and Chairman of B.D. System"
+      },
+      {
+        "name": "Sh. Muhammad Ibrahim",
+        "role": "Ex-B.D. Member and pensioner"
+      },
+      {
+        "name": "Faqir Hussain",
+        "role": "Mohallahdar"
+      }
+    ],
+    "arguments": "No evidence of immoral activities or running a brothel house. Witnesses from prosecution were unreliable and biased."
+  },
+  "prosecution_arguments": {
+    "witnesses": "Prosecution witnesses were deemed unreliable by the State counsel."
+  },
+  "judgment_summary": {
+    "reasoning": "Evidence against the petitioner was not well-founded. Defense evidence was more credible.",
+    "decision": "Conviction set aside. Petitioner acquitted and discharged from bail bond."
+  }
+}

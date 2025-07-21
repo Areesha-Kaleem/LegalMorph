@@ -1,0 +1,84 @@
+{
+  "case_title": "AZAD TOBACCO FACTORY (P.) LTD. vs COMMISSIONER OF INCOME-TAX",
+  "reference_no_or_id": "Writ Petition No,665(M/B) of 1995",
+  "judgment_date": "1995-04-20",
+  "first_hearing_date": "N/A",
+  "court": "Allahabad High Court",
+  "bench_type": "Division Bench",
+  "judges": [
+    "Brijesh Kumar",
+    "D. K. Seth"
+  ],
+  "appellant": [
+    "AZAD TOBACCO FACTORY (P.) LTD."
+  ],
+  "respondant": [
+    "COMMISSIONER OF INCOME-TAX"
+  ],
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": []
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Mr. Misra"
+    ],
+    "defense": [
+      "Mr. S.P. Gupta"
+    ]
+  },
+  "complaint_summary": "The appellant sought a deduction under Section 80-HHC(2)(a) of the Income Tax Act for export profits but failed to bring sale proceeds into India within six months due to reasons beyond its control. The Commissioner denied the extension of time for claiming the deduction.",
+  "investigation_summary": "The appellant submitted its return on December 31, 1992, for the assessment year 1991-92, claiming deductions for exports made on March 21, 1992. An application for extension was submitted on December 28, 1992, but was rejected by the Commissioner on September 13, 1993, citing late submission beyond the six-month period.",
+  "judgment_summary": "The court held that Section 80-HHC(2)(a) does not mandate an application within six months for claiming deductions. The Commissioner failed to exercise jurisdiction to allow an extension despite the appellant's inability to comply due to reasons beyond its control. The Commissioner was directed to reconsider the matter.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Order set aside; Commissioner directed to decide afresh.",
+  "legal_arguments": [
+    "Section 80-HHC(2)(a) does not specify a time limit for applications.",
+    "Deduction claims are to be made in the return itself.",
+    "The Commissioner must exercise discretion if conditions are met."
+  ],
+  "assets": [],
+  "statutes": [
+    "Income Tax Act, Section 80-HHC(1)",
+    "Income Tax Act, Section 80-HHC(2)(a)"
+  ],
+  "sections": [
+    "Section 80-HHC(1)",
+    "Section 80-HHC(2)(a)"
+  ],
+  "citations": [
+    "C.S.T. v. Modi Sugar Mills Ltd., AIR 1961 SC 1047",
+    "L. Hirday Narain v. ITO (1970) 78 ITR 26 (SC)"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Income Tax",
+    "Export Profits Deduction"
+  ],
+  "key_issues": [
+    "Whether Section 80-HHC(2)(a) requires an application for claiming deductions.",
+    "Whether such application must be made within six months."
+  ],
+  "maxims": {
+    "Statutory Interpretation": "Words of the statute must be interpreted as expressly stated without importing assumptions."
+  },
+  "legal_terms": {
+    "Deduction": "Reduction in taxable income.",
+    "Convertible Foreign Exchange": "Currency that can be freely exchanged for another currency."
+  },
+  "words_and_phrases": {
+    "Relaxation": "Suspension of a statutory requirement under specific conditions.",
+    "Discretion": "Authority to decide based on satisfaction of conditions."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around the interpretation of Section 80-HHC(2)(a) of the Income Tax Act concerning deductions for export profits. The court clarified that the section does not mandate an application within six months for claiming deductions. The Commissioner was directed to reconsider the appellant's application for an extension due to reasons beyond its control."
+}

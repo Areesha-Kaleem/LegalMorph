@@ -1,0 +1,151 @@
+{
+  "case_title": "Assesses vs Department",
+  "reference_no_or_id": "D.A. No. 13 of 1979-80",
+  "case_number": "D.A. No. 13 of 1979-80",
+  "judgment_date": "1981-09-24",
+  "first_hearing_date": "1979-03-11",
+  "court": "Appellate Tribunal Inland Revenue",
+  "court_name": "Appellate Tribunal Inland Revenue",
+  "bench_type": "Two-member bench",
+  "judges": [
+    "Mian Abdul Khaliq",
+    "A. A. Zuberi"
+  ],
+  "appellant": [
+    "Accountable Persons of deceased S.M-E."
+  ],
+  "respondent": [
+    "Department"
+  ],
+  "accussed_details": [
+    {
+      "name": "S.M-E.",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Deceased individual",
+      "allegation": [
+        "Incorrect declaration of cash-in-hand",
+        "Invalid creation of Waqf"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Assessing Officer"
+    ],
+    "defense": [
+      "Appellant's Authorized Representative (AR)"
+    ]
+  },
+  "complaint_summary": "The Department alleged discrepancies in the declaration of cash-in-hand and questioned the validity of a Waqf created by the deceased.",
+  "investigation_summary": "The Assessing Officer proposed an estimated cash-in-hand of Rs. 5,000 based on social and financial status of the deceased, and rejected the Waqf claim due to non-execution of Trust Deed during the deceased's lifetime.",
+  "judgment_summary": "The Tribunal ruled that the Department's estimation of cash-in-hand was arbitrary and unsupported by evidence. It accepted the declared amount of Rs. 730. The Tribunal also upheld the validity of the Waqf created by the deceased through a written will dated 7-1-1979, declaring the insurance amount and properties as Waqf property effective from the date of the will.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "The Tribunal modified the impugned order, accepting the declared cash-in-hand and recognizing the Waqf as valid.",
+  "legal_arguments": [
+    "Presumption of cash-in-hand based on social and financial status is erroneous.",
+    "Waqf creation requires only a declaration of endowment by the owner.",
+    "Non-execution of Trust Deed does not invalidate a legally created Waqf."
+  ],
+  "assets": [
+    {
+      "type": "Cash-in-hand",
+      "value": "Rs. 730"
+    },
+    {
+      "type": "Insurance policy",
+      "value": "Rs. 2,00,000"
+    },
+    {
+      "type": "House at Gobind Ram Street",
+      "value": "Rs. 50,000"
+    },
+    {
+      "type": "House occupied by M.G.C, S.",
+      "value": "Rs. 1,50,000"
+    }
+  ],
+  "statutes": [
+    "Mohammadan Law"
+  ],
+  "sections": [
+    "Article 186 (Mohammadan Law)"
+  ],
+  "citations": [
+    "(1947)-AII-L-J-85=47-AA-201-FB",
+    "(1949)-Nag, 426",
+    "(1951)-Dacca-57-(52)-P-Dacca-205",
+    "PLD-1967-LHR-1221"
+  ],
+  "witnesses": [
+    {
+      "name": "Witnesses to the will",
+      "role": "Verification of Waqf creation"
+    }
+  ],
+  "witness_statement": {
+    "Witnesses to the will": "Confirmed the deceased's declaration of Waqf through a written will dated 7-1-1979."
+  },
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Taxation",
+    "Estate Law",
+    "Islamic Law"
+  ],
+  "key_issues": [
+    "Validity of Waqf created through a will",
+    "Arbitrary estimation of cash-in-hand"
+  ],
+  "maxims": {
+    "Waqf creation": "A Waqf is irrevocable once declared by the owner."
+  },
+  "legal_terms": {
+    "Waqf": "Permanent dedication of property for religious, pious, or charitable purposes under Islamic law."
+  },
+  "words_and_phrases": {
+    "Mutawalli": "Trustee of a Waqf property."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk",
+    "printed_by": "Areesha Kaleem",
+    "printed_on": "2025-07-15"
+  },
+  "summary_vector_notes": "The case revolves around the validity of a Waqf created by the deceased and the arbitrary estimation of cash-in-hand by the Department. The Tribunal ruled in favor of the appellant, recognizing the Waqf and rejecting the Department's estimation.",
+  "issues": {
+    "cash_in_hand": {
+      "declared_amount": 730,
+      "assessed_amount": 5000,
+      "tribunal_decision": "Declared amount accepted",
+      "reasoning": "Presumption based on social and financial status was erroneous; no substantiated evidence provided by the Department."
+    },
+    "insurance_and_properties": {
+      "insurance_amount": 200000,
+      "properties": [
+        {
+          "location": "Gobind Ram Street",
+          "value": 50000
+        },
+        {
+          "location": "Occupied by M.G.C., S.",
+          "value": 150000
+        }
+      ],
+      "tribunal_decision": "Exempted as Waqf property",
+      "reasoning": "Waqf created by deceased through will on 7-1-1979 was valid and irrevocable; properties did not pass to Accountable Persons."
+    }
+  },
+  "legal_references": [
+    {
+      "source": "PLD-1967-LHR-1221",
+      "principle": "No set formula for creating Waqf; clear intention and appointment of Mutawalli suffice."
+    },
+    {
+      "source": "Mullah's Mohammadan Law (16th Edn.)",
+      "principle": "Waqf inter vivos completed by mere declaration of endowment."
+    },
+    {
+      "source": "Allahabad High Court (1947)-AII-L-J-85",
+      "principle": "Declaration of endowment sufficient for Waqf completion."
+    }
+  ]
+}

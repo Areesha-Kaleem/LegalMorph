@@ -1,0 +1,42 @@
+{
+  "case_title": "Muhammad Ameen vs Deputy Commissioner Panjgur",
+  "case_number": "C.P. No. (T) 117 of 2022",
+  "judgment_date": "2022-11-30",
+  "court_name": "Balochistan High Court",
+  "judges": [
+    "Rozi Khan Barrech",
+    "Abdul Hameed Baloch"
+  ],
+  "reported_as": "2023 MLD 910",
+  "appellant": "Muhammad Ameen",
+  "respondent": "Deputy Commissioner Panjgur",
+  "result": "Petition dismissed",
+  "legal_basis": {
+    "constitution_article": "Article 199 of the Constitution of Islamic Republic of Pakistan, 1973",
+    "precedents": [
+      {
+        "case": "Dr. Sher Afgan Khan Niazi v. Ali S. Habib and others",
+        "citation": "2011 SCMR 1813"
+      },
+      {
+        "case": "N.W.F.P. Public Service Commission and others v. Muhammad Arif and others",
+        "citation": "2011 SCMR 848"
+      },
+      {
+        "case": "M.H. Abidi v. Scare Life Insurance Corporation",
+        "citation": "1990 MLD 563"
+      },
+      {
+        "case": "Muhammad Nazim v. Rehana Parveen Begum",
+        "citation": "1990 MLD 344"
+      }
+    ]
+  },
+  "key_points": {
+    "petitioner_claim": "Compensation for land affected by road cutting.",
+    "respondent_argument": "Property belongs to the Government of Balochistan; petitioner lacks title documents.",
+    "court_observation": "Petitioner failed to provide clear title documents; disputed property title requires adjudication in Civil Court.",
+    "jurisdiction_limitation": "Constitutional jurisdiction under Article 199 cannot address disputed property titles."
+  },
+  "recommendation": "Petitioner advised to approach relevant authority or Civil Court for resolution."
+}

@@ -1,0 +1,103 @@
+{
+  "case_title": "MUHAMMAD ALI vs THE STATE",
+  "case_number": "Criminal Appeal No. 67 of 1975/BWP",
+  "judgment_date": "1977-03-21",
+  "court": "Baghdad-ul-Jadid",
+  "judges": [
+    "Nasim Hasan Shah",
+    "Ch. Muhammad Siddique"
+  ],
+  "appellant": "Muhammad Ali",
+  "respondent": "The State",
+  "result": "Appeal dismissed",
+  "reported_as": "P L D 1978 Baghdadul Jadid 9",
+  "charges": {
+    "section_302": {
+      "description": "Murder",
+      "sentence": "Death penalty",
+      "fine": "Rs. 2,000",
+      "default_penalty": "2 years R.I."
+    },
+    "section_324": {
+      "description": "Attempt to commit murder",
+      "sentence": "2 years R.I."
+    },
+    "section_452": {
+      "description": "House trespass after preparation for hurt",
+      "sentence": "2 years R.I."
+    }
+  },
+  "facts": {
+    "incident_date": "1975-06-19",
+    "incident_time": "9:00 AM",
+    "victim_1": {
+      "name": "Bashir Ahmad",
+      "relation_to_appellant": "Brother-in-law",
+      "cause_of_death": "Multiple stab wounds",
+      "location": "Village street",
+      "injuries": [
+        "Stab wound on left shoulder",
+        "Stab wound near neck",
+        "Lacerated wound on abdomen",
+        "Incised wound on abdomen cavity"
+      ]
+    },
+    "victim_2": {
+      "name": "Mst. Shiman",
+      "relation_to_appellant": "Daughter of Sher Muhammad Chowkidar",
+      "injuries": [
+        "Incised wound on back of right leg",
+        "Incised wound on back of right thigh"
+      ],
+      "injury_location": "Her house"
+    },
+    "weapon": "Churri (knife)",
+    "motive": "Appellant's grievance over a panchayat decision against him due to his alleged illicit intentions towards Mst. Shiman."
+  },
+  "prosecution_evidence": {
+    "eye_witnesses": [
+      "Muhammad Shafi (P.W. 8)",
+      "Bashir Ahmad (P.W. 9)",
+      "Mst. Shiman (P.W. 10)"
+    ],
+    "recoveries": {
+      "weapon": "Blood-stained churri",
+      "clothes": [
+        "Chadar",
+        "Kachha",
+        "Banyan"
+      ],
+      "blood_stained_earth": "From crime scenes"
+    },
+    "medical_reports": {
+      "victim_1": {
+        "doctor": "Dr. M. Akram Zahid",
+        "cause_of_death": "Shock due to bleeding from injuries"
+      },
+      "victim_2": {
+        "doctor": "Dr. A. D. Bhatti",
+        "injuries": "Simple, caused by sharp-edged weapon"
+      },
+      "appellant": {
+        "doctor": "Dr. A. D. Bhatti",
+        "injuries": "Simple, caused by sharp and blunt weapons"
+      }
+    }
+  },
+  "defense_claims": {
+    "self_defense": "Appellant claimed he acted in self-defense after being attacked by Bashir Ahmad in a sugarcane field.",
+    "relationship": "Appellant alleged prior illicit relations with Mst. Shiman."
+  },
+  "court_findings": {
+    "motive": "Prosecution established motive through credible witnesses.",
+    "eye_witnesses": "Statements deemed reliable and consistent.",
+    "medical_evidence": "Minor discrepancies in time of death ignored due to strong direct evidence.",
+    "defense_version": "Rejected as improbable and unsupported by evidence."
+  },
+  "final_decision": {
+    "section_302": "Conviction and death penalty confirmed.",
+    "section_324": "Conviction and sentence maintained.",
+    "section_452": "Conviction and sentence maintained.",
+    "concurrent_sentences": "Non-death sentences to run concurrently."
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "case_title": "Messrs DUTY FREE SHOP LTD vs CENTRAL BOARD OF REVENUE and others",
+  "reference_no_or_id": "Constitutional Petitions Nos.D-847, D-1865 and D-1930 of 1997",
+  "judgment_date": "1999-07-05",
+  "first_hearing_date": "1997-08-27",
+  "court": "Sindh High Court",
+  "bench_type": "Full Bench",
+  "judges": [
+    "Wajihuddin Ahmed",
+    "Raja Qureshi",
+    "Ghous Muhammad"
+  ],
+  "appellant": [
+    "Messrs DUTY FREE SHOP LTD"
+  ],
+  "respondant": [
+    "CENTRAL BOARD OF REVENUE",
+    "Others"
+  ],
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": []
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "S. Tariq A.I (Standing Counsel for Federal Government)"
+    ],
+    "defense": [
+      "Mansoor Ahmed Khan"
+    ]
+  },
+  "complaint_summary": "Petitioners, engaged in running Duty Free Shops, challenged the imposition of withholding tax at 5% under Section 50(5) of the Income Tax Ordinance, 1979, arguing it deviated from established practice and was inconsistent with statutory provisions.",
+  "investigation_summary": "Petitioners argued that goods stored in private bonded warehouses were not technically imported into Pakistan, and thus withholding tax under Section 50(5) was not applicable. They relied on past practices and departmental letters supporting their stance.",
+  "judgment_summary": "The court ruled that withholding tax under Section 50(5) of the Income Tax Ordinance, 1979, could not be levied on goods stored in private bonded warehouses as customs duty was not payable until goods were cleared for home consumption. Notices and demands for withholding tax were declared invalid.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Petition allowed; withholding tax demands declared invalid.",
+  "legal_arguments": [
+    "Goods stored in private bonded warehouses are not technically imported into Pakistan.",
+    "Customs duty and withholding tax are payable only upon clearance for home consumption.",
+    "Section 50(5) requires withholding tax to be collected in the same manner and at the same time as customs duty."
+  ],
+  "assets": [],
+  "statutes": [
+    "Income Tax Ordinance, 1979",
+    "Customs Act, 1969"
+  ],
+  "sections": [
+    "Section 50(5) of Income Tax Ordinance, 1979",
+    "Sections 12, 13, 30, 97, 104 of Customs Act, 1969"
+  ],
+  "citations": [
+    "2000 P T D 1167",
+    "PLD 1976 SC 618",
+    "1986 SCMR 1917",
+    "1991 PTD 478",
+    "1992 SCMR 1232"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Taxation Law",
+    "Customs Law"
+  ],
+  "key_issues": [
+    "Applicability of withholding tax under Section 50(5) to goods stored in private bonded warehouses.",
+    "Interpretation of 'import' under Customs Act, 1969.",
+    "Executive interpretation of tax provisions and its binding nature."
+  ],
+  "maxims": {
+    "Estoppel": "Executive practices relied upon for a considerable period cannot be casually altered."
+  },
+  "legal_terms": {
+    "Withholding Tax": "Tax collected at source on income or transactions.",
+    "Bonded Warehouse": "Secured storage facility for goods awaiting customs clearance."
+  },
+  "words_and_phrases": {
+    "Technically Imported": "Goods not cleared for home consumption or export while stored in bonded warehouses."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around the applicability of withholding tax under Section 50(5) of the Income Tax Ordinance, 1979, to goods stored in private bonded warehouses. The court ruled that such tax could not be levied until customs duty is payable upon clearance for home consumption. Past practices and departmental interpretations were considered, but the statutory provisions prevailed."
+}

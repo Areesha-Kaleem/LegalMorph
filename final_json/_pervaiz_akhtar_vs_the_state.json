@@ -1,0 +1,125 @@
+{
+  "case_title": "PERVAIZ AKHTAR vs THE STATE",
+  "reference_no_or_id": "Criminal Miscellaneous No. 5535/B of 2002",
+  "judgment_date": "2002-08-27",
+  "first_hearing_date": "N/A",
+  "court": "Lahore High Court",
+  "bench_type": "Coram",
+  "judges": [
+    "Falak Sher",
+    "Ijaz Ahmad Chaudhry"
+  ],
+  "appellant": [
+    "Pervaiz Akhtar"
+  ],
+  "respondant": [
+    "The State"
+  ],
+  "accussed_details": [
+    {
+      "name": "Pervaiz Akhtar",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "N/A",
+      "allegation": [
+        "Involvement in narcotics business",
+        "Possession of narcotics",
+        "Connection to 18 prior narcotics cases"
+      ]
+    },
+    {
+      "name": "Muhammad Asif",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Son of Pervaiz Akhtar",
+      "allegation": [
+        "Possession of 19 Kgs of Charas",
+        "Transporting narcotics to India"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "State Counsel"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "Zaheer Ahmad, Sub-Inspector, filed an FIR alleging that Muhammad Asif, son of Pervaiz Akhtar, was caught with 19 Kgs of Charas intended for smuggling to India.",
+  "investigation_summary": "Police raided the house based on secret information, apprehended Muhammad Asif with narcotics, and collected evidence implicating Pervaiz Akhtar through his son's statement and prior involvement in 18 narcotics cases.",
+  "judgment_summary": {
+    "findings": [
+      "Petitioner resides in the same house where narcotics were stored.",
+      "Material evidence collected against petitioner through son's statement.",
+      "Petitioner failed to prove false implication or mala fide intention."
+    ],
+    "conclusion": "No case for bail before arrest made out. Application dismissed."
+  },
+  "punishment": "Bail application dismissed; no discretionary relief granted.",
+  "Decision_or_verdict": "Application for bail before arrest dismissed.",
+  "legal_arguments": {
+    "defense": [
+      "Case registered with mala fide intention.",
+      "Application moved against Zaheer Ahmad to Anti-Corruption Punjab.",
+      "No evidence connecting petitioner to narcotics dealing.",
+      "Statement of co-accused has no evidentiary value."
+    ],
+    "prosecution": [
+      "Petitioner involved in 18 prior narcotics cases.",
+      "Offences fall within prohibitory clause.",
+      "Petitioner remained fugitive from justice."
+    ]
+  },
+  "assets": [
+    "19 Kgs of Charas"
+  ],
+  "statutes": [
+    "Control of Narcotic Substances Act, 1997"
+  ],
+  "sections": [
+    "Section 6-9(c)",
+    "Section 498, Cr.P.C."
+  ],
+  "citations": [
+    "2003 P Cr. L J 1740"
+  ],
+  "witnesses": [
+    "Zaheer Ahmad (Sub-Inspector)",
+    "Police officials in raiding party"
+  ],
+  "witness_statement": {
+    "Zaheer Ahmad": "Provided secret information and led the raiding party that apprehended Muhammad Asif with narcotics."
+  },
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Criminal Law",
+    "Narcotics Control"
+  ],
+  "key_issues": [
+    "Whether the petitioner was falsely implicated.",
+    "Connection of petitioner to narcotics business through son's statement."
+  ],
+  "case_details": {
+    "FIR_number": "256",
+    "FIR_date": "2001-09-30",
+    "police_station": "Gowal Mandi, Lahore",
+    "law_section": "6-9(c) of Control of Narcotic Substances Act, 1997",
+    "allegations": {
+      "complainant": "Zaheer Ahmad, Sub-Inspector, C.I.A. Cantt., Lahore",
+      "accused": "Muhammad Asif (son of petitioner)",
+      "details": "Muhammad Asif was apprehended with 19,000 grams (19 Kgs) of Charas stored at Nisbat Road."
+    }
+  },
+  "maxims": {},
+  "legal_terms": {
+    "Bail before arrest": "A legal provision to protect individuals from false implication by police."
+  },
+  "words_and_phrases": {
+    "Prohibitory clause": "Legal provision restricting bail in certain serious offenses."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case involves a bail application by Pervaiz Akhtar, accused of involvement in narcotics business. His son, Muhammad Asif, was caught with 19 Kgs of Charas. The court dismissed the application, citing sufficient evidence and prior involvement in 18 narcotics cases."
+}

@@ -1,0 +1,168 @@
+{
+  "case_title": "ABDUL KARIM MENGAL vs SULTAN BADSHAH",
+  "reference_no_or_id": "Regular First Appeal No. 88 of 2012",
+  "judgment_date": "2014-02-18",
+  "first_hearing_date": "N/A",
+  "court": "Balochistan High Court",
+  "bench_type": "Division Bench",
+  "judges": [
+    "Ghulam Mustafa Mengal",
+    "Abdul Qadir Mengal"
+  ],
+  "appellant": [
+    {
+      "name": "Abdul Karim Mengal",
+      "designation": "Contractor"
+    }
+  ],
+  "respondant": [
+    {
+      "name": "Sultan Badshah",
+      "designation": "Contractor"
+    }
+  ],
+  "accussed_details": [
+    {
+      "name": "Abdul Karim Mengal",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Contractor",
+      "allegation": [
+        "Issuance of fraudulent cheque",
+        "Misappropriation of funds"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Mujeeb Ahmed Hashmi",
+      "Khushal Khan Kasi"
+    ],
+    "defense": [
+      "Barrister Behlol Khan Kasi",
+      "Barrister Amir Muhammad Lehri"
+    ]
+  },
+  "complaint_summary": "The respondent/plaintiff filed a suit for recovery of Rs. 8,000,000 based on a dishonored cheque issued by the appellant/defendant. The plaintiff alleged the cheque was issued as settlement of accounts from a joint business venture.",
+  "investigation_summary": "The appellant/defendant denied issuing the cheque and claimed it was stolen. Evidence showed the defendant had reported the loss of the cheque book months prior to the suit. The plaintiff failed to provide evidence of the alleged business transactions or justification for the cheque.",
+  "judgment_summary": {
+    "reasoning": "The respondent failed to prove entitlement to the claimed amount. The appellant's defense of the stolen cheque was supported by evidence, including prior reports to the bank and authorities.",
+    "conclusion": "Judgment and decree of the trial court were set aside. The appeal was allowed, and the suit dismissed."
+  },
+  "punishment": "N/A",
+  "Decision_or_verdict": "Appeal accepted; suit dismissed.",
+  "legal_arguments": [
+    "Burden of proof lies on the defendant to disprove the claim once signature on the cheque is admitted.",
+    "Evidence of stolen cheque book and prior reports to authorities supported the defendant's case.",
+    "Plaintiff failed to provide evidence of consideration for the cheque."
+  ],
+  "assets": [
+    {
+      "type": "Bank accounts",
+      "details": "Joint accounts with minimal transactions; no evidence of significant business activity."
+    }
+  ],
+  "statutes": [
+    "Order XXXVII, Rule 2, C.P.C.",
+    "Article 118, Qanun-e-Shahadat"
+  ],
+  "sections": [
+    "Section 489-F, P.P.C."
+  ],
+  "citations": [
+    "2014 C L C 1063",
+    "PLD 2011 SC 151",
+    "PLD 1980 Lahore 145",
+    "PLD 2008 Karachi 429",
+    "2013 YLR 611",
+    "2013 CLC 1048",
+    "PLD 2004 Peshawar 168"
+  ],
+  "witnesses": [
+    {
+      "name": "Abdul Nasir",
+      "designation": "Manager, Union Bank Limited"
+    },
+    {
+      "name": "Muhammad Shahid",
+      "designation": "Cashier, Muslim Commercial Bank"
+    },
+    {
+      "name": "Muhammad Rafique",
+      "designation": "Head Constable"
+    },
+    {
+      "name": "Shah Jehan",
+      "designation": "Munshi of appellant"
+    },
+    {
+      "name": "Mehmood Ahmed",
+      "designation": "Tehsildar Sorab"
+    }
+  ],
+  "witness_statement": {
+    "Abdul Nasir": "Confirmed existence of joint accounts but no evidence of significant transactions.",
+    "Muhammad Shahid": "Produced dishonored cheque and slip.",
+    "Muhammad Rafique": "Provided evidence of plaintiff's involvement in fraudulent activities.",
+    "Shah Jehan": "Testified about stolen cheque book.",
+    "Mehmood Ahmed": "Supported appellant's report of missing cheque book."
+  },
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Civil litigation",
+    "Fraud",
+    "Negotiable instruments"
+  ],
+  "key_issues": [
+    "Whether the cheque was issued by the defendant.",
+    "Existence of business transactions or partnership.",
+    "Validity of the plaintiff's claim for recovery.",
+    "Dishonoring of cheque due to non-availability of funds.",
+    "Issuance of cheque dishonestly."
+  ],
+  "maxims": {
+    "Burden of proof": "Onus of proof shifts based on evidence presented."
+  },
+  "legal_terms": {
+    "Negotiable instrument": "A signed document promising payment to a specified person."
+  },
+  "words_and_phrases": {
+    "Dishonored cheque": "A cheque returned by the bank due to insufficient funds or other reasons."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case involved a dispute over a dishonored cheque allegedly issued by the appellant. The court found no evidence of business transactions or partnership between the parties and accepted the appellant's claim of the cheque being stolen. The appeal was allowed, and the suit dismissed.",
+  "facts": {
+    "cheque_details": {
+      "cheque_number": "26919267",
+      "date": "2003-08-07",
+      "amount": "8,000,000",
+      "bank": "Muslim Commercial Bank, Kalat Branch"
+    },
+    "claim": "Recovery of Rs. 8,000,000/- along with mark-up/interest",
+    "appellant_defense": "Cheque was lost/stolen and reported to bank and Tehsildar prior to suit."
+  },
+  "issues": [
+    {
+      "issue": "Maintainability of the suit",
+      "decision": "Suit was maintainable under the law."
+    },
+    {
+      "issue": "Existence of business transaction/partnership",
+      "decision": "No evidence of business transaction or partnership existed."
+    },
+    {
+      "issue": "Dishonoring of cheque due to non-availability of funds",
+      "decision": "Cheque was dishonored due to stoppage of payment, not insufficient funds."
+    },
+    {
+      "issue": "Issuance of cheque dishonestly",
+      "decision": "No evidence of dishonest issuance of cheque."
+    }
+  ],
+  "evidence_summary": {
+    "respondent_evidence": "Failed to prove issuance of cheque or existence of business transaction.",
+    "appellant_evidence": "Provided plausible explanation of stolen cheque and prior reporting to authorities."
+  }
+}

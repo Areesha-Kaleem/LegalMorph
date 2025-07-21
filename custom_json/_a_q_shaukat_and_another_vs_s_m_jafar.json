@@ -1,0 +1,64 @@
+{
+  "case_title": "A. Q. SHAUKAT AND Another vs S. M. JAFAR",
+  "case_number": "Criminal Revision No. 780 of 1964",
+  "judgment_date": "1966-02-21",
+  "court": "West Pakistan",
+  "judge": "Muhammad Afzal Cheema",
+  "result": "Petition allowed",
+  "reported_as": "P L D 1966 (W. P.) Lahore 809",
+  "appellant": "A. Q. SHAUKAT AND Another",
+  "respondent": "S. M. JAFAR",
+  "legal_provisions": {
+    "primary_section": "Section 145, Criminal Procedure Code",
+    "related_statutes": [
+      "Displaced Persons (Compensation and Rehabilitation) Act, 1958",
+      "Pakistan Administration of Evacuee Property Ordinance, 1949"
+    ],
+    "key_sections": [
+      "Section 7",
+      "Section 25",
+      "Section 29",
+      "Section 30"
+    ]
+  },
+  "property_details": {
+    "location": "New Charli Villa near Pindi Point, Murree",
+    "flats": [
+      "Flat No. 1",
+      "Flat No. 2"
+    ]
+  },
+  "issues": [
+    "Jurisdiction of criminal courts under Section 145, Cr. P.C.",
+    "Competency of fresh applications under Section 145, Cr. P.C.",
+    "Impact of evacuee property acquisition by the government",
+    "Conditions for ad interim attachment of property"
+  ],
+  "arguments": {
+    "appellant": [
+      "Sections 7, 25, and 29 of the Displaced Persons Act bar criminal court jurisdiction.",
+      "Acquisition by the government does not change the jurisdictional bar.",
+      "Sub-Divisional Magistrate's earlier order prevents fresh applications.",
+      "Attachment order lacks justification for emergency conditions."
+    ],
+    "respondent": [
+      "Criminal Procedure Code has broad jurisdiction.",
+      "Sections 7, 25, and 29 do not bar criminal court jurisdiction.",
+      "Attachment order complies with Section 145, Cr. P.C.",
+      "Revisional jurisdiction should not interfere lightly."
+    ]
+  },
+  "court_findings": {
+    "jurisdiction": "Section 25 of the Displaced Persons Act bars criminal court jurisdiction over evacuee property disputes.",
+    "attachment_order": "Magistrate not required to state grounds for emergency under second proviso of Section 145, Cr. P.C.",
+    "fresh application": "Additional District Magistrate's order valid as Sub-Divisional Magistrate did not decide on merits."
+  },
+  "judgment_summary": {
+    "decision": "Revision petition allowed.",
+    "impugned_orders": [
+      "Order dated 14th July 1964",
+      "Order dated 7th June 1964"
+    ],
+    "reasoning": "Jurisdiction of criminal courts barred under Section 25 of the Displaced Persons Act."
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "case_title": "COMMISSIONER OF INCOME-TAX vs INCOME-TAX APPELLATE TRIBUNAL and another",
+  "reference_no_or_id": "Civil Miscellaneous Writ Petition No. 392 of 1994",
+  "case_number": "Civil Miscellaneous Writ Petition No. 392 of 1994",
+  "judgment_date": "1996-07-12",
+  "first_hearing_date": "N/A",
+  "court": "Allahabad High Court",
+  "court_name": "Allahabad High Court",
+  "bench_type": "Division Bench",
+  "judges": [
+    "B. M. Lal",
+    "J. S. Sidhu"
+  ],
+  "appellant": [
+    "Commissioner of Income-Tax"
+  ],
+  "respondant": [
+    "Income-Tax Appellate Tribunal",
+    "Respondent No. 2"
+  ],
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": []
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Sri Bharat Ji Agarwal"
+    ],
+    "defense": [
+      "Sri Shakeel Ahmad"
+    ]
+  },
+  "complaint_summary": "The petitioner challenged the Tribunal's authority to review and recall its order passed under section 256(1) of the Income Tax Act, 1961, citing absence of statutory provision for such action.",
+  "investigation_summary": "The Tribunal recalled its earlier order dated September 8, 1993, rejecting a reference application of Respondent No. 2, through an impugned order dated December 22, 1993.",
+  "judgment_summary": "The Tribunal lacks statutory authority to review or recall its order under section 256(1) of the Act. The impugned order dated December 22, 1993, is quashed.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Petition allowed; impugned order quashed.",
+  "result": "Petition allowed",
+  "reported_as": "1999 P T D 1620",
+  "legal_arguments": [
+    "Prosecution argued that the Tribunal lacks statutory authority to review or recall orders under section 256(1) of the Act.",
+    "Defense argued that section 254 of the Act provides inherent power to the Tribunal to amend orders to rectify mistakes apparent from the record."
+  ],
+  "assets": [],
+  "statutes": [
+    "Income Tax Act, 1961"
+  ],
+  "sections": [
+    "Section 256(1)",
+    "Section 254(1)",
+    "Section 254(2)"
+  ],
+  "citations": [
+    "Jose T. Mooken v. CIT (1979) 117 ITR 921 (Ker)",
+    "CIT v. Suresh Kumar (1990) 186 ITR 114 (P & H)",
+    "CIT v. Globe Transport Corporation (1992) 195 ITR 311 (Raj)",
+    "CWT v. R.S. Seth Ghisalal Modi Family Trust (1988) 169 ITR 530 (MP)",
+    "CWT v. Devi Chand Sawhney (1991) 187 ITR (St.) 43 (SC)",
+    "CIT v. K.L. Bhatia (1990) 182 ITR 361 (Del)",
+    "Patel Narshi Thakershi v. Pradyumansinghji Arjunsinghji, AIR 1970 SC 1273"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Income Tax Law",
+    "Judicial Review"
+  ],
+  "key_issues": [
+    "Whether the Tribunal has authority to review and recall its order under section 256(1) of the Income Tax Act, 1961.",
+    "Scope of section 254 of the Income Tax Act regarding rectification of mistakes."
+  ],
+  "court_observations": {
+    "section_254": "Confers power to rectify mistakes apparent from the record but limited to orders under subsection (1) of section 254.",
+    "review_vs_rectification": "Reviewing and recalling an order differs from rectifying a mistake apparent from the record."
+  },
+  "maxims": {
+    "N/A": "N/A"
+  },
+  "legal_terms": {
+    "Review": "Re-examination of a decision or order.",
+    "Recall": "Withdrawal or cancellation of a previous order."
+  },
+  "words_and_phrases": {
+    "Mistake apparent from the record": "An error that is obvious and does not require detailed examination."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around the Tribunal's authority to review and recall orders under section 256(1) of the Income Tax Act, 1961. The court ruled that such power is absent in the statute, and the impugned order was quashed.",
+  "costs": "No order as to costs"
+}

@@ -1,0 +1,109 @@
+{
+  "case_title": "(M/S.) SRI VENKATA SATANARAYANA RICE MILL CONTRACTORS, CO. vs COMMISSIONER OF INCOME TAX, ANDHRA PRADESH-II",
+  "reference_no_or_id": "Civil Appeal Nos. 5623-24 of 1983 with C.A. Nos. 5625, 5626 to 5637 and 5637-A of 1983",
+  "judgment_date": "1996-10-25",
+  "first_hearing_date": "N/A",
+  "court": "Andhra Pradesh High Court",
+  "bench_type": "Division Bench",
+  "judges": [
+    "B. N. Kirpal",
+    "J. S. Verma"
+  ],
+  "appellant": [
+    "(M/S.) SRI VENKATA SATANARAYANA RICE MILL CONTRACTORS, CO."
+  ],
+  "respondant": [
+    "COMMISSIONER OF INCOME TAX, ANDHRA PRADESH-II"
+  ],
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": []
+    }
+  ],
+  "lawyers": {
+    "prosecution": [],
+    "defense": [
+      "Sh. A. Subba Rao"
+    ]
+  },
+  "complaint_summary": "The appellant claimed deductions under Section 37(1) of the Income Tax Act, 1961, for contributions made to the Andhra Pradesh Welfare Fund, which were mandatory for obtaining export permits for rice.",
+  "investigation_summary": "The Income Tax Officer disallowed the deductions, stating the payments were discretionary, not statutory, and the welfare fund was not approved under Section 80-G of the Act. The Appellate Assistant Commissioner upheld this decision.",
+  "judgment_summary": "The Supreme Court overturned the High Court's decision, holding that contributions to the welfare fund were allowable under Section 37(1) as they were commercially expedient and not opposed to public policy. The payments were deemed necessary for the appellant's business operations.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "In favor of the appellant. The contributions were deemed allowable as business expenses under Section 37(1) of the Income Tax Act, 1961.",
+  "legal_arguments": [
+    "The appellant argued that the contributions were commercially expedient and necessary for obtaining export permits.",
+    "The High Court equated the contributions to bribes, which the appellant contested as incorrect.",
+    "The Supreme Court emphasized that the payments were for public welfare and not illegal or opposed to public policy."
+  ],
+  "assets": [],
+  "statutes": [
+    "Income Tax Act, 1961"
+  ],
+  "sections": [
+    "Section 37(1)",
+    "Section 80-G",
+    "Section 256(1)"
+  ],
+  "citations": [
+    "1997 P.C.T.L.R. 572",
+    "Atherton v. British Insulated & Helsby Cables Ltd. (1926) 10 Tax Cas. 155",
+    "Eastern Investments Ltd. v. CIT, West Bengal (1951 SCR 594)",
+    "CIT v. Chandulal Keshavlal and Co. (1960) 3 SCR 38",
+    "CIT v. S.C. Kothari (1971) 82 ITR 784",
+    "CIT v. Piara Singh (1980) 124 ITR 40",
+    "Addl. CIT v. Kuber Singh Bhagwandas (1979) 118 ITR 379"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Taxation Law",
+    "Business Expenditure",
+    "Public Policy"
+  ],
+  "key_issues": [
+    "Whether contributions to the welfare fund were allowable as business expenses under Section 37(1).",
+    "Whether such payments were opposed to public policy."
+  ],
+  "facts": {
+    "assessment_years": "1971-72 and 1972-73",
+    "business_activity": "Exporting rice from Andhra Pradesh",
+    "payment_details": "Contribution of Rs. 9,164/- to Andhra Pradesh Welfare Fund",
+    "permit_condition": "Export permits required payment to the welfare fund."
+  },
+  "tribunal_decision": {
+    "finding": "Contributions were allowable under Section 37(1) as they were motivated by commercial considerations.",
+    "public_policy": "Contributions were not opposed to public policy."
+  },
+  "high_court_decision": {
+    "finding": "Contributions were compulsory but opposed to public policy.",
+    "deduction_disallowed": "Payment equated to illegal gratification."
+  },
+  "supreme_court_decision": {
+    "finding": "Contributions were not illegal or opposed to public policy.",
+    "principle_applied": "Payments made for commercial expediency and business benefit are allowable under Section 37(1).",
+    "precedents_cited": [
+      "Atherton v. British Insulated & Helsby Cables Ltd. (1926)",
+      "Eastern Investments Ltd. v. CIT (1951)",
+      "CIT v. Chandulal Keshavlal and Co. (1960)",
+      "CIT v. S.C. Kothari (1971)",
+      "CIT v. Piara Singh (1980)"
+    ]
+  },
+  "final_ruling": {
+    "questions_answered": "In favor of appellant",
+    "deduction_allowed": "Contributions to welfare fund allowable under Section 37(1)."
+  },
+  "maxims": {},
+  "legal_terms": {},
+  "words_and_phrases": {},
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around the deductibility of contributions made to a welfare fund under Section 37(1) of the Income Tax Act, 1961. The Supreme Court ruled in favor of the appellant, emphasizing that the payments were commercially expedient and not opposed to public policy."
+}

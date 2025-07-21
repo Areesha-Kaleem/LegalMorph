@@ -1,0 +1,33 @@
+{
+  "case_title": "Mst. ZOHRA BEGUM vs MUHAMMAD NAWAZ SHAD, ADVOCATE, RAWALPINDI",
+  "case_number": "File No. 139 of 1998",
+  "judgment_date": "1999-10-16",
+  "court_name": "Bar Council Tribunal",
+  "judges": [
+    "Tassaduq Hussain Jilani",
+    "Mian Muhammad Ameen Kalanauri",
+    "Rana Ikram Ullah Khan"
+  ],
+  "appellant": "Mst. Zohra Begum",
+  "respondent": "Muhammad Nawaz Shad, Advocate, Rawalpindi",
+  "result": "Order accordingly",
+  "reported_as": "2000 M L D 744",
+  "allegations": {
+    "initial_suit": "Filed by respondent on behalf of complainant regarding property evidenced in registered sale-deed Nos. 2297 and 2296 (2 Ks. 12 Ms.)",
+    "mutation_details": {
+      "mutation_number": "6852",
+      "date": "1997-05-23",
+      "application_result": "Allowed by Deputy Commissioner, substituting previous entries with complainant's name"
+    },
+    "misconduct": "Respondent filed a civil suit challenging Mutation No. 6852 on behalf of third parties (Muhammad Pervaiz Khan and Rahim Dil Khan) while complainant's suit was still pending."
+  },
+  "respondent_defense": "Claimed the property in the suit filed on behalf of third parties was different from the property in complainant's suit.",
+  "tribunal_findings": {
+    "misconduct": "Respondent's actions fell under Section 41 of the Legal Practitioners and Bar Council Act, 1973 and Rule 145 of the Legal Practitioners and Bar Council Rules, 1976.",
+    "rule_reference": "Rule 156 cited by respondent was deemed irrelevant."
+  },
+  "penalty": {
+    "license_suspension": "Six months",
+    "effective_date": "1999-10-16"
+  }
+}

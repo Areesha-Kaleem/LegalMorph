@@ -1,0 +1,81 @@
+{
+  "case_title": "Mst. AISHA and another vs Mrs. SAMAR AFROZE",
+  "reference_no_or_id": "Constitutional Petition No, 618 of 2004",
+  "judgment_date": "2007-10-29",
+  "first_hearing_date": "N/A",
+  "court": "Sindh High Court",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Rehmat Hussain Jaffery"
+  ],
+  "appellant": [
+    "Mst. AISHA",
+    "Another (unspecified)"
+  ],
+  "respondant": [
+    "Mrs. SAMAR AFROZE"
+  ],
+  "accussed_details": [
+    {
+      "name": "Mst. AISHA",
+      "age": "N/A",
+      "gender": "Female",
+      "designation": "Tenant",
+      "allegation": [
+        "Default in payment of rent"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Advocate for Mrs. Samar Afroze (name not specified)"
+    ],
+    "defense": [
+      "Advocate for Mst. Aisha (name not specified)"
+    ]
+  },
+  "complaint_summary": "The respondent filed an ejectment application against the petitioner for default in payment of rent.",
+  "investigation_summary": "The respondent served notice under Section 18 of the Sindh Rented Premises Ordinance, 1979, requiring the petitioner to pay rent within 30 days to the new landlord. The petitioner failed to comply and continued depositing rent in joint names of the previous and new landlords.",
+  "judgment_summary": "The court upheld the orders of the Rent Controller and Appellate Court, concluding that the petitioner committed willful default in payment of rent despite receiving notices. The petition was dismissed.",
+  "punishment": "Ejectment order upheld; petition dismissed.",
+  "Decision_or_verdict": "Petition dismissed.",
+  "legal_arguments": [
+    "The petitioner argued that the rent deposit in joint names was a technical default and should be condoned.",
+    "The court held that after notice under Section 18 of the Sindh Rented Premises Ordinance, 1979, rent must be paid directly to the new landlord."
+  ],
+  "assets": [
+    "Property gifted by Akhlaq Hussain to Mrs. Samar Afroze in January 1997."
+  ],
+  "statutes": [
+    "Sindh Rented Premises Ordinance, 1979"
+  ],
+  "sections": [
+    "Section 18 of Sindh Rented Premises Ordinance, 1979"
+  ],
+  "citations": [
+    "2008 Y L R 24"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Rent Control",
+    "Property Law"
+  ],
+  "key_issues": [
+    "Whether the deposit of rent in joint names of previous and new landlords constitutes valid tender.",
+    "Whether the petitioner committed willful default in payment of rent."
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "Technical Default": "A minor or procedural failure in compliance with legal requirements.",
+    "Willful Default": "Intentional failure to fulfill a legal obligation."
+  },
+  "words_and_phrases": {
+    "Valid Tender": "Proper payment or offer of payment as required by law."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case involves a dispute over rent payment following the transfer of property ownership. The petitioner failed to pay rent directly to the new landlord despite receiving notices, leading to an ejectment order upheld by the Sindh High Court. The court dismissed the petition, citing willful default in payment of rent."
+}

@@ -1,0 +1,117 @@
+{
+  "case_title": "MUHAMMAD BAKHSH and others vs Mst. JAINDAI and others",
+  "reference_no_or_id": "R.O.R. Nos.2750 of 1984, 946 of 1989, 610 and 612 of 1986",
+  "judgment_date": "1997-06-29",
+  "first_hearing_date": "N/A",
+  "court": "Board of Revenue",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Akhtar Said"
+  ],
+  "appellant": [
+    "Muhammad Bakhsh and others"
+  ],
+  "respondant": [
+    "Mst. Jaindai and others"
+  ],
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": []
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "The case revolves around the legality of several mutations concerning land transactions between vendors and vendees, and whether these transactions violated provisions of M.L.R. 115 regarding partial inalienability of holdings.",
+  "investigation_summary": "The Revenue Officer, Assistant Commissioner/Collector, and Additional Commissioner reviewed multiple mutations. Some mutations were upheld, while others were remanded for reconsideration based on M.L.R. 115 provisions.",
+  "judgment_summary": "The court declared provisions of para. 24 of M.L.R. 115 as un-Islamic with retrospective effect. All revision petitions were accepted, and mutations were directed to be sanctioned to give effect to the sales.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Revision accepted; provisions of M.L.R. 115 declared un-Islamic with retrospective effect.",
+  "legal_arguments": [
+    "Provisions of M.L.R. 115 were violative of Islamic principles.",
+    "Vendors cannot challenge transactions they willingly entered into.",
+    "The doctrine of estoppel applies as the law was declared un-Islamic ab initio.",
+    "Additional Commissioner acted beyond jurisdiction in remanding certain mutations."
+  ],
+  "assets": [
+    "Land holdings involved in mutations"
+  ],
+  "statutes": [
+    "M.L.R. 115"
+  ],
+  "sections": [
+    "Para. 24 of M.L.R. 115"
+  ],
+  "citations": [
+    "1998 C L C 165"
+  ],
+  "witnesses": [
+    "N/A"
+  ],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Land Law",
+    "Islamic Jurisprudence"
+  ],
+  "key_issues": [
+    "Legality of mutations under M.L.R. 115",
+    "Retrospective application of Islamic principles",
+    "Provisions of M.L.R. 115 regarding partial inalienability of certain holdings"
+  ],
+  "maxims": {
+    "Estoppel": "Vendors are estopped from challenging transactions under an un-Islamic law."
+  },
+  "legal_terms": {
+    "Mutation": "A change in ownership or title of land.",
+    "Inalienability": "Restriction on the transfer or sale of property."
+  },
+  "words_and_phrases": {
+    "Economic holdings": "Minimum size of land holdings required for economic viability."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The judgment addresses the retrospective invalidation of M.L.R. 115 provisions as un-Islamic, emphasizing the responsibility of vendors in ensuring compliance with the law and the application of Islamic principles to past transactions.",
+  "key_mutations": [
+    {
+      "mutation_number": "1568 and 1569",
+      "status": "Rejected by Revenue Officer on 1981-03-05",
+      "additional_commissioner_decision": "Declared valid on 1984-02-13"
+    },
+    {
+      "mutation_number": "1339, 1346, 1348, 1351, 1353, 1379, 1378, 1570",
+      "status": "Remanded by Additional Commissioner on 1984-02-13"
+    },
+    {
+      "mutation_number": "1570 and 1824",
+      "status": "Cancelled by Revenue Officer on 1988-07-21"
+    },
+    {
+      "mutation_number": "1832",
+      "status": "Cancelled and remanded by Assistant Commissioner on 1984-12-23"
+    },
+    {
+      "mutation_number": "1836",
+      "status": "Cancelled and remanded by Assistant Commissioner on 1984-12-23"
+    }
+  ],
+  "legal_findings": [
+    "Provisions of M.L.R. 115 declared un-Islamic with retrospective effect.",
+    "Vendors responsible for ensuring compliance with legal provisions during sales.",
+    "Additional Commissioner acted beyond jurisdiction in remanding certain mutations."
+  ],
+  "directions": [
+    "Mutations must be sanctioned to give effect to all sales made between the parties.",
+    "Declaration of para. 24 of M.L.R. 115 as un-Islamic will apply retrospectively unless rights are jeopardized."
+  ]
+}

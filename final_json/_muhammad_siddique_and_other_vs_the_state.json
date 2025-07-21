@@ -1,0 +1,87 @@
+{
+  "case_title": "MUHAMMAD SIDDIQUE And Other vs THE STATE",
+  "reference_no_or_id": "R.O.R. No. 1743 of 1995",
+  "judgment_date": "1995-06-22",
+  "first_hearing_date": "N/A",
+  "court": "Board of Revenue, Punjab",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Raza Ali"
+  ],
+  "appellant": [
+    "Muhammad Siddique and Others"
+  ],
+  "respondant": [
+    "The State"
+  ],
+  "accussed_details": [
+    {
+      "name": "Muhammad Siddique and Others",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "Petitioners",
+      "allegation": [
+        "Unlawful occupation of 100 kanals of state land in Blocks 442/11 and 442/12"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "Petitioners occupied state land unlawfully and requested regularization of possession.",
+  "investigation_summary": "Petitioners were allotted 100 kanals of land under the Abadkari Scheme in Block 422/15, but unlawfully occupied an additional 100 kanals in Blocks 442/11 and 442/12 without legal authority.",
+  "judgment_summary": "The court denied the request for regularization of unlawfully occupied land but allowed the petitioners to purchase it at the current market price with a 50% penalty and 10% surcharge, payable in six equal half-yearly installments.",
+  "punishment": "50% penalty for unauthorized possession and 10% surcharge on market price.",
+  "Decision_or_verdict": "Petitioners allowed to purchase unlawfully occupied land under specified conditions.",
+  "legal_arguments": [
+    "Petitioners pleaded leniency due to long-term affiliation with the land since migration."
+  ],
+  "assets": [
+    {
+      "description": "100 kanals of land in Block No. 442/11 and 442/12",
+      "status": "Unlawfully occupied",
+      "location": "Chak No. 3/BC, Tehsil and District Bahawalpur"
+    },
+    {
+      "description": "100 kanals of land in Block No. 422/15",
+      "status": "Lawfully occupied under Abadkari Scheme",
+      "location": "Chak No. 3/BC, Tehsil and District Bahawalpur"
+    }
+  ],
+  "statutes": [
+    "Abadkari Scheme"
+  ],
+  "sections": [
+    "N/A"
+  ],
+  "citations": [
+    "K.L.R. 1995 Revenue Cases 189"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Land Dispute",
+    "Property Regularization"
+  ],
+  "key_issues": [
+    "Regularization of unlawfully occupied land",
+    "Purchase of state land at market price"
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "Abadkari Scheme": "A government scheme for allotment of land to migrants."
+  },
+  "words_and_phrases": {
+    "Proprietary Rights": "Legal ownership rights granted to the petitioners for lawfully occupied land."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "Petitioners occupied state land unlawfully and sought regularization. Court denied regularization but allowed purchase with penalties and surcharges due to long-term affiliation with the land."
+}

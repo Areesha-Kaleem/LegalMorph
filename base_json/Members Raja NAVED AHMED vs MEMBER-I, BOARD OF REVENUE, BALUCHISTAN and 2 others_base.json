@@ -1,0 +1,107 @@
+{
+  "case_title": "Members Raja NAVED AHMED vs MEMBER-I, BOARD OF REVENUE, BALUCHISTAN and 2 others",
+  "reference_no_or_id": "Appeals Nos, 13 and 14 of 1982",
+  "judgment_date": "1984-06-10",
+  "first_hearing_date": "N/A",
+  "court": "Balochistan Service Tribunal",
+  "bench_type": "Tribunal",
+  "judges": [
+    "Abdul Qadeer Chaudhry",
+    "Muhammad Rais",
+    "E.B. Malghani"
+  ],
+  "appellant": [
+    "Raja Naved Ahmed",
+    "Mohammad Hayat"
+  ],
+  "respondant": [
+    "Member-I, Board of Revenue, Baluchistan",
+    "Respondent No. 2",
+    "Respondent No. 3"
+  ],
+  "accussed_details": [
+    {
+      "name": "Raja Naved Ahmed",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Tehsildar",
+      "allegation": [
+        "Failure to pass departmental examination for confirmation"
+      ]
+    },
+    {
+      "name": "Mohammad Hayat",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Tehsildar",
+      "allegation": [
+        "Requirement to pass departmental examination for confirmation"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Advocate-General"
+    ],
+    "defense": [
+      "Counsel for appellants"
+    ]
+  },
+  "complaint_summary": "Appellants challenged the requirement to pass departmental examinations for confirmation under the Baluchistan Service Rules, 1980, claiming eligibility for automatic confirmation under the West Pakistan Tehsildari and Naib-Tehsildari Service Rules, 1962.",
+  "investigation_summary": "Appellants were required to appear in departmental examinations conducted by the Public Service Commission. Raja Naved Ahmed failed two papers, while Mohammad Hayat passed the examination.",
+  "judgment_summary": "The Tribunal dismissed the appeals, holding that the appellants were not automatically confirmed under the Rules of 1962 or 1980. The requirement to pass departmental examinations was deemed valid under the Baluchistan Civil Servants Act, 1974.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Appeal dismissed",
+  "legal_arguments": [
+    "Appellants argued that Explanation II of Rule 10 of the Rules of 1962 provided automatic confirmation after probation expiry.",
+    "Respondents argued that departmental examinations were mandatory under Rule 10(4) of the Rules of 1962 and Rule 8 of the Rules of 1980.",
+    "Tribunal held that Ordinance III of 1983 validly amended Section 7 of the Baluchistan Civil Servants Act, 1974, removing automatic confirmation provisions."
+  ],
+  "assets": [],
+  "statutes": [
+    "Baluchistan Civil Servants Act, 1974",
+    "West Pakistan Tehsildari and Naib-Tehsildari Service Rules, 1962",
+    "Baluchistan Service Rules, 1980"
+  ],
+  "sections": [
+    "Section 6(1) of Baluchistan Civil Servants Act, 1974",
+    "Rule 10(3) and Rule 10(4) of Rules of 1962",
+    "Rule 8 of Rules of 1980"
+  ],
+  "citations": [
+    "P L D 1970 SC 146",
+    "P L D 1959 SC 296",
+    "P L D 1969 SC 623",
+    "P L D 1969 Lah. 228",
+    "P L D 1965 W.P. Lah. 445",
+    "P L D 1966 Lah. 967",
+    "P L D 1968 SC 37",
+    "1975 S C M R 505"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "Appeals Nos, 13 and 14 of 1982",
+  "legal_categories": [
+    "Civil Service Law",
+    "Administrative Law"
+  ],
+  "key_issues": [
+    "Validity of departmental examination requirement for confirmation",
+    "Impact of Ordinance III of 1983 on vested rights",
+    "Interpretation of deeming clauses in service rules"
+  ],
+  "maxims": {
+    "Retrospective Legislation": "Legislation may operate retrospectively unless it takes away vested rights without express words or necessary intendment."
+  },
+  "legal_terms": {
+    "Probation": "A period during which a civil servant's performance is evaluated before confirmation.",
+    "Confirmation": "Formal acceptance of a civil servant into permanent service."
+  },
+  "words_and_phrases": {
+    "Deeming Clause": "A legal fiction that treats an imaginary state of affairs as real for statutory purposes."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around the appellants' challenge to the requirement of passing departmental examinations for confirmation under the Baluchistan Service Rules, 1980. The Tribunal upheld the validity of the requirement, citing relevant statutes and precedents, and dismissed the appeals."
+}

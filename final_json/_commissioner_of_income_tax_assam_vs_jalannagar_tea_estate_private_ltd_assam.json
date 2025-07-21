@@ -1,0 +1,108 @@
+{
+  "case_title": "COMMISSIONER OF INCOME TAX, ASSAM vs JALANNAGAR TEA ESTATE (PRIVATE) LTD., ASSAM",
+  "reference_no_or_id": "Income Tax Reference No. 2 of 1960",
+  "judgment_date": "1961-06-28",
+  "first_hearing_date": "N/A",
+  "court": "Assam High Court",
+  "bench_type": "Division Bench",
+  "judges": [
+    "H. Deka",
+    "M. P. Mehrotra"
+  ],
+  "appellant": [
+    "Commissioner of Income Tax, Assam"
+  ],
+  "respondant": [
+    "Jalannagar Tea Estate (Private) Ltd., Assam"
+  ],
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": []
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Mr. Choudhury"
+    ],
+    "defense": [
+      "Mr. Lahiri"
+    ]
+  },
+  "complaint_summary": "The case concerns the taxability of profits earned by Jalannagar Tea Estate (Private) Ltd. from the sale of land under the Indian Income Tax Act. The Department claimed the profits were revenue receipts, while the assessee argued they were capital receipts.",
+  "investigation_summary": "The Tribunal found that the land was originally acquired for tea cultivation and manufacturing purposes in 1944. The decision to sell parts of the land arose in 1950 due to financial constraints, with no initial intention to trade in land.",
+  "judgment_summary": "The court upheld the Tribunal's findings that the profits from the land sale were capital receipts and not revenue receipts. It ruled that the transactions did not constitute a venture in the nature of trade.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Question answered in the affirmative; profits treated as capital receipts not liable to tax.",
+  "legal_arguments": [
+    "The Department argued that the sale constituted a venture in the nature of trade.",
+    "The assessee contended that the land was sold to liquidate financial liabilities and was not acquired with the intention of trading."
+  ],
+  "assets": [
+    "Land comprising 1,669 bighas sold to Jalannagar Development Co. Ltd."
+  ],
+  "statutes": [
+    "Indian Income Tax Act"
+  ],
+  "sections": [
+    "Section 2(4)"
+  ],
+  "citations": [
+    "(1952) 22 ITR 502",
+    "(1940) 8 ITR 179",
+    "(1951) 19 ITR 1",
+    "(1951) 20 ITR 385",
+    "(1953) 24 ITR 415",
+    "(1959) 35 ITR 594 (SC)",
+    "(1959) 37 ITR 242",
+    "(1957) 32 ITR 552",
+    "(1961) 42 ITR 179 (SC)"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Taxation Law",
+    "Capital Gains"
+  ],
+  "key_issues": [
+    "Whether the profits from the sale of land constituted capital receipts or revenue receipts.",
+    "Whether the transactions amounted to a venture in the nature of trade."
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "Capital Receipt": "A receipt that is not taxable as income, typically arising from the sale of capital assets.",
+    "Revenue Receipt": "A receipt that is taxable as income, typically arising from business operations."
+  },
+  "words_and_phrases": {
+    "Venture in the Nature of Trade": "An isolated transaction that exhibits characteristics of trade or business."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around the classification of profits from land sales as capital receipts versus revenue receipts under the Indian Income Tax Act. The Tribunal and High Court ruled in favor of the assessee, emphasizing the absence of intent to trade at the time of land acquisition.",
+  "case_number": "Income Tax Reference No. 2 of 1960",
+  "facts": {
+    "original_acquisition": "Tea estate acquired in 1944 by Barbari Tea Estate Ltd.",
+    "name_change": "Barbari Tea Estate Ltd. renamed to Jalannagar Tea Estate (Private) Ltd. in 1950",
+    "land_sale_agreement": "Agreement with Jalannagar Development Co. Ltd. on 1952-07-22 to sell 1,669 bighas at Rs. 3,000 per bigha",
+    "assessment_year": "1955-56",
+    "accounting_year": "Calendar year ending 1954-12-31",
+    "sale_proceeds": "Rs. 40,394 received during accounting year",
+    "taxable_profit": "Income Tax Officer assessed Rs. 38,327 as taxable profits",
+    "tribunal_findings": "Tribunal held profits were capital receipts, not revenue receipts"
+  },
+  "legal_question": "Whether the profit of Rs. 38,327 represented a capital receipt not assessable to tax under the Indian Income Tax Act?",
+  "tribunal_decision": {
+    "finding": "No intention to dispose of land for profit at the time of acquisition in 1944",
+    "nature_of_transaction": "Sale proceeds treated as capital receipts, not revenue receipts"
+  },
+  "references": [
+    "Sri Gajalakshmi Ginning Factory (1952) 22 ITR 502",
+    "Raja J. Rameshwar Rao v. Commissioner of Income Tax (1961) 42 ITR 179 (SC)"
+  ],
+  "cost_awarded": "Rs. 200 to the assessee"
+}

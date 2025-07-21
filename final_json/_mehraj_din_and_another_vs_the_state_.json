@@ -1,0 +1,165 @@
+{
+  "case_title": "MEHRAJ DIN AND ANOTHER vs THE STATE",
+  "reference_no_or_id": "Criminal Miscellaneous No. 88/Q of 1972",
+  "judgment_date": "1992-04-10",
+  "first_hearing_date": "1972-02-23",
+  "court": "Lahore High Court",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Muhammad Afzal Cheema"
+  ],
+  "appellant": [
+    "Mehraj Din",
+    "Muhammad Nazir"
+  ],
+  "respondant": [
+    "The State"
+  ],
+  "accussed_details": [
+    {
+      "name": "Mehraj Din",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Businessman",
+      "allegation": [
+        "Conspiracy to murder Mahfooz Ahmad",
+        "Administering alcohol and drugs to the deceased",
+        "Involvement in disposing of the deceased's body"
+      ]
+    },
+    {
+      "name": "Muhammad Nazir",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "N/A",
+      "allegation": [
+        "Conspiracy to murder Mahfooz Ahmad",
+        "Theft of deceased's wristwatch and currency notes",
+        "Involvement in disposing of the deceased's body"
+      ]
+    },
+    {
+      "name": "Abdullah",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Servant",
+      "allegation": [
+        "Physical assault leading to the death of Mahfooz Ahmad",
+        "Absconding from justice"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "Yasoob-ul-Hassan, brother of deceased Mahfooz Ahmad, filed a complaint alleging foul play in the unnatural death of his brother, citing threats from Mehraj Din due to business rivalry and personal motives.",
+  "investigation_summary": "Police investigation revealed evidence of a love affair between the deceased and Mehraj Din's daughter, Abida Kausar, which served as a motive for the murder. Confessional statements, recoveries, and medical reports indicated alcohol poisoning and possible asphyxia as causes of death.",
+  "judgment_summary": {
+    "key_findings": {
+      "prima_facie_case": "Exists based on evidence presented",
+      "approver_statement": "Not substantive evidence but corroborative",
+      "motive": "Supported by recovered photo and letter",
+      "medical_evidence": "Supports alcohol poisoning and possible asphyxia",
+      "abscondence": "Adds credibility to allegations"
+    },
+    "legal_principles": {
+      "weak_evidence": "Not grounds for quashing proceedings under section 215",
+      "approver_statement": "Cannot be used as substantive evidence but can corroborate other evidence"
+    },
+    "conclusion": "Committal of petitioners justified; petition dismissed"
+  },
+  "punishment": "N/A",
+  "Decision_or_verdict": "Petition dismissed; accused committed to stand trial.",
+  "legal_arguments": [
+    "Approver's statement under Section 164 Cr.P.C. was inadmissible as substantive evidence.",
+    "Evidence of recoveries was unreliable due to lack of detailed descriptions.",
+    "Medical evidence did not conclusively support murder allegations.",
+    "Prosecution argued that evidence was sufficient for prima facie case."
+  ],
+  "assets": [
+    "Car purchased for Rs. 4,100 allegedly used in crime",
+    "Deceased's wristwatch",
+    "Currency notes worth Rs. 1,000",
+    "Photo of victim arm-in-arm with Abida Kausar",
+    "Letter allegedly written by Abida Kausar"
+  ],
+  "statutes": [
+    "Section 215 Cr.P.C.",
+    "Section 561/A Cr.P.C.",
+    "Section 337 Cr.P.C.",
+    "Section 164 Cr.P.C.",
+    "Section 342 Cr.P.C.",
+    "Evidence Act Section 30"
+  ],
+  "sections": [
+    "215",
+    "561/A",
+    "337",
+    "164",
+    "342"
+  ],
+  "citations": [
+    "1973 P Cr. L J 414",
+    "1969 P Cr. L J 150",
+    "1970 P Cr. L J 1104",
+    "PLD 1959 SC (Pak.) 347",
+    "PLD 1949 PC 90"
+  ],
+  "witnesses": [
+    "Yasoob-ul-Hassan (complainant)",
+    "Junaid Tahir",
+    "Muhammad Ishaq Bhatti",
+    "Nawab Din",
+    "Yusuf Shah (approver)"
+  ],
+  "witness_statement": {
+    "Yusuf Shah": "Initially confessed to involvement but later resiled, claiming duress by police.",
+    "Junaid Tahir": "Accompanied deceased on the day of the incident.",
+    "Nawab Din": "Testified about deceased's love affair with Mehraj Din's daughter."
+  },
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Criminal Law",
+    "Evidence Law"
+  ],
+  "key_issues": [
+    "Admissibility of approver's statement under Section 164 Cr.P.C.",
+    "Sufficiency of evidence for prima facie case",
+    "Motive for murder based on personal and business rivalry"
+  ],
+  "key_facts": {
+    "incident_date": "1970-01-11",
+    "victim": "Mahfooz Ahmad",
+    "complainant": "Yasoob-ul-Hassan",
+    "third_accused": "Abdullah (absconded)",
+    "cause_of_death": "Alcohol poisoning and possible asphyxia",
+    "motive": "Alleged love affair between victim and Abida Kausar, daughter of Mehraj Din",
+    "approver": "Yusuf Shah",
+    "approver_statement": "Resiled from confessional statement under duress",
+    "evidence_recovered": {
+      "wrist_watch": "Recovered from Nazir's house",
+      "photo": "Victim arm-in-arm with Abida Kausar",
+      "letter": "Allegedly written by Abida Kausar"
+    }
+  },
+  "maxims": {
+    "N/A": "N/A"
+  },
+  "legal_terms": {
+    "Approver": "An accomplice who is granted pardon in exchange for testimony.",
+    "Prima Facie": "At first glance; sufficient to establish a fact unless rebutted."
+  },
+  "words_and_phrases": {
+    "Resiled": "Retracted or withdrew a statement.",
+    "Casus Belli": "An act or event that provokes or justifies war or conflict."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case involves allegations of murder motivated by personal and business rivalry. Evidence includes confessional statements, recoveries, and medical reports. The court ruled that the petitioners must stand trial, dismissing their plea to quash proceedings due to insufficient grounds under Section 215 Cr.P.C."
+}

@@ -1,0 +1,54 @@
+{
+  "case_title": "KORA KHAN vs DIRECTOR-GENERAL AGRICULTURE DEPARTMENT, GOVERNMENT OF BALOCHISTAN and another",
+  "case_number": "S.A. No. 22 of 2007",
+  "judgment_date": "2010-12-14",
+  "court_name": "Balochistan Service Tribunal",
+  "judges": [
+    "Muhammad Hashim Khan Kakar",
+    "Muhammad Idrees Baloch",
+    "Muhammad Anwar Khan"
+  ],
+  "appellant": "Kora Khan",
+  "respondents": [
+    "Director-General Agriculture Department, Government of Balochistan",
+    "Another"
+  ],
+  "result": "Appeal accepted",
+  "legal_basis": "Section 4 of the Balochistan Service Tribunals Act, 1974",
+  "facts": {
+    "initial_appointment": "Junior Clerk in Agriculture Department on 1990-07-23",
+    "termination_date": "1994-05-04",
+    "reason_for_termination": "Absence due to false involvement in FIR No. 10192 under Section 302 PPC",
+    "acquittal_details": {
+      "trial_court": "Additional District and Sessions Judge Sibi",
+      "trial_court_acquittal_date": "2000-12-16",
+      "high_court_appeal_dismissal_date": "2005-06-04",
+      "supreme_court_petition_dismissal_date": "2006-04-20"
+    },
+    "absence_period": "1992-04-30 to 1994-05-04"
+  },
+  "arguments": {
+    "appellant": {
+      "contention": "Dismissal was unjust due to false involvement in a criminal case and subsequent acquittal. Entitled to reinstatement with back benefits.",
+      "legal_references": [
+        "1998 SCMR 1993",
+        "2001 SCMR 269"
+      ]
+    },
+    "respondent": {
+      "contention": "Appellant remained absent from duty and was not acquitted honourably."
+    }
+  },
+  "judgment": {
+    "findings": {
+      "absence": "Not wilful or deliberate; caused by false FIR.",
+      "acquittal": "All acquittals are honourable; no distinction made.",
+      "delay": "Condoned as delay was not intentional."
+    },
+    "decision": {
+      "reinstatement": "Appellant reinstated in service from dismissal date.",
+      "back_benefits": "Not granted; absence treated as extraordinary leave without pay."
+    }
+  },
+  "reported_as": "2011 P L C (C.S.) 842"
+}

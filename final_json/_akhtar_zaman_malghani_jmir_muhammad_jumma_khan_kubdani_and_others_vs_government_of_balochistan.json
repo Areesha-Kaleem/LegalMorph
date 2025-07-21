@@ -1,0 +1,118 @@
+{
+  "case_title": "Akhtar Zaman Malghani, JMir Muhammad Jumma Khan Kubdani and others vs Government of Balochistan",
+  "reference_no_or_id": "Constitutional Petition No. 322 of 2007",
+  "case_number": "Constitutional Petition No. 322 of 2007",
+  "judgment_date": "2007-11-20",
+  "first_hearing_date": "N/A",
+  "court": "Balochistan High Court",
+  "court_name": "Balochistan High Court",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Amanullah Khan Yasinzai"
+  ],
+  "judge": "Amanullah Khan Yasinzai",
+  "appellant": [
+    "Akhtar Zaman Malghani",
+    "JMir Muhammad Jumma Khan Kubdani",
+    "Others"
+  ],
+  "respondant": [
+    "Government of Balochistan"
+  ],
+  "respondent": "Government of Balochistan",
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": []
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Advocate-General Balochistan"
+    ],
+    "defense": [
+      "Counsel for Petitioners"
+    ]
+  },
+  "complaint_summary": "Petitioners challenged notifications issued by the Government of Balochistan altering territorial limits of Tehsil Council Kharan and removing elected Nazim and Naib Nazim from their positions.",
+  "investigation_summary": "Government of Balochistan issued notifications under sections 6 and 7 of the Land Revenue Act, 1967 and Local Government Ordinance, 2001, creating new Tehsils and altering boundaries. Petitioners alleged these actions were illegal and exceeded jurisdiction.",
+  "judgment_summary": "The court declared notifications dated 22nd August 2007 and 25th August 2007 void and illegal. Petitioners were allowed to retain their positions until the next Local Government elections. Notifications altering boundaries would take effect after the elections.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Notifications declared void; petitioners to retain positions until next elections.",
+  "result": "Order accordingly",
+  "reported_as": "2008 C L C 493",
+  "relief_claimed": "Declaration that notifications/letters/orders dated 7-7-2001, 2-4-2007, 11-4-2007, 15-6-2007, and 22-8-2007 issued by respondents are illegal and issued in excess of jurisdiction, and restraining respondents from disturbing the territorial limits of Tehsil Council Kharan.",
+  "legal_arguments": [
+    "Petitioners argued that section 197 of the Local Government Ordinance, 2001 does not empower the government to remove elected officials.",
+    "Respondents argued that the government has authority to create new Tehsils and appoint caretakers under section 12 of the Ordinance."
+  ],
+  "assets": [],
+  "statutes": [
+    "Land Revenue Act, 1967",
+    "Balochistan Local Government Ordinance, 2001"
+  ],
+  "sections": [
+    "Section 6 of Land Revenue Act, 1967",
+    "Section 7 of Local Government Ordinance, 2001",
+    "Section 197 of Local Government Ordinance, 2001",
+    "Section 11 of Local Government Ordinance, 2001",
+    "Section 12 of Local Government Ordinance, 2001"
+  ],
+  "citations": [
+    "PLD 2005 SC 797",
+    "2008 C L C 493"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Constitutional Law",
+    "Local Government"
+  ],
+  "key_issues": [
+    "Legality of notifications altering territorial limits of Tehsil Council Kharan.",
+    "Removal of elected officials without following prescribed procedures."
+  ],
+  "key_facts": {
+    "petitioners_elected": "Nazim and Naib Nazim of Tehsil Council Kharan in 2005 Local Government Election.",
+    "notifications_issued": [
+      "Creation of Tehsil Sar-e-Kharan and Sub-Tehsil Tohumulk (2-4-2007)",
+      "Declaration of Tehsil Sar-e-Kharan as Local Government Tehsil/TMA (15-6-2007)",
+      "Appointment of petitioners as Nazim and Naib Nazim of Tehsil Sar-e-Kharan (22-8-2007)",
+      "Declaration of seats of Nazim and Naib Nazim of Tehsil Kharan as vacant (22-8-2007)",
+      "Appointment of caretaker for Nazim Tehsil Council Kharan (25-8-2007)"
+    ],
+    "petitioners_contention": "Government acted illegally by removing elected members and creating new Tehsils despite rejection by Tehsil Council.",
+    "respondents_contention": "Government has authority to create new Tehsils and appoint caretakers under relevant laws."
+  },
+  "court_findings": {
+    "notification_under_section_6": "Cannot be challenged constitutionally unless mala fide is shown.",
+    "removal_of_elected_members": "Government lacks authority under section 197 of Local Government Ordinance, 2001 to remove elected Nazim and Naib Nazim.",
+    "boundary_changes": "Changes in boundaries of unions and Tehsils come into effect after next Local Government elections."
+  },
+  "judgment": {
+    "notifications_declared_void": [
+      "22nd August, 2007",
+      "25th August, 2007"
+    ],
+    "petitioners_offices": "Petitioners to continue holding offices until next Local Government elections.",
+    "boundary_changes_effective": "Boundary changes to take effect after announcement of next Local Government elections."
+  },
+  "maxims": {
+    "N/A": "N/A"
+  },
+  "legal_terms": {
+    "Nazim": "Elected head of a local government council.",
+    "Naib Nazim": "Deputy head of a local government council."
+  },
+  "words_and_phrases": {
+    "Caretaker": "Temporary administrator appointed to manage affairs."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around the legality of notifications issued by the Government of Balochistan altering territorial limits and removing elected officials from their positions. The court ruled in favor of the petitioners, declaring the notifications void and allowing them to retain their positions until the next elections."
+}

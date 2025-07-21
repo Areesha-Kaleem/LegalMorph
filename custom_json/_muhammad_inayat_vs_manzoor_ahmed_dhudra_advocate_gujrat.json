@@ -1,0 +1,42 @@
+{
+  "case_title": "MUHAMMAD INAYAT vs MANZOOR AHMED DHUDRA, ADVOCATE, GUJRAT",
+  "case_number": "File No. 194 of 1998",
+  "judgment_date": "2003-01-03",
+  "court": "Bar Council Tribunal",
+  "judges": [
+    "Nasim Sikandar",
+    "Arif Chaudhry",
+    "Nusrat Javaid Bajwa"
+  ],
+  "reported_as": "2003 M L D 1027",
+  "appellant": "Muhammad Inayat",
+  "respondent": "Manzoor Ahmed Dhudra, Advocate, Gujrat",
+  "result": "Order accordingly",
+  "summary": {
+    "complaint_details": {
+      "complainant": "Muhammad Inayat",
+      "allegations": "Illegal gratification of Rs. 4 lacs demanded by respondent for acquittal of accused in a murder case.",
+      "amount_paid": "Rs. 3,70,000",
+      "witnesses": [
+        "Ghulam Muhammad",
+        "Muhammad Nawaz"
+      ],
+      "special_oath": "Complainant and witness took special oath confirming payment of Rs. 3,70,000."
+    },
+    "respondent_defense": {
+      "denial": "Allegations denied as false and frivolous.",
+      "political_rivalry": "Claimed complaint was politically motivated by Ch. Pervaiz Elahi.",
+      "other_defenses": "Contradictions in complainant's statements and amount discrepancies."
+    },
+    "tribunal_findings": {
+      "misconduct": "Respondent found guilty of professional misconduct.",
+      "amount_proven": "Rs. 3,70,000 proven as illegal gratification.",
+      "special_oath": "Respondent resiled from his offer after special oath was taken."
+    }
+  },
+  "order": {
+    "disciplinary_action": "Respondent removed from practice.",
+    "notification": "Punjab Bar Council directed to remove respondent's name from advocate roll and notify relevant authorities.",
+    "recovery_remedy": "Complainant advised to seek civil and criminal remedies for recovery of amount."
+  }
+}

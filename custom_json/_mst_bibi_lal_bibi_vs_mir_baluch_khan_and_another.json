@@ -1,0 +1,57 @@
+{
+  "case_title": "Mst. BIBI LAL BIBI vs MIR BALUCH KHAN AND Another",
+  "case_number": "Civil Appeal No. 1 of 1960",
+  "judgment_date": "1961-11-02",
+  "court_name": "Balochistan High Court",
+  "judges": [
+    "Waheeduddin Ahmad",
+    "A. S. Farooqi"
+  ],
+  "result": "Appeals allowed",
+  "reported_as": "P L D 1962 (VV. P.) Quetta 28",
+  "appellant": "Mst. BIBI LAL BIBI",
+  "respondents": [
+    "MIR BALUCH KHAN",
+    "Another"
+  ],
+  "key_points": {
+    "ancestor": "Sardar Nawab Azad Khan",
+    "dispute": "Partition of landed property left by Sardar Nauroze Khan and Sardar Yaqoob Khan",
+    "initial_suit": "Filed by Bibi Lal Bibi on 1953-10-08",
+    "dismissal_reason": "Claim was vague",
+    "appeal_remand": "Majlis-e-Shura remanded case to Kazi for decision on merits",
+    "kazi_decision": "Partition decree for immovable property passed on 1959-04-18",
+    "majlis_shura_decision": "Set aside Kazi's decree and remanded for further evidence",
+    "final_court_decision": "Restored Kazi's decree and set aside Majlis-e-Shura's order"
+  },
+  "related_cases": {
+    "second_appeals": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "8",
+      "9",
+      "10",
+      "11",
+      "14"
+    ],
+    "revision": "Revision No. 17 of 1959"
+  },
+  "legal_provisions": {
+    "interim_constitution": "Section 86 of Interim Constitution of Baluchistan States Union, 1952",
+    "civil_procedure_code": "Section 86 of Pakistan Civil Procedure Code, 1908",
+    "president_order": "Acceding State (Property) Order No. 12 of 1961"
+  },
+  "partition_details": {
+    "property_source": "Settlement deed of 1883 by Sardar Azad Khan",
+    "partition_basis": "Shares determined by Kazi",
+    "excluded_properties": "Gifted properties or those given in lieu of shares"
+  },
+  "execution_guidelines": {
+    "partition_supervision": "Deputy Commissioner Kharan",
+    "local_commissioners": "To be appointed for partitioning",
+    "maintenance_allowances": "Allowed proportionally from property income"
+  }
+}

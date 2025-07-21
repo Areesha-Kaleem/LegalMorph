@@ -1,0 +1,87 @@
+{
+  "case_title": "Messrs Hussain Mills Limited, Karachi vs The Commissioner Inland Revenue, Zone-III, LTU, Karachi",
+  "reference_no_or_id": "I.T.As. Nos.856/KB to 876/KB of 2019",
+  "judgment_date": "2019-12-11",
+  "first_hearing_date": "N/A",
+  "court": "Appellate Tribunal Inland Revenue",
+  "bench_type": "N/A",
+  "judges": [
+    "Saif Ullah Khan",
+    "Ambreen Aslam"
+  ],
+  "appellant": [
+    "Messrs Hussain Mills Limited, Karachi"
+  ],
+  "respondant": [
+    "The Commissioner Inland Revenue, Zone-III, LTU, Karachi"
+  ],
+  "accussed_details": [
+    {
+      "name": "Messrs Hussain Mills Limited",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "Private Limited Company",
+      "allegation": [
+        "Failure to file monthly withholding tax statements under Section 165 of Income Tax Ordinance, 2001 for specified months",
+        "Violation of prescribed format for withholding tax statements",
+        "Non-compliance with Section 182 of Income Tax Ordinance, 2001"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Mr. Asif Jamali"
+    ],
+    "defense": [
+      "Mr. Ameer Ali Akbar, ACA",
+      "Mr. Muhammad Siddiq, ITP"
+    ]
+  },
+  "complaint_summary": "The taxpayer failed to file monthly withholding tax statements for specified months, violating Section 165 of the Income Tax Ordinance, 2001, and was penalized under Section 182.",
+  "investigation_summary": "Show-cause notices were issued to the taxpayer for non-compliance with Section 165 of the Income Tax Ordinance, 2001. The taxpayer responded, citing technical issues with the FBR IRIS portal. The department rejected the explanation and imposed penalties.",
+  "judgment_summary": "The Tribunal accepted the taxpayer's appeals, finding no mens rea or ulterior motive in the delayed filing of withholding tax statements. The penalties imposed by the department were deemed excessive and uncalled for.",
+  "punishment": "Penalties imposed under Section 182 were set aside.",
+  "Decision_or_verdict": "Appeals accepted; penalties annulled.",
+  "legal_arguments": [
+    "Technical issues with FBR IRIS portal prevented timely filing of statements.",
+    "No mens rea or ulterior motive involved in the delay.",
+    "Taxpayer fulfilled primary obligation of tax deduction and payment.",
+    "Penalties under Section 182 were excessive and uncalled for."
+  ],
+  "assets": [],
+  "statutes": [
+    "Income Tax Ordinance, 2001"
+  ],
+  "sections": [
+    "Section 165",
+    "Section 182"
+  ],
+  "citations": [
+    "2021 P T D (Trib.) 35",
+    "2010 PTD (Trib.) 1373",
+    "2017 PTD 770"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Tax Law",
+    "Administrative Law"
+  ],
+  "key_issues": [
+    "Delayed filing of withholding tax statements",
+    "Technical issues with FBR IRIS portal",
+    "Excessive penalties under Section 182"
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "mens rea": "The intention or knowledge of wrongdoing."
+  },
+  "words_and_phrases": {
+    "withholding tax": "Tax deducted at source from payments made to individuals or entities."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around penalties imposed on Messrs Hussain Mills Limited for delayed filing of withholding tax statements. The taxpayer argued technical issues with the FBR IRIS portal and lack of mens rea. The Tribunal accepted the appeals, setting aside penalties as excessive and uncalled for."
+}

@@ -1,0 +1,66 @@
+{
+  "case_title": "GUL MUHAMMAD vs THE ASSISTANT COLLECTOR, CENTRAL EXCISE AND LAND CUSTOMS AND 2 Other",
+  "case_number": "Writ Petition No. 843 of 1979",
+  "judgment_date": "1981-11-23",
+  "court": "Peshawar High Court",
+  "judges": [
+    "Shahnawaz Khan",
+    "Shah Abdur Rashid"
+  ],
+  "appellant": "GUL MUHAMMAD",
+  "respondents": [
+    "THE ASSISTANT COLLECTOR, CENTRAL EXCISE AND LAND CUSTOMS",
+    "Collector",
+    "Joint Secretary (Customs), Finance Department, Government of Pakistan"
+  ],
+  "result": "Petition dismissed",
+  "facts": {
+    "car_registration_number": "KAQ-3426",
+    "seizure_date": "1974-06-05",
+    "formal_seizure_date": "1974-11-14",
+    "contraventions": [
+      "Clauses (8) and (89) of Table to Section 156(1) of Customs Act (IV of 1969)"
+    ],
+    "notice_date": "1974-11-22",
+    "confiscation_order_date": "1975-08-11",
+    "penalty": "Rs. 5,000",
+    "appeal_rejection_date": "1976-04-16",
+    "remand_order_date": "1977-10-23",
+    "revision_filing_date": "1977-11-18",
+    "petition_filing_date": "1979-12-16"
+  },
+  "legal_references": {
+    "constitution_article": "Article 199",
+    "customs_act_sections": [
+      "156(1)",
+      "168(1)",
+      "168(2)",
+      "180",
+      "202"
+    ],
+    "imports_exports_act_section": "Section 31",
+    "notification": "S.R.O. 920(1)/73 dated 1973-06-25"
+  },
+  "arguments": {
+    "petitioner": {
+      "claim": "Car seized on 1974-06-05 under Section 168(1) of Customs Act; mandatory notice under Section 180 not served within two months; car should be returned without payment of customs duty."
+    },
+    "respondents": {
+      "claim": "Car detained for verification on 1974-06-05; formal seizure occurred on 1974-11-14; notice served within statutory period; customs duty and dues must be paid."
+    }
+  },
+  "court_findings": {
+    "seizure_date": "1974-06-05",
+    "mandatory_notice": "Not served within two months as per Section 168(2)",
+    "import_violation": "Car imported without permit, violating Section 31 of Imports and Exports Act and Customs Act clauses (8), (9), (89), and (90).",
+    "burden_of_proof": "Petitioner failed to prove lawful import and payment of customs duty."
+  },
+  "decision": {
+    "reasoning": "Petitioner liable for customs duty and government dues; discretionary jurisdiction under Article 199 cannot favor possession of ill-gotten gains.",
+    "relief": "No effective relief granted; petition dismissed."
+  },
+  "citation": "P L D 1982 Peshawar 30",
+  "subsequent_references": [
+    "1980 SCMR 114"
+  ]
+}

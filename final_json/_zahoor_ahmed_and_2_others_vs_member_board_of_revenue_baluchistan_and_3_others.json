@@ -1,0 +1,133 @@
+{
+  "case_title": "ZAHOOR AHMED AND 2 OTHERS vs MEMBER, BOARD OF REVENUE, BALUCHISTAN AND 3 OTHERS",
+  "reference_no_or_id": "Constitutional Petition No. 29 of 1971",
+  "judgment_date": "1976-04-22",
+  "first_hearing_date": "N/A",
+  "court": "Balochistan High Court",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Agha Ali Haider",
+    "Agha Ali Hyder"
+  ],
+  "appellant": [
+    "Zahoor Ahmed",
+    "Petitioner No. 2",
+    "Petitioner No. 3"
+  ],
+  "respondant": [
+    "Member, Board of Revenue, Baluchistan",
+    "Respondent No. 4"
+  ],
+  "accussed_details": [
+    {
+      "name": "Zahoor Ahmed",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Businessman",
+      "allegation": [
+        "Cheating",
+        "False representation",
+        "Fraudulent business dealings"
+      ]
+    },
+    {
+      "name": "Petitioner No. 2",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Businessman",
+      "allegation": [
+        "Cheating",
+        "False representation",
+        "Fraudulent business dealings"
+      ]
+    },
+    {
+      "name": "Petitioner No. 3",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Businessman",
+      "allegation": [
+        "Cheating",
+        "False representation",
+        "Fraudulent business dealings"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Mr. Basharatullah"
+    ],
+    "defense": [
+      "Mr. S. H. Jafri"
+    ]
+  },
+  "complaint_summary": "Respondent No. 4 alleged that the petitioners falsely represented themselves as businessmen dealing in dry fruits and fraudulently obtained Rs. 3,000 from him.",
+  "investigation_summary": "Assistant Commissioner initially dismissed the complaint as a civil dispute but later registered a case under sections 420/409/109 of the PPC. Petitioners obtained anticipatory bail and appealed the registration of the case.",
+  "judgment_summary": "The High Court quashed the impugned order passed by the Member, Board of Revenue, finding that the Assistant Commissioner acted beyond his jurisdiction by reviewing his earlier dismissal of the complaint without statutory authority.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Petition allowed; impugned order quashed.",
+  "legal_arguments": [
+    "Assistant Commissioner lacked statutory authority to review his dismissal of the complaint.",
+    "The Criminal Law (Special Provisions) Ordinance, 1968 does not provide for review powers.",
+    "Tribunal of exclusive jurisdiction cannot claim immunity under an ouster clause if acting beyond statutory limits."
+  ],
+  "assets": [],
+  "statutes": [
+    "Criminal Law (Special Provisions) Ordinance, 1968"
+  ],
+  "sections": [
+    "Section 420 PPC",
+    "Section 409 PPC",
+    "Section 109 PPC"
+  ],
+  "citations": [
+    "P L D 1976 Quetta 44",
+    "P L P 1973 S C 236",
+    "1974 S C M R 98"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Fraud",
+    "Jurisdiction",
+    "Administrative Law"
+  ],
+  "key_issues": [
+    "Jurisdiction of Assistant Commissioner under the Ordinance",
+    "Validity of review powers in criminal proceedings",
+    "Supervisory jurisdiction of High Court and Supreme Court"
+  ],
+  "maxims": {
+    "Nullity Doctrine": "Any superstructure built on an unlawful order is invalid."
+  },
+  "legal_terms": {
+    "Ouster Clause": "A provision barring judicial review of certain administrative decisions."
+  },
+  "words_and_phrases": {
+    "Confidence Tricksters": "Individuals who deceive others to gain financial advantage."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around allegations of fraud and jurisdictional overreach by the Assistant Commissioner. The High Court ruled that the Assistant Commissioner acted beyond his statutory powers, rendering subsequent proceedings invalid. The petition was allowed, and the impugned order was quashed.",
+  "case_number": "Constitutional Petition No. 29 of 1971",
+  "reported_as": "P L D 1976 Quetta 44",
+  "result": "Petition allowed",
+  "key_points": {
+    "petitioners_relationship": "Petitioners Nos. 1 and 2 are brothers, petitioner No. 3 is their sister's son.",
+    "related_case": "Mst. Perveen Akhtar filed a suit for dissolution of marriage in Rawalpindi.",
+    "allegation": "Petitioners allegedly cheated respondent No. 4 of Rs. 3,000 under false representation.",
+    "initial_action": "Assistant Commissioner dismissed the complaint as a civil dispute but later registered a criminal case under sections 420/409/109 PPC.",
+    "legal_issue": "Assistant Commissioner lacked the power of review under the Criminal Law (Special Provisions) Ordinance, 1968.",
+    "court_ruling": "The impugned order was beyond jurisdiction and therefore quashed."
+  },
+  "legal_references": [
+    "Criminal Law (Special Provisions) Ordinance, 1968",
+    "Raunag Ali v. Chief Settlement Commissioner and others",
+    "Haji Ali Buz Khan and another v. The Chief Land Commissioner, West Pakistan and another",
+    "P L P 1973 S C 236",
+    "1974 S C M R 98"
+  ],
+  "costs": "Each party to bear their own costs"
+}

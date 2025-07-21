@@ -1,0 +1,103 @@
+{
+  "case_title": "COMMISSIONER OF INCOME-TAX vs S.G. TEJA SHAH CHIRANJIT LAL & CO",
+  "reference_no_or_id": "R. A. No. 264 of 1980 in I.T.A. No. 1004 of 1978-79",
+  "case_number": "R. A. No. 264 of 1980 in I.T.A. No. 1004 of 1978-79",
+  "judgment_date": "1996-12-11",
+  "first_hearing_date": "N/A",
+  "court": "Allahabad High Court",
+  "court_name": "Allahabad High Court",
+  "bench_type": "Division Bench",
+  "judges": [
+    "B. K. Sharma",
+    "Om Prakash"
+  ],
+  "appellant": [
+    "Commissioner of Income-Tax"
+  ],
+  "respondant": [
+    "S.G. Teja Shah Chiranjit Lal & Co"
+  ],
+  "respondent": "S.G. Teja Shah Chiranjit Lal & Co",
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": []
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Sri Ashok Kumar"
+    ],
+    "defense": []
+  },
+  "advocates": "Sri Ashok Kumar (for Revenue)",
+  "complaint_summary": "The Revenue questioned whether the income of two periods could be clubbed following the death of a partner in a partnership firm.",
+  "investigation_summary": "The Income-tax Appellate Tribunal referred the matter to the Allahabad High Court for clarification on whether the predecessor firm dissolved upon the death of a partner or continued with a changed constitution.",
+  "judgment_summary": "The court held that the predecessor firm dissolved upon the death of Shankar Dass, and a new firm was constituted with the remaining partners and a newly inducted partner, Smt. Seelawati. The court ruled that the case fell under Section 188 of the Income Tax Act, 1961, and not Section 187. The income of the two periods could not be clubbed.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Reference answered in favor of the assessee and against the Revenue.",
+  "result": "Reference answered",
+  "legal_arguments": [
+    "Section 188 of the Income Tax Act, 1961, applies where a firm is succeeded by another firm.",
+    "Section 187 does not apply as the predecessor firm dissolved upon the death of a partner."
+  ],
+  "facts": {
+    "original_firm": "Constituted by four partners",
+    "partner_deceased": "Shankar Dass",
+    "death_date": "1976-09-16",
+    "new_firm": "Constituted by remaining partners and Smt. Seelawati as a new partner",
+    "partnership_deed_clause": "No clause preventing dissolution upon death of a partner"
+  },
+  "assets": [],
+  "statutes": [
+    "Income Tax Act, 1961"
+  ],
+  "sections": [
+    "Section 188",
+    "Section 187"
+  ],
+  "legal_provisions": {
+    "section_187": "Change in constitution of the firm",
+    "section_188": "Succession of one firm by another firm"
+  },
+  "citations": [
+    "1998 P T D 1651"
+  ],
+  "reported_as": "1998 P T D 1651",
+  "assessment_year": "1977-78",
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Tax Law",
+    "Partnership Law"
+  ],
+  "key_issues": [
+    "Whether the predecessor firm dissolved upon the death of a partner.",
+    "Applicability of Section 188 versus Section 187 of the Income Tax Act."
+  ],
+  "key_issue": "Whether the income of the two periods could be clubbed following the death of a partner in the firm.",
+  "maxims": {},
+  "legal_terms": {
+    "Predecessor Firm": "The firm existing before the death of a partner.",
+    "Successor Firm": "The firm constituted after the dissolution of the predecessor firm."
+  },
+  "words_and_phrases": {
+    "Clubbed Income": "Combining income of two periods for tax assessment purposes."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk",
+    "printed_by": "Areesha Kaleem",
+    "printed_on": "2025-07-15"
+  },
+  "court_decision": {
+    "predecessor_firm_status": "Dissolved upon death of Shankar Dass",
+    "successor_firm_status": "New firm constituted with remaining partners and Smt. Seelawati",
+    "income_clubbing": "Not permissible",
+    "question_answered": "In the affirmative, against the Revenue and in favor of the assessee"
+  },
+  "summary_vector_notes": "The judgment clarifies the dissolution of a partnership firm upon the death of a partner and the subsequent formation of a successor firm under Section 188 of the Income Tax Act, 1961. The court ruled against the Revenue and upheld the Appellate Tribunal's decision."
+}

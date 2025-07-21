@@ -1,0 +1,101 @@
+{
+  "case_title": "JEHANA And Others vs TAJA",
+  "reference_no_or_id": "R.O.R. No. 850 of 1989",
+  "judgment_date": "1991-06-11",
+  "first_hearing_date": "N/A",
+  "court": "Board of Revenue",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Ch. Talib Hussain"
+  ],
+  "appellant": [
+    "JEHANA And Others"
+  ],
+  "respondant": [
+    "TAJA"
+  ],
+  "accussed_details": [
+    {
+      "name": "TAJA",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Disabled Person",
+      "allegation": [
+        "Fraudulent deprivation of valuable land during consolidation operations"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "The respondent alleged fraudulent deprivation of valuable land measuring 7 Kanals 6 Marlas during consolidation operations, claiming the involvement of field staff and forged thumb-impressions.",
+  "investigation_summary": "The court examined the record, including resolutions with thumb-impressions, and found evidence of fraud and collusion by the consolidation staff. The respondent's possession of the disputed land was confirmed.",
+  "judgment_summary": "The court rejected the revision petition, affirming the Additional Commissioner’s decision that the appeal was not time-barred due to fraud. The respondent was deemed to have been deprived of valuable land unjustly.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Revision rejected",
+  "legal_arguments": [
+    "Petitioners argued the appeal was time-barred and the respondent consented to the allocation of land.",
+    "Respondent argued fraud in consolidation operations and deprivation of valuable land, supported by legal precedents (PLD 1969 Lahore 365, 1988 SCMR 1449)."
+  ],
+  "assets": [
+    {
+      "description": "Land measuring 7 Kanals 6 Marlas in Khasra No.1172/419",
+      "location": "Adjacent to Lahore-Sargodha Road",
+      "status": "Possession confirmed with respondent"
+    },
+    {
+      "description": "Land in Khasra No.343 (8 Kanals 18 Marlas)",
+      "location": "Joint ownership, partially owned by TAJA",
+      "status": "Includes mosque land"
+    }
+  ],
+  "statutes": [
+    "Consolidation Ordinance, 1960"
+  ],
+  "sections": [
+    "Section 10(3) of Consolidation Ordinance, 1960",
+    "Section 73 of the Evidence Act"
+  ],
+  "citations": [
+    "PLD 1969 Lahore 365",
+    "1988 SCMR 1449",
+    "1994 C L C 87"
+  ],
+  "witnesses": [
+    "Patwari"
+  ],
+  "witness_statement": {
+    "Patwari": "Confirmed respondent’s possession of disputed land and fraudulent actions during consolidation operations."
+  },
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Land Dispute",
+    "Fraud",
+    "Consolidation Operations"
+  ],
+  "key_issues": [
+    "Fraudulent deprivation of land during consolidation operations",
+    "Validity of thumb-impressions on resolutions",
+    "Time-barred appeal and its justification"
+  ],
+  "maxims": {
+    "Estoppel": "Party obliging Court by conduct to adopt course contrary to Court's practice cannot subsequently raise objection to such course."
+  },
+  "legal_terms": {
+    "Banjar Oadeem": "Uncultivated land",
+    "Khasra": "Land parcel number"
+  },
+  "words_and_phrases": {
+    "Consolidation Scheme": "A process of reorganizing land ownership and allocation in a village.",
+    "Thumb-Impression": "Biometric signature used for authentication."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around allegations of fraud during land consolidation operations, with the respondent claiming deprivation of valuable land due to forged thumb-impressions and collusion by field staff. The court upheld the Additional Commissioner’s decision, rejecting the revision petition and confirming the respondent’s possession of the disputed land."
+}

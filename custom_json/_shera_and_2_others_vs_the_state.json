@@ -1,0 +1,78 @@
+{
+  "case_title": "Shera and 2 Others vs The State",
+  "case_number": "Criminal Appeal No. 27 of 1977 and Jail Petition No. 49 of 1973",
+  "additional_case_number": "Criminal Appeal No. 452 of 1970",
+  "court": "Supreme Court of Pakistan",
+  "judgment_date": "1978-11-13",
+  "reported_as": "1978 S C M R 93",
+  "result": "Appeal dismissed",
+  "judges": [
+    "Qaisar Khan",
+    "Sheikh Anwarul Haq",
+    "Muhammad Haleem"
+  ],
+  "appellants": [
+    "Shera",
+    "Anara (son of Dari)",
+    "Anara (son of Jahana)"
+  ],
+  "respondent": "The State",
+  "charges": "Murder of Salehon",
+  "incident_date": "1968-03-29",
+  "incident_location": "Village Daftar, District Gujrat",
+  "trial_court_verdict": {
+    "date": "1970-07-29",
+    "judge": "Additional Sessions Judge, Gujrat",
+    "convictions": {
+      "Shera": "Death sentence",
+      "Anara (son of Jahana)": "Death sentence",
+      "Anara (son of Dari)": "Transportation for life"
+    },
+    "acquittals": [
+      "Jahana (son of Khawaja)",
+      "Dari (son of Muradi)",
+      "Rasula (son of Muradi)"
+    ]
+  },
+  "high_court_verdict": {
+    "date": "1973-05-22",
+    "bench": "Division Bench of Lahore High Court",
+    "decision": "Convictions upheld for appellants; retrial ordered for Jahana, Dari, and Rasula."
+  },
+  "key_evidence": {
+    "ocular_testimony": [
+      "Muhammad Akram (P.W. 9)",
+      "Muhammad Akbar (P.W. 10)",
+      "Muhammad (P.W. 11)"
+    ],
+    "recovery_of_weapons": {
+      "date": "1968-04-01",
+      "items": "Blood-stained spears",
+      "produced_by": [
+        "Anara (son of Jahana)",
+        "Anara (son of Dari)"
+      ],
+      "witnesses": [
+        "Lala (P.W. 7)",
+        "Fateh Muhammad (P.W. 8)"
+      ]
+    },
+    "medical_evidence": {
+      "injuries": "20 wounds caused by sharp-edged weapons"
+    },
+    "motive": "Revenge for the murder of Dari (father of Shera and Anara) in 1951."
+  },
+  "defense_arguments": {
+    "denial_of_involvement": "Appellants claimed enmity over land ownership rights.",
+    "alternative_motive": "Suggested deceased was killed due to personal disputes involving his second wife."
+  },
+  "majority_opinion": {
+    "author": "Muhammad Haleem",
+    "summary": "Ocular testimony corroborated by motive and medical evidence; appeal dismissed."
+  },
+  "dissenting_opinion": {
+    "author": "Qaisar Khan",
+    "summary": "Ocular testimony unreliable; appellants acquitted due to benefit of doubt."
+  },
+  "final_order": "Appeal and Jail Petition dismissed in accordance with majority opinion."
+}

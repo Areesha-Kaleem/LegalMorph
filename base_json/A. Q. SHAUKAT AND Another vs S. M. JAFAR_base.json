@@ -1,0 +1,91 @@
+{
+  "case_title": "A. Q. SHAUKAT AND Another vs S. M. JAFAR",
+  "reference_no_or_id": "Criminal Revision No. 780 of 1964",
+  "judgment_date": "1966-02-21",
+  "first_hearing_date": "N/A",
+  "court": "West Pakistan",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Muhammad Afzal Cheema"
+  ],
+  "appellant": [
+    "A. Q. Shaukat",
+    "Another"
+  ],
+  "respondant": [
+    "S. M. Jafar"
+  ],
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": [
+        "Forcible occupation of flats",
+        "Trespassing"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "The respondent alleged that the petitioner forcibly occupied two flats (Nos. 1 and 2, New Charli Villa, Murree) and sought action under Section 145 of the Criminal Procedure Code.",
+  "investigation_summary": "The Sub-Divisional Magistrate initially ordered attachment of the property but vacated the order citing lack of jurisdiction over evacuee properties. The respondent filed a fresh application to the District Magistrate, who referred it to the Additional District Magistrate. The latter issued notices and ordered attachment of the flats pending resolution.",
+  "judgment_summary": "The court ruled that the jurisdiction of criminal courts under Section 145, Cr. P.C., was barred by Section 25 of the Displaced Persons (Compensation and Rehabilitation) Act, 1958. The revision petition was allowed, and the orders of the Additional District Magistrate dated 14th July 1964 and 7th June 1964 were set aside.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Petition allowed",
+  "legal_arguments": [
+    "Petitioner argued that Sections 7, 25, and 29 of the Displaced Persons Act barred criminal court jurisdiction over evacuee property disputes.",
+    "Respondent contended that criminal courts had jurisdiction under Section 1(2) of the Criminal Procedure Code."
+  ],
+  "assets": [
+    "Two flats (Nos. 1 and 2, New Charli Villa, Murree)"
+  ],
+  "statutes": [
+    "Displaced Persons (Compensation and Rehabilitation) Act, 1958",
+    "Criminal Procedure Code"
+  ],
+  "sections": [
+    "Section 145, Cr. P.C.",
+    "Sections 7, 25, and 29 of the Displaced Persons Act"
+  ],
+  "citations": [
+    "P L D 1965 Kar. 305",
+    "P L D 1960 Pash. 47",
+    "P L D 1961 S C 426",
+    "P L D 1964 S C 189",
+    "P L D 1954 Lah. 640",
+    "P L D 1965 S C 698"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Evacuee Property",
+    "Jurisdiction",
+    "Criminal Procedure"
+  ],
+  "key_issues": [
+    "Jurisdiction of criminal courts over evacuee property",
+    "Validity of orders under Section 145, Cr. P.C."
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "Evacuee Property": "Property abandoned by individuals who migrated during partition.",
+    "Jurisdiction": "Authority of a court to hear a case."
+  },
+  "words_and_phrases": {
+    "Ad interim attachment": "Temporary seizure of property pending a final decision.",
+    "Breach of peace": "A situation likely to disturb public tranquility."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around the jurisdiction of criminal courts under Section 145, Cr. P.C., in disputes involving evacuee properties. The court held that Section 25 of the Displaced Persons Act barred such jurisdiction. The petition challenging the orders of the Additional District Magistrate was allowed."
+}

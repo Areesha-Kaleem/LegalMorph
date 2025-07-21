@@ -1,0 +1,66 @@
+{
+  "case_title": "IRSHAD KHAN vs GOHAR RAHMAN KHATTAK, ADVOCATE",
+  "case_number": "Complaint No. T-43 of 1999",
+  "judgment_date": "1999-12-18",
+  "court_name": "Bar Council Tribunal",
+  "judges": [
+    "Mian Muhammad Ajmal",
+    "Muhammad Alam Khan",
+    "Syed Rahman Khan"
+  ],
+  "appellant": "Irshad Khan",
+  "respondent": "Gohar Rahman Khattak, Advocate",
+  "result": "Order accordingly",
+  "reported_as": "2000 M L D 1264",
+  "legal_provisions": {
+    "primary_sections": [
+      "Section 302, P.P.C.",
+      "Section 324, Qisas and Diyat Ordinance"
+    ],
+    "bar_council_rules": [
+      "Rules 134, 172, 175-A of Pakistan Legal Practitioners and Bar Council Rules, 1973"
+    ],
+    "legal_practitioners_act": "Legal Practitioners and Bar Councils Act, 1973",
+    "civil_procedure_code": "Order 23, Rule 1 of Civil Procedure Code"
+  },
+  "allegations": {
+    "complainant_engaged_counsels": [
+      "Wilayat Shah",
+      "Fida Gul",
+      "Gohar Rahman Khattak"
+    ],
+    "bribe_amount": "Rs 80,000",
+    "misconduct_details": [
+      "Cheating and deception",
+      "Misuse of legal profession",
+      "Failure to return Rs 10,000"
+    ]
+  },
+  "disciplinary_proceedings": {
+    "committee_reference_date": "1999-05-22",
+    "tribunal_submission_date": "1999-08-07",
+    "respondent_absence": true,
+    "respondent_application_date": "1999-06-01",
+    "application_accepted_date": "1999-07-28",
+    "costs_imposed": "Rs 3,000"
+  },
+  "tribunal_decision": {
+    "misconduct_proven": true,
+    "suspension_period": "2 years (starting 1999-12-18)",
+    "costs_imposed": "Rs 20,000",
+    "legal_basis": [
+      "Section 41",
+      "Section 44 of Legal Practitioners and Bar Councils Act, 1973"
+    ]
+  },
+  "key_arguments": {
+    "respondent": "Complaint should be dismissed as withdrawn under Civil Procedure Code provisions.",
+    "complainant": "No objection to withdrawal if Rs 10,000 is paid.",
+    "assistant_advocate_general": "Misconduct proceedings are not compoundable."
+  },
+  "precedent_case": {
+    "title": "Muhammad Amin v. M. Asghar Khokhar, Advocate",
+    "citation": "1992 CLC 1596",
+    "principle": "Compromise does not erase professional misconduct."
+  }
+}

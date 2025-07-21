@@ -1,0 +1,88 @@
+{
+  "case_title": "Messrs AL BASHIR COLD STORAGE vs COMMISSIONER (APPEALS) PRA, LAHORE",
+  "reference_no_or_id": "Appeal No. 11 of 2019",
+  "judgment_date": "2019-03-14",
+  "first_hearing_date": "N/A",
+  "court": "Appellate Tribunal Punjab Revenue Authority",
+  "bench_type": "Two-member bench",
+  "judges": [
+    "Habib Ullah Amir",
+    "Shahzad Mehmood Gondal"
+  ],
+  "appellant": [
+    "Messrs AL BASHIR COLD STORAGE"
+  ],
+  "respondant": [
+    "Commissioner (Appeals) PRA, Lahore"
+  ],
+  "accussed_details": [
+    {
+      "name": "Messrs AL BASHIR COLD STORAGE",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "Cold Storage Service Provider",
+      "allegation": [
+        "Non-registration under Punjab Sales Tax on Services Act, 2012",
+        "Failure to file tax returns"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [],
+    "defense": []
+  },
+  "complaint_summary": "The appellant was accused of failing to register under the Punjab Sales Tax on Services Act, 2012 and not filing tax returns, resulting in penalties.",
+  "investigation_summary": "The appellant was issued a show-cause notice on 09-03-2018 for non-registration and non-filing of returns. The Enforcement Officer imposed penalties totaling Rs. 130,000. The Commissioner (Appeals) reduced the penalty to Rs. 40,000 for late filing of returns, deleting the Rs. 50,000 penalty for non-registration due to lack of mens rea.",
+  "judgment_summary": "The Appellate Tribunal set aside the orders of the Enforcement Officer and the Commissioner (Appeals), finding no mens rea on the appellant's part for non-registration. The appeal was allowed, and penalties were annulled.",
+  "punishment": "No penalties imposed; appeal allowed.",
+  "Decision_or_verdict": "Appeal allowed; penalties set aside.",
+  "legal_arguments": [
+    "Mens rea is an essential element for imposing penalties in statutory offences.",
+    "The appellant registered before receiving the show-cause notice, negating willful default.",
+    "Principles of natural justice and fairness were not adhered to in the adjudication process."
+  ],
+  "assets": [],
+  "statutes": [
+    "Punjab Sales Tax on Services Act, 2012",
+    "Punjab Sales Tax on Services (Adjudication and Appeals) Rules, 2015",
+    "Punjab Sales Tax on Services (Registration and De-registration) Rules, 2012"
+  ],
+  "sections": [
+    "Section 35",
+    "Section 48",
+    "Section 60"
+  ],
+  "citations": [
+    "2020 PCTLR 129",
+    "2019 P T D (Trib.) 1885",
+    "2017 PTD 2380 Lahore",
+    "2004 SCMR 456",
+    "2004 PTD 1179"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "Appeal No. 11 of 2019",
+  "legal_categories": [
+    "Tax Law",
+    "Administrative Law"
+  ],
+  "key_issues": [
+    "Whether the appellant's failure to register and file returns constituted willful default.",
+    "Whether penalties imposed were justified in the absence of mens rea."
+  ],
+  "maxims": {
+    "Mens Rea": "An essential element in statutory offences unless explicitly excluded by statute."
+  },
+  "legal_terms": {
+    "Mens Rea": "The intention or knowledge of wrongdoing.",
+    "Show-Cause Notice": "A notice requiring a party to explain or justify their actions."
+  },
+  "words_and_phrases": {
+    "Mens Rea": "Mental state of intent to commit a crime.",
+    "Natural Justice": "Principles of fairness in legal proceedings."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case involved penalties imposed on Messrs AL BASHIR COLD STORAGE for non-registration and non-filing of tax returns under the Punjab Sales Tax on Services Act, 2012. The Tribunal found no mens rea on the appellant's part, as they registered before receiving the show-cause notice. The appeal was allowed, and penalties were annulled."
+}

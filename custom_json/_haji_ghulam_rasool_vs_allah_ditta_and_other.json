@@ -1,0 +1,50 @@
+{
+  "case_title": "Haji GHULAM RASOOL vs ALLAH DITTA And Other",
+  "case_number": "Constitutional Appeal No. 3 of 1947",
+  "judgment_date": "1947-12-20",
+  "court": "Baghdad-ul-Jadid",
+  "judges": [
+    "Din Muhammad",
+    "Khem Chand"
+  ],
+  "appellant": "Haji GHULAM RASOOL",
+  "respondent": "ALLAH DITTA And Other",
+  "result": "Appeal allowed",
+  "reported_as": "P L D 1950 Baghdad-ul-Jadid 19",
+  "facts": {
+    "suit_initiation_date": "1943-08-09",
+    "amount_claimed": "2000",
+    "dismissal_date": "1945-08-14",
+    "reason_for_absence": "Petitioner's wife was seriously ill and he had gone to consult the doctor."
+  },
+  "legal_provisions": {
+    "challenged_order": "O. IX, R. 8, Civil Procedure Code",
+    "application_for_setting_aside": "O. IX, R. 9, Civil Procedure Code",
+    "correct_provision_for_order": "O. XVII, R. 2, Civil Procedure Code"
+  },
+  "key_arguments": {
+    "appellant": [
+      "Case could not be legally dismissed under O. IX, R. 8, Civil Procedure Code as only arguments were pending.",
+      "Court should have waited until the end of the day."
+    ],
+    "respondent": "Resisted the application for setting aside dismissal."
+  },
+  "evidence": {
+    "appellant": "Dr. Abdul Aziz testified that the appellant visited him regarding his wife's illness."
+  },
+  "court_decision": {
+    "reasoning": [
+      "Absence was unintentional as appellant appeared within 15 minutes of dismissal.",
+      "Dismissal under O. IX, R. 8, Civil Procedure Code was not appropriate as arguments were pending.",
+      "Court could have waited until the end of the day or heard arguments from the other side."
+    ],
+    "references": [
+      "Bombay High Court judgment (53 I.C. 253)",
+      "Rangoon High Court judgment (95 I.C. 521)",
+      "A I R 1929 Patna 248",
+      "A I R 1939 Nag. 213"
+    ],
+    "order": "Appeal allowed, dismissal set aside, case remanded to Subordinate Judge, Bahawalpur for disposal in accordance with law.",
+    "costs": "No order as to costs."
+  }
+}

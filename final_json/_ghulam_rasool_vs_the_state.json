@@ -1,0 +1,194 @@
+{
+  "case_title": "GHULAM RASOOL vs THE STATE",
+  "reference_no_or_id": "Criminal Appeal No. 71/BWP. Of 1975",
+  "case_number": "Criminal Appeal No. 71/BWP. Of 1975",
+  "judgment_date": "1976-12-18",
+  "first_hearing_date": "1975-07-24",
+  "court": "Baghdad-ul-Jadid",
+  "court_name": "Baghdad-ul-Jadid",
+  "bench_type": "Criminal Bench",
+  "judges": [
+    "Abdul Shakurul Salam",
+    "K. M. A. Samadani"
+  ],
+  "appellant": [
+    "Ghulam Rasul"
+  ],
+  "respondant": [
+    "The State"
+  ],
+  "respondent": "The State",
+  "accussed_details": [
+    {
+      "name": "Ghulam Rasul",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "N/A",
+      "allegation": [
+        "Murder of Abdul Ghani and Khalid Mahmood"
+      ]
+    }
+  ],
+  "charges": {
+    "section": "302",
+    "law": "Pakistan Penal Code",
+    "counts": 2,
+    "sentence": {
+      "death": true,
+      "fine": {
+        "amount": 4000,
+        "default_penalty": "4 years rigorous imprisonment per count"
+      }
+    }
+  },
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "Ghulam Rasul accused of murdering his two sons, Abdul Ghani (18 years) and Khalid Mahmood (13 years), due to suspicion of teasing his wife.",
+  "prosecution_case": {
+    "incident_date": "1975-06-19",
+    "report_date": "1975-06-20",
+    "victims": [
+      {
+        "name": "Abdul Ghani",
+        "age": 18,
+        "injuries": [
+          "Multiple cut wounds on neck and spinal cord",
+          "Cause of death: Shock and hemorrhage"
+        ]
+      },
+      {
+        "name": "Khalid Mahmood",
+        "age": 13,
+        "injuries": [
+          "Multiple cut wounds on neck and shoulder",
+          "Cause of death: Shock and hemorrhage"
+        ]
+      }
+    ],
+    "weapon_used": "Kassi (sharp-edged tool)",
+    "motive": "Suspicion of teasing appellant's wife"
+  },
+  "defense_case": {
+    "plea": "Grave and sudden provocation",
+    "statements": [
+      {
+        "before_committing_magistrate": "Appellant claimed to have seen Abdul Ghani in compromising position with his wife."
+      },
+      {
+        "before_trial_court": "Appellant claimed his wife was sleeping on Abdul Ghani's cot and Khalid Mahmood was guarding them."
+      }
+    ],
+    "confession": {
+      "judicial_confession": "Excluded due to concerns of coercion and lack of voluntariness."
+    }
+  },
+  "investigation_summary": "Police recovered blood-stained earth, shoes, chadar, and kassi from the crime scene and appellant's house. Confessional statement recorded but deemed coerced.",
+  "evidence": {
+    "eye_witnesses": [
+      {
+        "name": "Muhammad Yousuf",
+        "relation": "Father of victims",
+        "statement": "Observed Ghulam Rasul attacking his sons with kassi."
+      },
+      {
+        "name": "Bashir Ahmed",
+        "relation": "Uncle of victims",
+        "statement": "Corroborated the occurrence."
+      },
+      {
+        "name": "Muhammad Nawaz",
+        "relation": "Independent witness",
+        "statement": "Corroborated the occurrence."
+      }
+    ],
+    "medical_reports": [
+      {
+        "victim": "Abdul Ghani",
+        "cause_of_death": "Shock and hemorrhage due to neck and spinal injuries"
+      },
+      {
+        "victim": "Khalid Mahmood",
+        "cause_of_death": "Shock and hemorrhage due to neck injuries"
+      }
+    ],
+    "recovered_items": [
+      "Blood-stained chadar",
+      "Blood-stained kassi",
+      "Blood-stained earth"
+    ]
+  },
+  "judgment_summary": "The court upheld the conviction under Section 302 of the Pakistan Penal Code for double murder. The plea of grave and sudden provocation was rejected. Death sentences and fines were confirmed.",
+  "judgment_analysis": {
+    "key_findings": [
+      "Judicial confession excluded due to coercion concerns.",
+      "Eye-witness accounts corroborated by medical evidence.",
+      "Defense plea of grave and sudden provocation rejected."
+    ],
+    "sentence_confirmation": {
+      "death_penalty": "Confirmed for double murder",
+      "fine": "Upheld"
+    }
+  },
+  "punishment": "Death sentence on two counts and fine of Rs. 4,000 per count. In default, further four years of rigorous imprisonment.",
+  "Decision_or_verdict": "Appeal dismissed. Death sentences confirmed.",
+  "result": "Appeal dismissed",
+  "legal_arguments": [
+    "Judicial confession deemed coerced and inadmissible.",
+    "Eye-witness accounts corroborated by medical evidence.",
+    "Grave and sudden provocation plea rejected due to lack of evidence."
+  ],
+  "assets": [
+    "Blood-stained chadar",
+    "Blood-stained kassi"
+  ],
+  "statutes": [
+    "Pakistan Penal Code"
+  ],
+  "sections": [
+    "Section 302"
+  ],
+  "citations": [
+    "1977 P Cr. L J 985",
+    "P L D 1960 Kat 674"
+  ],
+  "witnesses": [
+    "Muhammad Yousuf",
+    "Muhammad Nawaz",
+    "Bashir Ahmed"
+  ],
+  "witness_statement": {
+    "Muhammad Yousuf": "Observed Ghulam Rasul attacking his sons with kassi.",
+    "Muhammad Nawaz": "Corroborated the occurrence.",
+    "Bashir Ahmed": "Corroborated the occurrence."
+  },
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Criminal Law",
+    "Murder"
+  ],
+  "key_issues": [
+    "Voluntariness of judicial confession",
+    "Credibility of eye-witnesses",
+    "Applicability of grave and sudden provocation"
+  ],
+  "maxims": {
+    "N/A": "N/A"
+  },
+  "legal_terms": {
+    "Judicial confession": "A statement made by the accused before a magistrate admitting guilt.",
+    "Grave and sudden provocation": "A defense claiming loss of self-control due to immediate provocation."
+  },
+  "words_and_phrases": {
+    "Kassi": "A sharp-edged agricultural tool used in the murders."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "Ghulam Rasul was convicted for the double murder of his sons due to suspicion of teasing his wife. The court rejected his defense of grave and sudden provocation, citing inconsistencies and lack of evidence. Eye-witness accounts and medical evidence corroborated the prosecution's case. Judicial confession was deemed coerced and excluded. Death sentences and fines were confirmed."
+}

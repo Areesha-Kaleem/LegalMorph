@@ -1,0 +1,70 @@
+{
+  "case_title": "Chief Executive Officer, Peshawar Electric and Power Company (PEPCO) and another vs Sajeeda Begum and others",
+  "case_number": "Civil Petitions Nos. 4963 and 5021 of 2018",
+  "judgment_date": "2022-05-17",
+  "court": "Supreme Court of Pakistan",
+  "judges": "Ijaz-ul-Ahsan",
+  "result": "Appeals allowed",
+  "reported_as": "2023 PLC (C.S.) 90",
+  "appellant": "Chief Executive Officer, Peshawar Electric and Power Company (PEPCO) and another",
+  "respondent": "Sajeeda Begum and others",
+  "facts": {
+    "respondent_1": {
+      "name": "Mst. Sajeeda Begum",
+      "relation": "Widow",
+      "deceased": "Ghani-ur-Rehman",
+      "employment": "Lineman-2 with PESCO",
+      "death_date": "2013-07-20"
+    },
+    "respondent_2": {
+      "name": "Mst. Gul Farah Jaan",
+      "relation": "Widow",
+      "deceased": "Rasheed Ahmed",
+      "employment": "Chowkidar (BPS-2) with WAPDA",
+      "death_date": "2016-06-24"
+    }
+  },
+  "issues": {
+    "pesco_jurisdiction": "PESCO's headquarters are in Peshawar, KPK, outside the territorial jurisdiction of the Islamabad High Court.",
+    "pesco_employees": "PESCO employees are not government employees under statutory law.",
+    "wapda_package": "WAPDA employees are governed by WAPDA's own Assistance Package, not the Prime Minister's Assistance Package."
+  },
+  "laws_examined": {
+    "constitution_article_199": "Jurisdiction of High Courts",
+    "companies_ordinance_1984_section_7": "Jurisdiction of the Court",
+    "wapda_act_1958": {
+      "section_1": "Short title and extent",
+      "section_3": "Constitution of the Authority",
+      "section_17": "Employment of officers and servants",
+      "section_29": "Regulations"
+    }
+  },
+  "judgment_analysis": {
+    "pesco": {
+      "jurisdiction": "Islamabad High Court lacked jurisdiction over PESCO.",
+      "employee_status": "PESCO employees are not government employees."
+    },
+    "wapda": {
+      "jurisdiction": "WAPDA is amenable to Islamabad High Court jurisdiction.",
+      "package": "WAPDA's Assistance Package was already availed by the respondent, and imposing the Prime Minister's Assistance Package was legally unsustainable."
+    }
+  },
+  "precedents_cited": [
+    {
+      "case": "Mst. Basharat Jehan v. Director General, Federal Government Education, FGEI (C/Q) Rawalpindi",
+      "citation": "2015 SCMR 1418"
+    },
+    {
+      "case": "Director, Social Welfare NWFP v. Saadullah Khan",
+      "citation": "1996 SCMR 350"
+    },
+    {
+      "case": "Muhammad Yusuf Khan v. WAPDA through its Chairman and others",
+      "date": "2012-09-13"
+    }
+  ],
+  "final_decision": {
+    "pesco": "Islamabad High Court's judgment against PESCO set aside.",
+    "wapda": "Islamabad High Court's judgment against WAPDA set aside."
+  }
+}

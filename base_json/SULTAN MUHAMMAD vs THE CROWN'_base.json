@@ -1,0 +1,93 @@
+{
+  "case_title": "SULTAN MUHAMMAD vs THE CROWN",
+  "reference_no_or_id": "Criminal Appeal No. 14 of 1952",
+  "judgment_date": "1970-02-10",
+  "first_hearing_date": "N/A",
+  "court": "Supreme Court of Pakistan",
+  "bench_type": "Coram 3",
+  "judges": [
+    "Muhammad Shahabuddin",
+    "Sir Abdul Rashid",
+    "Alvin R. Cornelius"
+  ],
+  "appellant": [
+    "Sultan Muhammad"
+  ],
+  "respondant": [
+    "The Crown"
+  ],
+  "accussed_details": [
+    {
+      "name": "Sultan Muhammad",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "N/A",
+      "allegation": [
+        "Murder of Khuban",
+        "House-trespass",
+        "Adultery with Mst. Sabarjan"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "Sultan Muhammad was accused of murdering Khuban after committing house-trespass and adultery with Khuban's wife, Mst. Sabarjan.",
+  "investigation_summary": "The investigation revealed that Sultan Muhammad entered Khuban's house unlawfully, committed adultery with Mst. Sabarjan, and shot Khuban when confronted. Evidence included a confession, dying declaration, and witness statements.",
+  "judgment_summary": "The Supreme Court dismissed the appeal, affirming Sultan Muhammad's conviction for murder. The court found no justification for the killing and rejected the self-defense plea.",
+  "punishment": "Death sentence commuted to transportation for life by the Provincial Government.",
+  "Decision_or_verdict": "Appeal dismissed; conviction upheld.",
+  "legal_arguments": [
+    "Self-defense plea was not raised during trial.",
+    "Confession under Section 164 CrPC was retracted and deemed unreliable.",
+    "Dying declaration of Khuban corroborated prosecution's case."
+  ],
+  "assets": [],
+  "statutes": [
+    "Section 164, Criminal Procedure Code"
+  ],
+  "sections": [
+    "Section 302, Pakistan Penal Code"
+  ],
+  "citations": [
+    "1970 P Cr. L J 670"
+  ],
+  "witnesses": [
+    "Mst. Sabarjan",
+    "Sher Muhammad Khan (Lambardar)",
+    "Police Officer (recorded dying declaration)"
+  ],
+  "witness_statement": {
+    "Mst. Sabarjan": "Initially stated Khuban was shot by someone outside but later admitted Sultan Muhammad shot him.",
+    "Sher Muhammad Khan": "Reported Sultan Muhammad confessed to firing at Khuban.",
+    "Police Officer": "Recorded Khuban's dying declaration implicating Sultan Muhammad."
+  },
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Criminal Law",
+    "Murder",
+    "Self-defense"
+  ],
+  "key_issues": [
+    "Validity of self-defense plea",
+    "Reliability of confession",
+    "Corroboration of dying declaration"
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "House-trespass": "Unlawful entry into another's property.",
+    "Dying declaration": "Statement made by a person on the verge of death regarding the circumstances of their death."
+  },
+  "words_and_phrases": {
+    "Transportation for life": "Imprisonment for life with possibility of relocation."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "Sultan Muhammad was convicted for murdering Khuban after committing house-trespass and adultery. His appeal was dismissed by the Supreme Court, affirming the conviction and rejecting the self-defense plea. Evidence included a confession, dying declaration, and witness statements. The death sentence was commuted to transportation for life."
+}

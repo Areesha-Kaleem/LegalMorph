@@ -1,0 +1,96 @@
+{
+  "case_title": "MUHAMMAD AND OTHERS vs MUHAMMAD ROSHAN AND OTHERS",
+  "reference_no_or_id": "R. 0. R. No. 2712 of 1982",
+  "judgment_date": "1982-11-29",
+  "first_hearing_date": "N/A",
+  "court": "Board of Revenue",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Anwar Zahid"
+  ],
+  "appellant": [
+    "Muhammad and Others"
+  ],
+  "respondant": [
+    "Muhammad Roshan and Others"
+  ],
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": []
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "The petitioners filed for correction of Khasra Girdawari entries for specific land parcels under Land Reforms.",
+  "investigation_summary": "The District Collector, Mianwali, accepted the petitioners' application for correction of Khasra Girdawari entries. The respondents appealed to the Additional Commissioner (Consolidation), Sargodha Division, who overturned the District Collector's decision citing inordinate delay in filing the application.",
+  "judgment_summary": {
+    "initial_order": {
+      "authority": "District Collector, Mianwali",
+      "date": "1982-07-31",
+      "action": "Accepted application for correction of Khasra Girdawari",
+      "details": {
+        "rectangle_683": "Killas Nos. 1 to 10",
+        "rectangle_84": "Killas Nos. 1 to 10",
+        "rectangle_682": "Killa No. 10/2",
+        "rectangle_685": "Killas Nos. 1, 2, 8 to 10"
+      }
+    },
+    "appeal_order": {
+      "authority": "Additional Commissioner (Consolidation), Sargodha Division",
+      "date": "1982-10-17",
+      "action": "Set aside District Collector's order",
+      "reason": "Application made after more than 10 years with no justification for delay"
+    },
+    "final_decision": {
+      "authority": "Board of Revenue",
+      "action": "Maintained appeal order and dismissed revision petition in limine"
+    }
+  },
+  "punishment": "N/A",
+  "Decision_or_verdict": "Petition dismissed",
+  "legal_arguments": [
+    "The application for correction of Khasra Girdawari was made after an inordinate delay of over 10 years.",
+    "The Additional Commissioner observed that there was no justification for accepting the application under Land Reforms."
+  ],
+  "assets": [],
+  "statutes": [
+    "Land Reforms"
+  ],
+  "sections": [],
+  "citations": [
+    "P L D 1983 Rev. 51"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Land Disputes",
+    "Revision Petition"
+  ],
+  "key_issues": [
+    "Delay in filing application for correction of Khasra Girdawari.",
+    "Validity of the District Collector's order under Land Reforms."
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "Khasra Girdawari": "A record of land cultivation and ownership.",
+    "Land Reforms": "Legal measures aimed at redistributing land ownership."
+  },
+  "words_and_phrases": {
+    "Inordinate delay": "Excessive or unreasonable delay."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case involves a revision petition concerning land record corrections under Land Reforms. The petition was dismissed due to unjustified delay in filing the application."
+}

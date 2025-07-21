@@ -1,0 +1,90 @@
+{
+  "case_title": "Messrs BASF CHEMICAL AND POLYMERS PAKISTAN LTD. vs TAXATION OFFICER, ACIT, KARACHI",
+  "reference_no_or_id": "M.A. (Rect) No.27/KB of 2009 in I.T.A. No.167/KB of 2010",
+  "judgment_date": "2013-11-06",
+  "first_hearing_date": "N/A",
+  "court": "Appellate Tribunal Inland Revenue",
+  "bench_type": "Division Bench",
+  "judges": [
+    "Muhammad Jawed Zakaria",
+    "Bakht Zaman"
+  ],
+  "appellant": [
+    "Messrs BASF CHEMICAL AND POLYMERS PAKISTAN LTD."
+  ],
+  "respondant": [
+    "TAXATION OFFICER, ACIT, KARACHI"
+  ],
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": []
+    }
+  ],
+  "lawyers": {
+    "prosecution": [],
+    "defense": []
+  },
+  "complaint_summary": "The appellant sought rectification of the Tribunal's order dated 29-11-2010, claiming that two grounds of appeal were left unaddressed. Grounds included issues of audit selection without notice and jurisdictional errors under section 122(5A) of the Income Tax Ordinance, 2001.",
+  "investigation_summary": "The Tribunal reviewed the appellant's claims and prior decisions, including a similar rectification application dismissed in 2012. It found no apparent mistake floating on the record and noted that the appellant had already challenged the main order in the High Court.",
+  "judgment_summary": "The Tribunal dismissed the rectification application, stating that the issues raised had been addressed in prior orders and that the appellant had already sought remedy in the High Court. It emphasized the limited scope of rectification under section 221 of the Income Tax Ordinance, 2001.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Application dismissed",
+  "legal_arguments": [
+    "Ground No.1: Audit selection without prior notice and reasons.",
+    "Ground No.2: Amendment under section 122(5A) for a non-existent year.",
+    "Ground No.3: Amendment after audit under section 177.",
+    "Ground No.4: Jurisdiction of ACIT under section 122(5A)."
+  ],
+  "assets": [],
+  "statutes": [
+    "Income Tax Ordinance, 2001"
+  ],
+  "sections": [
+    "Section 122(5A)",
+    "Section 177",
+    "Section 221"
+  ],
+  "citations": [
+    "2004 SCMR 1622",
+    "2004 SCMR 1947",
+    "2008 CLD 149",
+    "1999 PTD 2895",
+    "PLD 1995 SC 66",
+    "2006 SCMR 1519",
+    "2000 PTD 359",
+    "2010 PTD (Trib.) 2649",
+    "2010 PTD (Trib.) 878",
+    "1992 SCMR 687",
+    "1992 PTD 570"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "I.T.R.As. Nos.149, 150, and 151 of 2011",
+  "legal_categories": [
+    "Taxation Law",
+    "Rectification of Orders"
+  ],
+  "key_issues": [
+    "Scope of rectification under section 221.",
+    "Jurisdictional errors in tax amendments.",
+    "Audit selection without notice."
+  ],
+  "maxims": {
+    "Rectification": "Mistakes must be apparent and floating on the surface of the record."
+  },
+  "legal_terms": {
+    "Rectification": "Correction of apparent mistakes in judicial orders.",
+    "Jurisdiction": "Legal authority to make decisions."
+  },
+  "words_and_phrases": {
+    "Floating on the surface": "Mistakes that are obvious and do not require investigation."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case involves a rectification application dismissed by the Appellate Tribunal Inland Revenue. The appellant claimed unaddressed grounds in a prior order, but the Tribunal found no apparent mistakes and noted the matter was already sub-judice in the High Court."
+}

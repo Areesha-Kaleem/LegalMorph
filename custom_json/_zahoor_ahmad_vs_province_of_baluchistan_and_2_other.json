@@ -1,0 +1,53 @@
+{
+  "case_title": "Zahoor Ahmad vs Province of Baluchistan and 2 Others",
+  "case_number": "Constitution Petition No. 131 of 1978",
+  "court_name": "Balochistan High Court",
+  "judgment_date": "1978-06-10",
+  "reported_as": "P L D 1979 Quetta 55",
+  "result": "Petition dismissed",
+  "judges": [
+    "Mir Hazar Khan Khoso",
+    "Abdul Hayee Qureshi"
+  ],
+  "appellant": "Zahoor Ahmad",
+  "respondents": [
+    "Province of Baluchistan",
+    "Faridullah",
+    "Other"
+  ],
+  "summary": {
+    "issue": "Challenge to the selection of Faridullah for admission to N.E.D. Engineering College under Quetta rural quota.",
+    "petitioner_claims": [
+      "Petitioner claimed ancestral land and residence in Quetta rural.",
+      "Petitioner alleged respondent Faridullah was a resident of tribal areas of NWFP and not eligible for Baluchistan rural quota.",
+      "Petitioner argued respondent's domicile certificate was unreliable."
+    ],
+    "respondent_defense": [
+      "Respondent provided a valid domicile certificate issued after proper inquiry.",
+      "Respondent argued petitioner was a resident of Quetta urban and not eligible for rural quota."
+    ],
+    "court_findings": [
+      "Petitioner failed to prove respondent's residence in NWFP tribal areas.",
+      "Petitioner did not come with clean hands and provided inconsistent evidence regarding his own residence.",
+      "Selection Committee's reliance on the respondent's domicile certificate was valid."
+    ]
+  },
+  "legal_references": [
+    {
+      "case": "Sher Bahadur Khan v. Capital Development Authority, Islamabad and 2 others",
+      "citation": "P L D 1968 Lah. 938"
+    },
+    {
+      "case": "Syed Saghir Ali v. Mehar Din and others",
+      "citation": "1968 S C M R 729"
+    },
+    {
+      "case": "Sahibzadal Abdul Hannan v. Assistant Director, Immigration and Passports, Government of Pakistan, Karachi and another",
+      "citation": "P L D 1972 Kar. 138"
+    },
+    {
+      "case": "Wali Muhammad v. The Secretary, Home Department, Government of Baluchistan, Quetta and 2 others",
+      "citation": "P L D 1972 Quetta 33"
+    }
+  ]
+}

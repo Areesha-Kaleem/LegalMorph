@@ -1,0 +1,50 @@
+{
+  "case_title": "PERVAIZ AKHTAR vs THE STATE",
+  "case_number": "Criminal Miscellaneous No. 5535/B of 2002",
+  "judgment_date": "2002-08-27",
+  "court_name": "Lahore High Court",
+  "judges": [
+    "Falak Sher",
+    "Ijaz Ahmad Chaudhry"
+  ],
+  "result": "Bail application dismissed",
+  "reported_as": "2003 P Cr. L J 1740",
+  "appellant": "Pervaiz Akhtar",
+  "respondent": "The State",
+  "case_details": {
+    "FIR_number": "256",
+    "FIR_date": "2001-09-30",
+    "police_station": "Gowal Mandi, Lahore",
+    "law_section": "6-9(c) of Control of Narcotic Substances Act, 1997",
+    "allegations": {
+      "complainant": "Zaheer Ahmad, Sub-Inspector, C.I.A. Cantt., Lahore",
+      "accused": "Muhammad Asif (son of petitioner)",
+      "details": "Muhammad Asif was apprehended with 19,000 grams (19 Kgs) of Charas stored at Nisbat Road."
+    }
+  },
+  "arguments": {
+    "petitioner": {
+      "claims": [
+        "Case registered with mala fide intention.",
+        "Application moved against Zaheer Ahmad to Anti-Corruption Punjab.",
+        "No evidence connecting petitioner to narcotics dealing.",
+        "Statement of co-accused has no evidentiary value."
+      ]
+    },
+    "state_counsel": {
+      "claims": [
+        "Petitioner involved in 18 prior narcotics cases.",
+        "Offences fall within prohibitory clause.",
+        "Petitioner remained fugitive from justice."
+      ]
+    }
+  },
+  "judgment_summary": {
+    "findings": [
+      "Petitioner resides in the same house where narcotics were stored.",
+      "Material evidence collected against petitioner through son's statement.",
+      "Petitioner failed to prove false implication or mala fide intention."
+    ],
+    "conclusion": "No case for bail before arrest made out. Application dismissed."
+  }
+}

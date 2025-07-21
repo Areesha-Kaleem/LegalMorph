@@ -1,0 +1,118 @@
+{
+  "case_title": "Syed Haji LAL SHAH vs Syed MUHAMMAD SHAFT AND 6 OTHERS",
+  "reference_no_or_id": "Civil Revision No, 2 of 1971",
+  "judgment_date": "1975-09-26",
+  "first_hearing_date": "1971-02-15",
+  "court": "Balochistan High Court",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Dorab Patel"
+  ],
+  "appellant": [
+    "Syed Haji LAL SHAH"
+  ],
+  "respondant": [
+    "Syed MUHAMMAD SHAFT",
+    "Respondent No. 2",
+    "Respondent No. 3",
+    "Respondent No. 4",
+    "Respondent No. 5",
+    "Respondent No. 6",
+    "Respondent No. 7"
+  ],
+  "accussed_details": [
+    {
+      "name": "Syed Haji LAL SHAH",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Truck Owner",
+      "allegation": [
+        "Illegal possession of truck",
+        "Misconduct in handling truck ownership dispute"
+      ]
+    },
+    {
+      "name": "Respondent No. 2",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Chauffeur",
+      "allegation": [
+        "Renting out truck without owner's consent"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Mr. Basharatullah"
+    ],
+    "defense": [
+      "Advocate-General"
+    ]
+  },
+  "complaint_summary": "The appellant filed a suit against seven respondents alleging illegal possession and misuse of his truck. Respondents 3 and 4 filed a criminal complaint against the appellant under sections 392, 394, 342, and 323 PPC read with section 34 PPC, claiming ownership of the truck.",
+  "investigation_summary": "The Tehsildar's report supported the appellant's claim to ownership of the truck. However, the 5th respondent handed over possession of the truck to Respondent No. 4, which was later used for smuggling and confiscated by Respondents 6 and 7.",
+  "judgment_summary": "The court dismissed the appellant's revision application, upholding the District Judge's decision that separate suits should be filed against different sets of respondents due to distinct causes of action.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Application dismissed",
+  "legal_arguments": [
+    "Order I, Rule 3 CPC: Joinder of parties and causes of action",
+    "Order II CPC: Avoidance of multiplicity of suits",
+    "Sea Customs Act: Exhaustion of statutory remedies"
+  ],
+  "assets": [
+    {
+      "type": "Truck",
+      "description": "Confiscated truck allegedly used for smuggling"
+    }
+  ],
+  "statutes": [
+    "Order I, Rule 3 CPC",
+    "Order II CPC",
+    "Sea Customs Act"
+  ],
+  "sections": [
+    "Section 392 PPC",
+    "Section 394 PPC",
+    "Section 342 PPC",
+    "Section 323 PPC",
+    "Section 34 PPC"
+  ],
+  "citations": [
+    "P L D 1976 Quetta 1",
+    "I L R 45 Cal. 111",
+    "A I R 1947 Cal. 374",
+    "A I R 1933 Mad. 622",
+    "A I R 1928 Cal. 199",
+    "1921 All E L R 388"
+  ],
+  "witnesses": [
+    "Tehsildar"
+  ],
+  "witness_statement": {
+    "Tehsildar": "Supported appellant's claim to truck ownership."
+  },
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Civil Revision",
+    "Property Dispute",
+    "Misjoinder of Causes of Action"
+  ],
+  "key_issues": [
+    "Ownership of the truck",
+    "Misjoinder of causes of action",
+    "Illegal confiscation of truck"
+  ],
+  "maxims": {
+    "Legal Principle": "Avoidance of multiplicity of suits vs. unconnected controversies."
+  },
+  "legal_terms": {
+    "Misjoinder": "Improper joining of parties or causes of action in a single suit."
+  },
+  "words_and_phrases": {
+    "Supardari": "Custody of property during legal proceedings."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around a property dispute concerning a truck owned by the appellant, Syed Haji LAL SHAH. The appellant alleged illegal possession and misuse by the respondents, leading to multiple legal proceedings. The court dismissed the appellant's application, emphasizing the need for separate suits due to distinct causes of action."
+}

@@ -1,0 +1,36 @@
+{
+  "case_title": "MUHAMMAD NAWAZ Und 3 Other vs MUHAMMAD IKHLAQ Etc",
+  "case_number": "R.O.R. No. 920, 931, 1127 of 1990 and R.O.R. No. 1462 of 1991",
+  "court_name": "Board of Revenue, Punjab",
+  "judgment_date": "1992-04-28",
+  "judge": "Akhtar Said",
+  "reported_as": "K.L.R. 1993 Revenue Cases 115",
+  "appellant": "MUHAMMAD NAWAZ Und 3 Other",
+  "respondent": "MUHAMMAD IKHLAQ Etc",
+  "result": "N/A",
+  "legal_points": {
+    "temporary_vs_permanent_lambardar": "The law does not recognize the concepts of 'temporary lambardar' and 'permanent lambardar'.",
+    "rules_involved": {
+      "rule_17": "Deals with first appointments and qualifications required for lambardars.",
+      "rule_19": "Deals with succession of lambardars based on estate ownership (government-owned vs privately-owned).",
+      "rule_21": "Envisages special contingencies unrelated to normal circumstances."
+    },
+    "succession_criteria": "Rule 19(2) applies to estates owned chiefly by private individuals, requiring hereditary claims under primogeniture."
+  },
+  "facts_of_case": {
+    "original_lambardar": "Sanaullah",
+    "appointment_year": "1908",
+    "confirmation_year": "1910",
+    "ownership_change": "Village transitioned from government-owned to privately-owned before Sanaullah's death in 1987.",
+    "dispute": "Deputy Commissioner and Commissioner incorrectly considered Sanaullah as 'temporary lambardar'."
+  },
+  "judgment_summary": {
+    "revision_petition_accepted": "Naseer Ahmad appointed as lambardar succeeding Sanaullah.",
+    "revision_petition_rejected": "Muhammad Nawaz's petition rejected.",
+    "other_petitions_disposed": [
+      "R.O.R. No. 1127 of 1990: MUHAMMAD NAWAZ vs MUHAMMAD IKHLAQ Etc",
+      "R.O.R No. 1462 of 1991: MUHAMMAD AKHLAQ vs MUHAMMAD NAWAZ"
+    ]
+  },
+  "key_decision": "Succession governed by Rule 19(2) and primogeniture; Naseer Ahmad succeeds Sanaullah."
+}

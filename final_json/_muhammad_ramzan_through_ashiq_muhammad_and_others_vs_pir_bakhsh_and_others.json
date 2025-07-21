@@ -1,0 +1,118 @@
+{
+  "case_title": "MUHAMMAD RAMZAN through Ashiq Muhammad and others vs PIR BAKHSH and others",
+  "reference_no_or_id": "C.Rs, Nos.558 and 559 of 1984; Civil Appeals Nos.978 and 979 of 1994",
+  "case_number": "C.Rs, Nos.558 and 559 of 1984 Civil Appeals Nos.978 and 979 of 1994",
+  "judgment_date": "2000-01-12",
+  "first_hearing_date": "N/A",
+  "court": "Supreme Court of Pakistan",
+  "bench_type": "Three Judges Bench",
+  "judges": [
+    "Wajihuddin Ahmed",
+    "Irshad Hasan Khan",
+    "Munir A. Sheikh"
+  ],
+  "appellant": [
+    "MUHAMMAD RAMZAN through Ashiq Muhammad and others"
+  ],
+  "respondant": [
+    "PIR BAKHSH and others"
+  ],
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": []
+    }
+  ],
+  "lawyers": {
+    "prosecution": [],
+    "defense": []
+  },
+  "complaint_summary": "Appellants sought declaration of ownership of land under tenancy, claiming full ownership rights based on the Punjab Tenancy (Amendment) Act, 1952.",
+  "investigation_summary": "The trial court decreed the suit, finding rent payable in both kind and cash, granting ownership rights to appellants. Appellate courts overturned the decision, citing exclusive jurisdiction of Revenue Court under Section 77 of Punjab Tenancy Act, 1887.",
+  "judgment_summary": "The Supreme Court of Pakistan accepted the appeals, overturning the decisions of the Lahore High Court and the First Appellate Court. It held that the Civil Court had jurisdiction to decide the matter regarding ownership rights of occupancy tenants under the Punjab Tenancy Act, 1887 and Punjab Tenancy (Amendment) Act, 1952. The case was remanded to the Additional District Judge for decision on merits.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Appeal accepted; judgments of Lahore High Court and Additional District Judge set aside; case remanded for decision on merits.",
+  "legal_arguments": [
+    "Section 114(3) of Punjab Tenancy Act, 1887: Relationship between landlord and tenant ceased after rules were framed.",
+    "Section 77 of Punjab Tenancy Act, 1887: Jurisdiction of Civil Court not ousted as dispute was incidental to ownership rights.",
+    "Conflicting precedents from Lahore High Court resolved in favor of Civil Court jurisdiction."
+  ],
+  "assets": [],
+  "statutes": [
+    "Punjab Tenancy Act, 1887",
+    "Punjab Tenancy (Amendment) Act, 1952"
+  ],
+  "sections": [
+    "Section 6",
+    "Section 114(2)(b)",
+    "Section 114(3)",
+    "Section 77(3)(h)",
+    "Section 77(3)(i)"
+  ],
+  "citations": [
+    "2000 SCMR 522",
+    "PLD 1975 Lahore 429",
+    "PLD 1976 Lahore 1535",
+    "PLD 1989 Lahore 1276",
+    "NLR 1980 Revenue Lahore 30"
+  ],
+  "precedents_cited": [
+    {
+      "case": "Wali Muhammad vs Muhammad Sharif",
+      "citation": "PLD 1976 Lahore 1535",
+      "view": "Revenue Court jurisdiction upheld."
+    },
+    {
+      "case": "Allah Ditta vs Muhammad Ali",
+      "citation": "PLD 1975 Lahore 429",
+      "view": "Civil Court jurisdiction upheld."
+    },
+    {
+      "case": "Rabia Bibi vs Sanaullah",
+      "citation": "NLR 1980 Revenue Lahore 30",
+      "view": "Civil Court jurisdiction upheld."
+    },
+    {
+      "case": "Khushi Muhammad vs Boota",
+      "citation": "PLD 1989 Lahore 1276",
+      "view": "Civil Court jurisdiction upheld."
+    }
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "Civil Appeals Nos.978 and 979 of 1994",
+  "legal_categories": [
+    "Land Ownership",
+    "Tenancy Disputes",
+    "Civil Procedure"
+  ],
+  "key_issues": [
+    "Whether rent was payable in kind or both kind and cash.",
+    "Jurisdiction of Civil Court versus Revenue Court.",
+    "Applicability of Section 77 of Punjab Tenancy Act, 1887."
+  ],
+  "key_points": {
+    "issue": "Ownership rights of occupancy tenants under tenancy laws.",
+    "trial_court_decision": "Plaintiffs decreed as owners of the land.",
+    "first_appellate_court_decision": "Jurisdiction of Civil Court ousted; case referred to Revenue Court.",
+    "high_court_decision": "Revision petitions dismissed; upheld First Appellate Court's decision.",
+    "supreme_court_decision": "Civil Court jurisdiction upheld; appeals accepted."
+  },
+  "maxims": {},
+  "legal_terms": {
+    "Occupancy Tenant": "A tenant with rights to occupy land under tenancy laws.",
+    "Hissabatai": "Rent paid in kind."
+  },
+  "words_and_phrases": {
+    "Mutation": "Official change in ownership records.",
+    "Permanent Injunction": "Court order to restrain interference with possession."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around ownership rights of land under tenancy laws. The Supreme Court resolved conflicting precedents regarding jurisdiction, holding Civil Court competent to decide ownership disputes post-1953 rules framing. Appeals were accepted, and the case remanded for merits-based decision.",
+  "summary": "The Supreme Court of Pakistan accepted the appeals, overturning the decisions of the Lahore High Court and the First Appellate Court. It held that the Civil Court had jurisdiction to decide the matter regarding ownership rights of occupancy tenants under the Punjab Tenancy Act, 1887 and Punjab Tenancy (Amendment) Act, 1952. The case was remanded to the Additional District Judge for decision on merits."
+}

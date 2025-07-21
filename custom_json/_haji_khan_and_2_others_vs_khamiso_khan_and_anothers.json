@@ -1,0 +1,54 @@
+{
+  "case_title": "HAJI KHAN AND 2 OTHERS vs KHAMISO KHAN AND ANOTHERs",
+  "case_number": "Case Rs, SROR-131 of 1971-72",
+  "judgment_date": "1975-06-07",
+  "court": "Board of Revenue",
+  "judge": "D. S. Soomro",
+  "reported_as": "P L D 1985 Rev. 194 [Sind]",
+  "result": "Revision rejected",
+  "appellant": "HAJI KHAN AND 2 OTHERS",
+  "respondent": "KHAMISO KHAN AND ANOTHERs",
+  "facts_of_case": {
+    "disputed_land": "S. Nos. 21/A, B, 37, 68/1, 2, 3, 71/1, 2, 3, 78, 82, 83, 75, 369 and 422 Deh Barochani, Taluka and District Hyderabad",
+    "sale_details": "Sold by Sanjar Khan as attorney of the petitioners to the respondents via registered sale-deed",
+    "initial_rejection": "Settlement Mukatiarkar rejected Khata change request on 1-4-1909 due to denial of attorney status by petitioners",
+    "appeals": [
+      {
+        "to": "Settlement Officer, Hyderabad",
+        "result": "Accepted on 30-7-1969"
+      },
+      {
+        "to": "Addl Commissioner, Hyderabad",
+        "result": "Rejected on 7-6-1971"
+      }
+    ]
+  },
+  "legal_arguments": {
+    "petitioners": {
+      "claim": "Alienation is void due to contravention of Para. 25 of repealed M.L.R. 64 of 1959",
+      "additional_points": [
+        "Sanjar Khan Hajano had no valid power-of-attorney",
+        "Consideration for the land was not paid"
+      ]
+    },
+    "respondents": {
+      "claim": "No contravention of Para. 25 of repealed M.L.R. 64 of 1959",
+      "joint_holding_status": "Joint holding remained above subsistence level after alienation"
+    }
+  },
+  "key_findings": {
+    "joint_holding_area": {
+      "total": "44.21 Acres",
+      "post_alienation": "22.38 Acres"
+    },
+    "subsistence_holding_status": "Above subsistence holding after alienation",
+    "additional_points": {
+      "power_of_attorney": "Not pressed in verbal arguments",
+      "consideration_payment": "Not pressed in verbal arguments"
+    }
+  },
+  "decision": {
+    "reasoning": "No contravention of Para. 25 of repealed M.L.R. 64 of 1959 and no justification for interference with lower court orders",
+    "outcome": "Revision petition rejected"
+  }
+}

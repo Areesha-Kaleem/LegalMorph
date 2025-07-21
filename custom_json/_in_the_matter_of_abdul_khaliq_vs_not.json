@@ -1,0 +1,57 @@
+{
+  "case_title": "In The Matter Of: ABDUL KHALIQ vs NOT",
+  "case_number": "Show-Cause Notices No. SMD/Co. 62/3/2004-S",
+  "judgment_date": "2006-03-28",
+  "court_name": "Appellate Bench of Securities and Exchange Commission of Pakistan",
+  "judge": "Jahanara Sajjad Ahmad",
+  "appellant": "Abdul Khaliq",
+  "respondent": "NOT",
+  "result": "Order Accordingly",
+  "reported_as": "2006 P.C.T.L.R. 1007",
+  "facts": {
+    "applicant_1": {
+      "name": "Abdul Khaliq",
+      "father_name": "Mohammad Zaman Khan",
+      "nic_number": "35201-1606641-1",
+      "address": "c/o Adamjee Insurance Company Limited, Nawa-e-Waqt House, Queen's Road, Lahore"
+    },
+    "applicant_2": {
+      "name": "Abdul Khaliq",
+      "father_name": "Mohd. Zaman Khan",
+      "nic_number": "35201-1606641-1",
+      "address": "Room No. 212, Second Floor, Lahore Stock Exchange Building, Lahore"
+    },
+    "violated_section": "18A of the Securities and Exchange Ordinance, 1969",
+    "applications": [
+      {
+        "application_number": "11-186-1215",
+        "bank": "Muslim Commercial Bank, WAPDA House Branch, Lahore",
+        "account_number": "1495-7",
+        "status": "Genuine"
+      },
+      {
+        "application_number": "01-203-1763",
+        "bank": "Allied Bank of Pakistan Limited, LSE Branch, Lahore",
+        "account_number": "3020-1",
+        "status": "Fictitious"
+      }
+    ]
+  },
+  "order": {
+    "genuine_application": {
+      "application_number": "11-186-1215",
+      "action": "Allot shares"
+    },
+    "fictitious_application": {
+      "application_number": "01-203-1763",
+      "action": "Confiscate subscription money",
+      "deposit_to": "Securities and Exchange Commission of Pakistan account with Habib Bank Limited",
+      "deadline": "30 days from receipt of order"
+    },
+    "state_bank_action": {
+      "investigate_account": "3020-1",
+      "bank_name": "Allied Bank of Pakistan, LSE Branch, Lahore",
+      "action": "Take appropriate measures against concerned parties"
+    }
+  }
+}

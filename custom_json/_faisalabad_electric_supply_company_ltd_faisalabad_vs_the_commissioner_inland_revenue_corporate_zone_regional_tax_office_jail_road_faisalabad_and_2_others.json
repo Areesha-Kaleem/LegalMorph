@@ -1,0 +1,60 @@
+{
+  "case_title": "Faisalabad Electric Supply Company Ltd., Faisalabad vs The Commissioner Inland Revenue, Corporate Zone, Regional Tax Office, Jail Road, Faisalabad and 2 others",
+  "case_number": "S.T.A. No.686/LB of 2021",
+  "judgment_date": "2022-04-05",
+  "court_name": "Appellate Tribunal Inland Revenue",
+  "judges": [
+    "Muhammad Naeem",
+    "Amina Nazeer Ansari"
+  ],
+  "appellant": "Faisalabad Electric Supply Company Ltd., Faisalabad",
+  "respondent": "The Commissioner Inland Revenue, Corporate Zone, Regional Tax Office, Jail Road, Faisalabad and 2 others",
+  "result": "Appeal allowed",
+  "reported_as": "2023 PTD (Trib.) 1358",
+  "grounds_of_appeal": [
+    "The appellate order confirming Order-in-Original No.306/2019 is arbitrary and against the law and facts.",
+    "The CIR(A) unlawfully maintained the impugned order under section 11 of the Sales Tax Act, 1990, disregarding Lahore High Court's judgment in Hamza Nasir Wire v. Federation of Pakistan 2018 PTD 1071.",
+    "Input tax paid on computers and allied stationery items is fully admissible under section 7 of the Sales Tax Act, 1990.",
+    "The appellant, being a government-owned company, used the items solely for taxable supplies.",
+    "Disallowance of input tax under section 8(1)(h) & (i) of the Sales Tax Act, 1990 is against the law and statutory obligations.",
+    "Burden of proof that the items were not related to taxable activity lies with the revenue, which failed to discharge it."
+  ],
+  "facts_of_case": {
+    "appellant_activity": "Distribution of electricity to 4.1 million recipients.",
+    "disputed_items": "Computers and allied stationery items (e.g., toners, ribbons, printers).",
+    "show_cause_notice_date": "2017-12-15",
+    "disallowed_input_tax_amount": "22,415,320",
+    "initial_order_date": "2018-11-21",
+    "appeal_rejection_date": "2020-11-26"
+  },
+  "legal_arguments": {
+    "appellant": [
+      "Computers and stationery items are essential for taxable activity.",
+      "Input tax paid on these items is admissible under section 7 of the Sales Tax Act, 1990.",
+      "Burden of proof lies with the revenue to establish non-relevance of items to taxable activity."
+    ],
+    "respondent": [
+      "Orders passed by CIR(A) are lawful and in accordance with relevant provisions.",
+      "Appellant failed to provide sufficient evidence of item usage in taxable activity."
+    ]
+  },
+  "key_observations": [
+    "Computers and stationery items are essential for the appellant's taxable activity.",
+    "Disallowance of input tax under section 8(1)(h) & (i) of the Sales Tax Act, 1990 is against the text and purpose of the law.",
+    "Burden of proof lies with the revenue, which failed to discharge it."
+  ],
+  "precedents_cited": [
+    {
+      "citation": "2005 PTD 2012",
+      "summary": "Accessories and spare parts of machinery enjoy input tax credit under the Sales Tax Act, 1990."
+    },
+    {
+      "citation": "2007 PTD (Trib.) 2391",
+      "summary": "Input tax is adjustable for items indirectly related to production or industrial activity."
+    }
+  ],
+  "final_decision": {
+    "input_tax_admissibility": "Input tax on computers and stationery items is fully admissible under section 7 of the Sales Tax Act, 1990.",
+    "orders_annulled": "Orders of CIR(A) and ACIR are annulled."
+  }
+}

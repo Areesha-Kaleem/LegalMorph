@@ -1,0 +1,47 @@
+{
+  "case_title": "ABDUL KARIM vs THE RETURNING OFFICER/AC, HUB",
+  "case_number": "C.P. No. 116/1999",
+  "court_name": "Balochistan High Court",
+  "judgment_date": "1999-03-08",
+  "judges": [
+    "Javaid Iqbal",
+    "Amir-ul-Mulk Mengal"
+  ],
+  "appellant": "Abdul Karim",
+  "respondent": "The Returning Officer/AC, Hub",
+  "result": "Appeal ordered",
+  "reported_as": "K.L.R. 1999 Civil Cases 601",
+  "legal_basis": {
+    "constitution_article": "Article 199 of the Constitution of Islamic Republic of Pakistan 1973",
+    "rules_cited": [
+      "Section 17(3)(b) of Balochistan Local Government (Election) Rules 1983",
+      "Section 20 of Balochistan Local Government Ordinance, 1980"
+    ]
+  },
+  "key_points": {
+    "issue": "Rejection of nomination papers due to absence of seconder during scrutiny.",
+    "appellant_arguments": [
+      "Presence of seconder not mandatory under Section 17(3)(b) of the Rules.",
+      "No objections raised by other candidates during scrutiny.",
+      "Nomination papers fulfilled all qualifications under Section 20 of the Ordinance."
+    ],
+    "respondent_arguments": [
+      "Presence of seconder necessary to verify authenticity of signatures.",
+      "Returning Officer acted in accordance with the rules."
+    ],
+    "court_findings": [
+      "Rule 17 does not mandate presence of seconder during scrutiny.",
+      "Returning Officer's rejection of nomination papers was arbitrary and unsupported by legal provisions.",
+      "Appellate Authority endorsed the decision without proper consideration of relevant laws."
+    ]
+  },
+  "judgment_summary": {
+    "decision": "Petition accepted.",
+    "orders": [
+      "Set aside the orders of Returning Officer dated 22.2.1999 and Appellate Authority dated 1.3.1999.",
+      "Declare Abdul Karim as a validly nominated candidate from Ward No. 10 Town Committee Hub.",
+      "Direct Returning Officer to include Abdul Karim's name in the list of validly nominated candidates."
+    ],
+    "costs": "No order as to costs."
+  }
+}

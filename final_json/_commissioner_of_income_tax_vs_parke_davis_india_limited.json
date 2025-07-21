@@ -1,0 +1,92 @@
+{
+  "case_title": "COMMISSIONER OF INCOME-TAX vs PARKE DAVIS (INDIA) LIMITED",
+  "reference_no_or_id": "Income-tax Case No.93 of 1998",
+  "judgment_date": "1999-06-08",
+  "first_hearing_date": "N/A",
+  "court": "Andhra Pradesh High Court",
+  "bench_type": "Division Bench",
+  "judges": [
+    "P. Venkatarama Reddy",
+    "A. Hanumanthu"
+  ],
+  "appellant": [
+    "Commissioner of Income-tax"
+  ],
+  "respondant": [
+    "Parke Davis (India) Limited"
+  ],
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": []
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Standing Counsel for the Department"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "The Commissioner of Income-tax filed an application under section 256(2) of the Income Tax Act, 1961, seeking reference of certain questions of law for the opinion of the Andhra Pradesh High Court.",
+  "investigation_summary": "The application arose from an assessment made for the year 1983-84 under section 143(3) by the Inspecting Assistant Commissioner, Assessment Range-V(A), Bombay. The reference application was dismissed by the Mumbai D-Bench of the Income-tax Appellate Tribunal on March 18, 1997.",
+  "judgment_summary": "The Andhra Pradesh High Court dismissed the application, holding that it lacked territorial jurisdiction. The court clarified that the application should have been filed in the High Court of Bombay, as the Appellate Tribunal that declined to state the case was located within its jurisdiction.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Application dismissed due to lack of jurisdiction.",
+  "legal_arguments": [
+    "The petitioner argued that the transfer of assessment files to Hyderabad justified filing the application in the Andhra Pradesh High Court.",
+    "The court rejected this argument, stating that section 127 of the Income Tax Act does not confer jurisdiction on a High Court outside the territorial limits of the Appellate Tribunal."
+  ],
+  "assets": [],
+  "statutes": [
+    "Income Tax Act, 1961"
+  ],
+  "sections": [
+    "Section 256(2)",
+    "Section 127"
+  ],
+  "citations": [
+    "2001 P T D 2313"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Income Tax Law",
+    "Jurisdiction"
+  ],
+  "key_issues": [
+    "Whether the Andhra Pradesh High Court had jurisdiction to entertain the application under section 256(2).",
+    "Interpretation of section 127 of the Income Tax Act regarding territorial jurisdiction."
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "Jurisdiction": "The authority of a court to hear and decide a case.",
+    "Reference Application": "An application seeking the opinion of a higher court on questions of law."
+  },
+  "words_and_phrases": {
+    "Territorial Jurisdiction": "The geographical area within which a court has authority to adjudicate cases."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case involved the dismissal of an application under section 256(2) of the Income Tax Act, 1961, by the Andhra Pradesh High Court due to lack of territorial jurisdiction. The court clarified that the application should have been filed in the High Court of Bombay, as the Appellate Tribunal rejecting the reference was located there. Arguments based on section 127 were deemed irrelevant to the jurisdictional issue.",
+  "case_number": "Income-tax Case No.93 of 1998",
+  "court_name": "Andhra Pradesh High Court",
+  "result": "Application dismissed",
+  "reported_as": "2001 P T D 2313",
+  "legal_provisions": {
+    "section_256_2": "Income Tax Act, 1961",
+    "section_127": "Income Tax Act, 1961"
+  },
+  "key_points": {
+    "jurisdiction_issue": "The Andhra Pradesh High Court determined it lacked jurisdiction to entertain the application under section 256(2).",
+    "appellate_tribunal_location": "Mumbai Bench of the Income-tax Appellate Tribunal",
+    "reason_for_filing_in_AP": "Assessment files of the respondent company were transferred to Hyderabad after the appeal disposal.",
+    "interpretation_of_section_127": "Section 127 does not allow transfer of proceedings from one Appellate Tribunal to another or alter High Court jurisdiction."
+  }
+}

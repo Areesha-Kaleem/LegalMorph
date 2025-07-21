@@ -1,0 +1,143 @@
+{
+  "case_title": "MUHAMMAD AKBAR JAFFAR vs GOVERNMENT OF BALUCHISTAN",
+  "reference_no_or_id": "Appeal No. 15 of 1977",
+  "judgment_date": "1978-01-21",
+  "first_hearing_date": "N/A",
+  "court": "Balochistan High Court",
+  "bench_type": "Service Tribunal",
+  "judges": [
+    "Fakhruddin H. Shaikh",
+    "Malik Abdus Samad",
+    "Malik Habibullah Khan"
+  ],
+  "appellant": [
+    "Muhammad Akbar Jaffar"
+  ],
+  "respondant": [
+    "Government of Baluchistan"
+  ],
+  "accussed_details": [
+    {
+      "name": "Muhammad Akbar Jaffar",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Political Agent, Chagai",
+      "allegation": [
+        "Accumulating wealth through illegal gratifications for issuing permits of second-hand clothing, onions, and potatoes.",
+        "Living beyond means and purchasing a house worth Rs. 5 lacs in the name of his mother-in-law, disproportionate to his known sources of income.",
+        "Associating and aiding smugglers in smuggling operations."
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [],
+    "defense": []
+  },
+  "complaint_summary": "The appellant was accused of corruption, living beyond his means, and aiding smugglers in smuggling operations.",
+  "investigation_summary": "An inquiry was conducted by Mr. Patch Khan Khajjak, Member, Board of Revenue, Baluchistan. The inquiry report found the appellant guilty of living beyond his means and issuing permits indiscriminately, aiding smugglers.",
+  "judgment_summary": "The Tribunal found procedural defects in the inquiry, including lack of direct evidence, improper framing of charges, and reliance on presumptions. The majority decision allowed the appeal, reinstating the appellant and setting aside the removal order.",
+  "punishment": "Removal from service (initial order, later overturned)",
+  "Decision_or_verdict": "Appeal allowed; appellant reinstated with the option for fresh inquiry.",
+  "legal_arguments": [
+    "Violation of mandatory provisions of Rules 5 and 6 of the Baluchistan Civil Servants (Efficiency and Discipline) Rules, 1974",
+    "Inquiry Officer exceeded jurisdiction by framing irrelevant questions",
+    "No direct evidence presented; reliance on circumstantial evidence and presumptions",
+    "Bias alleged against the Inquiry Officer",
+    "Failure to appoint a prosecutor and provide a statement of allegations"
+  ],
+  "assets": [
+    {
+      "type": "House",
+      "value": "Rs. 5 lacs",
+      "ownership": "Mother-in-law (Zuhra Begum)"
+    },
+    {
+      "type": "Car",
+      "details": "Compensation received for burnt car; no explanation for initial purchase"
+    }
+  ],
+  "statutes": [
+    "Baluchistan Civil Servants (Efficiency and Discipline) Rules, 1974",
+    "Baluchistan Service Tribunal Act, 1974",
+    "Evidence Act, Section 114"
+  ],
+  "sections": [
+    "Rule 3(c)(ii) and (iii)",
+    "Rule 4(b)(ii)",
+    "Rule 5(1), 5(2), 5(4)",
+    "Rule 6(1), 6(3), 6(4), 6(6)"
+  ],
+  "citations": [
+    "1978 P L C (C. S. T.) 56"
+  ],
+  "witnesses": [
+    {
+      "name": "Chief Goods Clerk, P.W.R., Quetta",
+      "role": "Court witness"
+    }
+  ],
+  "witness_statement": {
+    "Chief Goods Clerk": "Statements furnished by the Railway Department may be false."
+  },
+  "appeal_number": "Appeal No. 15 of 1977",
+  "legal_categories": [
+    "Corruption",
+    "Misconduct",
+    "Administrative Law"
+  ],
+  "key_issues": [
+    {
+      "issue": "Procedural defects in inquiry",
+      "finding": "Rules 5 and 6 were infringed during the inquiry process."
+    },
+    {
+      "issue": "Reliance on circumstantial evidence",
+      "finding": "Charges were based on presumptions and conjectures, not on direct evidence."
+    },
+    {
+      "issue": "Bias of Inquiry Officer",
+      "finding": "Inquiry Officer was found to have acted with bias and overstepped his jurisdiction."
+    },
+    {
+      "issue": "Ownership of the house",
+      "finding": "House belonged to the appellant's mother-in-law, and no evidence proved appellant's ownership."
+    }
+  ],
+  "maxims": {
+    "Presumption of innocence": "Charges must be proved beyond reasonable doubt."
+  },
+  "legal_terms": {
+    "Major penalty": "Removal from service",
+    "Circumstantial evidence": "Evidence inferred from indirect facts"
+  },
+  "words_and_phrases": {
+    "Living beyond means": "Standard of living disproportionate to known income",
+    "Mala fide intention": "Acting with dishonest motives"
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around allegations of corruption, procedural defects in inquiry, and reliance on circumstantial evidence. The Tribunal allowed the appeal due to lack of direct evidence and procedural irregularities, reinstating the appellant.",
+  "charges": [
+    {
+      "description": "Accumulated huge amount of money by accepting illegal gratifications for issuing permits of second-hand clothing, onions, and potatoes.",
+      "status": "Not proven"
+    },
+    {
+      "description": "Assumed a style of living beyond his means and purchased a house worth Rs. 5 lacs in the name of his mother-in-law, disproportionate to his known sources of income.",
+      "status": "Not proven"
+    },
+    {
+      "description": "Associated and mixed up with notorious smugglers and helped them in their smuggling operations.",
+      "status": "Not proven"
+    }
+  ],
+  "tribunal_decision": {
+    "majority_opinion": "Appeal allowed due to procedural defects and lack of evidence.",
+    "minority_opinion": "Appeal dismissed, appellant found guilty of charges."
+  },
+  "order": {
+    "status": "Impugned order set aside",
+    "instructions": "Appellant reinstated in service from 30th March, 1977. Authority may conduct a fresh inquiry through an impartial Inquiry Officer if deemed necessary."
+  }
+}

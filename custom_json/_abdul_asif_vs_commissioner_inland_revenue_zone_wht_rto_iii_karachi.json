@@ -1,0 +1,52 @@
+{
+  "case_title": "Abdul Asif vs Commissioner Inland Revenue Zone (WHT), RTO-III, Karachi",
+  "case_number": "I.T.As. Nos. 535/KB and 536/KB of 2018",
+  "judgment_date": "2019-12-11",
+  "court_name": "Appellate Tribunal Inland Revenue",
+  "judge": "Ambreen Aslam",
+  "result": "Appeals accepted",
+  "reported_as": "2020 P T D (Trib.) 1258",
+  "appellant": "Abdul Asif",
+  "respondent": "Commissioner Inland Revenue Zone (WHT), RTO-III, Karachi",
+  "key_points": {
+    "grounds_of_appeal": [
+      "Order passed by Commissioner Inland Revenue (Appeals) is illegal and bad in law.",
+      "Notice issued under section 122(5A) and proceedings initiated are without jurisdiction and violate specific conditions.",
+      "Notice for compliance on 22-03-2017 was neither issued nor served on the appellant.",
+      "Order passed on 23-07-2017 without issuing a fresh notice is illegal.",
+      "Exemption claimed under Clause (39) of Part I of Second Schedule of Income Tax Ordinance, 2001 was not considered.",
+      "Commissioner Inland Revenue (Appeals) wrongly relied on Clause 39 of Part VI instead of Part I of Second Schedule.",
+      "Judgment of Peshawar High Court regarding exemption of Special Judicial Allowance was ignored.",
+      "Employees of High Courts are similarly situated and entitled to exemption under Article 208 of the Constitution of Pakistan."
+    ],
+    "facts_of_case": {
+      "appellant_position": "Private Secretary at Sindh High Court",
+      "tax_years": [
+        "2011",
+        "2012"
+      ],
+      "declared_salary_income": [
+        "Rs.926,434",
+        "Rs.1,240,457"
+      ],
+      "refund_disallowed": [
+        "Rs.116,592",
+        "Rs.137,531"
+      ],
+      "tax_liabilities_created": [
+        "Rs.161,197",
+        "Rs.165,555"
+      ]
+    },
+    "legal_findings": {
+      "special_judicial_allowance": "Not chargeable to income tax as per Section 12(2)(c) and Clause 39 of Part I of Second Schedule of Income Tax Ordinance, 2001.",
+      "natural_justice": "Ample opportunity of hearing was not provided to the appellant.",
+      "precedents_considered": [
+        "Judgment of Peshawar High Court in Writ Petition No.4747-P/2016",
+        "1991 SCMR 1041 (Supreme Court of Pakistan)",
+        "C.P. No.D-1637 of 2013 (Sindh High Court)"
+      ]
+    },
+    "decision": "Impugned orders set aside; appeals accepted."
+  }
+}

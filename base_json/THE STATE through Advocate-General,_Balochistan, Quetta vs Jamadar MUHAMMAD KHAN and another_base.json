@@ -1,0 +1,158 @@
+{
+  "case_title": "THE STATE through Advocate-General, Balochistan, Quetta vs Jamadar MUHAMMAD KHAN and another",
+  "reference_no_or_id": "Criminal Acquittal Appeal (A.T.A.) No.66 of 2002 and Murder Reference No.22 of 2002",
+  "judgment_date": "2005-03-22",
+  "first_hearing_date": "2002-07-15",
+  "court": "Balochistan High Court",
+  "bench_type": "Division Bench",
+  "judges": [
+    "Amanullah Khan",
+    "Fazal-ur-Rahman"
+  ],
+  "appellant": [
+    "THE STATE through Advocate-General, Balochistan, Quetta"
+  ],
+  "respondant": [
+    "Jamadar Muhammad Khan",
+    "Nizam"
+  ],
+  "accussed_details": [
+    {
+      "name": "Munshi Muhammad",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "N/A",
+      "allegation": [
+        "Murder of Fazal Karim",
+        "Absconding",
+        "Use of Kalashnikov"
+      ]
+    },
+    {
+      "name": "Aslam",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "N/A",
+      "allegation": [
+        "Murder of Fazal Karim",
+        "Absconding",
+        "Use of Kalashnikov"
+      ]
+    },
+    {
+      "name": "Abdul Qadeer",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "N/A",
+      "allegation": [
+        "Murder of Fazal Karim",
+        "Use of Kalashnikov"
+      ]
+    },
+    {
+      "name": "Jamadar Muhammad Khan",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "N/A",
+      "allegation": [
+        "Acquitted"
+      ]
+    },
+    {
+      "name": "Nizam",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "N/A",
+      "allegation": [
+        "Acquitted"
+      ]
+    },
+    {
+      "name": "Zahid",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "N/A",
+      "allegation": [
+        "Acquitted"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Khalid Dogar (Special Prosecutor)",
+      "Additional Advocate-General, Balochistan"
+    ],
+    "defense": [
+      "Amanullah Kanrani"
+    ]
+  },
+  "complaint_summary": "The complainant reported the murder of Fazal Karim, allegedly committed by six accused due to old enmity. The incident occurred in Turbat Main Bazar, where the accused fired upon Fazal Karim using Kalashnikovs.",
+  "investigation_summary": "Police secured evidence, including bullet casings and blood-stained items. Statements from eyewitnesses and the complainant were recorded. Abdul Qadeer was arrested, while other accused remained absconding.",
+  "judgment_summary": "The court upheld the conviction of Munshi Muhammad and Aslam for murder, reducing their death sentences to life imprisonment for consistency. Abdul Qadeer was acquitted based on compromise. Jamadar Muhammad Khan, Nizam, and Zahid were acquitted due to lack of evidence proving common intention.",
+  "punishment": "Munshi Muhammad and Aslam: Life imprisonment; Abdul Qadeer: Acquitted; Compensation of Rs. 100,000 each to legal heirs of Fazal Karim.",
+  "Decision_or_verdict": "Conviction of Munshi Muhammad and Aslam upheld with reduced sentence; Acquittal of Jamadar Muhammad Khan, Nizam, and Zahid confirmed.",
+  "legal_arguments": [
+    "Jurisdiction under Anti-Terrorism Act questioned.",
+    "Common intention and vicarious liability debated.",
+    "Consistency in sentencing highlighted."
+  ],
+  "assets": [
+    "Red Alto car (not recovered)",
+    "Kalashnikovs"
+  ],
+  "statutes": [
+    "Anti-Terrorism Act, 1997",
+    "Pakistan Penal Code (PPC)",
+    "Criminal Procedure Code (CrPC)"
+  ],
+  "sections": [
+    "302(b) PPC",
+    "7(a) Anti-Terrorism Act, 1997",
+    "21-L Anti-Terrorism Act, 1997",
+    "544-A CrPC"
+  ],
+  "citations": [
+    "2005 P.C.R.L.J 1442",
+    "PLD 2004 SC 917",
+    "PLD 2003 SC 224"
+  ],
+  "witnesses": [
+    "Muhammad Rahim",
+    "Naseem",
+    "Muhammad Saeed",
+    "Falak Sher",
+    "Dr. Zakir Hussain"
+  ],
+  "witness_statement": {
+    "Muhammad Rahim": "Reported the murder based on information from eyewitnesses.",
+    "Naseem": "Eyewitness; identified accused firing upon Fazal Karim.",
+    "Muhammad Saeed": "Eyewitness; corroborated Naseem's account.",
+    "Falak Sher": "Shop owner; heard gunfire and saw Fazal Karim's body.",
+    "Dr. Zakir Hussain": "Medical officer; confirmed cause of death due to firearm injuries."
+  },
+  "appeal_number": "Criminal Appeal No.66 of 2002",
+  "legal_categories": [
+    "Criminal Law",
+    "Anti-Terrorism"
+  ],
+  "key_issues": [
+    "Jurisdiction under Anti-Terrorism Act",
+    "Common intention and vicarious liability",
+    "Consistency in sentencing"
+  ],
+  "maxims": {
+    "Vicarious liability": "Cannot be imposed without strong evidence of common intention."
+  },
+  "legal_terms": {
+    "Qatl-i-Amd": "Intentional murder",
+    "Absconsion": "Fleeing from law"
+  },
+  "words_and_phrases": {
+    "Common intention": "Shared intent among accused to commit a crime",
+    "Unlawful assembly": "Group gathered with intent to commit an offense"
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "Case involves murder due to enmity, jurisdiction under Anti-Terrorism Act debated, and sentencing consistency applied. Convictions upheld for absconding accused; acquittals confirmed for others."
+}

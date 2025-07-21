@@ -1,0 +1,80 @@
+{
+  "case_title": "ALI AND 3 OTHERS vs THE STATE",
+  "case_number": "Criminal Appeal No. 237 and Confirmation Case No. 60 of 1967",
+  "judgment_date": "1969-09-27",
+  "court": "Sindh High Court",
+  "judges": [
+    "Muhammad Afzal Cheema",
+    "Muhammad Gul"
+  ],
+  "result": "Appeal accepted",
+  "appellants": [
+    "Durro",
+    "Arbab",
+    "Ramzan",
+    "Ali"
+  ],
+  "respondent": "The State",
+  "charges": [
+    {
+      "section": "305 read with section 34",
+      "law": "Pakistan Penal Code",
+      "description": "Murder of Mahmud"
+    },
+    {
+      "section": "13(d)",
+      "law": "Arms Ordinance",
+      "description": "Possession of firearms"
+    }
+  ],
+  "sentences": [
+    {
+      "appellants": [
+        "Durro",
+        "Arbab"
+      ],
+      "sentence": "Death penalty"
+    },
+    {
+      "appellants": [
+        "Ramzan",
+        "Ali"
+      ],
+      "sentence": "Transportation for life",
+      "fine": "Rs. 1,000 each",
+      "default_sentence": "1 year rigorous imprisonment"
+    },
+    {
+      "appellants": [
+        "Durro",
+        "Ramzan",
+        "Ali"
+      ],
+      "sentence": "2 years rigorous imprisonment (concurrent)"
+    }
+  ],
+  "key_points": [
+    {
+      "description": "The appellants were related and had a history of blood feuds with the complainant party."
+    },
+    {
+      "description": "The prosecution alleged that the appellants committed murder during a nighttime attack."
+    },
+    {
+      "description": "Eyewitness testimony was inconsistent and lacked credibility."
+    },
+    {
+      "description": "The plea of alibi raised by Arbab and Ramzan was supported by police station diary entries but was rejected by the trial court."
+    },
+    {
+      "description": "The recovery of firearms and other evidence was deemed unreliable due to procedural flaws."
+    },
+    {
+      "description": "The court found the prosecution's case insufficient to establish guilt beyond reasonable doubt."
+    }
+  ],
+  "final_decision": {
+    "description": "The appellants were acquitted of all charges and their convictions and sentences were set aside.",
+    "details": "The death sentences for Durro and Arbab were not confirmed. Any fines paid were ordered to be refunded."
+  }
+}

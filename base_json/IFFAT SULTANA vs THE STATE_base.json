@@ -1,0 +1,97 @@
+{
+  "case_title": "IFFAT SULTANA vs THE STATE",
+  "reference_no_or_id": "R.O.R. L.R. No. 36/1987",
+  "judgment_date": "1991-04-25",
+  "first_hearing_date": "N/A",
+  "court": "Board of Revenue, Punjab",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Asad Ali Shah"
+  ],
+  "appellant": [
+    "Iffat Sultana"
+  ],
+  "respondant": [
+    "The State"
+  ],
+  "accussed_details": [
+    {
+      "name": "Iffat Sultana",
+      "age": "N/A",
+      "gender": "Female",
+      "designation": "Declarant",
+      "allegation": [
+        "Incorrect calculation of P.I. Units",
+        "Dispute over resumption of excess land"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "Petitioner disputed the resumption of excess land under the Land Reforms Act, II of 1977, claiming incorrect calculation of P.I. Units and improper implementation of her choice of land surrender.",
+  "investigation_summary": "The Deputy Land Commissioner determined the petitioner’s holding at 9936 P.I. Units and ordered resumption of 1936 P.I. Units. Petitioner surrendered excess land in 1977 but later disputed the calculation and implementation of her choice of surrender.",
+  "judgment_summary": "The court rejected the petitioner's claim regarding the choice of land surrender, confirming that her declaration form indicated surrender of land in village Walla Rai. However, the Deputy Land Commissioner was directed to recheck the calculation of P.I. Units and soil classification in the presence of the petitioner or her counsel.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Petition rejected; recalculation of P.I. Units ordered.",
+  "legal_arguments": [
+    "Petitioner argued incorrect calculation of P.I. Units.",
+    "Petitioner claimed improper implementation of choice for land surrender."
+  ],
+  "assets": [
+    {
+      "type": "Land",
+      "location": "Village Jhalar Mehr Shah",
+      "units": "1436 P.I. Units"
+    },
+    {
+      "type": "Land",
+      "location": "Village Walla Rai",
+      "units": "500 P.I. Units"
+    }
+  ],
+  "statutes": [
+    "Land Reforms Act, II of 1977",
+    "Punjab Land Reforms Rules, 1977"
+  ],
+  "sections": [
+    "Rule 13(3) of Punjab Land Reforms Rules, 1977"
+  ],
+  "citations": [
+    "(K.L.R. 1996 Revenue Cases 47)"
+  ],
+  "witnesses": [
+    {
+      "name": "Sardar Fazal Abbas",
+      "role": "Attorney for petitioner"
+    }
+  ],
+  "witness_statement": {
+    "Sardar Fazal Abbas": "Confirmed petitioner’s surrender of land in village Walla Rai as per declaration form."
+  },
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Land Reforms",
+    "Administrative Law"
+  ],
+  "key_issues": [
+    "Incorrect calculation of P.I. Units",
+    "Dispute over choice of land surrender"
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "P.I. Units": "Productivity Index Units used for land valuation."
+  },
+  "words_and_phrases": {
+    "Resumption of excess land": "Process of reclaiming land exceeding permissible limits under land reforms."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "Petitioner challenged the resumption of excess land under Land Reforms Act, II of 1977, citing incorrect calculation of P.I. Units and improper implementation of her choice for land surrender. The court upheld the original decision but ordered recalculation of P.I. Units."
+}

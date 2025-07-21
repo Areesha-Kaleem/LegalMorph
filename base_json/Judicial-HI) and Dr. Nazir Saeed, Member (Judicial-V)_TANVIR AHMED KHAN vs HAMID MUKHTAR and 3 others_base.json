@@ -1,0 +1,86 @@
+{
+  "case_title": "TANVIR AHMED KHAN vs HAMID MUKHTAR and 3 others",
+  "reference_no_or_id": "Review Petition No. 474 of 2004 in R.O.R. No. 1693 of 2003",
+  "judgment_date": "2009-12-02",
+  "first_hearing_date": "N/A",
+  "court": "Board of Revenue, Punjab",
+  "bench_type": "Full Board",
+  "judges": [
+    "Nadeem Ashraf",
+    "Azhar Hussain Shamim"
+  ],
+  "appellant": [
+    "Tanvir Ahmed Khan"
+  ],
+  "respondant": [
+    "Hamid Mukhtar",
+    "3 others"
+  ],
+  "accussed_details": [
+    {
+      "name": "Tanvir Ahmed Khan",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Petitioner",
+      "allegation": [
+        "Dispute over appointment as Lamberdar"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Counsel for Tanvir Ahmed Khan"
+    ],
+    "defense": [
+      "Counsel for Hamid Mukhtar"
+    ]
+  },
+  "complaint_summary": "Dispute arose over the appointment of Lamberdar of Chak No. 294/GB, Tehsil Toba Tek Singh, following the death of the previous Lamberdar. The petitioner was appointed by the District Officer (Revenue), but the respondent appealed and succeeded in overturning the decision.",
+  "investigation_summary": "The petitioner argued that he was more qualified, owned more land, and was younger and more capable than the respondent. The respondent relied on a Supreme Court precedent prohibiting the Board of Revenue from adjudicating Lamberdar cases.",
+  "judgment_summary": "The court accepted the review petition, setting aside the orders of the Executive District Officer (Revenue) and Member (Judicial-V), Board of Revenue, Punjab. The court upheld the original appointment of the petitioner as Lamberdar by the District Officer (Revenue).",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Review petition accepted; petitioner reinstated as Lamberdar.",
+  "legal_arguments": [
+    "Petitioner argued preferential qualifications including education (F.Sc vs primary pass), land ownership (76 Kanals vs 8 Kanals), and age.",
+    "Respondent argued reliance on Supreme Court precedent (PLD 1965 SC 393) prohibiting Board of Revenue from adjudicating Lamberdar cases."
+  ],
+  "assets": [
+    {
+      "type": "Land",
+      "details": "Petitioner owns 76 Kanals, 14 Marlas; Respondent owns 8 Kanals."
+    }
+  ],
+  "statutes": [
+    "Board of Revenue Act, 1957",
+    "West Pakistan Land Revenue Rules, 1968"
+  ],
+  "sections": [
+    "Section 8 of Board of Revenue Act, 1957"
+  ],
+  "citations": [
+    "PLD 1965 SC 393",
+    "2010 CLC 1190"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Administrative Law",
+    "Land Revenue"
+  ],
+  "key_issues": [
+    "Validity of appointment as Lamberdar",
+    "Applicability of Supreme Court precedent on Board of Revenue jurisdiction"
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "Lamberdar": "Village headman responsible for revenue collection and administrative duties."
+  },
+  "words_and_phrases": {
+    "Preferential Edge": "Superior qualifications or advantages in comparison to others."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "Dispute over Lamberdar appointment resolved in favor of petitioner based on qualifications, land ownership, and administrative suitability. Supreme Court precedent deemed inapplicable due to updated rules."
+}

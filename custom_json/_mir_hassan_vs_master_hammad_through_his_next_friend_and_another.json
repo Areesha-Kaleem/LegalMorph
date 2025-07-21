@@ -1,0 +1,85 @@
+{
+  "case_title": "MIR HASSAN vs MASTER HAMMAD through his next friend and another",
+  "case_number": "High Court Appeal No. 188 of 2007",
+  "court_name": "Sindh High Court",
+  "judgment_date": "2009-07-27",
+  "judges": [
+    "Khilji Arif Hussain",
+    "Soofia Latif"
+  ],
+  "appellant": "Mir Hassan",
+  "respondents": [
+    "Master Hammad through his next friend",
+    "Another"
+  ],
+  "result": "Appeal dismissed",
+  "reported_as": "2009 M L D 1443",
+  "issues_fractured": [
+    "Whether the driver was rash and negligent in driving the vehicle",
+    "Whether the appellant and respondent No. 2 are liable for damages and compensation"
+  ],
+  "facts": {
+    "accident_date": "2002-12-19",
+    "vehicle_registration": "JE-1273",
+    "injuries": [
+      "Traumatic injuries in left leg",
+      "Lower abdomen injuries",
+      "Left hip joint injuries",
+      "Fracture in elbow"
+    ],
+    "medical_treatment": [
+      "Emergency treatment at Jinnah Post Medical Centre",
+      "Critical care at A.O. Clinic Nazimabad",
+      "Amputation of left leg",
+      "Surgical procedures at Patel Hospital"
+    ],
+    "disability": "Permanent disability due to traumatic injuries"
+  },
+  "claims": {
+    "amount": "5,500,000",
+    "damages": "General and special damages"
+  },
+  "judgment": {
+    "decree_amount": "8,00,000",
+    "interest_rate": "14% per annum",
+    "liability": "Joint and several liability of appellant and respondent No. 2"
+  },
+  "arguments": {
+    "appellant": {
+      "claim": "Accident was not due to rash and negligent driving",
+      "evidence": "No eye-witnesses or original documents produced",
+      "speed": "Vehicle was being driven at low speed"
+    },
+    "respondent": {
+      "claim": "Driver was rash and negligent",
+      "evidence": "Coach dragged the minor for about 200 yards",
+      "burden_of_proof": "Appellant failed to prove reasonable care"
+    }
+  },
+  "legal_references": [
+    {
+      "case": "Federation of Pakistan v. Hafiza Malika Khatoon Begum",
+      "citation": "1996 SCMR 406",
+      "principle": "Contributory negligence must be proved by the alleging party"
+    },
+    {
+      "case": "Pakistan Steel Mills Corporation Ltd. Karachi v. Ehteshamuddin Qureshi",
+      "citation": "2005 SCMR 1392",
+      "principle": "Drivers of heavy vehicles must take extra care"
+    },
+    {
+      "case": "Punjab Road Transport Board v. Abdul Wahid Usmani",
+      "citation": "PLD 1980 Lahore 584",
+      "principle": "Negligent drivers cannot rely on contributory negligence to avoid liability"
+    },
+    {
+      "case": "Amul Ramchandra Gandhi v. Abhasbhai Kasambhai Diwan",
+      "citation": "AIR 1979 Gujarat 14",
+      "principle": "Children cannot be held to the same standard of care as adults"
+    }
+  ],
+  "remarks": {
+    "jurisprudence": "Compensation for motor accidents should move towards no-fault liability",
+    "recommendation": "Government should legislate to ensure immediate compensation for victims"
+  }
+}

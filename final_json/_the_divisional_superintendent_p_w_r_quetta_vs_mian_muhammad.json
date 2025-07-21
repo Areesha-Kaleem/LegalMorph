@@ -1,0 +1,147 @@
+{
+  "case_title": "THE DIVISIONAL SUPERINTENDENT, P. W. R., QUETTA vs MIAN MUHAMMAD",
+  "reference_no_or_id": "Letters Patent Appeal No. 5 of 1970",
+  "case_number": "Letters Patent Appeal No. 5 of 1970",
+  "judgment_date": "1973-04-06",
+  "first_hearing_date": "N/A",
+  "court": "Balochistan High Court",
+  "bench_type": "Division Bench",
+  "judges": [
+    "Ghulam Rasool K. Sheikh",
+    "Z. A. Channa"
+  ],
+  "appellant": [
+    "THE DIVISIONAL SUPERINTENDENT, P. W. R., QUETTA"
+  ],
+  "respondant": [
+    "MIAN MUHAMMAD"
+  ],
+  "accussed_details": [
+    {
+      "name": "Mian Muhammad",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Assistant Wireman",
+      "allegation": [
+        "Claim for compensation for injury sustained during employment"
+      ]
+    }
+  ],
+  "facts": {
+    "respondent_position": "Assistant Wireman in P. W. R., Quetta Railway Division",
+    "incident_date": "1964-10-07",
+    "injury": "Grievous injury to left thigh",
+    "treatment": {
+      "railway_hospital": {
+        "indoor": [
+          "1964-10-07 to 1964-12-10",
+          "1965-07-29 to 1965-10-30"
+        ],
+        "outdoor": [
+          "1965-05-24 to 1965-07-28"
+        ]
+      },
+      "divisional_medical_officer_observation": "1965-10-31 to 1965-12-06",
+      "cmh_quetta": {
+        "admission": "1964-12-11 to 1964-12-30",
+        "expenses": {
+          "treatment": 752,
+          "xray": 16,
+          "radiologist_fee": 22
+        }
+      }
+    },
+    "disability_certificate": {
+      "issued_by": "Divisional Medical Officer Railway",
+      "disability_percentage": 10
+    }
+  },
+  "claims": {
+    "application_date": "1967-03-06",
+    "disability_claim": "60% disability",
+    "medical_expenses_claim": 788
+  },
+  "commissioner_award": {
+    "disability_compensation": {
+      "percentage": 20,
+      "amount": 1908
+    },
+    "medical_expenses": 788
+  },
+  "appeal_details": {
+    "appellant_argument": "Medical expenses not covered under Workmen's Compensation Act, 1923",
+    "relevant_law": {
+      "act": "Workmen's Compensation Act, 1923",
+      "sections": [
+        "3(1)",
+        "4(1)"
+      ]
+    },
+    "court_findings": {
+      "medical_expenses_not_entitled": 908,
+      "reasoning": "Medical expenses not covered unless paid by employer during convalescence"
+    }
+  },
+  "final_decision": {
+    "appeal_outcome": "Partly allowed",
+    "medical_expenses_disallowed": 908,
+    "expectation_from_appellant": "Not to recover Rs. 908 from respondent"
+  },
+  "lawyers": {
+    "prosecution": [
+      "Mr. Muftikharuddin Advocate"
+    ],
+    "defense": [
+      "Respondent appeared in person"
+    ]
+  },
+  "complaint_summary": "Respondent claimed compensation for 60% disability and reimbursement of Rs. 788 spent on medical treatment following an injury sustained during employment.",
+  "investigation_summary": "The Commissioner for Workmen's Compensation awarded Rs. 788 for medical expenses and compensation for 20% permanent incapacity, totaling Rs. 1908.",
+  "judgment_summary": "The appeal was partly allowed. The respondent was found not entitled to Rs. 908 spent on medical treatment at C.M.H., Quetta, as it fell outside the scope of the Workmen's Compensation Act, 1923. However, the court expected the appellant not to recover this amount from the respondent due to his financial constraints.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Appeal partly allowed; Rs. 908 medical expenses disallowed.",
+  "legal_arguments": [
+    "Section 3(1) and Section 4 of the Workmen's Compensation Act, 1923 were analyzed to determine the scope of compensation.",
+    "Proviso (a) to Section 4(1) was interpreted to exclude medical expenses unless paid by the employer during convalescence.",
+    "Reference to Pakistan Beverage Company v. Ahmad Shah (PLD 1960 Kar. 331) for precedent."
+  ],
+  "assets": [],
+  "statutes": [
+    "Workmen's Compensation Act, 1923"
+  ],
+  "sections": [
+    "Section 3(1)",
+    "Section 4",
+    "Proviso (a) to Section 4(1)"
+  ],
+  "citations": [
+    "1973P L C 337",
+    "Pakistan Beverage Company v. Ahmad Shah (PLD 1960 Kar. 331)"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Workmen's Compensation",
+    "Personal Injury",
+    "Employment Law"
+  ],
+  "key_issues": [
+    "Entitlement to medical expenses under Workmen's Compensation Act, 1923",
+    "Interpretation of Section 4 and its proviso",
+    "Calculation of compensation for permanent partial disability"
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "Permanent Partial Disability": "A condition where an individual suffers a lasting impairment that partially limits their ability to work.",
+    "Convalescence": "The period of recovery following an illness or injury."
+  },
+  "words_and_phrases": {
+    "Medical Expenses": "Costs incurred for medical treatment and related services.",
+    "Compensation": "Monetary award for injury or loss."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case involves an appeal against compensation awarded under the Workmen's Compensation Act, 1923. The court disallowed Rs. 908 medical expenses claimed by the respondent, citing statutory limitations. The judgment clarified the scope of compensation under Section 4 and its proviso, emphasizing that medical expenses are only recoverable if paid by the employer during convalescence."
+}

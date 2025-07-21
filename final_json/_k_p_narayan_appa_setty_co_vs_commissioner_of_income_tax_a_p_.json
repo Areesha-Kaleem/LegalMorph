@@ -1,0 +1,95 @@
+{
+  "case_title": "K.P. NARAYAN APPA SETTY & CO vs COMMISSIONER OF INCOME TAX, A. P.",
+  "reference_no_or_id": "R.C.No. 8 of 1970",
+  "case_number": "R.C.No. 8 of 1970",
+  "judgment_date": "2000-01-04",
+  "first_hearing_date": "N/A",
+  "court": "Andhra Pradesh High Court",
+  "bench_type": "Division Bench",
+  "judges": [
+    "Chinnappa Reddy",
+    "A. D. V. Reddy"
+  ],
+  "appellant": [
+    "K.P. NARAYAN APPA SETTY & CO"
+  ],
+  "respondant": [
+    "COMMISSIONER OF INCOME TAX, A. P."
+  ],
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": []
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "The case concerns whether penalty was exigible for the assessment year 1946-47 under the Indian Income-tax Act, 1922, given the inordinate delay in levying penalty.",
+  "investigation_summary": "The assessee was assessed to tax for the year 1946-47, finalized on July 24, 1954. No penalty order was issued until July 1, 1963, a delay of nine years. The department provided no explanation for the delay.",
+  "judgment_summary": {
+    "question_referred": "Whether, on the facts and in the circumstances of the case, any penalty was exigible in the assessee's case for the assessment year 1946-47?",
+    "assessment_year": "1946-47",
+    "assessment_final_date": "1954-07-24",
+    "penalty_order_date": "1963-07-01",
+    "legal_basis": {
+      "act": "Indian Income-tax Act, 1922",
+      "reasonable_time_principle": "Penalty should be levied within a reasonable time."
+    },
+    "delay_analysis": {
+      "elapsed_years_after_assessment": 9,
+      "prescribed_period_under_new_act": 2,
+      "department_explanation": "None provided"
+    },
+    "court_decision": "Levy of penalty not made within a reasonable time."
+  },
+  "punishment": "No penalty levied due to inordinate delay.",
+  "Decision_or_verdict": "Question answered in the negative.",
+  "legal_arguments": [
+    "No period for levying penalty is fixed under the Indian Income-tax Act, 1922.",
+    "Penalty should be levied within a reasonable time.",
+    "Under the new Act, the prescribed period for penalty is two years after assessment completion.",
+    "Nine years elapsed without explanation for delay."
+  ],
+  "assets": [],
+  "statutes": [
+    "Indian Income-tax Act, 1922"
+  ],
+  "sections": [],
+  "citations": [
+    "35 TAX 26"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Tax Law",
+    "Penalty Provisions"
+  ],
+  "key_issues": [
+    "Whether penalty was exigible for the assessment year 1946-47.",
+    "Reasonableness of delay in levying penalty."
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "exigible": "Liable to be demanded or enforced."
+  },
+  "words_and_phrases": {
+    "inordinate delay": "Excessive or unreasonable delay."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The judgment addresses the issue of penalty under the Indian Income-tax Act, 1922, emphasizing the importance of timely enforcement. The court ruled against the levy due to a nine-year delay without justification.",
+  "advocate_fee": "Rs. 100",
+  "costs_order": "No order as to costs",
+  "reported_as": "35 TAX 26"
+}

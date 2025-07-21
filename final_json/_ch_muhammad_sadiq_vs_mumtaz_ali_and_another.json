@@ -1,0 +1,168 @@
+{
+  "case_title": "Ch. MUHAMMAD SADIQ vs MUMTAZ ALI AND ANOTHER",
+  "reference_no_or_id": "Constitutional Petition No. 7 of 1974",
+  "judgment_date": "1976-04-30",
+  "first_hearing_date": "N/A",
+  "court": "Balochistan High Court",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Naimuddin"
+  ],
+  "appellant": [
+    "Ch. Muhammad Sadiq"
+  ],
+  "respondant": [
+    "Mumtaz Ali",
+    "Another"
+  ],
+  "accussed_details": [
+    {
+      "name": "Mumtaz Ali",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Local resident",
+      "allegation": [
+        "Failure to pay transfer price of plot",
+        "Disputed receipt of statutory notice"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Mr. Hanafi"
+    ],
+    "defense": [
+      "Mr. S. H. Jafri"
+    ]
+  },
+  "complaint_summary": "Petitioner challenged the order of Deputy Settlement Commissioner dated 11th May 1974, alleging improper service of statutory notice regarding transfer price payment for a plot of land.",
+  "investigation_summary": "Deputy Settlement Commissioner conducted inquiries into the disputed service of notice. Comparison of signatures and procedural irregularities were examined. Findings indicated no statutory notice was served on Respondent No. 1.",
+  "judgment_summary": "The court dismissed the petition, ruling that the statutory notice was not served on Respondent No. 1 as required under the Displaced Persons (Compensation and Rehabilitation) Act, 1958. The court upheld the findings of the Deputy Settlement Commissioner and deemed the impugned order lawful and proper.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Petition dismissed with costs.",
+  "legal_arguments": [
+    "Violation of principles of natural justice due to denial of examination of clerk and handwriting expert.",
+    "Failure to comply with court directions for proper inquiry into statutory notice service."
+  ],
+  "assets": [
+    {
+      "plot_details": {
+        "khasra_number": "7496",
+        "size": "6006 sq. ft.",
+        "price_assessed": "Rs. 8,250",
+        "auction_price": "Rs. 8,400",
+        "construction_status": "Permanent construction made by Respondent No. 1"
+      }
+    }
+  ],
+  "statutes": [
+    "Displaced Persons (Compensation and Rehabilitation) Act, 1958",
+    "Settlement Scheme No. VI"
+  ],
+  "sections": [
+    "Paragraphs 22 and 24 of the Schedule to the Displaced Persons Act"
+  ],
+  "citations": [
+    "P L D 1976 Quetta 53",
+    "AIR 1928 PC 227",
+    "1974 SCMR 490"
+  ],
+  "witnesses": [
+    "Deputy Settlement Commissioner",
+    "Clerk (not examined)"
+  ],
+  "witness_statement": {
+    "Deputy Settlement Commissioner": "Confirmed no statutory notice was served on Respondent No. 1."
+  },
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Constitutional Law",
+    "Property Law"
+  ],
+  "key_issues": [
+    "Service of statutory notice",
+    "Compliance with court orders",
+    "Procedural irregularities in property transfer"
+  ],
+  "maxims": {
+    "Natural Justice": "Audi alteram partem (hear the other side)"
+  },
+  "legal_terms": {
+    "Statutory Notice": "A notice required by law to be served in a prescribed manner."
+  },
+  "words_and_phrases": {
+    "Demand Notice": "A formal notice requiring payment or compliance within a specified time."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "Petition dismissed due to lack of statutory notice service and procedural irregularities in property transfer. Court upheld findings of Deputy Settlement Commissioner.",
+  "case_number": "Constitutional Petition No. 7 of 1974",
+  "reported_as": "P L D 1976 Quetta 53",
+  "result": "Petition dismissed",
+  "legal_basis": {
+    "constitution_article": "Article 199",
+    "statutes": [
+      "Displaced Persons (Compensation and Rehabilitation) Act, 1958",
+      "Settlement Scheme No. VI"
+    ]
+  },
+  "key_facts": {
+    "plot_details": {
+      "khasra_number": "7496",
+      "size": "6006 sq. ft.",
+      "price_assessed": "Rs. 8,250",
+      "auction_price": "Rs. 8,400",
+      "construction_status": "Permanent construction made by Respondent No. 1"
+    },
+    "respondent_1_status": "Local resident",
+    "notice_issue_date": "1965-03-20",
+    "notice_dispute": "Respondent No. 1 denied receipt of notice"
+  },
+  "procedural_history": {
+    "initial_transfer": {
+      "year": "1965",
+      "authority": "Deputy Settlement Commissioner",
+      "status": "Transfer approved"
+    },
+    "auction": {
+      "year": "1966",
+      "highest_bidder": "Ch. Muhammad Sadiq",
+      "confirmation_date": "1966-05-12"
+    },
+    "appeals": [
+      {
+        "year": "1969",
+        "authority": "Additional Settlement Commissioner",
+        "result": "Dismissed"
+      },
+      {
+        "year": "1971",
+        "authority": "High Court",
+        "result": "Allowed, case remanded"
+      },
+      {
+        "year": "1973",
+        "authority": "High Court",
+        "result": "Further directions issued"
+      }
+    ]
+  },
+  "issues": [
+    "Whether the statutory notice was served on Respondent No. 1.",
+    "Whether principles of natural justice were violated."
+  ],
+  "findings": {
+    "notice_service": "Notice was not served on Respondent No. 1.",
+    "statutory_compliance": "Notice did not comply with statutory requirements under paragraphs 22 and 24 of the Displaced Persons Act.",
+    "natural_justice": "No violation of principles of natural justice found."
+  },
+  "legal_references": {
+    "evidence_act_section": "Section 73",
+    "precedents": [
+      "Kassarbai v. Jethabhai Jivan (AIR 1928 PC 227)",
+      "S. M. Zahir v. Pirzada Fazal Ali Ajmeri (1974 SCMR 490)"
+    ]
+  },
+  "costs_awarded": "Yes"
+}

@@ -1,0 +1,93 @@
+{
+  "case_title": "NAWABUDDIN vs ABDUL GHAFOOR",
+  "reference_no_or_id": "Criminal Reference No. 37 of 1967",
+  "judgment_date": "1967-11-21",
+  "first_hearing_date": "1967-05-15",
+  "court": "Baghdad-ul-Jadid",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Feroze Nana Ghulamali"
+  ],
+  "appellant": [
+    "Nawabuddin"
+  ],
+  "respondant": [
+    "Abdul Ghafoor"
+  ],
+  "accussed_details": [
+    {
+      "name": "Nawab Din",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Shareholder",
+      "allegation": [
+        "Forcibly entering Khokha No. 33-A",
+        "Obstructing Abdul Ghafoor's business"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "Abdul Ghafoor alleged that Nawab Din forcibly entered Khokha No. 33-A, obstructed his business, and claimed possession as a shareholder.",
+  "investigation_summary": "Police report confirmed likelihood of breach of peace due to dispute over Khokha No. 33-A. City Magistrate ordered attachment under Section 146(1), Cr. P. C., and directed both parties to submit claims.",
+  "judgment_summary": "The court quashed the Magistrate's order under Section 146(1), Cr. P. C., citing lack of jurisdiction due to Nawab Din's possession exceeding two months. Parties were advised to approach Civil Courts for ownership and rent disputes.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Reference answered; impugned order quashed.",
+  "legal_arguments": [
+    "Jurisdiction under Section 145(4), Cr. P. C., requires possession within two months prior to the order.",
+    "Attachment under Section 146(1), Cr. P. C., requires completion of inquiry under Section 145(4).",
+    "Magistrate exceeded scope of Section 145(4), Cr. P. C., by not determining possession before attachment."
+  ],
+  "assets": [
+    "Khokha No. 33-A"
+  ],
+  "statutes": [
+    "Criminal Procedure Code (Cr. P. C.)"
+  ],
+  "sections": [
+    "Section 145",
+    "Section 146"
+  ],
+  "citations": [
+    "1968 P Cr. L J 335",
+    "P L D 1963 B J 26",
+    "P L D 1951 Dacca 59",
+    "P L D 1965 Lah. 312",
+    "P L D 1964 Lah. 9",
+    "P L D 1967 Pesh. 137",
+    "P L D 1967 Pesh. 311",
+    "P L D 1967 Dacca 542",
+    "P L D 1961 S C 426"
+  ],
+  "witnesses": [
+    "N/A"
+  ],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Property Dispute",
+    "Criminal Law"
+  ],
+  "key_issues": [
+    "Jurisdiction under Section 145(4), Cr. P. C.",
+    "Attachment under Section 146(1), Cr. P. C.",
+    "Possession exceeding two months."
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "custodia legis": "Property under legal custody to maintain status quo."
+  },
+  "words_and_phrases": {
+    "breach of peace": "Likelihood of disturbance due to dispute."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "Dispute over Khokha No. 33-A led to attachment order under Section 146(1), Cr. P. C., which was quashed due to lack of jurisdiction. Parties advised to approach Civil Courts for resolution."
+}

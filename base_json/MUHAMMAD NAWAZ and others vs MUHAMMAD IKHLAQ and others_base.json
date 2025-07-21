@@ -1,0 +1,84 @@
+{
+  "case_title": "MUHAMMAD NAWAZ and others vs MUHAMMAD IKHLAQ and others",
+  "reference_no_or_id": "R.O.Rs, Nos.920, 931, 1127 of 1990 and 1462 of 1991",
+  "judgment_date": "1992-04-28",
+  "first_hearing_date": "N/A",
+  "court": "Board of Revenue, Punjab",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Akhtar Said"
+  ],
+  "appellant": [
+    "Muhammad Nawaz",
+    "Others"
+  ],
+  "respondant": [
+    "Muhammad Ikhlaq",
+    "Others"
+  ],
+  "accussed_details": [
+    {
+      "name": "Sana Ullah",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Lambardar",
+      "allegation": [
+        "Misclassification as 'temporary Lambardar'"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "Petitioners challenged the classification of Sana Ullah as a 'temporary Lambardar' instead of 'permanent Lambardar' under the Land Revenue Act.",
+  "investigation_summary": "The case involved examining rules 17, 19, and 21 of the Land Revenue Act to determine the legality of the classification of Lambardars.",
+  "judgment_summary": "The court ruled that the terms 'temporary Lambardar' and 'permanent Lambardar' are not recognized under the Land Revenue Act. The succession of Lambardars is governed by rule 19(2) and the principle of primogeniture. Naseer Ahmad was appointed Lambardar as the eldest son of the eldest son of the outgoing Lambardar Sana Ullah.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Petition dismissed. Revision petition of Naseer Ahmad accepted.",
+  "legal_arguments": [
+    "Rule 17 applies to first appointments of Lambardars and does not distinguish between estates owned by Government or private individuals.",
+    "Rule 19 governs succession and applies the principle of primogeniture for privately owned estates.",
+    "The law does not recognize the terms 'temporary' or 'permanent' Lambardar."
+  ],
+  "assets": [],
+  "statutes": [
+    "Land Revenue Act"
+  ],
+  "sections": [
+    "Rule 17",
+    "Rule 19",
+    "Rule 21"
+  ],
+  "citations": [
+    "P L D 1993 Revenue 44"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Land Revenue",
+    "Succession Law"
+  ],
+  "key_issues": [
+    "Classification of Lambardars as 'temporary' or 'permanent'",
+    "Application of rules 17 and 19 for Lambardar succession"
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "Lambardar": "A village headman responsible for revenue collection and administration.",
+    "Primogeniture": "The right of succession belonging to the firstborn child."
+  },
+  "words_and_phrases": {
+    "Temporary Lambardar": "A term not recognized under the Land Revenue Act.",
+    "Permanent Lambardar": "A term not recognized under the Land Revenue Act."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The judgment clarifies that the terms 'temporary' and 'permanent' Lambardar are not legally recognized under the Land Revenue Act. Succession is governed by rule 19(2), applying the principle of primogeniture for privately owned estates. Naseer Ahmad was appointed Lambardar as per the rules."
+}

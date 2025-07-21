@@ -1,0 +1,107 @@
+{
+  "case_title": "NAIMATULLAH and another vs ABDUL QAHAR and 2 others",
+  "reference_no_or_id": "Criminal Revision Petition No. 108 of 2005",
+  "judgment_date": "2005-12-28",
+  "first_hearing_date": "2003-01-31",
+  "court": "Balochistan High Court",
+  "bench_type": "Division Bench",
+  "judges": [
+    "Mehta Kelash Nath Kohli",
+    "Amanullah Khan Yasinzai"
+  ],
+  "appellant": [
+    "Naimatullah",
+    "Another (Name not specified)"
+  ],
+  "respondant": [
+    "Abdul Qahar",
+    "Zia-ud-Din",
+    "Another (Name not specified)"
+  ],
+  "accussed_details": [
+    {
+      "name": "Abdul Qahar",
+      "age": "Minor",
+      "gender": "Male",
+      "designation": "N/A",
+      "allegation": [
+        "Murder of Bibi Rubiqa",
+        "Murder of Samiullah",
+        "Murder of Roohullah",
+        "Zina-bil-Jabr with Bibi Rubiqa"
+      ]
+    },
+    {
+      "name": "Zia-ud-Din",
+      "age": "Minor",
+      "gender": "Male",
+      "designation": "N/A",
+      "allegation": [
+        "Murder of Bibi Rubiqa",
+        "Murder of Samiullah",
+        "Murder of Roohullah"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Azizullah Kakar"
+    ],
+    "defense": []
+  },
+  "complaint_summary": "Naimatullah alleged that Abdul Qahar and Zia-ud-Din murdered his younger brother, sister Bibi Rubiqa, and nephew Samiullah. He also accused Abdul Qahar of committing Zina-bil-Jabr with Bibi Rubiqa.",
+  "investigation_summary": "An FIR was registered on 31st January 2003 at Police Station Sariab, Quetta. Accused were arrested and denied allegations during trial. Evidence led to convictions under multiple sections of PPC and Hadood Ordinance.",
+  "judgment_summary": "The Juvenile Court convicted Abdul Qahar and Zia-ud-Din for life imprisonment under Section 302(b) PPC for multiple murders and imposed fines. Abdul Qahar was additionally convicted under Section 10 of the Offence of Zina (Enforcement of Hadood) Ordinance, 1979. Petition for enhancement of sentence to death was dismissed due to provisions of Juvenile Justice System Ordinance, 2000.",
+  "punishment": "Life imprisonment for both accused under Section 302(b) PPC for murders. Abdul Qahar received additional 5 years RI and fine under Section 10 of Hadood Ordinance.",
+  "Decision_or_verdict": "Petition for enhancement of sentence dismissed.",
+  "legal_arguments": [
+    "Juvenile Justice System Ordinance, 2000 prohibits death penalty for juveniles.",
+    "Maximum punishment under the Ordinance already applied."
+  ],
+  "assets": [],
+  "statutes": [
+    "Juvenile Justice System Ordinance, 2000",
+    "Offence of Zina (Enforcement of Hadood) Ordinance, 1979",
+    "Anti Terrorism Act, 1997",
+    "Pakistan Penal Code (PPC)",
+    "Criminal Procedure Code (CrPC)"
+  ],
+  "sections": [
+    "302(b) PPC",
+    "34 PPC",
+    "544-A CrPC",
+    "7 read with 10 Hadood Ordinance"
+  ],
+  "citations": [
+    "PLJ 2006 Cr.C. (Quetta) 811"
+  ],
+  "witnesses": [
+    "Neighbor who witnessed accused fleeing the house"
+  ],
+  "witness_statement": {
+    "Neighbor": "Observed Abdul Qahar and Zia-ud-Din fleeing the house with weapons."
+  },
+  "appeal_number": "Appeal No. 27 of 2003",
+  "legal_categories": [
+    "Juvenile Justice",
+    "Criminal Law",
+    "Hadood Ordinance"
+  ],
+  "key_issues": [
+    "Applicability of Juvenile Justice System Ordinance, 2000",
+    "Enhancement of sentence for juveniles"
+  ],
+  "maxims": {
+    "N/A": "N/A"
+  },
+  "legal_terms": {
+    "Ta'zir": "Punishment determined by the court under Islamic law."
+  },
+  "words_and_phrases": {
+    "Zina-bil-Jabr": "Rape under Islamic law."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case involves juvenile accused convicted for multiple murders and rape. Petition for enhancement of sentence to death dismissed due to legal prohibition under Juvenile Justice System Ordinance, 2000."
+}

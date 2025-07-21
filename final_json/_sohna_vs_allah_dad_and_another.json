@@ -1,0 +1,119 @@
+{
+  "case_title": "SOHNA vs ALLAH DAD AND Another",
+  "reference_no_or_id": "Regular Second Appeal No. 11 of 1958",
+  "case_number": "Regular Second Appeal No. 11 of 1958",
+  "judgment_date": "1962-04-06",
+  "first_hearing_date": "N/A",
+  "court": "Baghdad-ul-Jadid",
+  "court_name": "Baghdad-ul-Jadid",
+  "bench_type": "Coram 2",
+  "judges": [
+    "Bashir Ahmad",
+    "Jamil Hussain Rizvi"
+  ],
+  "reported_as": "P L D 1962 Baghdad-ul-Jadid 17",
+  "appellant": [
+    "Sohna"
+  ],
+  "respondants": [
+    "Allah Dad",
+    "Waryam"
+  ],
+  "accussed_details": [
+    {
+      "name": "Allah Dad",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Defendant",
+      "allegation": [
+        "Possession of land through oral sale without registered deed"
+      ]
+    },
+    {
+      "name": "Waryam",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Defendant",
+      "allegation": [
+        "Pre-emption of land sale"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [],
+    "defense": []
+  },
+  "complaint_summary": "Sohna filed a suit for possession of land, claiming that the oral sale to Allah Dad was invalid due to lack of a registered deed as required under Section 54 of the Transfer of Property Act.",
+  "investigation_summary": "The case involved oral sale of land, pre-emption decree in favor of Waryam, and subsequent possession of land by Waryam. The plaintiff argued that no valid title was transferred due to lack of registration.",
+  "judgment_summary": "The appeal was allowed, and the claim of the appellant Sohna was decreed. The sale was avoided due to the lack of formalities required by law. Both parties were ordered to bear their own costs throughout.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Appeal allowed; possession decreed in favor of Sohna.",
+  "legal_arguments": [
+    "Section 54 of the Transfer of Property Act requires a registered deed for transfer of immovable property.",
+    "Section 53-A of the Transfer of Property Act limits the doctrine of part performance to written contracts.",
+    "Pre-emption decree does not confer valid title without compliance with statutory requirements."
+  ],
+  "assets": [],
+  "statutes": [
+    "Transfer of Property Act",
+    "Registration Act"
+  ],
+  "sections": [
+    "Section 54",
+    "Section 53-A"
+  ],
+  "citations": [
+    "Maddison v. Alderson ((1863) 8 AC 467)",
+    "Mahomed Musa v. Aghore Kumar Ganguli (42 IA 1)",
+    "Arif v. Jadunath (ILF 55 Cal. 1090)",
+    "Mian Fir Bakhsh v. Sardar Mahomed Tahir (61 IA 388)"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "Regular Second Appeal No. 11 of 1958",
+  "legal_categories": [
+    "Property Law",
+    "Contract Law"
+  ],
+  "key_issues": [
+    "Validity of oral sale under Section 54 of the Transfer of Property Act",
+    "Applicability of the doctrine of part performance under Section 53-A",
+    "Effect of pre-emption decree on title transfer",
+    "Has the pre-emption decree in favour of Waryam defendant become final as the plaintiff Sohna took no steps to have it set aside?",
+    "Has the judgment passed in the pre-emption suit become res judicata and the present case cannot proceed?",
+    "Has the plaintiff waived his right in the pre-emption suit and is, therefore, not competent to file the present suit?",
+    "Has Waryam defendant spent Rs. 200 on the improvement of the land and is he entitled to the amount?",
+    "In the presence of mutation No. 65 of the land in suit in favour of Allah Dad defendant, is the plaintiff estopped from claiming the property as his own and from denying the proprietary rights thereof as having been transferred in favour of Waryam defendant?"
+  ],
+  "key_findings": [
+    "Neither the vendee nor the pre-emptor acquired any title in the land under the oral contract of sale.",
+    "Section 54 of the Transfer of Property Act requires a registered deed for transferring immovable property of value Rs. 100 or more.",
+    "The principle of part performance under Section 53-A of the Transfer of Property Act is not applicable in the absence of a written contract."
+  ],
+  "maxims": {
+    "Part Performance": "Equities resulting from acts done in execution of the contract cannot override statutory requirements."
+  },
+  "legal_terms": {
+    "Pre-emption": "Right to purchase property before others.",
+    "Mutation": "Record of transfer of ownership in revenue records."
+  },
+  "words_and_phrases": {
+    "Oral Sale": "Sale of property without written documentation.",
+    "Registered Deed": "Legally recognized document for property transfer."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The judgment clarified the limitations of oral contracts in property transactions under statutory law. It emphasized the necessity of written agreements for invoking the doctrine of part performance and upheld the statutory requirements for property transfer.",
+  "recommendations": "The judgment suggests legislative action to address issues arising from oral sales of land and the statutory limitations under Section 53-A of the Transfer of Property Act.",
+  "notifications": [
+    {
+      "date": "1931-05-28",
+      "description": "Section 54 of the Transfer of Property Act applied to Bahawalpur territory."
+    },
+    {
+      "date": "1939-12-14",
+      "description": "Section 53-A of the Transfer of Property Act made applicable in Bahawalpur territory."
+    }
+  ]
+}

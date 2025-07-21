@@ -1,0 +1,58 @@
+{
+  "case_title": "GHAUS KHAN vs NAZIR KHAN",
+  "case_number": "R.O.R. No. 1835 of 1988",
+  "judgment_date": "1994-05-29",
+  "court_name": "Board of Revenue, Punjab",
+  "judge": "Imtiaz Masrur",
+  "parties": {
+    "appellant": "Ghaus Khan",
+    "respondent": "Nazir Khan"
+  },
+  "result": "N/A",
+  "facts": {
+    "settlement_operations": {
+      "year": "1977-78",
+      "village": "Bara Manga",
+      "tehsil": "Shikargah",
+      "district": "Sialkot",
+      "land_transfer": {
+        "from_appellant": {
+          "khasra_number": "3879",
+          "area": "4 marlas"
+        },
+        "to_appellant": {
+          "khasra_number": "2328",
+          "area": "4 marlas"
+        }
+      }
+    },
+    "collector_approval_date": "1983-07-06",
+    "appeal_dismissal_date": "1988-09-21"
+  },
+  "arguments": {
+    "appellant": {
+      "claim": "Land measuring 4 marlas was unlawfully taken away.",
+      "jamabandi_year": "1980-81",
+      "misl_e_haqiat_year": "1987-88",
+      "efforts": "Planting fruit trees."
+    },
+    "respondent": {
+      "claim": "Collector's order was not challenged and appeal was time-barred.",
+      "possession": "Land possession and mutation register entries in favor of respondent."
+    }
+  },
+  "decision": {
+    "impugned_order": {
+      "grounds_for_rejection": [
+        "Appeal was time-barred.",
+        "Copy of impugned order not attached.",
+        "Proceedings conducted in presence of parties."
+      ],
+      "assessment": "Based on technical grounds rather than merit."
+    },
+    "outcome": "Order of Additional Commissioner (Revenue) set aside, revision petition accepted, case remanded to Collector for decision on merit."
+  },
+  "reported_as": "K.L.R. 1995 Revenue Cases 136",
+  "printed_on": "2025-07-15",
+  "printed_by": "Areesha Kaleem"
+}

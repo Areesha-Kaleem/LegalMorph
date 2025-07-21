@@ -1,0 +1,94 @@
+{
+  "case_title": "S. K. DUTTA vs MEMBER, BOARD OF AGRICULTURAL INCOME-TAX, ASSAM",
+  "case_number": "Income-tax Reference No. 1 of 1961",
+  "court_name": "Assam High Court",
+  "judgment_date": "1963-04-03",
+  "judges": [
+    "G. Mehrotra",
+    "C. S. Nayudu"
+  ],
+  "appellant": "S. K. DUTTA",
+  "respondent": "MEMBER, BOARD OF AGRICULTURAL INCOME-TAX, ASSAM",
+  "result": "answered in the negative",
+  "reported_as": "1964 P T D 310",
+  "legal_questions": [
+    {
+      "question": "Whether under the provisions of the Assam Agricultural Income-tax Act, tax paid by a company is deemed to be paid on behalf of its shareholders?",
+      "answer": "No"
+    },
+    {
+      "question": "Whether the shareholder of a company can claim refund of the agricultural income-tax paid by the company though the dividend in the hands of the shareholders is not agricultural income?",
+      "answer": "No"
+    },
+    {
+      "question": "Whether for the purpose of determining the rate at which refund would be granted under rule 25-A of the Assam Agricultural Income-tax Rules, 1939, it was illegal to take the total world income of the petitioner into account?",
+      "answer": "No"
+    }
+  ],
+  "facts": {
+    "assessee": "S. K. DUTTA",
+    "shareholding_companies": [
+      "Sarojini Tea Company (Private) Ltd.",
+      "Udalguri Tea Company (Private) Ltd."
+    ],
+    "income_sources": [
+      "dividends",
+      "house property rents",
+      "government service salaries"
+    ],
+    "refund_claims": [
+      {
+        "year": "1955-56",
+        "claimed": "Rs. 4,573-11-0",
+        "allowed": "Rs. 3,541.62 nP"
+      },
+      {
+        "year": "1956-57",
+        "claimed": "Rs. 1,726-5-0",
+        "allowed": "Rs. 2,289.19 nP"
+      },
+      {
+        "year": "1957-58",
+        "claimed": "Rs. 1,940-15-0",
+        "allowed": "Rs. 2,120.62 nP"
+      }
+    ]
+  },
+  "key_statutes": [
+    "Assam Agricultural Income-tax Act, 1939",
+    "Assam Agricultural Income-tax Rules, 1939"
+  ],
+  "key_rules": [
+    {
+      "rule": "Rule 25",
+      "description": "Tax paid by a company is deemed to be paid on behalf of shareholders for refund purposes."
+    },
+    {
+      "rule": "Rule 25-A",
+      "description": "Allows refund if tax paid exceeds the amount chargeable under the Act."
+    }
+  ],
+  "key_sections": [
+    {
+      "section": "Section 2(e)",
+      "description": "Defines an assessee as a person by whom agricultural income-tax is payable."
+    },
+    {
+      "section": "Section 3",
+      "description": "Provides for agricultural income-tax to be charged on total agricultural income."
+    },
+    {
+      "section": "Section 6",
+      "description": "Specifies threshold for agricultural income-tax liability."
+    },
+    {
+      "section": "Section 50",
+      "description": "Empowers rule-making for refunds and other provisions."
+    }
+  ],
+  "judgment_summary": {
+    "question_1": "Tax paid by a company cannot be deemed to be paid on behalf of shareholders under the Act.",
+    "question_2": "Shareholders cannot claim refund for agricultural income-tax paid by the company when dividends are not agricultural income.",
+    "question_3": "Considering 'world income' for refund calculation under Rule 25-A is not illegal."
+  }
+}

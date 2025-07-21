@@ -1,0 +1,38 @@
+{
+  "case_title": "ALLAH WASAYA AND Another vs ABDUR RAHIM",
+  "case_number": "Second Appeal No. 13 of 1952",
+  "judgment_date": "1953-02-24",
+  "court_name": "Baghdad-ul-Jadid",
+  "judge": "Abdul Hameed",
+  "reported_as": "P L D 1953 Baghdad-ul-Jadid 77",
+  "appellant": "Allah Wasaya and Another",
+  "respondent": "Abdur Rahim",
+  "result": "Appeal dismissed with costs",
+  "facts": {
+    "plaintiff_claim": "Encroachment on site marked BB',KK' in October 1942.",
+    "previous_suit": "Encroachment on site marked BD', B' D' in 1938.",
+    "defendant_claim": "Site BB',KK' fell to their share by partition; suit barred by res judicata."
+  },
+  "issues": {
+    "amendment_request": {
+      "requested_by": "Defendants",
+      "basis": "Encroachment occurred before the first suit; barred by Order II, Rule 2.",
+      "decision": "Denied by District Judge and upheld by Abdul Hameed, J."
+    }
+  },
+  "legal_points": {
+    "order_vi_rule_17": "Amendments introducing inconsistent cases or causing de novo trials are not allowed.",
+    "order_ii_rule_2": "Defendants failed to plead omission in the first suit regarding the disputed site BB',KK'."
+  },
+  "judgment_summary": {
+    "key_findings": [
+      "Plaintiff's claim of October 1942 encroachment was not denied by defendants.",
+      "Amendment would introduce a new and inconsistent case.",
+      "Delay alone is not a ground for refusing amendment, but inconsistency is."
+    ],
+    "references": [
+      "1933 Lab. 676",
+      "1943 Lab. 159"
+    ]
+  }
+}

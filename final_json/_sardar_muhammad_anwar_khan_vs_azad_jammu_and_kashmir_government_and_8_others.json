@@ -1,0 +1,139 @@
+{
+  "case_title": "Sardar MUHAMMAD ANWAR KHAN vs AZAD JAMMU AND KASHMIR GOVERNMENT and 8 others",
+  "reference_no_or_id": "Appeals Nos. 260, 257 and 251 of 1984",
+  "judgment_date": "1987-12-15",
+  "first_hearing_date": "N/A",
+  "court": "Azad Jammu and Kashmir Service Tribunal",
+  "bench_type": "Administrative Tribunal",
+  "judges": [
+    "Muhammad Siddique Farooqi",
+    "Sardar Mushtaq Ahmad Khan"
+  ],
+  "appellant": [
+    "Sardar Muhammad Anwar Khan",
+    "Sheikh Muhammad Khalil",
+    "Muhammad Rafiq Mughal"
+  ],
+  "respondant": [
+    "Azad Jammu and Kashmir Government",
+    "Ch. Muhammad Sharif",
+    "Raja Abdul Rauf Khan",
+    "Mr. Abu Talib Kazmi",
+    "Raja Zaffar Hussain",
+    "Chaudhry Abdul Qayyum",
+    "Sardar Muhammad Khurshid",
+    "Sheikh Muhammad Khalil"
+  ],
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": []
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Raja Mumtaz Hussain Rathore",
+      "Sardar Rafiq Mahmood"
+    ],
+    "defense": [
+      "Abdul Rashid Abbasi"
+    ]
+  },
+  "complaint_summary": "The appellants challenged their exclusion from Select List 'A' for promotion to Extra-Assistant Commissioner posts, alleging violations of rules and seniority considerations.",
+  "investigation_summary": "The appellants argued their eligibility based on seniority, qualifications, and departmental examinations. The respondents countered with claims of merit-based selection, adherence to rules, and time-barred appeals.",
+  "judgment_summary": "The Tribunal dismissed the appeals, holding that the selection process adhered to rules prioritizing merit and qualifications. The appellants failed to prove violations or mala fide actions by the Selection Board. The appeals were also deemed time-barred.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Appeals dismissed",
+  "legal_arguments": [
+    "Appellants argued seniority and qualifications were ignored.",
+    "Respondents emphasized merit-based selection and adherence to rules.",
+    "Tribunal held that graduation before 1980 was a valid criterion for merit.",
+    "Appeal was time-barred under the Service Tribunal Act."
+  ],
+  "assets": [],
+  "statutes": [
+    "Azad Jammu and Kashmir Extra-Assistant Commissioner Service Rules, 1980",
+    "Civil Servants Act, 1976",
+    "Service Tribunal Act",
+    "Appeal Rules, 1982"
+  ],
+  "sections": [
+    "Rule 3 of Azad Jammu and Kashmir Extra-Assistant Commissioner Service Rules, 1980",
+    "Rule 5 of Azad Jammu and Kashmir Extra-Assistant Commissioner Service Rules, 1980"
+  ],
+  "citations": [
+    "1989 P L C (C.S.) 16"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Administrative Law",
+    "Civil Service Rules",
+    "Promotion Disputes"
+  ],
+  "key_issues": [
+    "Eligibility criteria for promotion to Extra-Assistant Commissioner",
+    "Merit versus seniority in selection process",
+    "Time-barred appeals",
+    "Challenge to Government Notification No. SM/P(1)123/903-15/84 dated 25-4-1984 regarding promotion of Tehsildars to Extra-Assistant Commissioners."
+  ],
+  "maxims": {
+    "Merit-based selection": "Merit includes experience, qualification, and suitability for the post."
+  },
+  "legal_terms": {
+    "Select List 'A'": "A list of eligible candidates for promotion under specific rules.",
+    "Outstanding ability": "A criterion for promotion based on exceptional qualifications and merit."
+  },
+  "words_and_phrases": {
+    "Time-barred": "A legal claim or appeal that is not filed within the prescribed time limit.",
+    "Retrospective promotion": "Promotion granted based on qualifications acquired prior to rule enforcement."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around the rejection of appeals challenging the exclusion of appellants from Select List 'A' for promotion to Extra-Assistant Commissioner posts. The Tribunal upheld the merit-based selection criteria, emphasizing qualifications and fitness for higher responsibilities over seniority. The appeals were dismissed as time-barred and lacking evidence of rule violations or mala fide actions.",
+  "arguments": {
+    "appellant": {
+      "claims": [
+        "Entered service earlier than respondents and was senior.",
+        "Graduated and qualified departmental examination, making him eligible for promotion.",
+        "Criteria of graduation before 1980 violated rules."
+      ],
+      "requests": [
+        "Set aside or amend Select List 'A' to include appellant's name."
+      ]
+    },
+    "respondents": {
+      "claims": [
+        "Appeal was time-barred.",
+        "Appellant was not qualified at the time of list preparation.",
+        "Promotion based on merit and ability, not seniority."
+      ]
+    }
+  },
+  "rules_and_provisions": {
+    "relevant_rules": [
+      "Azad Jammu and Kashmir Extra-Assistant Commissioner Service Rules, 1980",
+      "Rule 5: Method of Recruitment",
+      "Civil Servants Act, 1976",
+      "Appeal Rules, 1982"
+    ],
+    "criteria_for_promotion": [
+      "Outstanding ability and merit.",
+      "Graduation before enforcement of rules."
+    ]
+  },
+  "tribunal_findings": {
+    "time_limitation": "Appeal against order dated 8-7-1984 was not filed within the prescribed period.",
+    "qualification_criteria": "Selection Board's criteria of graduation before 1980 was not violative of rules.",
+    "merit_and_ability": "Selection Authority has discretion to impose conditions and prioritize merit over seniority."
+  },
+  "decision": {
+    "summary": "Appeals dismissed due to lack of merit and violation of rules not established.",
+    "costs": "No order as to costs."
+  }
+}

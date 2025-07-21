@@ -1,0 +1,135 @@
+{
+  "case_title": "Zahoor Ahmad vs Province of Baluchistan and 2 Others",
+  "reference_no_or_id": "Constitution Petition No. 131 of 1978",
+  "case_number": "Constitution Petition No. 131 of 1978",
+  "judgment_date": "1978-06-10",
+  "first_hearing_date": "N/A",
+  "court": "Balochistan High Court",
+  "court_name": "Balochistan High Court",
+  "bench_type": "Division Bench",
+  "judges": [
+    "Mir Hazar Khan Khoso",
+    "Abdul Hayee Qureshi"
+  ],
+  "appellant": [
+    "Zahoor Ahmad"
+  ],
+  "respondant": [
+    "Province of Baluchistan",
+    "Faridullah",
+    "Haji Gul Muhammad"
+  ],
+  "respondents": [
+    "Province of Baluchistan",
+    "Faridullah",
+    "Other"
+  ],
+  "accussed_details": [
+    {
+      "name": "Faridullah",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Student",
+      "allegation": [
+        "Misrepresentation of domicile for reserved seat in Engineering College"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Mr. Basharatullah"
+    ],
+    "defense": [
+      "Mr. Hanafi"
+    ]
+  },
+  "complaint_summary": "Zahoor Ahmad challenged the decision of the Selection Committee for allotting a reserved seat in N.E.D. Engineering College, Karachi to Faridullah, alleging domicile misrepresentation.",
+  "investigation_summary": "The Selection Committee reviewed domicile certificates and educational records of candidates. Faridullah provided a valid domicile certificate issued after proper inquiry, which superseded earlier conflicting reports.",
+  "judgment_summary": "The court dismissed the petition, finding no substantial evidence to prove Faridullah's domicile misrepresentation. The petitioner failed to demonstrate clean hands and lacked locus standi.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Petition dismissed with costs.",
+  "result": "Petition dismissed",
+  "legal_arguments": [
+    "Petitioner argued respondent's domicile was from NWFP tribal areas, not Baluchistan.",
+    "Defense countered with valid domicile certificate issued after inquiry.",
+    "Petitioner alleged respondent's residence was urban Quetta, not rural Quetta.",
+    "Defense rebutted with evidence of rural residence and continuous stay."
+  ],
+  "assets": [
+    "Land in Killi Almo and Killi Simli (claimed by petitioner)",
+    "House on Deo Mal Road, Quetta (disputed ownership)"
+  ],
+  "statutes": [
+    "Article 199 of the Constitution of Pakistan"
+  ],
+  "sections": [],
+  "citations": [
+    "P L D 1979 Quetta 55",
+    "P L D 1968 Lah. 938",
+    "1968 S C M R 729",
+    "P L D 1978 Quetta 17",
+    "P L D 1972 Kar. 138",
+    "P L D 1972 Quetta 33"
+  ],
+  "legal_references": [
+    {
+      "case": "Sher Bahadur Khan v. Capital Development Authority, Islamabad and 2 others",
+      "citation": "P L D 1968 Lah. 938"
+    },
+    {
+      "case": "Syed Saghir Ali v. Mehar Din and others",
+      "citation": "1968 S C M R 729"
+    },
+    {
+      "case": "Sahibzadal Abdul Hannan v. Assistant Director, Immigration and Passports, Government of Pakistan, Karachi and another",
+      "citation": "P L D 1972 Kar. 138"
+    },
+    {
+      "case": "Wali Muhammad v. The Secretary, Home Department, Government of Baluchistan, Quetta and 2 others",
+      "citation": "P L D 1972 Quetta 33"
+    }
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Constitutional Law",
+    "Education Law",
+    "Domicile Disputes"
+  ],
+  "key_issues": [
+    "Misrepresentation of domicile for reserved seat",
+    "Eligibility criteria for reserved seats",
+    "Petitioner's locus standi"
+  ],
+  "maxims": {
+    "Clean Hands Doctrine": "Petitioner must approach the court with clean hands."
+  },
+  "legal_terms": {
+    "Domicile": "Legal residence of an individual determining eligibility for reserved seats."
+  },
+  "words_and_phrases": {
+    "Reserved Quota": "Seats allocated for specific groups based on domicile or other criteria."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "Petitioner Zahoor Ahmad challenged the selection of Faridullah for a reserved seat in N.E.D. Engineering College, alleging domicile misrepresentation. The court found no substantial evidence to support the claim and dismissed the petition, emphasizing the validity of Faridullah's domicile certificate and the petitioner's lack of clean hands.",
+  "summary": {
+    "issue": "Challenge to the selection of Faridullah for admission to N.E.D. Engineering College under Quetta rural quota.",
+    "petitioner_claims": [
+      "Petitioner claimed ancestral land and residence in Quetta rural.",
+      "Petitioner alleged respondent Faridullah was a resident of tribal areas of NWFP and not eligible for Baluchistan rural quota.",
+      "Petitioner argued respondent's domicile certificate was unreliable."
+    ],
+    "respondent_defense": [
+      "Respondent provided a valid domicile certificate issued after proper inquiry.",
+      "Respondent argued petitioner was a resident of Quetta urban and not eligible for rural quota."
+    ],
+    "court_findings": [
+      "Petitioner failed to prove respondent's residence in NWFP tribal areas.",
+      "Petitioner did not come with clean hands and provided inconsistent evidence regarding his own residence.",
+      "Selection Committee's reliance on the respondent's domicile certificate was valid."
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "case_title": "DALSUKH RAI JAIDAYAL, In re vs N/A",
+  "case_number": "I. T. A. No. 2623 of 19Case No. 15 of 1952",
+  "judgment_date": "1961-03-29",
+  "court": "Allahabad High Court",
+  "judges": [
+    "B. Upadhya",
+    "Y. Bhargava",
+    "Jagdish Sahai"
+  ],
+  "appellant": "DALSUKH RAI JAIDAYAL, In re",
+  "respondent": "N/A",
+  "result": "Question answered in the negative",
+  "legal_issue": "Whether the assessee family is entitled to exemption from tax under section 25(4) of the Income-tax Act for the period October 19, 1942, to October 7, 1943.",
+  "facts": {
+    "assessee_type": "Hindu undivided family",
+    "business_name": "Dalsukh Rai Jai Dayal",
+    "succession_date": "1943-10-08",
+    "assessment_year": "1944-45",
+    "previous_year": "1942-10-19 to 1943-10-07"
+  },
+  "legal_principles": {
+    "section_25_4": "Exemption from tax for the period between the end of the previous year and the date of succession.",
+    "supreme_court_precedent": "Commissioner of Income-tax v. Srinivasan",
+    "bombay_high_court_precedent": "Ambaram Kalidas v. Commissioner of Income-tax"
+  },
+  "key_findings": {
+    "succession_date": "1943-10-08",
+    "previous_year_end": "1943-10-07",
+    "income_exempt_period": "None, as no income was earned between October 7, 1943, and October 8, 1943."
+  },
+  "reasoning": {
+    "interpretation": "The previous year for section 25(4) is the completed accounting year immediately preceding the date of succession.",
+    "application": "No income was earned between the end of the previous year and the date of succession, thus no exemption applies."
+  },
+  "costs": {
+    "department_costs": "Rs. 200",
+    "final_costs": "Parties to bear their own costs",
+    "counsel_fee": "Rs. 300"
+  },
+  "citations": [
+    "1963 P T D 198",
+    "Commissioner of Income-tax v. Srinivasan (1953) 23 ITR 87 SC",
+    "Ambaram Kalidas v. Commissioner of Income-tax (1951) 19 ITR 227 Bom"
+  ]
+}

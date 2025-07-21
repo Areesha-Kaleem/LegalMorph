@@ -1,0 +1,93 @@
+{
+  "case_title": "MIAN GUL vs SAHIBZADA KHAN",
+  "reference_no_or_id": "Complaint No,T. 4 of 1995",
+  "judgment_date": "1995-10-12",
+  "first_hearing_date": "1995-01-09",
+  "court": "Bar Council Tribunal",
+  "bench_type": "Disciplinary Committee",
+  "judges": [
+    "Mian Muhammad Ajmal",
+    "Muhammad Alam Khan",
+    "Muhammad Younus Tanoli"
+  ],
+  "appellant": [
+    "Mian Gul"
+  ],
+  "respondant": [
+    "Sahibzada Khan"
+  ],
+  "accussed_details": [
+    {
+      "name": "Sahibzada Khan",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Advocate",
+      "allegation": [
+        "Professional misconduct",
+        "Gross negligence under Legal Practitioners and Bar Councils Act, 1973"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Additional Advocate-General"
+    ],
+    "defense": [
+      "Counsel for Respondent Advocate"
+    ]
+  },
+  "complaint_summary": "The complainant alleged that the respondent acted as both a witness and an advocate in the same case, violating professional conduct rules under the Legal Practitioners and Bar Councils Act, 1973.",
+  "investigation_summary": "The Disciplinary Committee initiated proceedings, recorded statements, and reviewed evidence including power of attorney and written arguments. The respondent denied allegations, asserting the cases were independent and the complaint was frivolous.",
+  "judgment_summary": "The Tribunal found the complaint baseless, noting the respondent acted in private capacity as a witness in one case and as an advocate in another, both being distinct cases. The complaint was dismissed with costs imposed on the complainant.",
+  "punishment": "Costs of Rs. 500 imposed on the complainant to be paid to the respondent.",
+  "Decision_or_verdict": "Complaint dismissed.",
+  "legal_arguments": [
+    "Respondent argued that the cases were independent with distinct causes of action.",
+    "Respondent asserted that an advocate can act as a witness in private capacity.",
+    "Prosecution argued professional misconduct under rule 157 of Pakistan Legal Practitioners and Bar Councils Rules, 1976."
+  ],
+  "assets": [],
+  "statutes": [
+    "Legal Practitioners and Bar Councils Act, 1973",
+    "Pakistan Legal Practitioners and Bar Councils Rules, 1976"
+  ],
+  "sections": [
+    "Rule 157 of Pakistan Legal Practitioners and Bar Councils Rules, 1976"
+  ],
+  "citations": [
+    "1996 C L C 844"
+  ],
+  "witnesses": [
+    "Mian Gul (Complainant)",
+    "Jehangir Shah (Local Commissioner)"
+  ],
+  "witness_statement": {
+    "Mian Gul": "Admitted in cross-examination that the cases were independent and unrelated.",
+    "Jehangir Shah": "Recorded respondent's statement in private capacity during spot inspection."
+  },
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Professional Misconduct",
+    "Advocacy Ethics"
+  ],
+  "key_issues": [
+    "Can an advocate act as a witness in private capacity?",
+    "Were the two cases independent with distinct causes of action?",
+    "Did the Disciplinary Committee violate procedural norms?"
+  ],
+  "maxims": {
+    "Audi alteram partem": "The respondent was not given an opportunity to present evidence, violating this principle."
+  },
+  "legal_terms": {
+    "Professional Misconduct": "Violation of ethical standards by a legal practitioner.",
+    "Power of Attorney": "Legal authorization for an advocate to act on behalf of a client."
+  },
+  "words_and_phrases": {
+    "Frivolous Complaint": "A complaint lacking merit or substance.",
+    "Private Capacity": "Acting as an individual rather than in a professional role."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case involved allegations of professional misconduct against an advocate acting as both witness and counsel in separate cases. The Tribunal dismissed the complaint, citing lack of substance and procedural violations by the Disciplinary Committee."
+}

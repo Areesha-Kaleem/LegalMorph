@@ -1,0 +1,114 @@
+{
+  "case_title": "THE STATE through Chairman National Accountability Bureau vs ADAM KHAN JOKHIO and 2 others",
+  "reference_no_or_id": "Criminal Accountability Acquittal Appeal No, 3 of 2008",
+  "judgment_date": "2008-12-01",
+  "first_hearing_date": "N/A",
+  "court": "Sindh High Court",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Khilji Arif Hussain"
+  ],
+  "appellant": [
+    "THE STATE through Chairman National Accountability Bureau"
+  ],
+  "respondant": [
+    "Adam Khan Jokhio",
+    "Ghulam Haider Kalwar",
+    "Ghulam Raza Rind (deceased)"
+  ],
+  "accussed_details": [
+    {
+      "name": "Adam Khan Jokhio",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "N/A",
+      "allegation": [
+        "Fraudulently changed land record from 30 acres to 330 acres",
+        "Benefited Rs. 150 million through manipulation of revenue records"
+      ]
+    },
+    {
+      "name": "Ghulam Haider Kalwar",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Supervisor Tapedar",
+      "allegation": [
+        "Misused authority to manipulate revenue records",
+        "Collaborated with Adam Khan Jokhio in fraudulent activities"
+      ]
+    },
+    {
+      "name": "Ghulam Raza Rind",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Assistant Mukhtiarkar",
+      "allegation": [
+        "Misused authority to manipulate revenue records",
+        "Collaborated with Adam Khan Jokhio in fraudulent activities"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Muhammad Aslam Butt (DPGA, NAB)"
+    ],
+    "defense": [
+      "Muhammad Ashraf Kazi",
+      "Muhammad Shafi Rajput"
+    ]
+  },
+  "complaint_summary": "Accused manipulated land records to increase land area from 30 acres to 330 acres, causing loss to the national exchequer.",
+  "investigation_summary": "Evidence revealed manipulation of revenue records by accused in collusion with public officials. Land was shown as 330 acres instead of 30 acres.",
+  "judgment_summary": "The court dismissed the appeal, finding no merit in the allegations. Points of determination were decided in favor of the respondents, and the charges were not proven.",
+  "punishment": "N/A (Respondents acquitted)",
+  "Decision_or_verdict": "Appeal dismissed",
+  "legal_arguments": [
+    "Prosecution argued manipulation of land records caused loss to the government.",
+    "Defense argued land in question was vacant and no third-party interest was created."
+  ],
+  "assets": [
+    "Land measuring 30 acres (disputed as 330 acres)"
+  ],
+  "statutes": [
+    "National Accountability Ordinance, 1999"
+  ],
+  "sections": [
+    "Section 9(A)(vi)",
+    "Section 9(A)(xii)",
+    "Section 10(a)",
+    "Sections 468 and 471, PPC"
+  ],
+  "citations": [
+    "2010 M L D 1718"
+  ],
+  "witnesses": [
+    "Abdul Ghafoor (P.W.24)"
+  ],
+  "witness_statement": {
+    "Abdul Ghafoor": "Denied knowledge of any agreement between his mother and respondent No.1 regarding the land."
+  },
+  "appeal_number": "03 of 2008",
+  "legal_categories": [
+    "Criminal Accountability",
+    "Fraud",
+    "Corruption"
+  ],
+  "key_issues": [
+    "Manipulation of land records",
+    "Misuse of authority by public officials",
+    "Loss to national exchequer"
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "Revenue Record": "Official record of land ownership and transactions.",
+    "Manipulation": "Fraudulent alteration of official documents."
+  },
+  "words_and_phrases": {
+    "Acquittal": "Legal judgment that clears the accused of charges.",
+    "Dismissed in limine": "Rejected at the outset without detailed examination."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "Case involves allegations of land record manipulation and corruption by public officials and private individuals. Appeal dismissed due to lack of evidence."
+}

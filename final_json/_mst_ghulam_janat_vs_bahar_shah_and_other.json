@@ -1,0 +1,169 @@
+{
+  "case_title": "Mst. GHULAM JANAT vs BAHAR SHAH And Other",
+  "reference_no_or_id": "Petition No. 23 of 1951",
+  "judgment_date": "1952-03-26",
+  "first_hearing_date": "1951-05-14",
+  "court": "Baghdad-ul-Jadid",
+  "bench_type": "Single Judge Bench",
+  "judges": [
+    "Abdul Aziz"
+  ],
+  "appellant": [
+    "Mst. Ghulam Janat"
+  ],
+  "respondant": [
+    "Bahar Shah",
+    "Others"
+  ],
+  "accussed_details": [
+    {
+      "name": "Bahar Shah",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Cousin of deceased father of minors",
+      "allegation": [
+        "Irregular appointment as guardian of minors"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Mr. Mustafa Khan"
+    ],
+    "defense": [
+      "Mr. Sleem",
+      "Sh. Nisar Ahmad"
+    ]
+  },
+  "complaint_summary": "Petition challenging the appointment of Bahar Shah as guardian of minors under a compromise deed without proper judicial inquiry into his suitability.",
+  "investigation_summary": "The Senior Sub-Judge appointed Bahar Shah as guardian based on a compromise deed without assessing his fitness or considering the welfare of the minors as required under the Guardians and Wards Act.",
+  "judgment_summary": "The High Court dismissed Mst. Janat's petition but exercised suo motu powers under Section 115 of the Civil Procedure Code to set aside the appointment of Bahar Shah as guardian. The Court directed the District Judge to re-evaluate the appointment following proper legal procedures.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Petition dismissed; order of appointment set aside; fresh proceedings directed.",
+  "legal_arguments": [
+    "Section 47(A) of the Guardians and Wards Act allows appeals to the High Court for guardian appointments.",
+    "Section 115 of the Civil Procedure Code permits revisions when no appeal lies.",
+    "Under Muhammadan Law, a mother who remarries is disqualified from guardianship of her children from the first marriage.",
+    "The welfare of minors must be the overriding consideration in guardian appointments."
+  ],
+  "assets": [],
+  "statutes": [
+    "Guardians and Wards Act",
+    "Civil Procedure Code"
+  ],
+  "sections": [
+    "Section 10",
+    "Section 13",
+    "Section 47(A)",
+    "Section 115"
+  ],
+  "citations": [
+    "1940 Lahore 9",
+    "1928 Oudh 220",
+    "1923 Nag 36",
+    "1927 Cal. 578",
+    "1943 Nag. 333"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Guardianship",
+    "Family Law",
+    "Civil Procedure"
+  ],
+  "key_issues": [
+    "Irregular appointment of guardian based on compromise deed.",
+    "Failure to assess welfare of minors.",
+    "Applicability of revisional powers under Section 115 of CPC."
+  ],
+  "maxims": {
+    "Interest of minors": "The welfare of minors is the paramount consideration in guardianship cases."
+  },
+  "legal_terms": {
+    "Compromise decree": "A decree passed based on mutual agreement between parties.",
+    "Suo motu": "Action taken by a court on its own initiative."
+  },
+  "words_and_phrases": {
+    "Guardianship": "Legal responsibility for the care of a minor.",
+    "Inherent powers": "Authority granted to courts to act in the interest of justice."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk",
+    "reported_as": "P L D 1952 Baghdad-ul-Jadid 53"
+  },
+  "summary_vector_notes": "The case revolves around the appointment of a guardian for minors under the Guardians and Wards Act. The High Court dismissed the petition but intervened suo motu to ensure compliance with legal provisions for the welfare of minors.",
+  "key_points": {
+    "application_details": {
+      "law": "Guardians and Wards Act",
+      "section": "Section 10",
+      "applicant": "Bahar Shah",
+      "minors": [
+        {
+          "name": "Muhammad Shah",
+          "age": 12
+        },
+        {
+          "name": "Bashir Ahmad",
+          "age": 8
+        },
+        {
+          "name": "Muhammad Shah",
+          "age": 5
+        },
+        {
+          "name": "Mst. Jhanwar Bibi",
+          "age": 3
+        }
+      ],
+      "deceased_father": "Amir Shah"
+    },
+    "compromise_details": {
+      "date_presented": "1951-05-14",
+      "order_date": "1951-05-24",
+      "appointed_guardian": "Bahar Shah"
+    },
+    "revision_petition": {
+      "date_filed": "1951-12-08",
+      "arguments": [
+        {
+          "contention": "No revision could be entertained under law",
+          "support": [
+            "Section 47(A) of Guardians and Wards Act",
+            "Section 115 of C.P.C."
+          ]
+        },
+        {
+          "contention": "Petition was barred by time"
+        }
+      ]
+    },
+    "high_court_findings": {
+      "failure_of_lower_court": "Senior Sub-Judge failed to determine suitability of guardian and relied solely on compromise.",
+      "special_circumstances": "Court ignored imperative provisions of law regarding welfare of minors.",
+      "precedents": [
+        {
+          "case": "1940 Lahore 9",
+          "finding": "Compromise without considering welfare of minors is illegal."
+        },
+        {
+          "case": "1923 Nag 36",
+          "finding": "Ignoring procedure under Guardians and Wards Act is materially irregular."
+        },
+        {
+          "case": "1927 Cal 578",
+          "finding": "Revision may be allowed in exceptional circumstances."
+        }
+      ]
+    },
+    "decision": {
+      "petition_dismissed": true,
+      "order_set_aside": true,
+      "directions": "Fresh order for appointment of guardian to be made after complying with provisions of law.",
+      "next_hearing": {
+        "date": "1952-04-10",
+        "court": "District Judge, Rahimyar Khan"
+      }
+    }
+  }
+}

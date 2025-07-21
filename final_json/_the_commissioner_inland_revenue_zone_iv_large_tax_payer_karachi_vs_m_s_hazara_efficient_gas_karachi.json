@@ -1,0 +1,123 @@
+{
+  "case_title": "The Commissioner Inland Revenue, Zone-IV, Large Taxpayer, Karachi vs M/s. Hazara Efficient Gas, Karachi",
+  "reference_no_or_id": "I.T.A. No, 487/KB of 2017",
+  "judgment_date": "2017-12-13",
+  "first_hearing_date": "N/A",
+  "court": "Appellate Tribunal Inland Revenue",
+  "bench_type": "Division Bench",
+  "judges": [
+    "Nazir Ahmad",
+    "Ahmed Saeed"
+  ],
+  "appellant": [
+    "The Commissioner Inland Revenue, Zone-IV, Large Taxpayer, Karachi"
+  ],
+  "respondant": [
+    "M/s. Hazara Efficient Gas, Karachi"
+  ],
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": []
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Mr. Zia Agro, DR"
+    ],
+    "defense": [
+      "Mr. Abid H. Shaban, Advocate"
+    ]
+  },
+  "complaint_summary": "The appellant challenged the order of Commissioner Inland Revenue (Appeals-I), Karachi, which recognized the respondent as an industrial undertaking under Section 2(29C) of the Income Tax Ordinance, 2001.",
+  "investigation_summary": "The Additional Commissioner Inland Revenue issued a revisionary notice under Sections 122(5A)/122(9) of the Income Tax Ordinance, 2001, claiming the respondent's deemed assessment was erroneous and prejudicial to revenue interests. The respondent argued their LPG processing activities qualified as manufacturing under Section 2(29C).",
+  "judgment_summary": "The Appellate Tribunal Inland Revenue dismissed the appeal, confirming the respondent's status as an industrial undertaking and manufacturer under Sections 2(29C) and 153(7) of the Income Tax Ordinance, 2001. The Tribunal relied on the precedent set in the Pyramid Gas case.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Appeal dismissed; respondent confirmed as industrial undertaking.",
+  "legal_arguments": [
+    "Respondent's LPG processing activities meet the definition of manufacturing under Section 2(29C) of the Income Tax Ordinance, 2001.",
+    "Precedent from Pyramid Gas case supports respondent's claim.",
+    "Respondent employs more than 10 workers and uses electrical energy, fulfilling statutory requirements.",
+    "The blending, filtering, and bottling of LPG constitutes a manufacturing process resulting in a distinct marketable product."
+  ],
+  "assets": [
+    "LPG processing plant in Muzaffargarh, Punjab",
+    "Two diesel generators (125 KVA and 85 KVA)"
+  ],
+  "statutes": [
+    "Income Tax Ordinance, 2001",
+    "Sales Tax Act, 1990"
+  ],
+  "sections": [
+    "Section 2(29C) of Income Tax Ordinance, 2001",
+    "Section 153(7) of Income Tax Ordinance, 2001",
+    "Section 2(16) of Sales Tax Act, 1990",
+    "Section 148(7) of Income Tax Ordinance, 2001"
+  ],
+  "citations": [
+    "2018 P T D (Trib.) 1188",
+    "2018 P.C.T.L.R. 337",
+    "2007 PTD 2088",
+    "2000 PTD 374",
+    "1982 SCMR 523",
+    "PLD 1959 Lah. 955"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Tax Law",
+    "Industrial Undertaking",
+    "Manufacturing Process"
+  ],
+  "key_issues": [
+    "Whether the respondent qualifies as an industrial undertaking under Section 2(29C) of Income Tax Ordinance, 2001.",
+    "Whether the respondent's LPG processing activities constitute manufacturing.",
+    "Whether the blending, filtering, and bottling of LPG constitutes a manufacturing process."
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "Industrial Undertaking": "Defined under Section 2(29C) of the Income Tax Ordinance, 2001.",
+    "Manufacturer": "Defined under Section 153(7) of the Income Tax Ordinance, 2001."
+  },
+  "words_and_phrases": {
+    "Manufacturing Process": "Includes blending, mixing, filtering, and bottling of LPG."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around the classification of the respondent's LPG processing activities as manufacturing under tax law. The Tribunal upheld the respondent's status as an industrial undertaking, relying on statutory definitions and precedents.",
+  "facts": {
+    "business_activity": "Import, blending, filtering, and bottling of LPG for domestic and industrial use.",
+    "income_declared": "Rs. 48,383,345 for tax year 2016",
+    "tax_treatment": "Tax deducted at import stage treated as adjustable under Section 148(7) of the Income Tax Ordinance, 2001."
+  },
+  "arguments": {
+    "appellant": "The respondent is a commercial importer and does not qualify as an industrial undertaking.",
+    "respondent": "The respondent meets the criteria of an industrial undertaking and engages in a manufacturing process resulting in a distinct marketable product."
+  },
+  "legal_references": {
+    "income_tax_ordinance": [
+      "Section 2(29C)",
+      "Section 148(7)",
+      "Section 153(7)"
+    ],
+    "sales_tax_act": [
+      "Section 2(16)"
+    ]
+  },
+  "precedents": {
+    "pyramid_gas_case": "ITA No. 1130/LB/2016 - Similar facts and law where the taxpayer was held to qualify as an industrial undertaking."
+  },
+  "findings": {
+    "industrial_undertaking": "The respondent meets the criteria under Section 2(29C) of the Income Tax Ordinance, 2001.",
+    "manufacturing_process": "The blending, filtering, and bottling of LPG constitutes a manufacturing process as per relevant laws and precedents."
+  },
+  "decision": {
+    "appeal_outcome": "Dismissed",
+    "order_upheld": "CIR(Appeals-I)'s detailed order confirming the respondent's status as an industrial undertaking."
+  }
+}

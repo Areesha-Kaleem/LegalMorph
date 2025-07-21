@@ -1,0 +1,92 @@
+{
+  "case_title": "Rana Muhammad Aslam Khan vs District Officer (Revenue), Etc.",
+  "reference_no_or_id": "Writ Petition No. 31-R of 2008",
+  "judgment_date": "2009-07-14",
+  "first_hearing_date": "N/A",
+  "court": "Board of Revenue, Punjab",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Ch. Naeem Masood",
+    "Ch. Naeem Muhammad A. Saeed"
+  ],
+  "appellant": [
+    "Rana Muhammad Aslam Khan"
+  ],
+  "respondant": [
+    "District Officer (Revenue), Etc."
+  ],
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": []
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Assistant Advocate-General"
+    ],
+    "defense": [
+      "Learned Counsel for the Petitioner"
+    ]
+  },
+  "complaint_summary": "The petitioner sought directions for entering mutation in the Revenue Record for a plot purchased in 1968 through auction, confirmed and issued with P.T.D. However, the respondent failed to perform this duty.",
+  "investigation_summary": "A report submitted by the respondents stated that the land in question was exchanged with the Central Government in 1958 and transferred to the Provincial Government. The Settlement Department was unauthorized to issue title documents post-1958. The petitioner had previously filed and withdrawn a civil suit on the same matter in 2007.",
+  "judgment_summary": "The writ petition was dismissed due to laches, exhaustion of remedies in Civil Court, and lack of jurisdiction of Settlement Authorities over the land, which had ceased to be evacuee property post-1958. No merit was found in the petition.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Dismissal of writ petition.",
+  "legal_arguments": [
+    "Petition suffers from laches as it pertains to a matter from 1968.",
+    "Petitioner is barred from filing the writ petition after withdrawing a civil suit on the same matter.",
+    "Land ceased to be evacuee property post-1958 and was transferred to the Provincial Government, making the auction invalid."
+  ],
+  "assets": [],
+  "statutes": [
+    "Settlement Laws"
+  ],
+  "sections": [],
+  "citations": [
+    "K.L.R. 2010 Revenue Cases 23"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Property Law",
+    "Administrative Law"
+  ],
+  "key_issues": [
+    "Validity of auction conducted by Settlement Authorities post-1958.",
+    "Jurisdiction of Settlement Authorities over land transferred to Provincial Government.",
+    "Exhaustion of remedies in Civil Court."
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "mutation": "The process of transferring or changing the title of ownership in revenue records."
+  },
+  "words_and_phrases": {
+    "laches": "Unreasonable delay in asserting a legal right."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk",
+    "printed_on": "2025-07-15",
+    "printed_by": "Areesha Kaleem"
+  },
+  "summary_vector_notes": "Petitioner sought mutation for land purchased in 1968, but the land had been transferred to the Provincial Government in 1958, making the auction invalid. The petitioner had exhausted remedies in Civil Court and was barred from filing the writ petition. The court dismissed the petition due to laches and jurisdictional issues.",
+  "facts": {
+    "plot_purchase_date": "1968-01-15",
+    "auction_confirmation_date": "1968-02-02",
+    "ptd_issue_date": "1968-12-31",
+    "mutation_request_date": "2003",
+    "civil_suit_withdrawal_date": "2007-07-18",
+    "land_exchange_date": "1958-01-03"
+  },
+  "key_points": {
+    "laches": "Matter from 1968 raised after 35 years.",
+    "civil_suit": "Petitioner withdrew civil suit, barring further petitions.",
+    "land_exchange": "Land exchanged on 1958-01-03, vested in Punjab Province and removed from Compensation Pool.",
+    "settlement_authorities": "Settlement Authorities lacked jurisdiction over non-evacuee land."
+  }
+}

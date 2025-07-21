@@ -1,0 +1,82 @@
+{
+  "case_title": "SHREE JANKI SOLVENT EXTRACTIONS LTD. vs DEPUTY DIRECTOR OF INCOME TAX (INVESTIGATION) AND OTHERS",
+  "reference_no_or_id": "C.M.W. Petitions Nos. 189,190 and 192 of 1995",
+  "judgment_date": "1995-11-14",
+  "first_hearing_date": "N/A",
+  "court": "Allahabad High Court",
+  "bench_type": "Division Bench",
+  "judges": [
+    "R. A. Sharma",
+    "D. K. Seth"
+  ],
+  "appellant": [
+    "SHREE JANKI SOLVENT EXTRACTIONS LTD."
+  ],
+  "respondant": [
+    "DEPUTY DIRECTOR OF INCOME TAX (INVESTIGATION)",
+    "OTHERS"
+  ],
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": []
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Mr. Bharatji Agarwal"
+    ],
+    "defense": [
+      "Mr. Upadhyaya"
+    ]
+  },
+  "complaint_summary": "The case concerns the invocation of powers under Section 132A(1)(b) of the Income Tax Act, 1961, regarding requisitioning of books of account and documents for the assessment year 1993-94.",
+  "investigation_summary": "The requisitioning authority failed to record satisfaction or belief that the documents would not be produced if summons were issued, rendering the order of requisition invalid.",
+  "judgment_summary": "The court quashed the requisition order dated January 23, 1995, for the assessment year 1993-94, citing lack of proper application of mind and absence of recorded satisfaction. The respondents were directed to return the documents to the trade tax authorities.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Petition allowed. Requisition order quashed.",
+  "legal_arguments": [
+    "Section 132A(1)(b) requires satisfaction that documents will not be produced if summons are issued.",
+    "Explanation 2 of Section 132 applies to proceedings yet to commence.",
+    "Adoption of sub-sections (4A) to (14) by reference under Section 132A(3) includes Explanation 2."
+  ],
+  "assets": [],
+  "statutes": [
+    "Income Tax Act, 1961"
+  ],
+  "sections": [
+    "Section 132A(1)(b)",
+    "Section 132A(3)",
+    "Section 132(4A)-(14)"
+  ],
+  "citations": [
+    "75 TAX 276",
+    "ITO v. Madnani Engineering Works Ltd. [1979] 118 ITR 1 (SC)"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Taxation Law",
+    "Income Tax"
+  ],
+  "key_issues": [
+    "Validity of requisition order under Section 132A(1)(b).",
+    "Satisfaction of conditions for invoking powers under Section 132A."
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "Requisition": "A formal demand for documents or evidence.",
+    "Satisfaction": "The state of being convinced or certain about a legal condition."
+  },
+  "words_and_phrases": {
+    "Proceeding": "Includes all proceedings under the Income Tax Act, commenced or yet to commence."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around the invocation of Section 132A(1)(b) of the Income Tax Act, 1961, for requisitioning documents relevant to the assessment year 1993-94. The court found that the requisitioning authority failed to record satisfaction or belief that the documents would not be produced if summons were issued. Consequently, the requisition order was quashed, and the documents were ordered to be returned to the trade tax authorities. The judgment clarifies the conditions under which Section 132A powers can be exercised."
+}

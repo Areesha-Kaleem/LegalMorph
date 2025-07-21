@@ -1,0 +1,110 @@
+{
+  "case_title": "A.R. FAROOQI vs DIRECTOR, SOCIAL WELFARE PUNJAB And 11 Others Of 1974",
+  "reference_no_or_id": "Case No. 42/22",
+  "judgment_date": "1974-12-09",
+  "first_hearing_date": "N/A",
+  "court": "Administrative Tribunal Punjab",
+  "bench_type": "N/A",
+  "judges": [
+    "Ashfaq Ali Khan",
+    "Khalid Farooq Akbar",
+    "Saad Saeed Jan"
+  ],
+  "appellant": [
+    "A.R. FAROOQI"
+  ],
+  "respondant": [
+    "DIRECTOR, SOCIAL WELFARE PUNJAB",
+    "11 Others"
+  ],
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": []
+    }
+  ],
+  "lawyers": {
+    "prosecution": [],
+    "defense": []
+  },
+  "complaint_summary": "The appellant challenged two seniority lists issued by the Social Welfare Directorate for Social Welfare Officers (20-2-1974) and Field Officers (25-3-1974).",
+  "investigation_summary": "The appellant's claims were based on his longer tenure of service and the ante-dating of his appointment by the Provincial Government. The seniority lists were prepared based on the merit order fixed by the Public Service Commission.",
+  "judgment_summary": "The Tribunal dismissed the appeal, rejecting the appellant's claims for seniority over respondents in both lists. The Tribunal upheld the seniority lists prepared by the Social Welfare Directorate based on the merit order determined by the Public Service Commission.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Appeal dismissed with costs.",
+  "legal_arguments": [
+    "The appellant argued that the ante-dating of his appointment by the Provincial Government entitled him to seniority over respondents.",
+    "The Tribunal rejected this argument, citing precedent from the case of Mr. Riffat Mahmood v. Director Social Welfare, Punjab and others."
+  ],
+  "assets": [],
+  "statutes": [
+    "1975 P L C [C.S.T.] 85"
+  ],
+  "sections": [],
+  "citations": [],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "Case No. 39/32 of 1974",
+  "legal_categories": [
+    "Civil Service",
+    "Seniority Disputes"
+  ],
+  "key_issues": [
+    "Seniority determination based on merit order by Public Service Commission.",
+    "Ante-dating of appointment and its impact on seniority."
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "seniority": "The order of precedence among employees based on their rank, tenure, or other factors.",
+    "ante-dating": "Backdating an appointment or event to an earlier date."
+  },
+  "words_and_phrases": {
+    "order of merit": "A ranking determined by a selection authority, such as the Public Service Commission."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case involved a dispute over seniority lists for Social Welfare Officers and Field Officers. The appellant's claims were based on his longer tenure and ante-dated appointment, but the Tribunal upheld the lists prepared based on the merit order fixed by the Public Service Commission, dismissing the appeal with costs.",
+  "case_number": "42/22",
+  "court_name": "Administrative Tribunal Punjab",
+  "result": "Appeal dismissed with costs",
+  "reported_as": "1975 P L C [C.S.T.] 85",
+  "issues": [
+    {
+      "seniority_list_date": "1974-02-20",
+      "position": "Social Welfare Officers",
+      "appellant_claim": "Seniority over respondents 3-10 based on longer tenure of service",
+      "tribunal_decision": "Rejected based on merit order fixed by Public Service Commission"
+    },
+    {
+      "seniority_list_date": "1974-03-25",
+      "position": "Field Officers",
+      "appellant_claim": "Seniority over respondents 3-6 and 7-10 based on earlier appointment",
+      "tribunal_decision": "Rejected due to lack of consideration of appellant's claim during promotion of junior officers"
+    },
+    {
+      "respondent_11_seniority": "Fixed based on merit order by Public Service Commission",
+      "appellant_claim": "Seniority over respondent 11",
+      "tribunal_decision": "Rejected as irrelevant due to merit-based ranking"
+    }
+  ],
+  "legal_references": [
+    {
+      "case_name": "Arshad Shafi’s case",
+      "decision": "Directed seniority refixation for respondents 7, 8, and 12"
+    },
+    {
+      "case_name": "Civil Services Appellate Tribunal",
+      "decision_date": "1974-02-08",
+      "impact": "Claim against respondent 2 already decided"
+    },
+    {
+      "case_name": "Mr. Riffat Mahmood v. Director Social Welfare, Punjab and others",
+      "decision": "Rejected similar contention regarding seniority based on ante-dated appointment"
+    }
+  ],
+  "summary": "The appellant's claims for seniority over various respondents in two seniority lists were rejected by the tribunal based on merit rankings established by the Public Service Commission and procedural rules regarding promotions. The appeal was dismissed with costs."
+}

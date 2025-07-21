@@ -1,0 +1,80 @@
+{
+  "case_title": "COMMISSIONER OF INCOME-TAX vs VIGHYAN CHEMICALS INDUSTRIES",
+  "reference_no_or_id": "Application No. 49 of 1992",
+  "judgment_date": "1992-07-13",
+  "first_hearing_date": "N/A",
+  "court": "Allahabad High Court",
+  "bench_type": "Division Bench",
+  "judges": [
+    "R. K. Gulati",
+    "A. P. Singh"
+  ],
+  "appellant": [
+    "Commissioner of Income-Tax"
+  ],
+  "respondant": [
+    "Vighyan Chemicals Industries"
+  ],
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": [
+        "Suppressed sales",
+        "Difference in stock pledged with the bank"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "The Revenue sought reference under Section 256(2) of the Income Tax Act, 1961, challenging the deletion of additions made by the Income-tax Officer regarding suppressed sales and stock discrepancies.",
+  "investigation_summary": "The Income-tax Appellate Tribunal found the additions made by the Income-tax Officer unsustainable due to lack of material evidence and erroneous assumptions. The Commissioner of Income-tax Appeals had previously deleted the additions, which were upheld by the Tribunal.",
+  "judgment_summary": "The court rejected the application under Section 256(2), stating that the findings of the Tribunal were based on facts and did not involve any question of law. The Tribunal accepted the assessee's explanation regarding stock discrepancies and found the suppressed sales addition unsupported by relevant evidence.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Application rejected",
+  "legal_arguments": [
+    "Whether the Tribunal was correct in law in confirming the deletion of additions made by the Income-tax Officer.",
+    "Whether the production shown by the assessee was adequate or not, which is a question of fact."
+  ],
+  "assets": [],
+  "statutes": [
+    "Income Tax Act, 1961"
+  ],
+  "sections": [
+    "Section 256(2)"
+  ],
+  "citations": [
+    "1993 P T D 1391"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Taxation Law"
+  ],
+  "key_issues": [
+    "Validity of additions made by the Income-tax Officer",
+    "Adequacy of production disclosed by the assessee",
+    "Explanation regarding stock pledged with the bank"
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "Section 256(2)": "Provision under the Income Tax Act allowing reference to the High Court on questions of law."
+  },
+  "words_and_phrases": {
+    "Suppressed sales": "Sales not disclosed in the income returned by the assessee.",
+    "Stock pledged with the bank": "Inventory used as collateral for loans."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case involves an application under Section 256(2) of the Income Tax Act, 1961, filed by the Revenue challenging the deletion of additions made by the Income-tax Officer regarding suppressed sales and stock discrepancies. The Tribunal upheld the deletion, finding the additions unsustainable due to lack of evidence and erroneous assumptions. The High Court rejected the application, stating that the findings were factual and did not involve any question of law."
+}

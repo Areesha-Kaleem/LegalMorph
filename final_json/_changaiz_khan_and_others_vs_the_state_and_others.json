@@ -1,0 +1,290 @@
+{
+  "case_title": "Changaiz Khan and others vs The State and others",
+  "reference_no_or_id": "Criminal Appeals Nos. 153, 156 of 2024 and Murder Reference No. 04 of 2024",
+  "judgment_date": "2024-11-04",
+  "first_hearing_date": "N/A",
+  "court": "Balochistan High Court",
+  "bench_type": "Division Bench",
+  "judges": [
+    "Abdullah Baloch",
+    "Iqbal Ahmed Kasi"
+  ],
+  "appellant": [
+    {
+      "name": "Changaiz Khan",
+      "father_name": "Taj Muhammad"
+    },
+    {
+      "name": "Taimoor Khan",
+      "father_name": "Shah Muhammad"
+    },
+    {
+      "name": "Sikandar Khan",
+      "father_name": "Shah Muhammad"
+    },
+    {
+      "name": "Fazal Muhammad",
+      "father_name": "Mir Shah Dad Khan"
+    },
+    {
+      "name": "Bilal Ahmed",
+      "father_name": "Niaz Muhammad"
+    }
+  ],
+  "respondant": [
+    "The State"
+  ],
+  "accussed_details": [
+    {
+      "name": "Changaiz Khan",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "N/A",
+      "allegation": [
+        "Murder",
+        "Attempt to Murder",
+        "Unlawful Assembly"
+      ]
+    },
+    {
+      "name": "Taimoor Khan",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "N/A",
+      "allegation": [
+        "Murder",
+        "Attempt to Murder",
+        "Unlawful Assembly"
+      ]
+    },
+    {
+      "name": "Sikandar Khan",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "N/A",
+      "allegation": [
+        "Murder",
+        "Attempt to Murder",
+        "Unlawful Assembly"
+      ]
+    },
+    {
+      "name": "Fazal Muhammad",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "N/A",
+      "allegation": [
+        "Murder",
+        "Attempt to Murder",
+        "Unlawful Assembly"
+      ]
+    },
+    {
+      "name": "Bilal Ahmed",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "N/A",
+      "allegation": [
+        "Murder",
+        "Attempt to Murder",
+        "Unlawful Assembly"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Learned APG",
+      "Counsel for Complainant"
+    ],
+    "defense": [
+      "Counsel for Appellants"
+    ]
+  },
+  "complaint_summary": "FIR No. 184 of 2006 was lodged by Ghulam Nabi alleging that the accused attacked him and his sons, resulting in the deaths of Zahoor Ahmed and Munir Ahmed and injuries to Shabbir Ahmed and Mir Ahmed.",
+  "investigation_summary": "Police conducted investigations, collected evidence including bloodstained clothes and site sketches, and submitted challans. Statements of witnesses were recorded belatedly, raising doubts about the prosecution's case.",
+  "judgment_summary": "The Balochistan High Court acquitted the appellants due to procedural irregularities, contradictions in witness testimonies, and failure of the prosecution to prove its case beyond reasonable doubt.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Appeals allowed; appellants acquitted; Murder Reference answered in negative.",
+  "legal_arguments": [
+    "Delay in recording witness statements under Section 161, Cr.P.C.",
+    "Contradictions in testimonies of prosecution witnesses.",
+    "Failure to prove common intention under Section 149, P.P.C.",
+    "Non-production of key evidence such as recovery memos."
+  ],
+  "assets": [
+    "Bloodstained earth",
+    "Empty TT pistol casing"
+  ],
+  "statutes": [
+    "Pakistan Penal Code, 1860",
+    "Criminal Procedure Code, 1898",
+    "Qanun-e-Shahadat Order, 1984"
+  ],
+  "sections": [
+    "302(b)",
+    "324",
+    "544-A",
+    "337-Y",
+    "149",
+    "147",
+    "148"
+  ],
+  "citations": [
+    "1998 SCMR 570",
+    "2024 SCMR 1507",
+    "2010 SCMR 1009",
+    "1995 SCMR 1345",
+    "2019 SCMR 129"
+  ],
+  "witnesses": [
+    "Shabbir Ahmed (PW-1)",
+    "Bilal Ahmed (PW-2)",
+    "Ghulam Muhammad (PW-3)",
+    "Ghulam Rasool (PW-4)",
+    "Murad Khan (PW-3A)",
+    "Dr. Ali Mardan (PW-4A)",
+    "Shabbir Hussain (PW-6A)",
+    "Muhammad Ali (PW-7A)",
+    "Muhammad Rasheed (PW-8A)",
+    "Abid Gohram (PW-8)",
+    "Mustafa Hussain (PW-9A)"
+  ],
+  "witness_statement": {
+    "Shabbir Ahmed": "Eye-witness; injured during the incident.",
+    "Bilal Ahmed": "Eye-witness; shifted injured and deceased to hospital.",
+    "Ghulam Muhammad": "Eye-witness.",
+    "Ghulam Rasool": "Circumstantial witness.",
+    "Murad Khan": "Witness of recovery memo.",
+    "Dr. Ali Mardan": "Produced medical certificates of injured and deceased.",
+    "Shabbir Hussain": "Witness of disclosure memo.",
+    "Muhammad Ali": "Eye-witness.",
+    "Muhammad Rasheed": "First Investigating Officer; produced FIR and site sketch.",
+    "Abid Gohram": "Second Investigating Officer; produced supplementary challans.",
+    "Mustafa Hussain": "Last Investigating Officer; produced incomplete challan."
+  },
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Criminal Law",
+    "Murder",
+    "Attempt to Murder",
+    "Unlawful Assembly"
+  ],
+  "key_issues": [
+    "Delay in FIR registration.",
+    "Contradictions in witness testimonies.",
+    "Failure to prove common intention.",
+    "Non-production of recovery memos."
+  ],
+  "maxims": {
+    "Benefit of doubt": "Even a single circumstance creating reasonable doubt entitles the accused to acquittal."
+  },
+  "legal_terms": {
+    "Ta'zir": "Punishment under Islamic law for offenses not fixed by the Quran or Hadith.",
+    "Daman": "Compensation for injuries under Islamic law."
+  },
+  "words_and_phrases": {
+    "Common intention": "Pre-concert or pre-arrangement to commit a crime.",
+    "Constructive liability": "Liability for acts committed by others in an unlawful assembly."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case involved allegations of murder and attempted murder stemming from a personal dispute. The trial court convicted the appellants, but the High Court acquitted them due to procedural flaws, contradictions in evidence, and failure to prove common intention.",
+  "case_number": "Criminal Appeals Nos. 153, 156 of 2024 and Murder Reference No. 04 of 2024",
+  "court_name": "Balochistan High Court",
+  "result": "Appeals allowed",
+  "respondents": [
+    "The State and others"
+  ],
+  "trial_court": {
+    "name": "Additional Sessions Judge-IV, Quetta",
+    "judgment_date": "2024-05-13",
+    "convictions": [
+      {
+        "section": "302(b) P.P.C.",
+        "sentence": "Death as ta'zir",
+        "compensation": "Rs.400,000 each to legal heirs of deceased",
+        "default_penalty": "6 months imprisonment"
+      },
+      {
+        "section": "324 P.P.C.",
+        "sentence": "6 years imprisonment",
+        "fine": "Rs.50,000 each to injured",
+        "default_penalty": "4 months imprisonment"
+      },
+      {
+        "section": "337-Y P.P.C.",
+        "sentence": "Daman Rs.30,000 each to injured",
+        "default_penalty": "As per Section 337-Y P.P.C."
+      }
+    ]
+  },
+  "murder_reference": {
+    "number": "04 of 2024",
+    "result": "Answered in negative"
+  },
+  "fir_details": {
+    "number": "184 of 2006",
+    "date": "2006-07-28",
+    "police_station": "Saddar, Quetta",
+    "sections": [
+      "302",
+      "324",
+      "147",
+      "148",
+      "149 P.P.C."
+    ],
+    "complainant": {
+      "name": "Ghulam Nabi",
+      "father_name": "Akhtar Muhammad"
+    },
+    "incident_details": {
+      "date": "2006-07-28",
+      "time": "02:30 PM",
+      "location": "Residence of complainant",
+      "accused": [
+        "Changaiz",
+        "Bilal Ahmed",
+        "Sikandar",
+        "Taimoor",
+        "Fazal",
+        "Imran Gul",
+        "5-6 unidentified accomplices"
+      ],
+      "victims": [
+        {
+          "name": "Zahoor Ahmed",
+          "status": "Deceased"
+        },
+        {
+          "name": "Munir Ahmed",
+          "status": "Deceased"
+        },
+        {
+          "name": "Shabbir Ahmed",
+          "status": "Injured"
+        },
+        {
+          "name": "Mir Ahmed",
+          "status": "Injured"
+        }
+      ],
+      "cause": "Dispute over loitering near complainant's house"
+    }
+  },
+  "key_findings": [
+    "Delay in FIR registration (1 hour 40 minutes)",
+    "Complainant's unnatural conduct during incident",
+    "Delay in recording witness statements under Section 161 Cr.P.C.",
+    "Contradictions in witness testimonies and site map",
+    "Failure to exhibit key evidence (e.g., fard-e-bayan, recovery memos)",
+    "No specific role assigned to certain appellants",
+    "Prosecution failed to prove common intention or motive"
+  ],
+  "legal_principles": [
+    "Benefit of doubt must go to accused (Muhammad Shah v. The State, 2010 SCMR 1009)",
+    "Credibility of witnesses questioned due to delayed statements (Muhammad Khan v. Moula Bakhsh, 1998 SCMR 570)",
+    "Withholding best evidence creates presumption against prosecution (Article 129(g), Qanun-e-Shahadat Order, 1984)"
+  ],
+  "reported_as": "2025 MLD 205"
+}

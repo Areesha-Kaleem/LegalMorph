@@ -1,0 +1,106 @@
+{
+  "case_title": "NIRANJAN LAL RAM CHANDRA vs COMMISSIONER OF INCOME-TAX, U. P.",
+  "reference_no_or_id": "Case No. 246 of 1958",
+  "judgment_date": "1962-08-21",
+  "first_hearing_date": "N/A",
+  "court": "Allahabad High Court",
+  "bench_type": "Division Bench",
+  "judges": [
+    "Brijlal Gupta",
+    "M. C. Desai"
+  ],
+  "appellant": [
+    "NIRANJAN LAL RAM CHANDRA"
+  ],
+  "respondant": [
+    "COMMISSIONER OF INCOME-TAX, U. P."
+  ],
+  "accussed_details": [
+    {
+      "name": "Niranjan Lal Ram Chandra",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Motor operator and dealer in motor-cars and trucks",
+      "allegation": [
+        "Taxability of Rs. 5,347 as income arising during the course of business"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [],
+    "defense": []
+  },
+  "complaint_summary": "The appellant received Rs. 16,000 as compensation from the State Government for loss and expenses incurred due to the abandonment of the Hind Roadways Corporation scheme. The Income-tax Department assessed Rs. 5,347 as taxable income.",
+  "investigation_summary": "The appellant incurred Rs. 10,653 in expenses while promoting the Hind Roadways Corporation at the Government's request. The Income-tax Officer treated Rs. 16,000 as business income, allowing Rs. 4,000 as expenses, and taxed Rs. 12,000. The Appellate Assistant Commissioner allowed Rs. 10,653 as expenses but taxed Rs. 5,347 as income.",
+  "judgment_summary": "The High Court ruled that the Rs. 5,347 compensation was for loss of a capital asset (anticipated profits from managing the Hind Roadways Corporation) and not taxable income. The Tribunal's conclusion that the amount was taxable was deemed erroneous.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "The compensation of Rs. 5,347 was not taxable income. The reference was answered in favor of the appellant.",
+  "legal_arguments": [
+    "Compensation for loss of anticipated profits from a capital asset is not taxable income.",
+    "The Tribunal failed to affirm or overrule the findings of the Appellate Assistant Commissioner clearly."
+  ],
+  "assets": [
+    "Compensation amount of Rs. 16,000",
+    "Expenses incurred: Rs. 10,653"
+  ],
+  "statutes": [
+    "Income-tax Act, Section 66(1)"
+  ],
+  "sections": [
+    "Section 66(1) of the Income-tax Act"
+  ],
+  "citations": [
+    "1964 P T D 618"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Income Tax",
+    "Compensation for Capital Asset Loss"
+  ],
+  "key_issues": [
+    "Whether Rs. 5,347 was taxable income arising during the course of business.",
+    "Nature of compensation for loss of anticipated profits."
+  ],
+  "maxims": {
+    "Compensation for loss of a capital asset is not taxable income": "Legal principle applied in the judgment."
+  },
+  "legal_terms": {
+    "Capital Asset": "An asset of a permanent nature used for profit-making purposes.",
+    "Compensation": "Payment made to offset loss or damage."
+  },
+  "words_and_phrases": {
+    "Rail-road transport account": "Account used by the appellant to record compensation and expenses.",
+    "Managing agency": "Role promised to the appellant in the proposed Hind Roadways Corporation."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case involved the taxability of Rs. 5,347 received as compensation for loss of anticipated profits due to the abandonment of the Hind Roadways Corporation scheme. The High Court ruled that the amount was not taxable as it represented compensation for the loss of a capital asset.",
+  "case_number": "246 of 1958",
+  "result": "Negative and against the Department",
+  "question_referred": "Whether, on the facts and in the circumstances of the case, the sum of Rs. 5,347 was income arising to the assessee during the course of the business and liable to tax?",
+  "facts": {
+    "compensation_received": 16000,
+    "expenses_incurred": 10653,
+    "balance_amount": 5347,
+    "business_activity": "Motor operator and dealer in motor-cars and trucks",
+    "government_scheme": "Hind Roadways Corporation",
+    "compensation_reason": "Loss and expense sustained due to abandonment of the scheme by the Government"
+  },
+  "tribunal_findings": {
+    "receipt_nature": "Compensation for loss of anticipated profits",
+    "profit_source": "Operation of Hind Roadways Corporation",
+    "loss_reason": "Abandonment of the corporation scheme by the Government",
+    "legal_conclusion": "Compensation paid for loss of a capital asset is not taxable income"
+  },
+  "court_observations": {
+    "tribunal_order": "Unsatisfactory",
+    "appellate_assistant_commissioner_findings": "Detailed and relevant",
+    "tribunal_action": "Neither confirmed nor overruled findings of Appellate Assistant Commissioner",
+    "legal_error": "Wrong conclusion on taxable nature of compensation"
+  },
+  "costs_awarded": 200,
+  "reported_as": "1964 P T D 618"
+}

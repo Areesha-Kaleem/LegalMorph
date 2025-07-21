@@ -1,0 +1,36 @@
+{
+  "case_title": "COMMISSIONER OF INCOME-TAX vs Dr. ANWAR AHMAD SHAMSHI",
+  "case_number": "Income-tax Reference No. 200 of 1979",
+  "court_name": "Allahabad High Court",
+  "judgment_date": "1991-04-04",
+  "judges": [
+    "B. P. Jeevan Reddy",
+    "S. R. Singh"
+  ],
+  "appellant": "COMMISSIONER OF INCOME-TAX",
+  "respondent": "Dr. ANWAR AHMAD SHAMSHI",
+  "legal_area": "Income-tax",
+  "assessment_year": "1970-71",
+  "declared_income": "6381",
+  "income_estimations": {
+    "income_tax_officer": "55315",
+    "appellate_assistant_commissioner": "34815",
+    "tribunal": "16815"
+  },
+  "penalty_details": {
+    "penalty_amount": "30000",
+    "penalty_section": "271(1)(c)",
+    "penalty_reason": "Failure to discharge burden under Explanation to section 271(1)(c)"
+  },
+  "tribunal_findings": {
+    "primary_ground": "Income estimated, penalty unreasonable",
+    "secondary_ground": "No fraud or gross/wilful neglect"
+  },
+  "court_decision": {
+    "result": "Reference answered",
+    "reasoning": "Tribunal's deletion of penalty upheld due to valid secondary ground",
+    "observations": "No rule of law or practice against penalty in income estimation cases"
+  },
+  "reported_as": "1992 P T D 1550",
+  "costs_order": "No order as to costs"
+}

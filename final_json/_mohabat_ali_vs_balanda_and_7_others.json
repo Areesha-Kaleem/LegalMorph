@@ -1,0 +1,135 @@
+{
+  "case_title": "MOHABAT ALI vs BALANDA and 7 others",
+  "reference_no_or_id": "R.O.R. No,1948 of 1986",
+  "judgment_date": "1988-06-29",
+  "first_hearing_date": "N/A",
+  "court": "Board of Revenue",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Asad Aziz Shah"
+  ],
+  "appellant": [
+    "MOHABAT ALI"
+  ],
+  "respondant": [
+    "BALANDA",
+    "7 others"
+  ],
+  "accussed_details": [
+    {
+      "name": "Nawab",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "Mueen",
+      "allegation": [
+        "Unauthorized possession of Ihata No,344"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "The petitioner, Mohabat Ali, challenged the allotment of Ihata No,338 to the respondents, arguing that the respondents had applied for Ihata No,344 and not Ihata No,338.",
+  "investigation_summary": "The AC/Collector allotted half of Ihata No,338 to the respondents despite their application for Ihata No,344. The petitioner claimed favoritism and irregularities in the allotment process.",
+  "judgment_summary": "The case was remanded to the District Collector for fresh adjudication after hearing all parties and considering their existing possession. The remand was due to the AC/Collector's failure to consider claims on merits and allegations of favoritism.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Case remanded to District Collector for fresh decision.",
+  "legal_arguments": [
+    "Petitioner argued that the respondents applied for Ihata No,344 but were allotted Ihata No,338.",
+    "Petitioner claimed favoritism in the allotment process.",
+    "Respondent conceded they applied for Ihata No,344 but accepted the allotment of Ihata No,338.",
+    "Petitioner argued that non-joinder of Bashir Ahmad was not applicable as his allotment was not challenged."
+  ],
+  "assets": [
+    {
+      "description": "Ihata No,338",
+      "location": "Chak No,14/1-AL, Tehsil and District Okara",
+      "status": "Disputed",
+      "allotted_to": "Bashir Ahmad and respondents",
+      "size": "4 marlas sarsais"
+    },
+    {
+      "description": "Ihata No,344",
+      "location": "Chak No,15/1-AL",
+      "status": "Possession regularized for Nawab",
+      "applied_by": "Respondents",
+      "size": "8M-3S"
+    }
+  ],
+  "statutes": [
+    "P L D 1989 Revenue 9"
+  ],
+  "sections": [
+    "N/A"
+  ],
+  "citations": [
+    "N/A"
+  ],
+  "witnesses": [
+    "N/A"
+  ],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Land Dispute",
+    "Allotment Irregularities"
+  ],
+  "key_issues": [
+    "Irregular allotment of Ihata No,338.",
+    "Favoritism allegations in the allotment process.",
+    "Non-joinder of Bashir Ahmad in the petition."
+  ],
+  "maxims": {},
+  "legal_terms": {},
+  "words_and_phrases": {},
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around a land allotment dispute where the petitioner challenged the irregular allotment of Ihata No,338 to the respondents despite their application for Ihata No,344. Allegations of favoritism and procedural lapses were raised. The judgment remanded the case for fresh adjudication by the District Collector after considering possession and hearing all parties.",
+  "facts": {
+    "ihata_dispute": {
+      "ihata_no_338": {
+        "allotted_to": "Bashir Ahmad and respondents",
+        "size": "4 marlas sarsais"
+      },
+      "ihata_no_344": {
+        "applied_by": "Respondents",
+        "size": "8M-3S",
+        "possession_status": "Unauthorized possession by Nawab (regularized)"
+      }
+    },
+    "petitioner_claim": {
+      "applied_for": "Ihata No,338",
+      "ignored_in_allotment": true
+    },
+    "respondent_claim": {
+      "applied_for": "Ihata No,344",
+      "received": "Half of Ihata No,338",
+      "content_with_allotment": true
+    }
+  },
+  "issues": {
+    "favoritism_allegations": true,
+    "non_joinder_of_parties": "Petitioner argued it was not applicable"
+  },
+  "arguments": {
+    "petitioner": {
+      "challenged_allotment": "Ihata No,338 to respondents",
+      "non_joinder_argument": "Not applicable as Bashir Ahmad's allotment was not challenged"
+    },
+    "respondent": {
+      "acknowledged_allotment": "Half of Ihata No,338",
+      "content_with_allotment": true
+    }
+  },
+  "decision": {
+    "remand_reason": "AC/Collector did not consider claims on merits and allegations of favoritism",
+    "direction": "Case remanded to District Collector for fresh decision after hearing parties and considering possession",
+    "next_hearing_date": "1988-08-14"
+  }
+}

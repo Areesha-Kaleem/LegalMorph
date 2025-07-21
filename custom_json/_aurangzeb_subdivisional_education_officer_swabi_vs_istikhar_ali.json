@@ -1,0 +1,47 @@
+{
+  "case_title": "AURANGZEB, SUBDIVISIONAL EDUCATION OFFICER, SWABI vs ISTIKHAR ALI",
+  "case_number": "Complaint No,T/31 of 1998",
+  "judgment_date": "2002-01-11",
+  "court_name": "Bar Council Tribunal",
+  "judges": [
+    "Mian Shakirullah Jan",
+    "Muhammad Alam Khan",
+    "Saeed Akhtar"
+  ],
+  "appellant": "Aurangzeb, Subdivisional Education Officer, Swabi",
+  "respondent": "Istikhar Ali",
+  "reported_as": "2002 C L C 833",
+  "result": "Order accordingly",
+  "summary": {
+    "complaint_filed_date": "1996-10-05",
+    "complaint_allegations": "Respondent, a P.T.C. Teacher, practiced law while drawing salary from the Education Department without permission, violating professional conduct under the Legal Practitioners and Bar Councils Act, 1973.",
+    "respondent_defense": "Respondent denied allegations, claimed he was not enrolled as an Advocate and termed the complaint as malicious.",
+    "tribunal_findings": "Respondent was not enrolled as an Advocate on the roll of N.-W.F.P. Bar Council, thus the Tribunal lacked jurisdiction. Complaint returned to complainant for presentation before the proper forum."
+  },
+  "legal_references": {
+    "primary_statute": "Legal Practitioners and Bar Councils Act, 1973",
+    "rules_referenced": "Legal Practitioners and Bar Councils Rules, 1976",
+    "jurisdiction_section": "Section 41 of the Legal Practitioners and Bar Councils Act, 1973"
+  },
+  "key_exhibits": {
+    "intimation_forms": [
+      {
+        "date": "1994-07-12",
+        "signed_by": "Muhammad Sher Khan, Advocate, Swabi"
+      },
+      {
+        "date": "1998-08-10",
+        "signed_by": "Muhammad Sarwar Khan, Advocate, Swabi"
+      }
+    ],
+    "termination_order": {
+      "date": "1998-06-13",
+      "exhibit": "Exh.P.W.2/3"
+    }
+  },
+  "decision": {
+    "jurisdiction": "Tribunal lacks jurisdiction as respondent is not enrolled as an Advocate.",
+    "action": "Complaint returned to complainant for presentation before the proper forum.",
+    "costs": "No orders as to costs."
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "case_title": "Waheed Khan vs Naseebullah and another",
+  "reference_no_or_id": "Criminal Appeal No. 05 of 2024",
+  "judgment_date": "2025-09-12",
+  "first_hearing_date": "2024-03-09",
+  "court": "Balochistan High Court",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Rozi Khan Barrech"
+  ],
+  "appellant": [
+    "Waheed Khan"
+  ],
+  "respondant": [
+    "Naseebullah",
+    "Ahmed Khan (absconding)"
+  ],
+  "accussed_details": [
+    {
+      "name": "Waheed Khan",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "N/A",
+      "allegation": [
+        "Facilitation in attempted murder under sections 324 and 34 P.P.C."
+      ]
+    },
+    {
+      "name": "Ahmed Khan",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "N/A",
+      "allegation": [
+        "Attempted murder under sections 324 and 34 P.P.C."
+      ],
+      "status": "Absconding"
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "Naseebullah reported that on 01.09.2023, Waheed Khan and Ahmed Khan arrived at Bhawal Khan's shop. Waheed Khan called Asadullah out of the shop, where Ahmed Khan fired at him, causing injuries to his abdomen and hand.",
+  "investigation_summary": "The investigation officer submitted a challan after completing the investigation. Seven witnesses were examined, and the appellant denied the allegations during his section 342 Cr.P.C. examination.",
+  "judgment_summary": "The High Court found insufficient evidence to prove Waheed Khan shared common intention with Ahmed Khan for the attempted murder of Asadullah. The conviction by the trial court was overturned, and Waheed Khan was acquitted.",
+  "punishment": {
+    "trial_court_sentence": {
+      "imprisonment": "5 years rigorous imprisonment",
+      "fine": "Rs. 50,000",
+      "default_imprisonment": "2 months simple imprisonment",
+      "arsh": "Rs. 2,252,634",
+      "daman": "Rs. 100,000"
+    },
+    "high_court_decision": "Conviction overturned; Waheed Khan acquitted."
+  },
+  "Decision_or_verdict": "Appeal allowed; Waheed Khan acquitted.",
+  "legal_arguments": [
+    "Applicability of section 34 P.P.C. regarding common intention.",
+    "Lack of evidence proving pre-concert or pre-arrangement between accused.",
+    "Absence of weapon possession by Waheed Khan at the time of the incident."
+  ],
+  "assets": [],
+  "statutes": [
+    "Pakistan Penal Code (P.P.C.)",
+    "Criminal Procedure Code (Cr.P.C.)"
+  ],
+  "sections": [
+    "324 P.P.C.",
+    "34 P.P.C.",
+    "337(D) P.P.C.",
+    "337F(v) P.P.C.",
+    "382(b) Cr.P.C."
+  ],
+  "citations": [
+    "2025 MLD 42"
+  ],
+  "witnesses": [
+    "Sikandar Baloch (PW-2)",
+    "Amanullah (PW-3)",
+    "Asadullah (PW-5)"
+  ],
+  "witness_statement": {
+    "Sikandar Baloch": "Corroborated complainant's account.",
+    "Amanullah": "Corroborated complainant's account.",
+    "Asadullah": "Victim; confirmed injuries caused by Ahmed Khan."
+  },
+  "appeal_number": "Criminal Appeal No. 05 of 2024",
+  "legal_categories": [
+    "Criminal Law",
+    "Attempted Murder",
+    "Common Intention"
+  ],
+  "key_issues": [
+    "Whether Waheed Khan shared common intention with Ahmed Khan.",
+    "Lack of evidence proving pre-planning or pre-concert.",
+    "Applicability of section 34 P.P.C. in absence of direct evidence."
+  ],
+  "maxims": {
+    "Benefit of Doubt": "Extended to the accused as per criminal justice principles."
+  },
+  "legal_terms": {
+    "Common Intention": "Presupposes prior concert and prearranged plan among accused.",
+    "Constructive Liability": "Liability arising from shared intention under section 34 P.P.C."
+  },
+  "words_and_phrases": {
+    "Pre-concert": "Prior agreement or planning among accused.",
+    "Confidence-inspiring evidence": "Evidence that is reliable and trustworthy."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around the conviction of Waheed Khan for facilitating an attempted murder under sections 324 and 34 P.P.C. The High Court overturned the trial court's decision due to lack of evidence proving common intention with the absconding co-accused Ahmed Khan. The appellant was acquitted based on benefit of doubt.",
+  "trial_court_details": {
+    "trial_court_name": "Sessions Judge Harnai",
+    "trial_case_number": "Session Case No. 23/2023",
+    "trial_judgment_date": "2024-03-09",
+    "trial_offences": [
+      "Section 324 P.P.C.",
+      "Section 34 P.P.C.",
+      "Section 337(D) P.P.C.",
+      "Section 337F(v) P.P.C."
+    ]
+  },
+  "crime_details": {
+    "crime_number": "56/2023",
+    "crime_date": "2023-09-01",
+    "police_station": "Saddar Harnai",
+    "victim": "Asadullah",
+    "accused": [
+      {
+        "name": "Ahmed Khan",
+        "status": "Absconding"
+      },
+      {
+        "name": "Waheed Khan",
+        "status": "Appellant"
+      }
+    ],
+    "incident_location": "Bhawal Khan retail shop, New Mohallah Jalal Abad Harnai",
+    "incident_description": "Ahmed Khan fired at Asadullah causing injuries to his abdomen and right hand."
+  },
+  "appeal_findings": {
+    "key_issues": [
+      "Whether Waheed Khan shared common intention with Ahmed Khan under Section 34 P.P.C.",
+      "Whether the trial court justified the conviction based on evidence."
+    ],
+    "court_observations": [
+      "No evidence of pre-concert or pre-arrangement between the accused.",
+      "Waheed Khan was unarmed during the incident.",
+      "Prosecution failed to establish constructive liability under Section 34 P.P.C."
+    ],
+    "decision": "Conviction and sentence set aside. Waheed Khan acquitted of charges."
+  },
+  "reported_as": "2025 MLD 42"
+}

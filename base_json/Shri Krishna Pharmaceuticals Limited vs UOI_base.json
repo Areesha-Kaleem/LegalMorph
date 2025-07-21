@@ -1,0 +1,80 @@
+{
+  "case_title": "Shri Krishna Pharmaceuticals Limited vs UOI",
+  "reference_no_or_id": "Writ Petition No. 21530 of 2002",
+  "judgment_date": "2003-11-27",
+  "first_hearing_date": "N/A",
+  "court": "Andhra Pradesh High Court",
+  "bench_type": "Division Bench",
+  "judges": [
+    "Motilal B. Naik",
+    "Dalava Subramanyam"
+  ],
+  "appellant": [
+    "Shri Krishna Pharmaceuticals Limited"
+  ],
+  "respondant": [
+    "Union of India (UOI)"
+  ],
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": []
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Sri T. Suryakaran Reddy"
+    ],
+    "defense": [
+      "Sri M.V.S. Suresh Kumar"
+    ]
+  },
+  "complaint_summary": "The petitioner challenges the communication dated 2.9.2002 issued by the Ministry of Finance, Department of Revenue, rejecting exemption for two consignments under the Advance License Scheme despite prior clarifications and court orders.",
+  "investigation_summary": "The petitioner imported Acetic Anhydride under the Advance License Scheme, which exempts customs duty for raw materials used in exported goods. Notifications and clarifications were issued, but exemptions were inconsistently applied, leading to demand notices and appeals.",
+  "judgment_summary": "The court held that the petitioner is entitled to exemptions for all three consignments under the Advance License Scheme. It directed the respondents to extend exemptions for consignments under Bill of Entry 293 and 305 within 10 weeks, citing failure to comply with prior court directives.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Writ petition allowed; exemptions directed to be extended for consignments under Bill of Entry 293 and 305.",
+  "legal_arguments": [
+    "Legitimate expectation and promissory estoppel invoked by petitioner.",
+    "Respondents argued actions were justified under Section 25 of the Customs Act."
+  ],
+  "assets": [],
+  "statutes": [
+    "Customs Act",
+    "Notification No. 183/93-Cus.",
+    "Notification No. 105/94-Cus."
+  ],
+  "sections": [
+    "Section 28 of the Customs Act",
+    "Section 25 of the Customs Act"
+  ],
+  "citations": [
+    "2005 P.C.T.L.R. 545"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Customs Law",
+    "Administrative Law"
+  ],
+  "key_issues": [
+    "Non-extension of exemptions under Advance License Scheme.",
+    "Failure to comply with prior court directives."
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "Advance License Scheme": "A scheme allowing duty-free imports of raw materials used in exported goods.",
+    "Promissory Estoppel": "A legal principle preventing a party from going back on a promise."
+  },
+  "words_and_phrases": {
+    "Legitimate Expectation": "The belief that a party will receive benefits based on established practices or promises."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around the withdrawal and subsequent clarification of exemptions under the Advance License Scheme for imported Acetic Anhydride. The court found the respondents failed to comply with prior directives and granted relief to the petitioner, ensuring exemptions for all consignments."
+}

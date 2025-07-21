@@ -1,0 +1,82 @@
+{
+  "case_title": "Mian Ali Nawaz and 20 Others vs Maud Hussain and 28 Others",
+  "reference_no_or_id": "R. 0. R. No. 2852 of 1982",
+  "judgment_date": "1984-10-03",
+  "first_hearing_date": "N/A",
+  "court": "Board of Revenue",
+  "bench_type": "Single Bench",
+  "judges": [
+    "A. K. Khalid"
+  ],
+  "appellant": [
+    "Mian Ali Nawaz and 20 Others"
+  ],
+  "respondant": [
+    "Maud Hussain and 28 Others"
+  ],
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": []
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "The appellants challenged the decision of the Additional Commissioner (Cons.), Sargodha, which accepted the respondents' revision petition and set aside the consolidation scheme of revenue estate Hassu Balail, directing it to be reframed based on ownership entries in the last Jamabandi.",
+  "investigation_summary": "The consolidation operations in village Hassu Balail began in January 1980, with the final scheme confirmed on 30-08-1981. The Consolidation Officer partitioned Shamlat land attached to nine wells proportionately among shareholders based on the 1924-25 Wajib-ul-Arz. The respondents contested this partition, claiming sole ownership of the land attached to the wells based on entries in earlier settlements and Jamabandis.",
+  "judgment_summary": "The court ruled that the rights of the parties are governed by the entries in Wajib-ul-Arz prepared during the last settlement, not merely by ownership entries in subsequent Jamabandis. The Additional Commissioner's order was deemed illegal and unsustainable, and the revision petition was allowed, restoring the original consolidation scheme.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Petition accepted; order of Additional Commissioner set aside.",
+  "legal_arguments": [
+    "The respondents argued that the land attached to the wells was recorded as sole ownership in earlier settlements and Jamabandis.",
+    "The appellants contended that the ownership was conditional and subject to partition as per Wajib-ul-Arz entries from the 1880, 1903-04, and 1924-25 settlements."
+  ],
+  "assets": [
+    "Land attached to nine wells in village Hassu Balail"
+  ],
+  "statutes": [
+    "Consolidation of Holdings Ordinance, 1960",
+    "Land Revenue Act, 1967"
+  ],
+  "sections": [
+    "Section 13 of the Consolidation of Holdings Ordinance, 1960",
+    "Section 39 and Section 41(2) of the Land Revenue Act, 1967"
+  ],
+  "citations": [
+    "P L D 1985 Rev. 1 [Punjab]"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Land Consolidation",
+    "Property Ownership"
+  ],
+  "key_issues": [
+    "Interpretation of Wajib-ul-Arz entries from historical settlements.",
+    "Conditional ownership of land attached to wells.",
+    "Partition of Shamlat land."
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "Wajib-ul-Arz": "A document prepared during land settlements detailing the rights and obligations of landowners.",
+    "Jamabandi": "Land revenue record maintained periodically."
+  },
+  "words_and_phrases": {
+    "Shamlat Deh": "Common village land.",
+    "Abadkaran": "Cultivators or settlers."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around the interpretation of historical land settlement records and the conditional ownership of land attached to wells. The court emphasized the precedence of Wajib-ul-Arz entries over subsequent Jamabandi records in determining ownership rights."
+}

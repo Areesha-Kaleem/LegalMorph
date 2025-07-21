@@ -1,0 +1,48 @@
+{
+  "case_title": "KARIM BAKHSH AND Others vs THE STATE AND OTHERS",
+  "case_number": "R. 0. R. No. 676 of 1976-77",
+  "judgment_date": "1980-06-15",
+  "court_name": "Board of Revenue, Punjab",
+  "judge": "A. K. Khalid",
+  "reported_as": "P L D 1980 Rev. 55",
+  "appellant": "KARIM BAKHSH AND Others",
+  "respondent": "THE STATE AND OTHERS",
+  "result": "petition dismissed",
+  "laws_referenced": [
+    "Thal Development Authority Act, 1949",
+    "Land Revenue Act, 1887",
+    "Land Revenue Act, 1967"
+  ],
+  "key_issues": [
+    "Determination of shamlat rights based on revenue assessment during the First Regular Settlement of 1878-80.",
+    "Conflict between entries in Misl Haqiyat of 1878-80 and 1921-22.",
+    "Effect of disuse of wells on shamlat rights.",
+    "Regrant rights based on Jamabandi of 1949-50 versus Misl Haqiyat of 1921-22."
+  ],
+  "facts": {
+    "land_acquisition": "Khata Shamlat No. 127 acquired by Thal Development Authority between 1951-1955.",
+    "petitioners_claim": "Petitioners sought adjustment of their share in shamlat based on Jamabandi of 1949-50.",
+    "respondents_claim": "Respondents argued shamlat rights were tied to wells assessed during the Settlement of 1878-80."
+  },
+  "arguments": {
+    "petitioners": [
+      "Shamlat rights should be based on 'hasab rasad khewat' as per earlier settlements.",
+      "Disuse of respondents' wells extinguished their shamlat rights.",
+      "Jamabandi of 1949-50 should determine regrant rights."
+    ],
+    "respondents": [
+      "Shamlat rights tied to wells assessed during 1878-80.",
+      "Assessment fixed during 1878-80 remained intact despite disuse of wells.",
+      "Jamabandi of 1949-50 irrelevant for determining shamlat rights."
+    ]
+  },
+  "decision": {
+    "summary": "Petitioners not entitled to shamlat rights as their wells were not assessed during the First Regular Settlement of 1878-80.",
+    "reasoning": [
+      "Entries in Misl Haqiyat of 1921-22 supersede earlier records.",
+      "Disuse of wells does not extinguish shamlat rights.",
+      "Jamabandi of 1949-50 relevant only for adjustment, not determination of rights."
+    ]
+  },
+  "costs": "Parties to bear their own costs."
+}

@@ -1,0 +1,56 @@
+{
+  "case_title": "In The Matter Of: Messrs Ayaz Textile Mills Limited vs N/A",
+  "case_number": "Show-Cause Notice No. EMD/Enf-II/215/2004, dated 21st February, 2005",
+  "judgment_date": "2005-04-26",
+  "court_name": "Appellate Bench of Securities and Exchange Commission of Pakistan",
+  "judge": "Ashfaq Ahmed Khan",
+  "reported_as": "2008 P.C.T.L.R. 89",
+  "appellant": "Messrs Ayaz Textile Mills Limited",
+  "respondent": "N/A",
+  "result": "Order Accordingly",
+  "facts": {
+    "agm_due_date": "2004-01-31",
+    "agm_year": "2004",
+    "default_reason": "Company closure due to financial losses",
+    "show_cause_notice_date": "2005-02-21",
+    "hearing_dates": [
+      "2005-03-21",
+      "2005-04-18"
+    ],
+    "representative": "Mazhar Hussain (Accounts Officer)",
+    "chief_executive": "Ayaz Durrani",
+    "company_status": "Dormant and under liquidation",
+    "creditors_settlement": [
+      "Habib Bank Limited",
+      "National Bank of Pakistan",
+      "National Development Finance Corporation"
+    ]
+  },
+  "legal_provisions": {
+    "violated_sections": [
+      "Section 158(1)",
+      "Section 158(4)",
+      "Section 476"
+    ],
+    "penalty_provisions": {
+      "maximum_fine": "Rs. 50,000 per director",
+      "daily_fine": "Rs. 2,000 per day"
+    }
+  },
+  "judgment": {
+    "chief_executive_fine": "Rs. 20,000",
+    "directors_reprimand": "Be careful in future compliance",
+    "payment_instructions": {
+      "bank_name": "Habib Bank Limited",
+      "payment_deadline": "30 days from receipt of order",
+      "personal_payment": "Fine to be paid from personal resources"
+    }
+  },
+  "notes": {
+    "financial_crisis_consideration": "Lenient view taken due to financial crisis and liquidation intent",
+    "past_defaults": {
+      "agm_year": "2003",
+      "quarterly_accounts": "June 30, 2003 to December 31, 2004"
+    }
+  }
+}

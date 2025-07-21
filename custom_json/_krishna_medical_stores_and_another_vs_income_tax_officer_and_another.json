@@ -1,0 +1,73 @@
+{
+  "case_title": "KRISHNA MEDICAL STORES and another vs INCOME TAX OFFICER and another",
+  "court_name": "Andhra Pradesh High Court",
+  "judgment_date": "1992-02-25",
+  "case_numbers": [
+    "Criminal Revisions Cases Nos. 627 and 628",
+    "Criminal Revision Petitions Nos. 627 and 625 of 1990"
+  ],
+  "judges": "Eswara Prasad",
+  "parties": {
+    "appellants": "KRISHNA MEDICAL STORES and another",
+    "respondents": "INCOME TAX OFFICER and another"
+  },
+  "result": "Order accordingly",
+  "legal_provisions": [
+    "Section 276-C of the Income Tax Act, 1961",
+    "Section 277 of the Income Tax Act, 1961",
+    "Section 278 of the Income Tax Act, 1961",
+    "Section 278-B of the Income Tax Act, 1961"
+  ],
+  "facts": {
+    "first_petitioner": "A firm",
+    "second_petitioner": "A partner of the firm and in charge of its affairs",
+    "assessment_years": [
+      "1982-83",
+      "1983-84"
+    ],
+    "charges": [
+      "Section 276-C (1)",
+      "Section 277",
+      "Section 278 of the Income Tax Act, 1961"
+    ],
+    "trial_outcome": {
+      "A-1": "Found guilty under Section 276-C",
+      "A-2": "Found guilty under Sections 277 and 276-C read with Section 278-B",
+      "A-3": "Acquitted",
+      "A-4": "Found guilty under Section 278",
+      "A-5": "Deceased during trial"
+    },
+    "sentences": {
+      "A-1": "Fine of Rs. 1,000, in default rigorous imprisonment for one month",
+      "A-2": [
+        "Rigorous imprisonment for three months and fine of Rs. 1,000, in default rigorous imprisonment for one month",
+        "Fine of Rs. 1,000, in default rigorous imprisonment for one month on the second charge"
+      ],
+      "A-4": "Imprisonment till the rising of the court and fine of Rs. 1,000"
+    }
+  },
+  "appeals": {
+    "filed_by": [
+      "Petitioners",
+      "A-4"
+    ],
+    "outcome": {
+      "A-4": "Conviction set aside and acquitted",
+      "petitioners": "Convictions and sentences confirmed, appeals dismissed"
+    }
+  },
+  "key_issues": [
+    "Whether there was mens rea (guilty mind) in filing false returns",
+    "Whether remuneration paid to the second petitioner's brothers was legitimate"
+  ],
+  "judgment_summary": {
+    "mens_rea": "Prosecution failed to establish wilful intent to evade tax",
+    "evidence": "Income-tax returns of brothers showed remuneration, accepted by authorities",
+    "convictions": "Set aside due to lack of evidence of wilful intent",
+    "refund": "Fine paid by petitioners to be refunded"
+  },
+  "citations": [
+    "1995 P T D 283",
+    "206 I T R 76"
+  ]
+}

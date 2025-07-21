@@ -1,0 +1,85 @@
+{
+  "case_title": "COMMISSIONER OF INCOME TAX, PESHAWAR and others vs Messrs PAKISTAN ELECTRIC FITTINGS MANUFACTURING COMPANY LIMITED",
+  "reference_no_or_id": "Civil Appeal No, 761 of 2000",
+  "judgment_date": "2016-01-20",
+  "first_hearing_date": "2000-07-07",
+  "court": "Supreme Court of Pakistan",
+  "bench_type": "Three-Judge Bench",
+  "judges": [
+    "Nasir-ul-Mulk",
+    "Ijaz Ahmad Chaudhry",
+    "Amir Hani Muslim"
+  ],
+  "appellant": [
+    "Commissioner of Income Tax, Peshawar",
+    "Others"
+  ],
+  "respondant": [
+    "Messrs Pakistan Electric Fittings Manufacturing Company Limited"
+  ],
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": []
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "The appellant challenged the judgment of the High Court of Sindh which allowed the respondent's appeal against the Income Tax Appellate Tribunal's decision, setting aside the Tribunal's order and lower forums' decisions.",
+  "investigation_summary": "The respondent declared income for the year 1997-98, which was taxed under section 2(12) of the Income Tax Ordinance, 1979. Appeals within the hierarchy of the Ordinance were dismissed, leading to a High Court appeal, which was converted into a writ petition and allowed.",
+  "judgment_summary": "The Supreme Court dismissed the appeal, holding that the petition for leave to appeal was not maintainable under section 137 of the Income Tax Ordinance, 1979, and was barred by time.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Appeal dismissed",
+  "legal_arguments": [
+    "The High Court improperly converted a time-barred appeal into a writ petition.",
+    "Under section 137 of the Income Tax Ordinance, 1979, only appeals against High Court judgments under section 136 are maintainable.",
+    "The petition for leave to appeal was filed beyond the 30-day limitation period."
+  ],
+  "assets": [],
+  "statutes": [
+    "Income Tax Ordinance, 1979"
+  ],
+  "sections": [
+    "Section 2(12)",
+    "Section 136",
+    "Section 137",
+    "Section 156"
+  ],
+  "citations": [
+    "2016 SCMR 1238",
+    "2016 P T D 1999"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "CRP No,310/2006",
+  "legal_categories": [
+    "Income Tax Law",
+    "Appellate Procedure"
+  ],
+  "key_issues": [
+    "Maintainability of petition for leave to appeal under section 137 of the Income Tax Ordinance, 1979",
+    "Time-barred appeal converted into writ petition by High Court"
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "Writ Petition": "A petition filed in a court seeking judicial review of a decision made by a lower court or tribunal.",
+    "Bar of Limitation": "A legal restriction preventing the filing of a case after a specified period."
+  },
+  "words_and_phrases": {
+    "Impugned Judgment": "The judgment being challenged in the appeal.",
+    "Error Apparent on the Face of Record": "A clear mistake visible in the judgment or order without requiring detailed examination."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case involved a dispute over the maintainability of a petition for leave to appeal under section 137 of the Income Tax Ordinance, 1979, following a High Court judgment that converted a time-barred appeal into a writ petition. The Supreme Court dismissed the appeal, citing procedural and time-bar limitations."
+}

@@ -1,0 +1,98 @@
+{
+  "case_title": "Messrs ZAIN ENTERPRISES, KARACHI and another vs DIRECTOR, DIRECTORATE GENERAL OF VALUATION and 2 others",
+  "reference_no_or_id": "Customs Appeals Nos, K-1603 and K-1604 of 2014",
+  "judgment_date": "2015-01-20",
+  "first_hearing_date": "2013-05-16",
+  "court": "Appellate Tribunal Inland Revenue",
+  "bench_type": "Judicial-II",
+  "judges": [
+    "Adnan Ahmed"
+  ],
+  "appellant": [
+    "Messrs ZAIN ENTERPRISES, KARACHI",
+    "Another (unnamed)"
+  ],
+  "respondant": [
+    "DIRECTOR, DIRECTORATE GENERAL OF VALUATION",
+    "Deputy Collector, Group-II, MCC of PaCCS, Customs House, Karachi",
+    "Collector of Customs (Appeals)"
+  ],
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": [
+        "N/A"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Shamim Iqbal (Principal Appraiser)",
+      "Aamir Hussain (Representative of Respondent No. 2)"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "The appellants challenged the assessment of imported menthol crystal from China, which was based on Valuation Ruling 520/2012. They argued that the ruling was void and ab initio due to a prior tribunal decision setting it aside.",
+  "investigation_summary": "The assessment was made under Section 80 of the Customs Act, 1969, based on Valuation Ruling 520/2012. The appellants filed a review under Section 25D of the Customs Act, which was rejected. They subsequently appealed to the Customs Appellate Tribunal, which declared the ruling void.",
+  "judgment_summary": "The tribunal found that the assessment orders and subsequent proceedings were in breach of natural justice and law. It declared the orders illegal, ab initio, and void, setting them aside. The appeals were allowed without costs.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Appeals allowed",
+  "legal_arguments": [
+    "The assessment order was based on a valuation ruling declared void by the tribunal.",
+    "The respondent failed to pass a speaking order as mandated by Section 24A of the General Clauses Act, 1897.",
+    "The order was passed beyond the statutory time limit, rendering it void ab initio."
+  ],
+  "assets": [
+    "6000 kgs of menthol crystal imported from China"
+  ],
+  "statutes": [
+    "Customs Act, 1969",
+    "General Clauses Act, 1897"
+  ],
+  "sections": [
+    "Section 80 of the Customs Act, 1969",
+    "Section 25D of the Customs Act, 1969",
+    "Section 193 of the Customs Act, 1969",
+    "Section 194A of the Customs Act, 1969",
+    "Section 24A of the General Clauses Act, 1897"
+  ],
+  "citations": [
+    "2018 P T D (Trib.) 591",
+    "2014 PTD (Trib.) 674",
+    "2009 SCMR 1881",
+    "2008 PTD 60",
+    "2008 PTD 578"
+  ],
+  "witnesses": [
+    "N/A"
+  ],
+  "witness_statement": {},
+  "appeal_number": "K-695/2013",
+  "legal_categories": [
+    "Customs Law",
+    "Administrative Law"
+  ],
+  "key_issues": [
+    "Validity of Valuation Ruling 520/2012",
+    "Non-speaking order by the respondent",
+    "Jurisdictional lapse due to delay in passing the order"
+  ],
+  "maxims": {
+    "Ab initio": "From the beginning; null and void."
+  },
+  "legal_terms": {
+    "Speaking Order": "An order that provides reasoning and justification for its conclusions."
+  },
+  "words_and_phrases": {
+    "Past and Closed Transaction": "A transaction that has attained finality and cannot be reopened."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around the legality of customs valuation rulings and procedural compliance. The tribunal ruled in favor of the appellants, emphasizing the importance of adherence to statutory timelines and the requirement for reasoned orders."
+}

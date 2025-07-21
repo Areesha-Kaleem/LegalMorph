@@ -1,0 +1,181 @@
+{
+  "case_title": "ASHRAF And Other vs THE CROWN",
+  "reference_no_or_id": "Criminal Appeal No. 24 of 1955, Criminal Appeal No. 823 of 1953, Criminal Appeal No. 145 of 1954",
+  "judgment_date": "1956-11-17",
+  "first_hearing_date": "N/A",
+  "court": "Federal Shariat Court",
+  "bench_type": "Coram of 3 judges",
+  "judges": [
+    "Muhammad Shahabuddin",
+    "Muhammad Sharif",
+    "Muhammad Munir"
+  ],
+  "appellant": [
+    "Ashraf",
+    "Raja",
+    "Hussain"
+  ],
+  "respondant": [
+    "The Crown"
+  ],
+  "accussed_details": [
+    {
+      "name": "Ashraf",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "N/A",
+      "allegation": [
+        "Firing pistol from the roof of Bahadur"
+      ],
+      "evidence_analysis": "Recovery of blank pistol cartridge insufficient for conviction."
+    },
+    {
+      "name": "Raja",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "N/A",
+      "allegation": [
+        "Revenge motive for brother's murder"
+      ],
+      "evidence_analysis": "Motive for revenge not sufficient corroboration."
+    },
+    {
+      "name": "Hussain",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Tenant of accused Aslam",
+      "allegation": [
+        "Participation in attack"
+      ],
+      "evidence_analysis": "Tenant relationship not sufficient evidence of participation."
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Advocate for the Crown"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "The appellants were accused of participating in an attack on the complainant party in Shahabdiwal village, leading to the murder of Ali Dad and injuries to others. The attack was allegedly motivated by revenge for prior murders involving the complainant party.",
+  "prosecution_summary": {
+    "incident_date": "1953-02-11",
+    "location": "Village Shahabdiwal, District Gujrat",
+    "rival_parties": [
+      "Fazal Dad's party (deceased Ali Dad and eye-witnesses)",
+      "Accused party"
+    ],
+    "weapons_used": [
+      "Hand-grenades",
+      "Rifles",
+      "Pistol",
+      "Hatchets",
+      "Spears"
+    ],
+    "key_events": [
+      "Ali Dad fired a rifle and was shot dead by Muhammad Akbar.",
+      "Appellants inflicted injuries and severed Ali Dad's head."
+    ],
+    "evidence_recovered": [
+      "Three empty rifle cartridges",
+      "One empty pistol cartridge"
+    ]
+  },
+  "investigation_summary": "Police recovered empty cartridges from the scene, including three missed pistol cartridges and one fired shell. Witnesses identified the accused as participants, but evidence was deemed partisan and required corroboration.",
+  "judgment_summary": "The Federal Shariat Court acquitted the appellants due to insufficient corroboration of partisan witness testimony. The court ruled that the evidence did not conclusively establish the appellants' participation in the crime.",
+  "sessions_court_decision": {
+    "convicted": [
+      "Muhammad Akbar (death sentence)",
+      "Aslam (transportation for life)"
+    ],
+    "acquitted": [
+      "Ashraf",
+      "Raja",
+      "Hussain",
+      "Six others"
+    ]
+  },
+  "high_court_decision": {
+    "convicted": [
+      "Ashraf",
+      "Raja",
+      "Hussain"
+    ],
+    "sentence": "Transportation for life"
+  },
+  "supreme_court_decision": {
+    "special_leave_granted": [
+      "Ashraf",
+      "Raja",
+      "Hussain"
+    ],
+    "special_leave_denied": [
+      "Muhammad Akbar",
+      "Aslam"
+    ],
+    "final_verdict": "Acquittal of appellants (Ashraf, Raja, Hussain)"
+  },
+  "punishment": "N/A",
+  "Decision_or_verdict": "Appeal allowed; appellants acquitted and set at liberty.",
+  "legal_arguments": [
+    "Corroborative evidence must tend to show the truth of witness testimony.",
+    "Recovery of cartridges insufficient to establish guilt.",
+    "Partisan witness testimony requires convincing corroboration."
+  ],
+  "assets": [
+    "N/A"
+  ],
+  "statutes": [
+    "P L D 1956 Federal Court 86"
+  ],
+  "sections": [
+    "302",
+    "307",
+    "452",
+    "148",
+    "201 of Pakistan Penal Code"
+  ],
+  "citations": [
+    "P L D 1956 Federal Court 86"
+  ],
+  "witnesses": [
+    "Eight eyewitnesses",
+    "Three other witnesses"
+  ],
+  "witness_statement": {
+    "summary": "Witnesses identified the accused as participants in the attack but were deemed partisan. Their testimony required corroboration, which was insufficient."
+  },
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Criminal Law",
+    "Murder",
+    "Attempted Murder"
+  ],
+  "key_issues": [
+    "Partisan witness testimony",
+    "Insufficient corroboration",
+    "Recovery of cartridges"
+  ],
+  "key_points": {
+    "corroboration_required": "Due to partisan witnesses",
+    "evidence_analysis": {
+      "Ashraf": "Recovery of blank pistol cartridge insufficient for conviction.",
+      "Raja": "Motive for revenge not sufficient corroboration.",
+      "Hussain": "Tenant relationship not sufficient evidence of participation."
+    }
+  },
+  "maxims": {
+    "Corroboration": "Corroborative evidence should tend to show the truth of witness testimony."
+  },
+  "legal_terms": {
+    "Corroboration": "Additional evidence that supports or confirms witness testimony."
+  },
+  "words_and_phrases": {
+    "Partisan": "Biased or partial witness testimony."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case involved allegations of murder and attempted murder stemming from a factional dispute in Shahabdiwal village. The appellants were acquitted due to insufficient corroboration of partisan witness testimony. The court emphasized the need for corroborative evidence to validate witness claims and ruled that the recovery of cartridges was inadequate for conviction."
+}

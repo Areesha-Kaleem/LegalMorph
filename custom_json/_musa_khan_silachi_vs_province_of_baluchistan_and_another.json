@@ -1,0 +1,62 @@
+{
+  "case_title": "MUSA KHAN SILACHI vs PROVINCE OF BALUCHISTAN AND ANOTHER",
+  "case_number": {
+    "criminal_revision": "8 of 1976",
+    "appeal": "13 of 1977"
+  },
+  "judgment_date": "1978-06-14",
+  "court_name": "Balochistan Service Tribunal",
+  "judges": [
+    "Abdul Qadeer Chaudhry",
+    "Muhammad Hassan Baluch",
+    "Bahlul Khan Nasir"
+  ],
+  "appellant": "MUSA KHAN SILACHI",
+  "respondents": [
+    "PROVINCE OF BALUCHISTAN",
+    "Federal Government"
+  ],
+  "result": "Appeal allowed",
+  "reported_as": "1980 P L C (C. S.) 70",
+  "key_points": {
+    "initial_appointment": "Appointed as A.S.I. on 1952-01-01",
+    "promotions": [
+      "Promoted as Sub-Inspector on 1955-10-01",
+      "Promoted as Inspector on 1966-06-13",
+      "Promoted as D.S.P. on 1970-08-29",
+      "Promoted as S.P., Anti-Corruption on 1974-03-12"
+    ],
+    "transfer_details": [
+      "Transferred to Federal Government as Deputy Director, F.I.A., Quetta on 1975-07-11",
+      "Transferred to Hyderabad on 1975-10-01",
+      "Posted as Assistant Director, Intelligence, Quetta on 1975-12-15",
+      "Transferred back to Provincial Government as Officer on Special Duty on 1976-01-07"
+    ],
+    "disciplinary_action": {
+      "show_cause_notice_date": "1976-10-16",
+      "allegations": [
+        "Building large property",
+        "Running a bus in the name of his father",
+        "Misconduct under Government Servants (Efficiency and Discipline) Rules of 1973"
+      ],
+      "retirement_order_date": "1977-01-26",
+      "retirement_effective_date": "1977-01-27"
+    },
+    "legal_issue": "Jurisdiction of the tribunal to entertain the appeal based on whether the appellant was a provincial or federal civil servant.",
+    "tribunal_decision": {
+      "finding": "Appellant was a provincial civil servant.",
+      "action": "Retirement order by the President of Pakistan declared ultra vires and set aside."
+    }
+  },
+  "legal_references": [
+    "Civil Servants Act, 1973",
+    "Baluchistan Civil Servants Act, 1973",
+    "Government Servants (Efficiency and Discipline) Rules of 1973",
+    "Constitution of Pakistan, Article 240 and Article 260(1)",
+    "Police Service of Pakistan (Composition and Cadre) Rules, 1969"
+  ],
+  "printed_details": {
+    "printed_on": "2025-07-15",
+    "printed_by": "Areesha Kaleem"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "case_title": "SHIV NARAIN CHAUDHARI vs COMMISSIONER OF WEALTH TAX, LUCKNOW",
+  "case_number": "Wealth Tax Reference No. 347 of 1972",
+  "judgment_date": "1977-11-04",
+  "court": "Allahabad High Court",
+  "judges": [
+    "R. M. Sahai",
+    "D. M. Chandrashekhar"
+  ],
+  "appellant": "SHIV NARAIN CHAUDHARI",
+  "respondent": "COMMISSIONER OF WEALTH TAX, LUCKNOW",
+  "result": "Questions answered accordingly",
+  "legal_question": "Whether house properties bearing Municipal door Nos. 92, 92A, Darbhanga Castle, and 17/33, Mahatma Gandhi Marg, Allahabad, occupied as residences by different members of the assessee-Hindu undivided family together constitute 'one house' belonging to the assessee-and as such are exempt under Section 5(1)(iv) of the Wealth Tax Act, 1957?",
+  "facts": {
+    "assessee_type": "Hindu undivided family",
+    "members": 4,
+    "properties": [
+      {
+        "municipal_number": "92",
+        "location": "Darbhanga Castle, Allahabad",
+        "construction_year": 1960
+      },
+      {
+        "municipal_number": "92-A",
+        "location": "Darbhanga Castle, Allahabad",
+        "construction_year": 1963
+      },
+      {
+        "municipal_number": "17/33",
+        "location": "Mahatma Gandhi Marg, Allahabad",
+        "usage": "Part let out, part occupied by assessee"
+      }
+    ]
+  },
+  "tribunal_observation": "Portions bearing Nos. 92 and 92-A are independent units and cannot be treated as one house. Exemption granted only for No. 92.",
+  "assessee_argument": "Nos. 92 and 92-A form one house and should be exempted entirely. No. 17/33 should also be exempted as it is occupied by the family.",
+  "department_argument": "Supports the Tribunal's view that Nos. 92 and 92-A are separate houses and No. 17/33 is not exempt.",
+  "court_observation": {
+    "definition_of_house": "A building for human habitation, especially a dwelling place.",
+    "key_factors": [
+      "Unity of structure",
+      "Contiguity",
+      "Common boundaries"
+    ],
+    "decision": "Nos. 92 and 92-A together constitute one house, exempt under Section 5(1)(iv). No. 17/33 is not exempt."
+  },
+  "final_decision": {
+    "exempt_properties": [
+      {
+        "municipal_number": "92",
+        "location": "Darbhanga Castle, Allahabad"
+      },
+      {
+        "municipal_number": "92-A",
+        "location": "Darbhanga Castle, Allahabad"
+      }
+    ],
+    "non_exempt_property": {
+      "municipal_number": "17/33",
+      "location": "Mahatma Gandhi Marg, Allahabad"
+    }
+  },
+  "costs": "Each party to bear their own costs"
+}

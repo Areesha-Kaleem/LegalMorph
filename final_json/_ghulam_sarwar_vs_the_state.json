@@ -1,0 +1,95 @@
+{
+  "case_title": "GHULAM SARWAR vs The STATE",
+  "reference_no_or_id": "Criminal Appeal No. 13 of 1966",
+  "judgment_date": "1970-02-24",
+  "first_hearing_date": "N/A",
+  "court": "Baghdad-ul-Jadid",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Ataullah Sajjad"
+  ],
+  "appellant": [
+    "Ghulam Sarwar"
+  ],
+  "respondant": [
+    "The State"
+  ],
+  "accussed_details": [
+    {
+      "name": "Ghulam Sarwar",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Patwari of circle Gulab Ali, Tehsil Bahawalnagar",
+      "allegation": [
+        "Demanding illegal gratification",
+        "Corruption under Section 161 of Pakistan Penal Code and Section 5(2) of Prevention of Corruption Act, 1947"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "Ch. Farzand Ali"
+    ]
+  },
+  "complaint_summary": "Muhammad Afzal, Mukhtar of Mst. Mahfoozan, alleged that Ghulam Sarwar demanded Rs. 40 as bribe for processing a land re-allotment application. Rs. 25 had already been paid earlier.",
+  "investigation_summary": "A raid was conducted on 1964-09-23 by a team including Muhammad Afzal, Magistrate Fateh Muhammad, and others. Marked currency notes of Rs. 10 and Rs. 5 denominations were handed over to the accused. The accused denied receiving the bribe, claiming the money was for copying fees of Khasra Girdawari and R.L. II.",
+  "judgment_summary": "The court found inconsistencies in the prosecution's case, including omissions by the Magistrate and contradictions in the complainant's testimony. Due to lack of corroborative evidence, the benefit of doubt was given to the appellant, and the conviction and sentence were set aside. The fine was ordered to be refunded.",
+  "punishment": "Original sentence was a fine of Rs. 250 and four months rigorous imprisonment, but it was overturned.",
+  "Decision_or_verdict": "Appeal allowed; conviction and sentence set aside.",
+  "legal_arguments": [
+    "Defense argued inconsistencies in the timeline of events related to the bribe.",
+    "Defense highlighted lack of corroborative evidence for the bribe transaction.",
+    "Prosecution relied on witness testimonies and marked currency notes."
+  ],
+  "assets": [],
+  "statutes": [
+    "Prevention of Corruption Act, 1947"
+  ],
+  "sections": [
+    "Section 161 of Pakistan Penal Code",
+    "Section 5(2) of Prevention of Corruption Act, 1947"
+  ],
+  "citations": [
+    "1972 P Cr. L J 727"
+  ],
+  "witnesses": [
+    "Muhammad Afzal",
+    "Fateh Muhammad",
+    "Muhammad Shafi",
+    "Abdul Majid"
+  ],
+  "witness_statement": {
+    "Muhammad Afzal": "Claimed he paid Rs. 25 earlier and Rs. 15 during the raid.",
+    "Fateh Muhammad": "Oversaw the raid and marked currency notes.",
+    "Muhammad Shafi": "Observed the bribe transaction and informed the raid party.",
+    "Abdul Majid": "Participated in the raid and corroborated events."
+  },
+  "appeal_number": "Criminal Appeal No. 13 of 1966",
+  "legal_categories": [
+    "Criminal Law",
+    "Anti-Corruption"
+  ],
+  "key_issues": [
+    "Whether the bribe was actually demanded and paid.",
+    "Inconsistencies in the timeline of events.",
+    "Fabrication of evidence in defense.",
+    "Hostility between complainant and appellant.",
+    "Omission by Magistrate to verify registers in appellant's circle."
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "Illegal Gratification": "Receiving money or benefits unlawfully for performing official duties.",
+    "Roznamcha": "Daily register maintained by Patwaris."
+  },
+  "words_and_phrases": {
+    "Khasra Girdawari": "Land record document.",
+    "R.L. II": "Revenue record document."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case involved allegations of corruption against a Patwari, Ghulam Sarwar, for demanding a bribe related to land re-allotment. A raid was conducted, but the court found inconsistencies in the prosecution's evidence, including omissions by the Magistrate and contradictions in the complainant's testimony. The benefit of doubt was granted to the appellant, overturning the conviction and sentence."
+}

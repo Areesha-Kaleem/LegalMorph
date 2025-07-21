@@ -1,0 +1,120 @@
+{
+  "case_title": "Criminal Appeals Nos.23, 24 and Murder Reference No.9 of 1997 vs THE STATE",
+  "reference_no_or_id": "Criminal Appeal No.37, Criminal Revision No.25 and Murder Reference No.201 of 1996",
+  "judgment_date": "1998-01-27",
+  "first_hearing_date": "N/A",
+  "court": "Appellate Tribunal Inland Revenue",
+  "bench_type": "Special Bench",
+  "judges": [
+    "Muhammad Nawaz Abbasi",
+    "Ahmed Nawaz Malik"
+  ],
+  "appellant": [
+    {
+      "name": "Muhammad Yousaf",
+      "father_name": "Suleman",
+      "residence": "Chishtian, District Bahawalnagar"
+    },
+    {
+      "name": "Anees alias Muhammad Umar",
+      "father_name": "Abdul Ghani",
+      "residence": "Karachi"
+    }
+  ],
+  "respondant": [
+    "THE STATE"
+  ],
+  "accussed_details": [
+    {
+      "name": "Muhammad Yousaf",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "N/A",
+      "allegation": [
+        "Robbery under Section 392, P.P.C."
+      ]
+    },
+    {
+      "name": "Anees alias Muhammad Umar",
+      "age": "20",
+      "gender": "Male",
+      "designation": "N/A",
+      "allegation": [
+        "Murder under Section 302, P.P.C.",
+        "Robbery under Section 392, P.P.C."
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Assistant Advocate-General"
+    ],
+    "defense": [
+      "Counsel for Muhammad Yousaf",
+      "Counsel for Anees alias Muhammad Umar"
+    ]
+  },
+  "complaint_summary": "On 24-9-1997, Azhar Ehsan was murdered during a robbery attempt by Muhammad Yousaf and Anees alias Muhammad Umar. The incident occurred near a fruit shop in Multan, witnessed by Ashfaq Ahmad, Saadullah Khan, and Amar Ibrahim.",
+  "investigation_summary": "Police apprehended the accused at the scene with the weapon and motorcycle. Evidence included blood-stained earth, a .30 bore pistol, and witness statements. Post-mortem confirmed fatal injuries caused by gunfire.",
+  "judgment_summary": "Muhammad Yousaf's conviction under Section 302, P.P.C. was set aside, but his conviction under Section 392, P.P.C. was upheld. Anees alias Muhammad Umar's death sentence under Section 302, P.P.C. and conviction under Section 392, P.P.C. were confirmed.",
+  "punishment": "Muhammad Yousaf: Rigorous imprisonment for 10 years and fine of Rs. 20,000 under Section 392, P.P.C. Anees alias Muhammad Umar: Death sentence under Section 302, P.P.C. and rigorous imprisonment for 10 years with fine under Section 392, P.P.C.",
+  "Decision_or_verdict": "Appeals dismissed. Death sentence for Anees alias Muhammad Umar confirmed.",
+  "legal_arguments": [
+    "Defense argued lack of common intention for murder by Muhammad Yousaf.",
+    "Prosecution argued collective responsibility for murder during robbery.",
+    "Defense for Anees argued mitigating circumstances due to young age and intent to escape."
+  ],
+  "assets": [
+    "Motorcycle belonging to deceased",
+    ".30 bore pistol with bullets"
+  ],
+  "statutes": [
+    "Anti-Terrorism Act, 1997"
+  ],
+  "sections": [
+    "Section 392, P.P.C.",
+    "Section 302, P.P.C.",
+    "Section 302/34, P.P.C."
+  ],
+  "citations": [
+    "1999 Y L R 858"
+  ],
+  "witnesses": [
+    "Ashfaq Ahmad (P.W.2)",
+    "Saadullah Khan (P.W.3)",
+    "Amar Ibrahim (not presented)",
+    "Saadit Mehdi (Inspector/S.H.O.)",
+    "Muhammad Azhar (Head Constable)",
+    "Mushtaq Ahmad (Constable)"
+  ],
+  "witness_statement": {
+    "Ashfaq Ahmad": "Confirmed robbery attempt and firing by Anees alias Muhammad Umar.",
+    "Saadullah Khan": "Corroborated Ashfaq Ahmad's account.",
+    "Saadit Mehdi": "Recorded statements and collected evidence at the scene."
+  },
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Criminal Law",
+    "Anti-Terrorism"
+  ],
+  "key_issues": [
+    "Whether Muhammad Yousaf shared common intention for murder.",
+    "Applicability of mitigating circumstances for Anees alias Muhammad Umar."
+  ],
+  "maxims": {
+    "actus reus": "Physical act of robbery and murder established.",
+    "mens rea": "Intent to kill inferred from firing at the deceased."
+  },
+  "legal_terms": {
+    "robbery": "Taking property by force or threat.",
+    "common intention": "Shared intent among co-accused."
+  },
+  "words_and_phrases": {
+    "mitigating circumstances": "Factors reducing severity of punishment.",
+    "death sentence": "Capital punishment for murder."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "Case involves robbery and murder. Muhammad Yousaf's conviction for murder set aside due to lack of common intention. Anees alias Muhammad Umar sentenced to death for murder during robbery. Evidence includes witness accounts, weapon, and post-mortem report."
+}

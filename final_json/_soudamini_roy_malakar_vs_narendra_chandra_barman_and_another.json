@@ -1,0 +1,145 @@
+{
+  "case_title": "SOUDAMINI ROY MALAKAR vs NARENDRA CHANDRA BARMAN And Another",
+  "reference_no_or_id": "Appeal from Original Decree No. 104 of 1943",
+  "judgment_date": "1952-08-31",
+  "first_hearing_date": "1942-10-06",
+  "court": "Dacca",
+  "bench_type": "Division Bench",
+  "judges": [
+    "Muhammad Shahabuddin",
+    "Faiyaz Ali"
+  ],
+  "appellant": [
+    "Soudamini Roy Malakar"
+  ],
+  "respondant": [
+    "Narendra Chandra Barman",
+    "Others (Defendants 2, 3, 6, and 14)"
+  ],
+  "accussed_details": [
+    {
+      "name": "Sarat",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Defendant 11",
+      "allegation": [
+        "Fraudulent acquisition of property",
+        "Alienation of property without consent"
+      ]
+    },
+    {
+      "name": "Hemlata",
+      "age": "N/A",
+      "gender": "Female",
+      "designation": "Defendant 12",
+      "allegation": [
+        "Improper alienation of property"
+      ]
+    },
+    {
+      "name": "Kamala",
+      "age": "N/A",
+      "gender": "Female",
+      "designation": "Defendant 13",
+      "allegation": [
+        "Improper alienation of property"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [],
+    "defense": []
+  },
+  "complaint_summary": "The appellant sought partition of property originally owned by Kula Chandra Chakrabarty, claiming a share based on a deed of sale executed by Hemlata and Kamala. Allegations included fraudulent alienation and improper conveyance of property.",
+  "investigation_summary": "Evidence was presented regarding family disputes, settlement records, and alienation of property. Witnesses testified about the legitimacy of transactions and the presumption of correctness of entries in the record-of-rights.",
+  "judgment_summary": "The court partly allowed the appeal, recognizing the appellant's entitlement to a portion of the property based on settlement records. It dismissed claims for the remaining share, validating certain conveyances and rejecting allegations of fraud.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Appeal partly allowed; preliminary decree for partition issued.",
+  "legal_arguments": [
+    "Presumption of correctness of record-of-rights under Section 103(b)(v) of Bengal Tenancy Act.",
+    "Validity of conveyance under Hindu Widows Remarriage Act.",
+    "Customary rights of remarried widows to guardianship and property."
+  ],
+  "assets": [
+    "C.S. Plots 1933 and 1934 in Mymensingh with buildings and structures."
+  ],
+  "statutes": [
+    "Hindu Widows Remarriage Act",
+    "Bengal Tenancy Act"
+  ],
+  "sections": [
+    "Section 103(b)(v) of Bengal Tenancy Act",
+    "Section 2 of Hindu Widows Remarriage Act"
+  ],
+  "citations": [
+    "P L D 1952 Dacca 425",
+    "Rajah Sasi Kanta Acharjya Bahadur v. Sandhya Rani Dasi 26 C W N 483",
+    "Chand Mia Munshi v. Tukamia 28 C W N 516"
+  ],
+  "witnesses": [
+    "Amiruddin Ahmad",
+    "Witness 3",
+    "Witness 6",
+    "Witness 13 (Retired Mymensingh Bar Member)"
+  ],
+  "witness_statement": {
+    "Amiruddin Ahmad": "Testified about family settlement and property disputes.",
+    "Witness 13": "Provided evidence of family disputes and settlement operations."
+  },
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Property Law",
+    "Partition",
+    "Hindu Law"
+  ],
+  "key_issues": [
+    "Validity of property alienation by remarried widow.",
+    "Presumption of correctness of record-of-rights.",
+    "Customary rights under Hindu law."
+  ],
+  "maxims": {
+    "Brihaspati": "Of him whose wife is not deceased half the body survives."
+  },
+  "legal_terms": {
+    "Pardanashin": "A woman who observes purdah and is secluded from public view."
+  },
+  "words_and_phrases": {
+    "Record-of-rights": "Official record of land ownership and rights."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around property partition and the validity of alienation by remarried widows under Hindu law. The court partly allowed the appeal, recognizing the appellant's entitlement to a portion of the property based on settlement records and dismissing claims for the remaining share.",
+  "case_number": "Appeal from Original Decree No. 104 of 1943",
+  "reported_as": "P L D 1952 Dacca 425",
+  "result": "Appeal partly allowed",
+  "case_summary": {
+    "property_involved": "C. S. Plots 1933 and 1934 of the town of Mymensingh with buildings and structures",
+    "original_owner": "Kula Chandra Chakrabarty",
+    "plaintiff_claim": "3 annas, 6 gandas, 2 karas, 2 krantis share based on Exh. 4 (deed of sale dated 1940-09-12)",
+    "dispute_summary": "Partition dispute among heirs and transferees of the property."
+  },
+  "key_arguments": {
+    "appellant_arguments": [
+      "Presumption of correctness of record-of-rights entry not given due weight.",
+      "Exh. C-1 executed by Hemlata is void due to fraud and lack of legal authority.",
+      "Hemlata lost her rights to property and guardianship after remarriage."
+    ],
+    "respondent_arguments": [
+      "Family settlement evidence rightly disbelieved.",
+      "Exh. C-1 was validly executed with proper advice.",
+      "Hemlata retained property rights due to caste custom allowing remarriage."
+    ]
+  },
+  "court_findings": {
+    "exh_a1": "Voluntarily executed by Kumudini in favor of Lakshikanta.",
+    "exh_c1": "Valid conveyance executed by Hemlata with proper advice and consideration.",
+    "record_of_rights": "Entry showing Satish's share as 3 annas and odd is presumed correct.",
+    "hindu_widows_remarriage_act": "Hemlata forfeited her rights to Satish's property upon remarriage but retained guardianship of Kamala."
+  },
+  "judgment_details": {
+    "partition_decree": "Preliminary decree for partition granted for 3 annas and odd share minus 8 gandas and odd share conveyed under Exh. C-1.",
+    "commissioner_appointment": "Commissioner to effect partition by metes and bounds.",
+    "costs": "Contestant respondents to pay proportionate costs to appellant."
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "case_title": "D.V. KRISHNA MURTHY vs P. VISWANATH",
+  "reference_no_or_id": "C. R.P. No. 2271 of 1989",
+  "judgment_date": "1993-03-15",
+  "first_hearing_date": "N/A",
+  "court": "Andhra Pradesh High Court",
+  "bench_type": "Single Judge Bench",
+  "judges": [
+    "G Radha Krishna Rao"
+  ],
+  "appellant": [
+    "D.V. Krishna Murthy"
+  ],
+  "respondant": [
+    "P. Viswanath"
+  ],
+  "accussed_details": [
+    {
+      "name": "Third Defendant (Petitioner)",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "Partner in the firm",
+      "allegation": [
+        "Screening away property to avoid jurisdiction of the court"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Sri R.V. Prasad"
+    ],
+    "defense": []
+  },
+  "complaint_summary": "The plaintiff filed a suit against the firm and its partners, alleging that one of the partners was attempting to remove property from the court's jurisdiction.",
+  "investigation_summary": "The lower court ordered attachment of the third defendant's property before judgment under Order 38, Rule 5, CPC, following counter arguments.",
+  "judgment_summary": "The revision petition was dismissed. The court upheld the lower court's order for attachment before judgment, citing the liability of partners under Sections 25 and 49 of the Indian Partnership Act.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Revision petition dismissed; lower court's order upheld.",
+  "legal_arguments": [
+    "Section 49 of the Indian Partnership Act: Payment of firm debts and separate debts.",
+    "Section 25 of the Indian Partnership Act: Liability of a partner for acts of the firm.",
+    "Order 38, Rule 5, CPC: Attachment before judgment."
+  ],
+  "assets": [
+    "Property of the third defendant"
+  ],
+  "statutes": [
+    "Indian Partnership Act",
+    "Civil Procedure Code (CPC)"
+  ],
+  "sections": [
+    "Section 49",
+    "Section 25",
+    "Order 38, Rule 5"
+  ],
+  "citations": [
+    "1996 P.C.T.L.R. 1128"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Partnership Law",
+    "Civil Procedure"
+  ],
+  "key_issues": [
+    "Whether the property of individual partners can be attached before judgment.",
+    "Applicability of Sections 25 and 49 of the Indian Partnership Act."
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "Attachment before judgment": "A legal provision allowing the court to secure property before the final decree.",
+    "Liability of partners": "Joint and several liability for acts of the firm."
+  },
+  "words_and_phrases": {
+    "Screening away property": "Act of concealing or removing property to evade legal jurisdiction."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around the liability of partners in a firm and the legal provision for attachment of property before judgment. The court dismissed the revision petition, affirming the lower court's decision based on Sections 25 and 49 of the Indian Partnership Act and Order 38, Rule 5 of CPC."
+}

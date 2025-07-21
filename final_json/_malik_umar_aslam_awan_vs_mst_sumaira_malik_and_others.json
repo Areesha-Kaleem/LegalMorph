@@ -1,0 +1,144 @@
+{
+  "case_title": "Malik UMAR ASLAM AWAN vs Mst SUMAIRA MALIK and others",
+  "reference_no_or_id": "Election Petition No. 104 of 2008",
+  "judgment_date": "2013-04-05",
+  "first_hearing_date": "N/A",
+  "court": "Election Tribunal",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Ijaz-ul-Ahsan"
+  ],
+  "appellant": [
+    "Malik UMAR ASLAM AWAN"
+  ],
+  "respondant": [
+    "Mst SUMAIRA MALIK",
+    "Others"
+  ],
+  "accussed_details": [
+    {
+      "name": "Mst SUMAIRA MALIK",
+      "age": "N/A",
+      "gender": "Female",
+      "designation": "Returned Candidate from NA-69, Khushab-1",
+      "allegation": [
+        "Election malpractices",
+        "Bogus votes",
+        "Manipulation of election records",
+        "Improper rejection of votes",
+        "Fabrication of BA degree"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "The appellant alleged corrupt practices, election malpractices, and submission of a fabricated BA degree by the respondent, which rendered the election void.",
+  "investigation_summary": "The University of Punjab conducted inquiries into the allegations of a fabricated degree and impersonation. The inquiries found no evidence of wrongdoing, confirming the validity of the respondent's degree.",
+  "judgment_summary": {
+    "allegations": {
+      "corrupt_acts": "Alleged corrupt and illegal acts by respondent No. 1 before and during polling.",
+      "bogus_votes": "Claims of bogus votes cast and manipulation of election results.",
+      "degree_fraud": "Accusation that respondent No. 1 procured a fabricated Bachelor of Arts degree through impersonation."
+    },
+    "findings": {
+      "degree_verification": "University of Punjab verified the degree as valid after two inquiries.",
+      "impersonation_claims": "No credible evidence provided to substantiate impersonation allegations.",
+      "photograph_comparison": "Photographs on admission forms matched respondent No. 1."
+    },
+    "decision": {
+      "issue_1": "Decided against the petitioner; allegations of fraud and impersonation not proven.",
+      "issue_2": "Election petition deemed maintainable but dismissed due to lack of merit."
+    }
+  },
+  "punishment": "None",
+  "Decision_or_verdict": "Petition dismissed",
+  "legal_arguments": [
+    "Allegations of fabricated degree and impersonation were unsupported by credible evidence.",
+    "University of Punjab inquiries confirmed the validity of the respondent's degree.",
+    "Petitioner failed to discharge the burden of proof."
+  ],
+  "assets": [],
+  "statutes": [
+    "Representation of the People Act, 1976",
+    "Code of Civil Procedure, 1908",
+    "Qanun-e-Shahadat Order, 1984"
+  ],
+  "sections": [
+    "Section 52",
+    "Section 55(3)",
+    "Section 63"
+  ],
+  "citations": [
+    "2013 C L C 984"
+  ],
+  "witnesses": [
+    "Muhammad Ahmad Farooqi",
+    "Muhammad Tariq Hussain",
+    "Muhammad Zubair",
+    "Ghulam Hussain Baloch",
+    "Muhammad Rauf Nawaz",
+    "Mazhar Iqbal",
+    "Malik Muhammad Aslam",
+    "Respondent No. 1"
+  ],
+  "witness_statement": {
+    "Muhammad Rauf Nawaz": "Confirmed the validity of the respondent's degree based on University records and inquiries."
+  },
+  "evidence": {
+    "petitioner_witnesses": [
+      "Muhammad Ahmad Farooqi",
+      "Muhammad Tariq Hussain",
+      "Muhammad Zubair",
+      "Ghulam Hussain Baloch",
+      "Muhammad Rauf Nawaz",
+      "Mazhar Iqbal",
+      "Malik Muhammad Aslam"
+    ],
+    "respondent_witnesses": [
+      "Respondent No. 1"
+    ],
+    "documents_produced": [
+      "Admission Form",
+      "Roll Number Slip",
+      "National Identity Card",
+      "Poster from election campaign",
+      "University inquiry reports"
+    ]
+  },
+  "legal_basis": {
+    "laws_invoked": [
+      "Representation of the People Act, 1976",
+      "Code of Civil Procedure, 1908",
+      "Qanun-e-Shahadat Order, 1984"
+    ]
+  },
+  "legal_categories": [
+    "Election Law",
+    "Fraud Allegations"
+  ],
+  "key_issues": [
+    "Validity of respondent's BA degree",
+    "Allegations of election malpractices",
+    "Whether in the facts and circumstances given in the election petition, the election of NA-69 is void?",
+    "Whether the election petition is not maintainable and has been instituted in violation of the provisions of the Representation of the People Act, 1976?"
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "Impersonation": "Act of pretending to be another person for fraudulent purposes.",
+    "Election Malpractice": "Illegal activities affecting the fairness of an election."
+  },
+  "words_and_phrases": {
+    "Bogus Votes": "Votes cast fraudulently or without proper authorization.",
+    "Manipulation of Election Records": "Tampering with official election documents to alter results."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case involved allegations of election malpractices and submission of a fabricated degree by the respondent. The court found no credible evidence to support the claims, relying on inquiries conducted by the University of Punjab. The petition was dismissed."
+}

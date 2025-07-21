@@ -1,0 +1,113 @@
+{
+  "case_title": "Ashiq Hussain vs The State",
+  "reference_no_or_id": "Criminal Revision No. 115 of 1980",
+  "judgment_date": "1981-02-22",
+  "first_hearing_date": "N/A",
+  "court": "Peshawar High Court",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Shahnawaz Khan"
+  ],
+  "appellant": [
+    "Ashiq Hussain"
+  ],
+  "respondant": [
+    "The State"
+  ],
+  "accussed_details": [
+    {
+      "name": "Ashiq Hussain",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Resident of Nowshera Cantt., District Peshawar",
+      "allegation": [
+        "Running a brothel house",
+        "Allowing bad character people to visit his house"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "State Counsel"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "Ashiq Hussain was accused of running his house as a brothel and allowing immoral activities. Allegations lacked specific details about individuals involved in immoral acts.",
+  "investigation_summary": "Prosecution witnesses were deemed unreliable due to personal bias and lack of credible evidence. Defense witnesses testified to the good character of the accused and his family.",
+  "judgment_summary": "The court found the allegations against Ashiq Hussain unsubstantiated. Defense evidence was deemed more credible, and the prosecution failed to prove the case beyond reasonable doubt. Conviction set aside, and the petitioner was acquitted and discharged from bail bond.",
+  "punishment": {
+    "original_sentence": {
+      "court": "Magistrate Ist Class, Nowshera",
+      "judge": "Gui Rehman Khan",
+      "sentence": {
+        "imprisonment": "1 month simple imprisonment",
+        "fine": "Rs. 200",
+        "default_penalty": "2 months simple imprisonment"
+      }
+    },
+    "overturned_by_high_court": true
+  },
+  "Decision_or_verdict": "Petition accepted; conviction overturned; accused acquitted.",
+  "legal_arguments": [
+    "Defense argued prosecution witnesses were biased and unreliable.",
+    "Defense presented credible witnesses attesting to the good character of the accused.",
+    "Prosecution conceded inability to rely on its witnesses."
+  ],
+  "assets": [],
+  "statutes": [
+    "Suppression of Prostitution Ordinance, 1961"
+  ],
+  "sections": [
+    "Section 3"
+  ],
+  "citations": [
+    "P L D 1981 Peshawar 98"
+  ],
+  "witnesses": [
+    {
+      "name": "Mian Shahzada",
+      "role": "Proprietor of the building",
+      "statement": "Testified to the good character of the accused and his family."
+    },
+    {
+      "name": "Faqir Hussain",
+      "role": "Mohallahdar",
+      "statement": "Stated no complaints against the accused or his family."
+    },
+    {
+      "name": "Sh. Zainul Abideen",
+      "role": "Ex-Vice President of Cantonment Board and Chairman of B.D. System",
+      "statement": "Declared the accused a man of good character."
+    },
+    {
+      "name": "Sh. Muhammad Ibrahim",
+      "role": "Ex-B.D. Member and pensioner",
+      "statement": "Supported the good character of the accused."
+    }
+  ],
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Criminal Law",
+    "Revision Petition"
+  ],
+  "key_issues": [
+    "Credibility of prosecution witnesses",
+    "Defense evidence of good character",
+    "Bias and personal disputes influencing allegations"
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "Brothel": "A house where people engage in prostitution.",
+    "Simple Imprisonment": "A form of imprisonment without hard labor."
+  },
+  "words_and_phrases": {
+    "Bad character": "Individuals engaging in immoral or unlawful activities.",
+    "Nikah": "Islamic marriage contract."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolved around allegations of running a brothel, which were found unsubstantiated due to unreliable prosecution witnesses and credible defense evidence. The High Court acquitted the accused."
+}

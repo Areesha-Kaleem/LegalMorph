@@ -1,0 +1,29 @@
+{
+  "case_title": "MUHAMMAD SADIQ vs ABDULLAH",
+  "case_number": "Criminal Miscellaneous No. 425 of 1969",
+  "judgment_date": "1970-02-23",
+  "court_name": "Baghdad-ul-Jadid",
+  "judge": "Ataullah Sajjad",
+  "result": "bail granted",
+  "reported_as": "1972 P Cr. L J 709",
+  "appellant": "MUHAMMAD SADIQ",
+  "respondent": "ABDULLAH",
+  "key_points": {
+    "respondent_status": "Accused in a murder case",
+    "initial_bail_reason": "Medical grounds (suspected gastric ulcer)",
+    "medical_findings": {
+      "initial_opinion": "Suspected gastric ulcer but not confirmed",
+      "board_opinion": "No evidence of active peptic ulcer; stomach normal"
+    },
+    "bail_cancellation_reasons": [
+      "Medical grounds invalidated by Board findings",
+      "Respondent evading court appearances",
+      "Manipulation of legal proceedings (e.g., adjournment maneuvers)"
+    ]
+  },
+  "orders": {
+    "adjournment_request": "Denied",
+    "bail_status": "Cancelled",
+    "custody_order": "Respondent to be taken into custody"
+  }
+}

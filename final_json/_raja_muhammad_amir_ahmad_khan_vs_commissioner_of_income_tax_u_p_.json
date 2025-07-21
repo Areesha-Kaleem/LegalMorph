@@ -1,0 +1,123 @@
+{
+  "case_title": "Raja MUHAMMAD AMIR AHMAD KHAN vs COMMISSIONER OF INCOME-TAX, U. P.",
+  "reference_no_or_id": "Income-tax Reference No. 647 of 1961",
+  "case_number": "Income-tax Reference No. 647 of 1961",
+  "judgment_date": "1965-08-07",
+  "first_hearing_date": "N/A",
+  "court": "Allahabad High Court",
+  "court_name": "Allahabad High Court",
+  "bench_type": "Division Bench",
+  "judges": [
+    "Brijlal Gupta",
+    "M. C. Desai"
+  ],
+  "appellant": [
+    "Raja MUHAMMAD AMIR AHMAD KHAN"
+  ],
+  "respondant": [
+    "COMMISSIONER OF INCOME-TAX, U. P."
+  ],
+  "respondent": "Commissioner of Income-Tax, U. P.",
+  "accussed_details": [
+    {
+      "name": "Raja MUHAMMAD AMIR AHMAD KHAN",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Prominent Talukdar of Avadh",
+      "allegation": [
+        "Undisclosed income of Rs. 9,45,000 during the assessment year 1942-43"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Sri Gopal Behari"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "The Commissioner of Income-Tax alleged that Rs. 9,45,000 credited as a loan to Mr. Mirza Ahmad Isphani was income from an undisclosed source during the assessment year 1942-43.",
+  "investigation_summary": "The Income-tax Investigation Commission and Income-tax Officer examined the assessee and his account books. The assessee claimed the amount originated from savings of his grandmother and mother, but failed to provide adequate evidence. Witnesses were requested but key individuals were unavailable for cross-examination.",
+  "judgment_summary": "The court upheld the validity of proceedings under Section 34 of the Income-tax Act and affirmed the assessment of Rs. 9,45,000 as income from an undisclosed source. The Tribunal's findings were based on the absence of account entries, improbability of savings being intact, and inconsistencies in the assessee's statements.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Answered in the affirmative; against the assessee.",
+  "result": "answered in the affirmative",
+  "legal_arguments": [
+    "Tribunal misread and misinterpreted evidence regarding the source of Rs. 9,45,000.",
+    "Affidavit of Mr. Mirza Ahmad Isphani should not have been rejected due to his unavailability for cross-examination.",
+    "Inference drawn from conversion of savings into high denomination notes was speculative."
+  ],
+  "assets": [
+    "Rs. 9,45,000 credited as a loan to Mr. Mirza Ahmad Isphani"
+  ],
+  "statutes": [
+    "Income-tax Act"
+  ],
+  "sections": [
+    "Section 34",
+    "Section 66(1)",
+    "Section 66(2)"
+  ],
+  "legal_provisions": [
+    "Section 34 of the Income-tax Act",
+    "Section 66(2) of the Income-tax Act"
+  ],
+  "citations": [
+    "Dhirajlal Girdharilal v. Commissioner of Income-tax (AIR 1959 SC 57)",
+    "Homi Jehangir Gheesta v. Commissioner of Income-tax (1961) 41 ITR 135",
+    "Bhaichand Amoluk & Co. v. Commissioner of Income-tax (1962) 44 ITR 511 (SC)"
+  ],
+  "witnesses": [
+    "Mr. Mirza Ahmad Isphani",
+    "Mr. S. M. I. Kintoori",
+    "Maharaj Kumar Amir Haidar Khan"
+  ],
+  "witness_statement": {
+    "Mr. Mirza Ahmad Isphani": "Affidavit submitted but not cross-examined due to migration to Pakistan.",
+    "Mr. S. M. I. Kintoori": "Statement rejected by Income-tax Officer.",
+    "Maharaj Kumar Amir Haidar Khan": "Statement rejected by Income-tax Officer."
+  },
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Income Tax",
+    "Undisclosed Income"
+  ],
+  "key_issues": [
+    "Validity of proceedings under Section 34",
+    "Assessment of Rs. 9,45,000 as undisclosed income",
+    "Credibility of evidence provided by the assessee"
+  ],
+  "questions_referred": [
+    {
+      "question": "Whether on the facts and in the circumstances of the case the proceedings under section 34 were valid?",
+      "answer": "affirmative"
+    },
+    {
+      "question": "Whether there were materials to justify the assessment of Rs. 9,45,000 as income of the assessee from undisclosed source in respect of the assessment year 1942-43?",
+      "answer": "affirmative"
+    }
+  ],
+  "key_facts": {
+    "amount_in_question": "Rs. 9,45,000",
+    "source_claimed_by_assessee": "Privy purse of grandmother and mother, income of estate",
+    "assessee_status": "Prominent talukdar of Avadh",
+    "income_tax_officer_findings": "No supporting evidence for claimed sources; treated amount as income from undisclosed source",
+    "tribunal_findings": "Rejected explanation of assessee; deemed amount assessable for year 1942-43"
+  },
+  "costs_awarded": "Rs. 200 to the Department",
+  "reported_as": "1965 P T D 1",
+  "maxims": {
+    "N/A": "N/A"
+  },
+  "legal_terms": {
+    "Undisclosed Income": "Income not reported or accounted for in official records."
+  },
+  "words_and_phrases": {
+    "Privy Purse": "Funds allocated to royal families for their maintenance."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around the assessment of Rs. 9,45,000 as undisclosed income of the appellant during the assessment year 1942-43. The court upheld the validity of proceedings under Section 34 and dismissed the appellant's claims regarding the source of the amount, citing lack of evidence and inconsistencies in statements."
+}

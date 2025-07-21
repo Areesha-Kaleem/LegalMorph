@@ -1,0 +1,126 @@
+{
+  "case_title": "M/s. Muhammad Yousuf Adil vs Deputy Commissioner SRB, Karachi",
+  "reference_no_or_id": "APPEAL NO. AT-37/2017",
+  "judgment_date": "2017-10-03",
+  "first_hearing_date": "2016-05-30",
+  "court": "Appellate Tribunal Sindh Revenue Board",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Justice ® Nadeem Azhar Siddiqui"
+  ],
+  "appellant": [
+    "M/s. Muhammad Yousuf Adil"
+  ],
+  "respondant": [
+    "Deputy Commissioner SRB, Karachi"
+  ],
+  "accussed_details": [
+    {
+      "name": "M/s. Muhammad Yousuf Adil",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "Landlord",
+      "allegation": [
+        "Failure to register for Sindh Sales Tax on Services",
+        "Providing taxable services (renting of immovable property)"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Mr. Kaleemullah Siddiqui AC-SRB"
+    ],
+    "defense": [
+      "Mr. Muhammad Tariq ITP",
+      "Mr. Muhammad Mudassir ITP"
+    ]
+  },
+  "complaint_summary": "The appellant allegedly provided taxable services (renting of immovable property) since July 2015 without registering with SRB, violating the Sindh Sales Tax on Services Act, 2011.",
+  "investigation_summary": "The appellant was issued a show-cause notice on 20.05.2016 under Section 24B of the Act. An ex-parte order was passed on 31.05.2016 imposing compulsory registration and a penalty of Rs. 100,000 if voluntary registration was not completed by 15.06.2016.",
+  "judgment_summary": "The appeal was allowed based on the Sindh High Court judgment in CP No.D-2421/2016, which held that mere renting of immovable property does not constitute a taxable service under the Sindh Sales Tax on Services Act, 2011. Both the order-in-original and order-in-appeal were set aside.",
+  "punishment": "No punishment imposed; appeal allowed.",
+  "Decision_or_verdict": "Appeal Allowed",
+  "legal_arguments": [
+    "The renting of immovable property does not involve taxable services as defined under the Sindh Sales Tax on Services Act, 2011.",
+    "The Sindh High Court judgment in CP No.D-2421/2016 clarified that rent received by landlords cannot be subjected to tax unless it involves economic activity or provision of services."
+  ],
+  "assets": [],
+  "statutes": [
+    "Sindh Sales Tax on Services Act, 2011"
+  ],
+  "sections": [
+    "Section 24B",
+    "Section 2(72C)",
+    "Section 3",
+    "Section 8"
+  ],
+  "citations": [
+    "CP No.D-2421/2016",
+    "Youngs (Private Limited versus Province of Sindh and others)"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "186/2016",
+  "legal_categories": [
+    "Tax Law",
+    "Administrative Law"
+  ],
+  "key_issues": [
+    "Whether renting of immovable property constitutes a taxable service under the Sindh Sales Tax on Services Act, 2011.",
+    "Validity of compulsory registration and penalty imposed by SRB."
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "Taxable Service": "A service subject to tax under the relevant statute.",
+    "Economic Activity": "An activity involving the provision of services in the course of business or commerce."
+  },
+  "words_and_phrases": {
+    "Renting of Immovable Property": "Letting out property for consideration without involving taxable services."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk",
+    "reported_as": "2017 SRB 158"
+  },
+  "summary_vector_notes": "The case revolves around the interpretation of taxable services under the Sindh Sales Tax on Services Act, 2011. The appellant challenged the compulsory registration and penalty imposed by SRB for renting immovable property. The Sindh High Court judgment clarified that mere renting does not constitute a taxable service unless it involves economic activity or provision of services. The appeal was allowed, and prior orders were set aside.",
+  "facts": {
+    "taxable_service": "Renting of immovable property",
+    "tariff_heading": "9806.3000",
+    "act": "Sindh Sales Tax on Services Act, 2011",
+    "allegation": "Appellant provided taxable services since July 2015 but failed to register with SRB."
+  },
+  "procedural_history": {
+    "order_in_original": {
+      "number": "428/2016",
+      "date": "2016-05-31",
+      "issued_by": "Deputy Commissioner SRB (Mr. Raheel Soomro)",
+      "penalty": "Rs. 100,000 if not voluntarily registered by 2016-06-15"
+    },
+    "order_in_appeal": {
+      "number": "51/2017",
+      "date": "2017-04-18",
+      "issued_by": "Commissioner (Appeals)",
+      "result": "Upheld Order-in-Original"
+    }
+  },
+  "key_judgment_points": {
+    "precedent_case": "Youngs (Private Limited) vs Province of Sindh",
+    "high_court_judgment_date": "2017-08-18",
+    "key_findings": [
+      "Renting of immovable property does not involve provision of taxable services.",
+      "Economic activity must involve provision of services to be taxable under the Act.",
+      "Provincial legislature cannot impose tax on rent received by landlords."
+    ]
+  },
+  "final_decision": {
+    "judgment": "Appeal allowed",
+    "orders_set_aside": [
+      "Order-in-Original No. 428/2016",
+      "Order-in-Appeal No. 51/2017"
+    ]
+  },
+  "copies_supplied_to": [
+    "Appellant through Authorized Representative",
+    "Assistant Commissioner, SRB, Karachi",
+    "Commissioner (Appeals), SRB, Karachi"
+  ]
+}

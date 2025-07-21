@@ -1,0 +1,36 @@
+{
+  "case_title": "COMMISSIONER OF INCOME-TAX vs VIGHYAN CHEMICALS INDUSTRIES",
+  "application_number": "49 of 1992",
+  "judgment_date": "1992-07-13",
+  "court_name": "Allahabad High Court",
+  "judges": "R. K. Gulati, A. P. Singh",
+  "appellant": "COMMISSIONER OF INCOME-TAX",
+  "respondent": "VIGHYAN CHEMICALS INDUSTRIES",
+  "result": "Application rejected",
+  "reported_as": "1993 P T D 1391",
+  "legal_provision": "Section 256(2) of the Income Tax Act, 1961",
+  "key_points": {
+    "addition_1": {
+      "description": "Value of suppressed sales",
+      "amount": "Rs. 10,96,605",
+      "status": "Deleted by Commissioner of Income-tax Appeals, confirmed by Tribunal"
+    },
+    "addition_2": {
+      "description": "Difference in stock as per books and pledged with the bank",
+      "amount": "Rs. 21,260",
+      "status": "Deleted by Commissioner of Income-tax Appeals, confirmed by Tribunal"
+    }
+  },
+  "tribunal_findings": {
+    "production_of_lime": "Not low, disclosed at 50%",
+    "expert_opinion": "Irrelevant to the case",
+    "stock_explanation": "Part of the stock pledged with the bank belonged to a third party"
+  },
+  "legal_conclusion": {
+    "question_of_law": "No question of law arises",
+    "application_status": "Rejected"
+  },
+  "costs": "No order as to costs",
+  "printed_on": "2025-07-15",
+  "printed_by": "Areesha Kaleem"
+}

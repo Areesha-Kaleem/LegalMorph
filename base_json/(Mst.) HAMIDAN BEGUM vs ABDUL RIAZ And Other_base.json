@@ -1,0 +1,85 @@
+{
+  "case_title": "(Mst.) HAMIDAN BEGUM vs ABDUL RIAZ And Other",
+  "reference_no_or_id": "Writ Petition No. 607 of 1992",
+  "judgment_date": "1993-10-28",
+  "first_hearing_date": "N/A",
+  "court": "Lahore High Court",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Fazal Karim"
+  ],
+  "appellant": [
+    "Mst. Hamidan Begum"
+  ],
+  "respondant": [
+    "Abdul Riaz",
+    "Other"
+  ],
+  "accussed_details": [
+    {
+      "name": "Abdul Riaz",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "N/A",
+      "allegation": [
+        "Failure to provide maintenance for two years",
+        "Failure to perform marital obligations for three years",
+        "Cruelty"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "The petitioner, Mst. Hamidan Begum, sought dissolution of marriage on grounds of non-maintenance, non-performance of marital obligations, cruelty, and khula.",
+  "investigation_summary": "The Family Judge found that the respondent failed to maintain the petitioner for over two years, failed to perform marital obligations for over three years, and treated her with cruelty. The marriage was dissolved on the basis of khula, conditional upon the return of 6 kanals of land transferred to the petitioner at the time of marriage.",
+  "judgment_summary": "The Lahore High Court declared the orders of the Family Judge and Additional District Judge, which required the petitioner to return 6 kanals of land, as without lawful authority. The court held that the dissolution of marriage on grounds of non-maintenance, non-performance of marital obligations, and cruelty did not necessitate the return of the land.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Petition accepted; orders requiring return of 6 kanals of land declared without lawful authority.",
+  "legal_arguments": [
+    "The petitioner argued that the dissolution of marriage on grounds of non-maintenance, non-performance of marital obligations, and cruelty did not require the return of land.",
+    "The respondent argued that dissolution on the basis of khula necessitated the return of benefits derived from the marriage."
+  ],
+  "assets": [
+    "6 kanals of land"
+  ],
+  "statutes": [
+    "Article 199 of the Constitution of Pakistan"
+  ],
+  "sections": [
+    "N/A"
+  ],
+  "citations": [
+    "Dr Akhlaq Ahmad Vs. Mst. Kishwar Sultana and others (PLD 1983 S.C.169)",
+    "Sarnia Akber Vs. Muhammad Zubair (NLR 1990 Civil 155)"
+  ],
+  "witnesses": [
+    "N/A"
+  ],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Family Law",
+    "Dissolution of Marriage"
+  ],
+  "key_issues": [
+    "Whether the Family Judge was correct in ordering the return of 6 kanals of land.",
+    "Whether the dissolution of marriage on grounds other than khula required the return of benefits."
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "Khula": "A form of divorce initiated by the wife in Islamic law, requiring her to return the dower or other benefits received."
+  },
+  "words_and_phrases": {
+    "Hibanama": "A gift deed in Islamic law."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around the dissolution of marriage between Mst. Hamidan Begum and Abdul Riaz. The Family Judge dissolved the marriage on grounds of khula, requiring the petitioner to return 6 kanals of land. The Lahore High Court overturned this decision, stating that dissolution on other grounds (non-maintenance, non-performance of marital obligations, and cruelty) did not necessitate the return of the land. The court emphasized that the Family Judge's reliance solely on khula was a legal error."
+}

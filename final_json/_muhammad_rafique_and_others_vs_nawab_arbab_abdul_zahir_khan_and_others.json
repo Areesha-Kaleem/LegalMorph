@@ -1,0 +1,136 @@
+{
+  "case_title": "Muhammad Rafique and others vs Nawab Arbab Abdul Zahir Khan and others",
+  "reference_no_or_id": "Civil Revision Petition No.(s) 31 of 2024",
+  "case_number": "Civil Revision Petition No. 31 of 2024",
+  "judgment_date": "2024-12-08",
+  "first_hearing_date": "N/A",
+  "court": "Balochistan High Court",
+  "court_name": "Balochistan High Court",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Gul Hassan Tareen"
+  ],
+  "appellant": [
+    "Muhammad Rafique and others"
+  ],
+  "respondant": [
+    "Nawab Arbab Abdul Zahir Khan and others"
+  ],
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": []
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Mr. Inayatullah Khan Marghzani"
+    ],
+    "defense": [
+      "Mr. Abdul Zahir Kakar"
+    ]
+  },
+  "advocates": {
+    "petitioners": "Mr. Inayatullah Khan Marghzani",
+    "respondents": "Mr. Abdul Zahir Kakar"
+  },
+  "complaint_summary": "Dispute over ownership of shops allegedly constructed on respondents' land versus land leased by petitioners from Municipal Committee, Sibi.",
+  "investigation_summary": "Respondents claimed the shops were constructed on their land, while petitioners argued they were built on leased land from Municipal Committee, Sibi. Evidence included lease documents and oral testimony.",
+  "judgment_summary": {
+    "original_judgment_date": "2023-03-27",
+    "appellate_judgment_date": "2024-03-18",
+    "trial_court": "Judicial Magistrate-II/Civil Judge, Sibi",
+    "appellate_court": "Addl: District Judge-I, Sibi",
+    "appellate_decision": "Partly allowed respondents' appeal, remanded case to Trial Court",
+    "issues_to_be_frmed": "Whether subject shops are part of the respondents' property",
+    "procedural_error": "Appellate Court overlooked rules 25 and 26 of the Code of Civil Procedure 1908",
+    "modification": "Trial Judge directed to issue local commission for site inspection and further evidence"
+  },
+  "punishment": "N/A",
+  "Decision_or_verdict": "Civil revision petition partly allowed; case remanded to Trial Court for further investigation and findings.",
+  "result": "Order accordingly",
+  "legal_arguments": [
+    "Petitioners argued oral evidence and lease documents were sufficient to prove the shops were not part of respondents' land.",
+    "Respondents contended site inspection by a local commission was necessary to resolve the dispute."
+  ],
+  "assets": [
+    "218874 sq.ft. of land described in para 2 of the plaint"
+  ],
+  "property_details": {
+    "respondents_property": "218874 sq. ft. described in para 2 of plaint",
+    "petitioners_claim": "Shops constructed on Municipal Committee, Sibi land leased to their predecessor"
+  },
+  "statutes": [
+    "Code of Civil Procedure 1908"
+  ],
+  "sections": [
+    "Order XLI rule 23",
+    "Order XLI rule 25",
+    "Order XLI rule 26"
+  ],
+  "legal_references": {
+    "code_of_civil_procedure": {
+      "order_xli_rule_23": "Not applicable",
+      "order_xli_rule_25": "Applicable",
+      "order_xli_rule_26": "Applicable"
+    }
+  },
+  "citations": [
+    "2025 CLC 404"
+  ],
+  "reported_as": "2025 CLC 404",
+  "witnesses": [
+    "PW-1"
+  ],
+  "witness_statement": {
+    "PW-1": "Admitted respondents have no concern with the subject shops as they were not part of respondents' land."
+  },
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Civil Revision",
+    "Property Dispute"
+  ],
+  "key_issues": [
+    "Ownership of shops constructed on disputed land.",
+    "Procedural error in remand judgment by Appellate Court."
+  ],
+  "directions": {
+    "local_commission": {
+      "participants": [
+        "Revenue Authority with record",
+        "Representative of Municipal Committee, Sibi with record"
+      ],
+      "objective": "Determine whether subject shops are part of respondents' property"
+    },
+    "trial_court": {
+      "actions": [
+        "Deal with local commission report as per law",
+        "Allow both sides to lead further evidence if desired",
+        "Return evidence/report to Appellate Court with findings within 30 days"
+      ]
+    },
+    "appellate_court": {
+      "actions": [
+        "Determine appeal after findings return",
+        "Allow objections within 15 days"
+      ]
+    }
+  },
+  "maxims": {},
+  "legal_terms": {
+    "Remand": "Sending a case back to the lower court for further action.",
+    "Local Commission": "A court-appointed entity to inspect and report on disputed property."
+  },
+  "words_and_phrases": {
+    "Lessee": "A person who leases property.",
+    "Licensee": "A person granted permission to use property without ownership rights."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "disclaimer": "Judgment may be subject to updates or revisions. Consult official sources for legally binding versions.",
+  "summary_vector_notes": "The case involves a property dispute over shops allegedly constructed on respondents' land versus land leased by petitioners from Municipal Committee, Sibi. The Appellate Court remanded the case to the Trial Court for site inspection and further evidence. Procedural errors in the remand judgment were identified and corrected."
+}

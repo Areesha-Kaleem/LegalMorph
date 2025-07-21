@@ -1,0 +1,130 @@
+{
+  "case_title": "COMMISSIONER OF WEALTH TAX vs MOTILAL CHHADAMILAL",
+  "reference_no_or_id": "W.T.R.NO. 122 of 1983",
+  "case_number": "W.T.R.NO. 122 of 1983",
+  "judgment_date": "2006-02-14",
+  "first_hearing_date": "N/A",
+  "court": "Allahabad High Court",
+  "court_name": "Allahabad High Court",
+  "bench_type": "Division Bench",
+  "judges": [
+    "A. K. Yog",
+    "Prakash Krishna"
+  ],
+  "appellant": [
+    "Commissioner of Wealth Tax"
+  ],
+  "respondant": [
+    "Motilal Chhadamilal"
+  ],
+  "accussed_details": [
+    {
+      "name": "Motilal Chhadamilal",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Factory Owner",
+      "allegation": [
+        "Dispute over inclusion of Rs.2,08,000 in net wealth under Wealth Tax Act"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Sri Bharat Ji Agarwal"
+    ],
+    "defense": []
+  },
+  "complaint_summary": "The Wealth Tax Officer added Rs.2,08,000 received as interest and compensation on land acquisition to the net wealth of the assessee, which was challenged by the assessee.",
+  "investigation_summary": "The Tribunal directed the Wealth Tax Officer to investigate the financial position of the vendee company, the compromise petition, and the litigation outcomes, but the officer failed to conduct proper inquiries.",
+  "judgment_summary": "The court ruled that the Rs.2,08,000 received by the assessee was not includible in the net wealth as the title to the property and authority to receive compensation were sub-judice and not finalized.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "In favor of the assessee and against the Revenue.",
+  "result": "Order accordingly",
+  "reported_as": "97 TAX 361",
+  "assessment_year": "1973-74",
+  "legal_question": "Whether, on the facts and in the circumstances of the case, the Tribunal was correct in law in holding that the amount of Rs.2,00,641 on account of interest and compensation on account of the acquisition of land could not be included in the net wealth of the assessee?",
+  "facts": {
+    "property_sold": "Bimal Glass Works",
+    "sale_date": "1991-05-26",
+    "sale_price": "Rs.10,50,000",
+    "cash_received": "Rs.4,00,000",
+    "balance_due": "Rs.6,87,000 (including interest)",
+    "litigation": [
+      {
+        "initiated_by": "Assessee",
+        "against": "Collector, Agra",
+        "claim": "Vendor's lien",
+        "status": "Decreed, challenged in High Court"
+      },
+      {
+        "initiated_by": "Assessee",
+        "against": "M/s Shri Veer Industries Ltd.",
+        "claim": "Recovery of unpaid amount",
+        "status": "Decreed, challenged in High Court"
+      }
+    ],
+    "compromise_status": "Disputed and pending acceptance by court",
+    "compensation_awarded": "Collector awarded compensation and interest",
+    "compensation_status": "Deposited in fixed deposit under court order",
+    "railways_appeal": "Pending before District Judge"
+  },
+  "tribunal_findings": {
+    "amount_added_by_wealth_tax_officer": "Rs.2,08,000",
+    "tribunal_decision": "Deleted addition, citing lack of clear legal title to compensation amount"
+  },
+  "legal_arguments": [
+    "The Department argued that the sum should be included in net wealth as the assessee had possession of the property.",
+    "The assessee contended that the compromise petition was not accepted by the court, and the title to the property was not transferred back to him."
+  ],
+  "assets": [
+    "Rs.2,08,000 deposited in fixed deposit under court orders"
+  ],
+  "statutes": [
+    "Wealth Tax Act, 1957"
+  ],
+  "sections": [
+    "Section 27(3)"
+  ],
+  "citations": [
+    "CWT v. U.C. Mehatab [1998] 231 ITR 501",
+    "Vidhyadhar v. Mankikrao, AIR 1999 SC 1441",
+    "F.S. Ghandi v. CWT [1990] 184 ITR 34; AIR 1991 SC 1866"
+  ],
+  "legal_principles": {
+    "ownership_transfer": "Title passes upon registration of sale deed, even if full payment is pending (Vidhyadhar v. Mankikrao, AIR 1999 SC 1441)",
+    "asset_definition": "Precarious possession or disputed entitlement does not constitute an asset under Wealth Tax Act (F.S. Ghandi v. CWT [1990] 184 ITR 34; AIR 1991 SC 1866)"
+  },
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Wealth Tax",
+    "Property Law",
+    "Taxation"
+  ],
+  "key_issues": [
+    "Whether Rs.2,08,000 received as interest and compensation could be included in the net wealth of the assessee.",
+    "Validity of the compromise petition and its impact on ownership and compensation."
+  ],
+  "maxims": {
+    "Ownership Transfer": "Ownership of immovable property can only be transferred by registered sale deed or decree."
+  },
+  "legal_terms": {
+    "Net Wealth": "The total value of assets minus liabilities under the Wealth Tax Act.",
+    "Vendor's Lien": "The right of a seller to retain possession of property until payment is made."
+  },
+  "words_and_phrases": {
+    "Permissive Possession": "Possession granted by the owner without transferring title.",
+    "Sub-judice": "Under judicial consideration and not yet decided."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around whether Rs.2,08,000 received by the assessee as interest and compensation should be included in his net wealth under the Wealth Tax Act. The court ruled in favor of the assessee, stating that the title to the property and authority to receive compensation were sub-judice and not finalized.",
+  "final_decision": {
+    "question_answered": "Affirmative",
+    "in_favor_of": "Assessee",
+    "against": "Revenue",
+    "costs": "No order as to costs"
+  }
+}

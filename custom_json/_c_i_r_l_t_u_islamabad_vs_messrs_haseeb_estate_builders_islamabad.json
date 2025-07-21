@@ -1,0 +1,90 @@
+{
+  "case_title": "C. I.R., L.T.U., ISLAMABAD vs Messrs HASEEB ESTATE BUILDERS, ISLAMABAD",
+  "case_number": "I.T.A. No.845/IB of 2011",
+  "judgment_date": "2012-06-27",
+  "court_name": "Appellate Tribunal Inland Revenue",
+  "judges": [
+    "Munsif Khan Minhas",
+    "Asad Ali Jan"
+  ],
+  "appellant": "C. I.R., L.T.U., ISLAMABAD",
+  "respondent": "Messrs HASEEB ESTATE BUILDERS, ISLAMABAD",
+  "result": "Appeal rejected",
+  "reported_as": "2012 P T D (Trib.) 1775",
+  "grounds_of_appeal": [
+    "No documents were provided by the Taxpayer before the Assessing Officer.",
+    "CIR(A) was not justified to admit new evidence under section 128(5) of the Income Tax Ordinance, 2001.",
+    "CIR(A) did not provide cogent reasons for vacating the Assessing Officer's order."
+  ],
+  "facts_of_case": {
+    "tax_year": 2004,
+    "declared_net_loss": "Rs.12,689,806",
+    "assessed_suppressed_receipts": "Rs.168,154,163",
+    "bank_accounts_involved": [
+      {
+        "account_number": "6063-033099-001",
+        "addition": "Rs.41,840,499"
+      },
+      {
+        "account_number": "6063-271232-090",
+        "addition": "Rs.138,569,374"
+      },
+      {
+        "account_number": "0636-120579-001",
+        "addition": "Rs.1,500,000"
+      }
+    ]
+  },
+  "appeal_observations": {
+    "CIR(A) decision": "Deleted addition of Rs.168,154,163 as suppressed receipts.",
+    "reasoning": "No definite information provided by the Assessing Officer to justify the addition.",
+    "departmental_appeal": "Considered of no merit and rejected."
+  },
+  "legal_references": [
+    "1997 SCMR 1256 = 4997 PTD 1485 (S.C. Pak)",
+    "2003 PTD 1885",
+    "1986 PTD 37",
+    "(1989) 59 Tax 112 (H.C. Lah.)",
+    "1997 PTD (Trib.) 2037",
+    "(1941) 9 ITR"
+  ],
+  "key_points": {
+    "total_circulating_capital": "Rs.320,269,964",
+    "business_nature": "Builder",
+    "assessment_flaws": [
+      "No nexus established between credit entries and business receipts.",
+      "Open-ended assessment based on presumptive basis.",
+      "Fishing inquiries made without definite information."
+    ],
+    "taxpayer_sources": [
+      {
+        "source": "Sales declared",
+        "amount": "Rs.13,755,710"
+      },
+      {
+        "source": "Advance rent from Pakistan Telenor",
+        "amount": "Rs.14,592,000"
+      },
+      {
+        "source": "Opening balance as of July 1, 2003",
+        "amount": "Rs.18,957,900"
+      },
+      {
+        "source": "Investment from Jawad Saeed Bajwa",
+        "amount": "Rs.35,000,000"
+      },
+      {
+        "source": "Bank borrowing (Account No. 6036-033099-001)",
+        "amount": "Rs.170,964,354"
+      },
+      {
+        "source": "Advances against sales",
+        "amount": "Rs.47,000,000"
+      },
+      {
+        "source": "Bank loan (Alfalah Bank)",
+        "amount": "Rs.20,000,000"
+      }
+    ]
+  }
+}

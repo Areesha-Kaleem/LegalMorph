@@ -1,0 +1,130 @@
+{
+  "case_title": "Assistant Commissioner, SRB vs M/s. Elixir Securities Pakistan (Pvt.) Limited",
+  "reference_no_or_id": "Appeal No, AT-202/2015",
+  "judgment_date": "2017-01-30",
+  "first_hearing_date": "N/A",
+  "court": "Appellate Tribunal Sindh Revenue Board",
+  "bench_type": "Appellate Tribunal",
+  "judges": [
+    "Nadeem Azhar Siddiqui",
+    "Agha Kafeel Barik"
+  ],
+  "appellant": [
+    "Assistant Commissioner, SRB"
+  ],
+  "respondant": [
+    "M/s. Elixir Securities Pakistan (Pvt.) Limited"
+  ],
+  "accussed_details": [
+    {
+      "name": "M/s. Elixir Securities Pakistan (Pvt.) Limited",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "Registered Stock Broker, Management Services, Advisory Consultancy Services",
+      "allegation": [
+        "Failure to pay tax on Advisory & Consultancy Services",
+        "Omission of taxable services in calculation table"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Mr. Tariq Ali, A.C. SRB"
+    ],
+    "defense": [
+      "Mr. Ahsan Laliwala, FCA"
+    ]
+  },
+  "complaint_summary": "The Assistant Commissioner, SRB alleged that M/s. Elixir Securities Pakistan (Pvt.) Limited failed to pay tax on Advisory & Consultancy Services due to omission in the calculation table of the original order dated 07.11.2014.",
+  "investigation_summary": "The Assistant Commissioner issued a show cause notice on 12.05.2014 confronting the respondent on taxable services. A clerical error was identified in the calculation table, leading to a rectification notice under section 76 on 19.11.2014 and subsequent correction on 01.12.2014.",
+  "judgment_summary": "The Appellate Tribunal set aside the Commissioner (Appeals)' order, ruling that the omission in the original order was a clerical error and within the scope of section 76. The appeal was allowed, and the respondent was taxed on Advisory & Consultancy Services.",
+  "punishment": "Tax imposed on Advisory & Consultancy Services valued at Rs. 13,356,522/- with 16% tax amounting to Rs. 2,137,044/-.",
+  "Decision_or_verdict": "Appeal allowed; Commissioner (Appeals)' order set aside.",
+  "legal_arguments": [
+    "Section 76 allows correction of clerical and arithmetical errors.",
+    "The omission was inadvertent and not deliberate.",
+    "Clerical errors can be corrected without amending judicial intent."
+  ],
+  "assets": [
+    "Taxable services valued at Rs. 13,356,522/-"
+  ],
+  "statutes": [
+    "Sindh Revenue Board Act"
+  ],
+  "sections": [
+    "Section 76",
+    "Sections 23, 43"
+  ],
+  "citations": [
+    "PTCL 2017 CL. 781"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "AT/206/2015 (related appeal)",
+  "legal_categories": [
+    "Taxation Law",
+    "Clerical Error Correction"
+  ],
+  "key_issues": [
+    "Scope of section 76 for clerical error correction",
+    "Taxation of Advisory & Consultancy Services"
+  ],
+  "maxims": {
+    "Clerical Error": "Defined as a mistake or omission not resulting from judicial function."
+  },
+  "legal_terms": {
+    "Clerical Error": "Mistake or omission by a clerk, counsel, judge, or printer."
+  },
+  "words_and_phrases": {
+    "Errors & Omissions": "Common accounting phrase for inadvertent mistakes."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around the correction of a clerical error in tax calculation under section 76 of the Sindh Revenue Board Act. The Appellate Tribunal ruled in favor of the Assistant Commissioner, SRB, allowing the appeal and imposing tax on omitted Advisory & Consultancy Services.",
+  "case_number": "Appeal No, AT-202/2015",
+  "court_name": "Appellate Tribunal Sindh Revenue Board",
+  "result": "Appeal allowed",
+  "reported_as": "PTCL 2017 CL. 781",
+  "legal_provisions": {
+    "sections": [
+      "76(1)",
+      "23",
+      "43"
+    ],
+    "tariff_headings": [
+      "9819.1000",
+      "9824.0000",
+      "9813.8100"
+    ]
+  },
+  "facts": {
+    "registered_services": [
+      "Stock broker",
+      "Management services",
+      "Advisory consultancy services"
+    ],
+    "tax_rate": "16%",
+    "omission_details": {
+      "service": "Advisory & Consultancy Services",
+      "value": "13,356,522",
+      "tax_amount": "2,137,044"
+    }
+  },
+  "issues": [
+    "Clerical omission in calculation table of order-in-original dated 07.11.2014",
+    "Scope of Section 76 for correcting clerical and arithmetical errors"
+  ],
+  "arguments": {
+    "appellant": "Correction of omission under Section 76 is valid as it was inadvertent and not deliberate.",
+    "respondent": "Assistant Commissioner exceeded the scope of Section 76 by amending the order substantively."
+  },
+  "decision": {
+    "commissioner_appeals_order": "Set aside",
+    "tribunal_rationale": "Omission was clerical and within the scope of Section 76. No mal-intention or deliberate act was found."
+  },
+  "additional_notes": {
+    "related_case": "Appeal No, AT/206/2015",
+    "implications": "Registered person may file additional grounds in pending appeal."
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "case_title": "Ln The Matter Of Ismail Abdul Shakoor, Member, Karachi Stock Exchange vs NOT",
+  "reference_no_or_id": "Show-Cause Notice No. 1(8) OCT 18/MSW/SMD/2005/38, dated December 26, 2005",
+  "judgment_date": "2006-03-16",
+  "first_hearing_date": "2006-01-05",
+  "court": "Appellate Bench of Securities and Exchange Commission of Pakistan",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Imran Inayat Butt"
+  ],
+  "appellant": [
+    "Ismail Abdul Shakoor"
+  ],
+  "respondant": [
+    "Securities and Exchange Commission of Pakistan"
+  ],
+  "accussed_details": [
+    {
+      "name": "Abdul Rauf",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "Client of Karachi Stock Exchange",
+      "allegation": [
+        "Blank selling of shares",
+        "Violation of Brokers and Agents Registration Rules, 2001",
+        "Violation of Regulations for Short Selling Under Ready Market, 2002"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Shakeel Hussain (Manager of Respondent)"
+    ],
+    "defense": []
+  },
+  "complaint_summary": "The Securities and Exchange Commission of Pakistan issued a Show-Cause Notice to Ismail Abdul Shakoor alleging blank selling of shares by his client Abdul Rauf, violating the Brokers and Agents Registration Rules, 2001 and Regulations for Short Selling Under Ready Market, 2002.",
+  "investigation_summary": "The Commission investigated trading data from Karachi Automated Trading System (KATS) and found Abdul Rauf sold and repurchased shares of Bank of Punjab without pre-existing interest or contractual borrowing arrangements, constituting blank selling.",
+  "judgment_summary": "The court found that Abdul Rauf did not have pre-existing interest in the shares of Bank of Punjab and imposed a penalty of Rs. 50,000 on Ismail Abdul Shakoor for violating the Rules and Regulations.",
+  "punishment": "Penalty of Rs. 50,000 to be deposited within 30 days.",
+  "Decision_or_verdict": "Order accordingly; penalty imposed.",
+  "legal_arguments": [
+    "Respondent claimed pre-existing interest in shares based on CDC account records.",
+    "Commission argued lack of documentary evidence proving pre-existing interest or contractual borrowing arrangement."
+  ],
+  "assets": [],
+  "statutes": [
+    "Brokers and Agents Registration Rules, 2001",
+    "Regulations for Short Selling Under Ready Market, 2002"
+  ],
+  "sections": [
+    "Clause 2(a) of Regulations",
+    "Clause 4 of Regulations",
+    "Clause 8(iii) of Rules"
+  ],
+  "citations": [
+    "2006 P.C.T.L.R. 827"
+  ],
+  "witnesses": [
+    "Shakeel Hussain (Manager of Respondent)"
+  ],
+  "witness_statement": {
+    "Shakeel Hussain": "Provided documentary evidence including CDC account records and general ledger of Abdul Rauf but failed to substantiate pre-existing interest in shares."
+  },
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Securities Law",
+    "Stock Market Regulations"
+  ],
+  "key_issues": [
+    "Whether Abdul Rauf had pre-existing interest in shares of Bank of Punjab.",
+    "Violation of Rules and Regulations by the respondent."
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "Blank Sale": "Sale by a party that does not own shares or lacks pre-existing interest or contractual borrowing arrangement."
+  },
+  "words_and_phrases": {
+    "Pre-existing Interest": "Ownership or contractual arrangement prior to sale."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case involved allegations of blank selling of shares by Abdul Rauf, a client of Ismail Abdul Shakoor. The Commission found violations of securities regulations and imposed a penalty of Rs. 50,000 on the respondent."
+}

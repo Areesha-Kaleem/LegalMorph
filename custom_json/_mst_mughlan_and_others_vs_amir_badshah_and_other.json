@@ -1,0 +1,53 @@
+{
+  "case_title": "Mst. MUGHLAN And Others vs AMIR BADSHAH And OTHER",
+  "case_number": "R.O.R. No. 3447 of 1986",
+  "court": "Board of Revenue, Punjab",
+  "judgment_date": "1988-06-07",
+  "judge": "Sarfraz Hussain",
+  "result": "Revision accepted",
+  "reported_as": "1988 C L C 2441",
+  "appellants": "Mst. MUGHLAN And Others",
+  "respondents": "AMIR BADSHAH And OTHER",
+  "legal_basis": {
+    "statute": "Consolidation of Holdings Ordinance, 1960",
+    "section": "Section 13"
+  },
+  "key_facts": {
+    "consolidation_scheme_confirmed": "1983-12-31",
+    "collector_order_date": "1986-05-26",
+    "additional_commissioner_order_date": "1986-11-23",
+    "disputed_khasra": {
+      "old_number": "6216",
+      "new_number": "3201",
+      "area": "40 Kanals"
+    },
+    "mutation_number": "6245",
+    "mutation_date": "1963-08-23",
+    "petitioners_land_record": {
+      "khasra_number": "5791/3201",
+      "area": "40 Kanals",
+      "khewat_number": "674"
+    },
+    "respondent_6_land": "Owned by Imam Din"
+  },
+  "arguments": {
+    "petitioners": {
+      "claim": "Disputed land belongs to petitioners as per mutation and possession since 1963.",
+      "objection": "Collector condoned time-barred appeal without justification.",
+      "contention": "Orders of lower courts are factually incorrect and legally flawed."
+    },
+    "respondents": {
+      "claim": "Disputed land was jointly purchased by petitioners and Imam Din.",
+      "justification": "Adjustment of land was in accordance with consolidation law.",
+      "defense": "Delay in appeal filing was rightly condoned."
+    }
+  },
+  "judgment": {
+    "findings": {
+      "collector_error": "Failed to examine relevant records.",
+      "respondent_1_action": "Signed register scheme but filed time-barred appeal.",
+      "additional_commissioner_error": "Dismissed appeal without addressing key issues."
+    },
+    "decision": "Revision petition allowed. Orders of Additional Commissioner and Collector set aside. Original consolidation scheme restored."
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "case_title": "Messrs Hussain Mills Limited, Karachi vs The Commissioner Inland Revenue, Zone-III, LTU, Karachi",
+  "case_number": "I.T.As. Nos.856/KB to 876/KB of 2019",
+  "court_name": "Appellate Tribunal Inland Revenue",
+  "judges": [
+    "Saif Ullah Khan",
+    "Ambreen Aslam"
+  ],
+  "judgment_date": "2019-12-11",
+  "reported_as": "2021 P T D (Trib.) 35",
+  "appellant": "Messrs Hussain Mills Limited, Karachi",
+  "respondent": "The Commissioner Inland Revenue, Zone-III, LTU, Karachi",
+  "result": "Appeals accepted",
+  "grounds_of_appeal": [
+    "Combined Order passed for the months from July 2015 to November 2016 and March 2017 to June 2017 under section 129 of Income Tax Ordinance, 2001 is bad in law and on facts.",
+    "Learned CIRA erred in confirming action of DCIR of passing an order under section 182 of the Ordinance.",
+    "DCIR levied penalty for late filing of monthly statement under section 165 of the Ordinance without considering technical issues with FBR IRIS portal.",
+    "Penalty under section 182(1) was excessive and uncalled for as no mens rea or ulterior motive was involved.",
+    "Due tax on payments was deducted and paid in time, and penalty related to supplementary compliance should be deleted."
+  ],
+  "key_issues": [
+    "Failure to file monthly withholding tax statements under section 165 of Income Tax Ordinance, 2001.",
+    "Imposition of penalties under section 182 of the Ordinance.",
+    "Technical issues with FBR IRIS portal affecting compliance.",
+    "Mens rea and negligence in filing withholding tax statements."
+  ],
+  "penalty_details": [
+    {
+      "period": "July 2015",
+      "days": 492,
+      "penalty_amount": 1230000
+    },
+    {
+      "period": "August 2015",
+      "days": 461,
+      "penalty_amount": 1152500
+    },
+    {
+      "period": "September 2015",
+      "days": 430,
+      "penalty_amount": 1075000
+    },
+    {
+      "period": "October 2015",
+      "days": 400,
+      "penalty_amount": 1000000
+    },
+    {
+      "period": "November 2015",
+      "days": 370,
+      "penalty_amount": 925000
+    },
+    {
+      "period": "March 2017",
+      "days": 671,
+      "penalty_amount": 1677500
+    },
+    {
+      "period": "April 2017",
+      "days": 640,
+      "penalty_amount": 1600000
+    },
+    {
+      "period": "May 2017",
+      "days": 610,
+      "penalty_amount": 1525000
+    }
+  ],
+  "arguments_by_appellant": [
+    "Technical issues with FBR IRIS portal prevented timely filing.",
+    "No mens rea or negligence involved in late filing.",
+    "Tax was deducted and paid in time, fulfilling primary obligations."
+  ],
+  "arguments_by_respondent": [
+    "Penalties imposed were lawful and within the framework of the law.",
+    "Appellant failed to provide sufficient evidence of technical issues.",
+    "Non-compliance with prescribed format for withholding statements."
+  ],
+  "tribunal_observations": [
+    "Taxpayer provided reasonable cause for late filing due to technical issues with IRIS portal.",
+    "Department failed to counter taxpayer's claims regarding system inefficiencies.",
+    "No mens rea or negligence was established on the part of the taxpayer."
+  ],
+  "final_decision": "Impugned order set aside; appeals accepted."
+}

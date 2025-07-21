@@ -1,0 +1,68 @@
+{
+  "court_name": "Balochistan High Court",
+  "judge": "Ahmed Khan Lashari",
+  "case_title": "CHAIRMAN EVACUEE TRUST PROPERTY BOARD, GOVERNMENT OF PAKISTAN, LAHORE and another vs PRESIDENT OF QUETTA HINDU PUNCHAYAT and another",
+  "case_number": "Civil Misc. Appin. Nos, 220 & 221 of 2009, in C.R. No, 176 of 2005",
+  "judgment_date": "2009-07-20",
+  "reported_as": "PLJ 2010 Quetta 10",
+  "result": "Applications dismissed",
+  "appellants": "CHAIRMAN EVACUEE TRUST PROPERTY BOARD, GOVERNMENT OF PAKISTAN, LAHORE and Assistant Administrator, Evacuee Trust Property Board, Quetta",
+  "respondents": "PRESIDENT OF QUETTA HINDU PUNCHAYAT and Dr. Tara Chand",
+  "property_details": {
+    "name": "Arya Samaj Mandir",
+    "municipal_number": "2-37/10-A",
+    "location": "Masjid Road, Quetta",
+    "khasra_number": "4320",
+    "area": "9145 sq.ft.",
+    "description": "Four rooms with prayer halls"
+  },
+  "legal_proceedings": {
+    "trial_court_decision": {
+      "date": "2004-04-05",
+      "result": "Suit dismissed"
+    },
+    "appeal_decision": {
+      "date": "2005-02-26",
+      "result": "Appeal allowed, suit decreed"
+    },
+    "civil_revision_petition": {
+      "admission_date": "2005-05-29",
+      "dismissal_date": "2008-05-23",
+      "reason": "Default and non-prosecution"
+    },
+    "restoration_application": {
+      "filing_date": "2009-03-04",
+      "result": "Dismissed"
+    }
+  },
+  "arguments": {
+    "applicants": {
+      "counsel": [
+        "Kamran Murtaza",
+        "Abid Mehmood"
+      ],
+      "reason_for_absence": "Illness and subsequent death of counsel's brother",
+      "delay_explanation": "No sufficient explanation for nine-month delay",
+      "legal_references": [
+        "1971 SCMR 740",
+        "PLD 1997 Peshawar 55",
+        "2004 SCMR 400"
+      ]
+    },
+    "respondents": {
+      "counsel": "Sundar Dass",
+      "argument": "Delay not justified, applications lack merit",
+      "legal_references": [
+        "2004 SCMR 387-615",
+        "PLJ 1994 Lahore 542"
+      ]
+    }
+  },
+  "legal_principles": {
+    "limitation_period": "Three years under Article 181 of Limitation Act",
+    "precedents": [
+      "2004 SCMR 387 - Delay must be explained for each day",
+      "2004 SCMR 615 - Negligence and lack of diligence not excused"
+    ]
+  }
+}

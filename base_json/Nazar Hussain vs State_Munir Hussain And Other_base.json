@@ -1,0 +1,110 @@
+{
+  "case_title": "Nazar Hussain vs State/Munir Hussain And Other",
+  "reference_no_or_id": "R.O.R No. 2269 of 1996",
+  "judgment_date": "2005-09-14",
+  "first_hearing_date": "N/A",
+  "court": "Board of Revenue, Punjab",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Tauqir Ahmad Faiq"
+  ],
+  "appellant": [
+    "Nazar Hussain"
+  ],
+  "respondant": [
+    "State",
+    "Munir Hussain",
+    "Ali Haider"
+  ],
+  "accussed_details": [
+    {
+      "name": "Munir Hussain",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Son of deceased Lambardar",
+      "allegation": [
+        "Claiming hereditary appointment as Lambardar under rule 19(2) of Land Revenue Rules, 1968"
+      ]
+    },
+    {
+      "name": "Ali Haider",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Candidate for Lambardar post",
+      "allegation": [
+        "Claiming appointment based on majority community representation and land ownership"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Malik Ghulam Shabbir Khokhar (for Nazar Hussain)"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "Dispute over appointment of Lambardar for Chak No. 315/TDA following the death of Wali Muhammad, a temporary Lambardar.",
+  "investigation_summary": "District Collector Layyah appointed Nazar Hussain as Lambardar under rule 17 of the Land Revenue Rules, 1968. Appeals and revisions were filed by Munir Hussain and Ali Haider, leading to multiple judgments and remands by higher authorities.",
+  "judgment_summary": "The court restored the District Collector's order dated 19.1.1995 appointing Nazar Hussain as Lambardar, setting aside the orders of Commissioner D.G. Khan and Member Board of Revenue. The rule of primogeniture was deemed repugnant to Islamic injunctions, and claims were evaluated on merit.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Revision accepted; Nazar Hussain reinstated as Lambardar.",
+  "legal_arguments": [
+    "Rule of primogeniture declared repugnant to Islamic injunctions.",
+    "District Gazetteer of Muzaffargarh used to differentiate between Dhool and Kharral communities.",
+    "Choice of District Collector upheld unless patently perverse."
+  ],
+  "assets": [
+    {
+      "owner": "Ali Haider",
+      "type": "Land",
+      "quantity": "120 Kanals"
+    },
+    {
+      "owner": "Nazar Hussain",
+      "type": "Land",
+      "quantity": "80 Kanals"
+    }
+  ],
+  "statutes": [
+    "West Pakistan Land Revenue Rules, 1968"
+  ],
+  "sections": [
+    "Rule 17",
+    "Rule 19(2)"
+  ],
+  "citations": [
+    "PLD 1962-R-112",
+    "PLD 1963-R-41",
+    "PLD 1959-R-62",
+    "(K.L.R. 2005 Revenue Cases 119)"
+  ],
+  "witnesses": [
+    "N/A"
+  ],
+  "witness_statement": {},
+  "appeal_number": "3936/03 and 3629/03 (High Court, Multan Bench)",
+  "legal_categories": [
+    "Revenue Law",
+    "Islamic Law"
+  ],
+  "key_issues": [
+    "Validity of rule of primogeniture under Islamic injunctions.",
+    "Merit-based evaluation of candidates for Lambardar post.",
+    "Community representation in Lambardar appointment."
+  ],
+  "maxims": {
+    "Primogeniture": "Declared repugnant to Islamic injunctions."
+  },
+  "legal_terms": {
+    "Lambardar": "Village headman responsible for revenue collection and administrative duties.",
+    "Primogeniture": "Right of the eldest son to inherit his father's position."
+  },
+  "words_and_phrases": {
+    "Zar-e-Bart": "Surety amount required for Lambardar appointment."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "Dispute over Lambardar appointment resolved by restoring District Collector's choice of Nazar Hussain. Rule of primogeniture invalidated, and claims evaluated on merit. Community representation and land ownership considered."
+}

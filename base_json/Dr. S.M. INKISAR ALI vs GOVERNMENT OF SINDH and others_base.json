@@ -1,0 +1,89 @@
+{
+  "case_title": "Dr. S.M. Inkisar Ali vs Government of Sindh and others",
+  "reference_no_or_id": "Civil Appeals Nos. 1254 and 1255 of 2005",
+  "judgment_date": "2010-10-20",
+  "first_hearing_date": "N/A",
+  "court": "Supreme Court of Pakistan",
+  "bench_type": "Coram of 2 Judges",
+  "judges": [
+    "Rehmat Hussain Jaffery",
+    "Ghulam Rabbani"
+  ],
+  "appellant": [
+    "Dr. S.M. Inkisar Ali"
+  ],
+  "respondant": [
+    "Government of Sindh",
+    "Others"
+  ],
+  "accussed_details": [
+    {
+      "name": "Dr. S.M. Inkisar Ali",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Assistant Professor (BS-18)",
+      "allegation": [
+        "Dispute over seniority and promotion in BS-20"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Mr. Abrar Hassan",
+      "Mr. Abdul Fateh Malik"
+    ],
+    "defense": [
+      "Mr. Sohail H. K. Rana",
+      "Mr. Mushtaq A. Memon",
+      "Mr. Khalid Javed Khan"
+    ]
+  },
+  "complaint_summary": "Dispute over seniority and promotion between appellant and respondent in BS-20 under Sindh Civil Servants Rules.",
+  "investigation_summary": "The appellant and respondent were promoted to BS-20 on regular basis in 1996 after fulfilling requisite qualifications. Disputes arose over seniority lists and acting charge promotions.",
+  "judgment_summary": "The Supreme Court ruled that the appellant was senior to the respondent based on regular promotions and dismissed appeals challenging the seniority list and notifications. Acting charge promotions were deemed temporary and did not confer seniority rights.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Appeal allowed; appellant declared senior to respondent.",
+  "legal_arguments": [
+    "Rule 8-A of Sindh Civil Servants Rules regarding acting charge promotions.",
+    "Distinction between regular and acting charge promotions.",
+    "Supersession does not apply in acting charge promotions."
+  ],
+  "assets": [],
+  "statutes": [
+    "Sindh Civil Servants (Appointment, Promotion and Transfer) Rules, 1974"
+  ],
+  "sections": [
+    "Rule 8",
+    "Rule 8-A"
+  ],
+  "citations": [
+    "2011 SCMR 121"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Civil Service Law",
+    "Promotion Disputes"
+  ],
+  "key_issues": [
+    "Seniority dispute between appellant and respondent.",
+    "Validity of acting charge promotions.",
+    "Impact of supersession on seniority."
+  ],
+  "maxims": {
+    "Acting charge appointment": "Does not confer seniority rights."
+  },
+  "legal_terms": {
+    "Supersession": "Being passed over for promotion due to lack of qualifications or other valid reasons.",
+    "Acting charge": "Temporary promotion to fill a vacancy without conferring seniority rights."
+  },
+  "words_and_phrases": {
+    "Ad hoc": "Temporary or provisional arrangement.",
+    "Seniority list": "A list ranking officers based on their service and qualifications."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around a seniority dispute between Dr. S.M. Inkisar Ali and the Government of Sindh. The Supreme Court clarified the distinction between regular and acting charge promotions, ruling that acting charge promotions do not confer seniority rights. The appellant was declared senior to the respondent based on regular promotions in BS-20."
+}

@@ -1,0 +1,193 @@
+{
+  "case_title": "Sh. AZIZ-UR-RAHMAN AND Another vs BAHAWALNAGAR CO OPERATIVE COMMISSION SHOP LTD. AND Other",
+  "reference_no_or_id": "Regular First Appeal No. 2 of 195",
+  "judgment_date": "1962-02-24",
+  "first_hearing_date": "N/A",
+  "court": "Baghdad-ul-Jadid",
+  "bench_type": "N/A",
+  "judges": [
+    "Sajjad Ahmad Jan",
+    "Bashir Ahmad"
+  ],
+  "appellant": [
+    "Sheikh Abdur Rahman",
+    "Sheikh Aziz-ur-Rahman"
+  ],
+  "respondant": [
+    "Bahawalnagar Co-operative Commission Shop Ltd.",
+    "Other"
+  ],
+  "accussed_details": [
+    {
+      "name": "Sheikh Abdur Rahman",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Partner of Bahawalpur Cotton Company",
+      "allegation": [
+        "Failure to repay loan",
+        "Negligence in managing pledged goods"
+      ]
+    },
+    {
+      "name": "Sheikh Aziz-ur-Rahman",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Partner of Bahawalpur Cotton Company",
+      "allegation": [
+        "Failure to repay loan"
+      ]
+    },
+    {
+      "name": "Sheikh Rahmat Ullah",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Partner of Bahawalpur Cotton Company",
+      "allegation": [
+        "Obstruction in removal of pledged goods"
+      ]
+    },
+    {
+      "name": "Muhammad Ali",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Partner of Bahawalpur Cotton Company",
+      "allegation": [
+        "Denial of liability for pledged goods"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [],
+    "defense": []
+  },
+  "complaint_summary": "The plaintiff filed a suit for recovery of Rs. 25,405-13-6 against Bahawalpur Cotton Company for loans advanced on pledged seed cotton and cotton bales.",
+  "investigation_summary": "The plaintiff verified the pledged goods through stockists and advanced loans based on assurances. Disputes arose over the sale of pledged goods and obstruction by one partner.",
+  "judgment_summary": "The court partly accepted the appeal, disallowing interest awarded by the trial judge but upheld the liability of the defendants for the principal amount. The cross-objections filed by the plaintiff were dismissed.",
+  "punishment": "Liability to repay Rs. 24,456-8-3 without interest.",
+  "Decision_or_verdict": "Appeal partly accepted; cross-objections dismissed.",
+  "legal_arguments": [
+    "Plaintiff argued for recovery of loan based on pledged goods.",
+    "Defendants claimed negligence by plaintiff in selling goods timely.",
+    "Defendants denied liability for interest due to absence of contractual stipulation."
+  ],
+  "assets": [
+    "500 maunds of seed cotton",
+    "100 cotton bales"
+  ],
+  "statutes": [
+    "Contract Act, Sections 148, 149, 161, 176",
+    "Partnership Act, Sections 9, 11, 12, 19, 22, 25, 26"
+  ],
+  "sections": [
+    "Contract Act - Sections 148, 149, 161, 176",
+    "Partnership Act - Sections 9, 11, 12, 19, 22, 25, 26"
+  ],
+  "citations": [
+    "P L D 1962 Baghdad-ul-Jadid 20",
+    "Indian Law Reports 21 Mad. 172",
+    "L R 1925 A C 489",
+    "A I R 1935 Rang. 201"
+  ],
+  "witnesses": [
+    "Sheikh Abdur Rahman",
+    "Stockists (Sayyed Fateh Muhammad Shah, Malik Muhammad Ashiq)"
+  ],
+  "witness_statement": {
+    "Sheikh Abdur Rahman": "Confirmed loans and pledges made to the plaintiff and described contractual terms.",
+    "Stockists": "Verified possession of pledged goods and undertook to retain them until clearance by plaintiff."
+  },
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Contract Law",
+    "Partnership Law"
+  ],
+  "key_issues": [
+    "Liability for repayment of loan",
+    "Obstruction in removal of pledged goods",
+    "Negligence in selling pledged goods timely",
+    "Interest on loan"
+  ],
+  "issues": [
+    {
+      "issue_number": 1,
+      "description": "Is defendant No. 1 an unnecessary party to the case and that it was essential to strike off his name from the list of defendants?",
+      "onus": "Defendants 4 and 5"
+    },
+    {
+      "issue_number": 2,
+      "description": "Is defendant No. 4 a sleeping partner who had no knowledge of the facts stated in the plaint, and what effect these facts had on the suit?",
+      "onus": "Defendants 4 and 5"
+    },
+    {
+      "issue_number": 3,
+      "description": "Did defendant No. 2 take a loan of Rs. 40,000 from the plaintiff in his individual capacity and the other partners, namely, defendants Nos. 3 and 5, were not liable for this amount, the liability being solely of defendant No. 2?",
+      "onus": "Defendants 4 and 5"
+    },
+    {
+      "issue_number": 4,
+      "description": "Did defendant No. 5 obstruct in good faith the removal of 76 bales of cotton?",
+      "onus": "Defendant No. 5"
+    },
+    {
+      "issue_number": 5,
+      "description": "Was the obstruction by defendant No. 5 in his individual capacity and any loss suffered by the firm on that account was an individual responsibility of the defendant No. 5 as owner?",
+      "onus": "Defendants 2 and 3"
+    },
+    {
+      "issue_number": 6,
+      "description": "Were 100 bales of cotton despatched to Karachi for sale on the 16th of December 1952, with the consent of all the partners?",
+      "onus": "Plaintiff"
+    },
+    {
+      "issue_number": 7,
+      "description": "Was there a regular market for the sale of cotton at Bahawalnagar?",
+      "onus": "Defendants 2 and 3"
+    },
+    {
+      "issue_number": 8,
+      "description": "Has the plaintiff caused loss to the defendant-firm by his failure to sell 24 bales of cotton in time?",
+      "onus": "Defendants"
+    },
+    {
+      "issue_number": 9,
+      "description": "Have the ninety-eight bales of cotton been sold for less than the market-price?",
+      "onus": "Defendants 4 and 5"
+    },
+    {
+      "issue_number": 10,
+      "description": "Is the plaintiff entitled to claim interest at the rate of 7.5% per annum of the loan?",
+      "onus": "Plaintiff"
+    },
+    {
+      "issue_number": 11,
+      "description": "To what relief is the plaintiff entitled?",
+      "onus": "Plaintiff"
+    }
+  ],
+  "key_findings": {
+    "relationship": "The relationship between the plaintiff and the defendant was that of pawner and pawnee.",
+    "contractual_obligations": "The plaintiff failed to produce the documents embodying the terms of the contract, raising a presumption against him.",
+    "interest_claim": "Interest was disallowed due to the absence of contractual evidence supporting its inclusion."
+  },
+  "maxims": {
+    "N/A": "N/A"
+  },
+  "legal_terms": {
+    "Pledge": "A bailment of goods as security for payment of a debt or performance of a promise.",
+    "Bailment": "Delivery of goods by one person to another for a specific purpose under a contract."
+  },
+  "words_and_phrases": {
+    "Collateral Security": "Property pledged as security for a loan.",
+    "Constructive Delivery": "Legal delivery of goods without physical transfer."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case involves a dispute over loans advanced by the plaintiff to the defendant firm against pledged goods. The court upheld the liability of the defendants for the principal amount but disallowed interest due to absence of contractual stipulation. The appeal was partly accepted, and cross-objections were dismissed.",
+  "reported_as": "P L D 1962 Baghdad-ul-Jadid 20",
+  "final_decision": {
+    "appeal_result": "Allowed to the extent of disallowing interest; otherwise dismissed.",
+    "cross_objections": "Dismissed.",
+    "costs": "Parties to bear their own costs."
+  }
+}

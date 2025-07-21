@@ -1,0 +1,120 @@
+{
+  "case_title": "K. RAMA MOHAN RAO and 2 others vs COMMISSIONER OF INCOME-TAX",
+  "reference_no_or_id": "Income-tax Cases Nos.46 of 1995, 2 of 1996 and 23 of 1999",
+  "case_number": "Income-tax Cases Nos.46 of 1995, 2 of 1996 and 23 of 1999",
+  "judgment_date": "1999-06-08",
+  "first_hearing_date": "N/A",
+  "court": "Andhra Pradesh High Court",
+  "court_name": "Andhra Pradesh High Court",
+  "bench_type": "Division Bench",
+  "judges": [
+    "P. Venkatarama Reddy",
+    "A. Hanumanthu"
+  ],
+  "appellant": [
+    "K. RAMA MOHAN RAO",
+    "Two unnamed others"
+  ],
+  "respondant": [
+    "COMMISSIONER OF INCOME-TAX"
+  ],
+  "respondent": "COMMISSIONER OF INCOME-TAX",
+  "accussed_details": [
+    {
+      "name": "K. RAMA MOHAN RAO",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Partner in Southern Engineering Works",
+      "allegation": [
+        "Improper deduction claims under Income Tax Act, 1961"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "The appellants sought reference of legal questions arising from the Tribunal's orders regarding disallowed interest deductions claimed under sections 57 and 67 of the Income Tax Act, 1961.",
+  "investigation_summary": "The Tribunal found that the borrowings were used to liquidate debit balances in the firm's accounts and were not directly related to the acquisition of shares in SEW Constructions (P.) Limited.",
+  "judgment_summary": "The High Court agreed with the Tribunal that no question of law arose for consideration. The applications were dismissed as the Tribunal's findings were based on factual appreciation and did not warrant legal intervention.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Applications dismissed",
+  "result": "Applications dismissed",
+  "reported_as": "2001 P T D 3660",
+  "legal_arguments": [
+    "The borrowed money was used to liquidate liabilities in the firm's accounts, not for acquiring shares.",
+    "The interest claimed could not be allowed under sections 57 or 67 of the Income Tax Act, 1961.",
+    "The Tribunal distinguished the Supreme Court's decision in CIT v. Rajendra Prasad Moody (1978) 115 ITR 519."
+  ],
+  "assets": [
+    "Shares allotted in SEW Constructions (P.) Limited"
+  ],
+  "statutes": [
+    "Income Tax Act, 1961"
+  ],
+  "sections": [
+    "Section 57",
+    "Section 67",
+    "Section 256(2)"
+  ],
+  "citations": [
+    "2001 P T D 3660",
+    "CIT v. Rajendra Prasad Moody (1978) 115 ITR 519"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Income Tax Law",
+    "Tax Deduction Disputes"
+  ],
+  "key_issues": [
+    "Whether interest claimed by the assessee could be allowed as deduction under sections 57 and 67.",
+    "Whether borrowed money had a nexus to the acquisition of shares in SEW Constructions (P.) Limited.",
+    "Whether the borrowed amounts were used to discharge liabilities in the firm's accounts."
+  ],
+  "key_questions": [
+    "Whether the interest claimed by the assessee could be allowed as deduction?",
+    "Whether the borrowed money invested had any nexus to the allotment of shares by the private limited company?",
+    "Whether the borrowed amounts deposited in the firm were in discharge of the assessee's liability?"
+  ],
+  "tribunal_findings": {
+    "borrowings_purpose": "Liquidation of outstanding debit balance against partners in the firm's account",
+    "nexus_with_shares": "No nexus established between borrowings and acquisition of shares",
+    "deduction_disallowed": "Interest claimed could not be allowed under sections 57 or 67"
+  },
+  "facts": {
+    "firm_name": "Southern Engineering Works",
+    "loss_period": "1972 to 1980",
+    "firm_dissolution_date": "October 1983",
+    "firm_takeover": "SEW Constructions (P.) Limited",
+    "debit_balance_example": "Rs.2,90,169 for K. Ramamohan Rao as of April 1, 1980",
+    "borrowed_amount_example": "Rs.2,99,000 deposited by K. Ramamohan Rao"
+  },
+  "tribunal_reasoning": {
+    "income_relation": "Interest incurred was not relatable to income earned during the relevant assessment years",
+    "investment_purpose": "Amounts were utilised to discharge partners' liability, not for acquisition of shares",
+    "precedent_distinction": "Supreme Court decision in CIT v. Rajendra Prasad Moody distinguished due to lack of direct investment in shares"
+  },
+  "high_court_observation": {
+    "question_of_law": "No question of law arises for consideration",
+    "tribunal_approach": "Tribunal approached the issue correctly based on facts and record"
+  },
+  "maxims": {},
+  "legal_terms": {
+    "Deduction": "Reduction in taxable income.",
+    "Nexus": "Connection or link between two entities."
+  },
+  "words_and_phrases": {
+    "Debit Balance": "Negative balance in an account.",
+    "Liquidate": "Settle or pay off liabilities."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around disallowed interest deductions claimed by the appellants under the Income Tax Act, 1961. The Tribunal and High Court found no legal questions arising from the facts, as the borrowings were used to settle liabilities rather than acquire shares directly."
+}

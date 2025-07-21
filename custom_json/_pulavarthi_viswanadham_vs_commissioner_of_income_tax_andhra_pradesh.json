@@ -1,0 +1,37 @@
+{
+  "case_title": "PULAVARTHI VISWANADHAM vs COMMISSIONER OF INCOME-TAX, ANDHRA PRADESH",
+  "case_number": "Case Referred Nos. 13 and 14 of 1961",
+  "judgment_date": "1964-09-19",
+  "court_name": "Andhra Pradesh High Court",
+  "judges": "Chandrasekhara Sastry, P. Chandra Reddy",
+  "appellant": "PULAVARTHI VISWANADHAM",
+  "respondent": "COMMISSIONER OF INCOME-TAX, ANDHRA PRADESH",
+  "result": "In favor of the Department and against the assessee",
+  "advocate_fee": "Rs. 100",
+  "primary_question": "Whether on the facts and circumstances of the case the share income from the Guntur firm could be included in the assessment validly reopened under section 34 (1) (a) of the Indian Income-tax Act, 1922?",
+  "assessment_years": {
+    "R.C. No. 14 of 1961": "1945-46",
+    "R.C. No. 13 of 1961": "Year ended March 31, 1948"
+  },
+  "key_statutes": [
+    "Indian Income-tax Act, 1922",
+    "Section 34 (1) (a)",
+    "Section 34 (1) (b)",
+    "Section 22 (2)"
+  ],
+  "facts": {
+    "assessee": "Individual claiming to be a partner in Messrs J. V. Subba Rao and B. Satyanarayana Murthy, Guntur",
+    "income_exclusion": "One-fourth share of income excluded by Income-tax Officer under impression it belonged to estate of late J. V. Subba Rao",
+    "tribunal_decision": "Income-tax Appellate Tribunal held share income belonged to assessee",
+    "reopening_reason": "Non-disclosure of extensive money-lending and business activities"
+  },
+  "legal_findings": {
+    "reopening_assessment": "Income-tax Officer entitled to issue notice under section 34 (1) (a) for reassessment",
+    "scope_of_reassessment": "Once reopened, assessment proceeds de novo under relevant sections of the Act",
+    "total_income_disclosure": "Assessee is obligated to disclose total income under section 22 (2)"
+  },
+  "costs": {
+    "payable_by": "Assessee",
+    "amount": "Rs. 100"
+  }
+}

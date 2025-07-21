@@ -1,0 +1,159 @@
+{
+  "case_title": "COMMISSIONER INLAND REVENUE, LEGAL DIV. RTO, HYDERABAD vs Messrs SHAD & CO. CARRIAGE CONTRACTOR HEAD OFFICE, HYDERABAD",
+  "reference_no_or_id": "I.T.A. No,738/KB of 2009",
+  "judgment_date": "2011-01-08",
+  "first_hearing_date": "N/A",
+  "court": "Appellate Tribunal Inland Revenue",
+  "bench_type": "Appellate",
+  "judges": [
+    "Abdul Aziz Memon",
+    "Syed Safdar Hussain Shah Bokhari"
+  ],
+  "appellant": [
+    "Commissioner Inland Revenue, Legal Division, RTO, Hyderabad"
+  ],
+  "respondant": [
+    "Messrs SHAD & CO. Carriage Contractor Head Office, Hyderabad"
+  ],
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": [
+        "Inflated expenses",
+        "Failure to maintain books of accounts",
+        "Non-compliance with banking channel requirements for transactions",
+        "Excessive depreciation claims"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Mr. Amjad Hussain Memon"
+    ],
+    "defense": [
+      "Mr. A.S. Jafri"
+    ]
+  },
+  "complaint_summary": "The appellant contested the order of CIR(A), Hyderabad, which annulled the Taxation Officer's amendments under sections 122(4)(5)/177(6) of the Income Tax Ordinance, 2001, citing procedural and substantive errors.",
+  "investigation_summary": "Audit proceedings were initiated under section 177(4) of the Income Tax Ordinance, 2001, based on discrepancies in income declarations, inflated expenses, and missing documentation. Revised returns were filed but not properly considered.",
+  "judgment_summary": "The tribunal accepted the appeal, ruling that the Taxation Officer erred by not considering revised returns as per section 122(3) of the Income Tax Ordinance, 2001. The assessment was declared illegal and canceled.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Appeal accepted; assessment canceled.",
+  "legal_arguments": [
+    "Failure to consider revised returns under section 122(3) of the Income Tax Ordinance, 2001.",
+    "Jurisdictional errors in audit assignment.",
+    "Procedural lapses in issuing deficiency notices and confronting grounds for audit."
+  ],
+  "assets": [],
+  "statutes": [
+    "Income Tax Ordinance, 2001"
+  ],
+  "sections": [
+    "122(4)(5)",
+    "177(6)",
+    "21(c)",
+    "21(m)",
+    "21(l)",
+    "174(2)",
+    "18(3)",
+    "22(12)"
+  ],
+  "citations": [
+    "2011 P T D (Trib.) 2389",
+    "2009 PTD (Trib.) 749"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Tax Law",
+    "Audit Procedures"
+  ],
+  "key_issues": [
+    "Failure to consider revised returns.",
+    "Jurisdictional assignment errors.",
+    "Inflated expense claims."
+  ],
+  "maxims": {
+    "Legal Maxim": "Tax authorities cannot refuse to accept a revised return under any circumstances."
+  },
+  "legal_terms": {
+    "Audit": "Examination of financial records to ensure compliance with tax laws.",
+    "Revised Return": "Amended tax return submitted to correct errors or omissions."
+  },
+  "words_and_phrases": {
+    "Ab Initio": "From the beginning; invalid from the outset.",
+    "Deemed Order": "An order considered valid under statutory provisions without explicit issuance."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around procedural and substantive errors in tax audit and assessment. Revised returns were ignored, leading to cancellation of the assessment. Jurisdictional and procedural lapses were highlighted.",
+  "case_number": "I.T.A. No,738/KB of 2009",
+  "court_name": "Appellate Tribunal Inland Revenue",
+  "result": "Appeal accepted",
+  "reported_as": "2011 P T D (Trib.) 2389",
+  "legal_provisions": [
+    "Income Tax Ordinance, 2001",
+    "Sections 122(4)(5)/177(6)",
+    "Section 21(c)",
+    "Section 21(m)",
+    "Section 21(1)",
+    "Section 174(2)",
+    "Section 18(3)",
+    "Section 22(12)"
+  ],
+  "grounds_of_appeal": [
+    "Order passed by Commissioner of Income Tax (Appeals) is bad in law and against facts of the case.",
+    "Error in holding that Taxation Officer acted without justification under section 177.",
+    "Error in holding that selection of case for audit after two years of filing return is unsustainable.",
+    "Error in holding that further amendment under section 122(4)(5) read with section 177(6) was not lawful.",
+    "Error in deleting additions made on account of depreciation on leased assets.",
+    "Error in deleting addition under sections 21(c) and (m) regarding salaries exceeding threshold without deduction.",
+    "Error in deleting addition under section 21(1) regarding repair and maintenance expenses exceeding Rs 50,000.",
+    "Error in deleting addition under section 174(2) regarding unverifiable expenses."
+  ],
+  "key_findings": [
+    "Taxpayer filed revised returns increasing declared income.",
+    "Taxation Officer failed to consider revised returns under section 122(3).",
+    "Audit selection criteria were communicated but deficiencies in initial review persisted.",
+    "Additions made under various sections were contested and deemed unjustified by CIR(A).",
+    "Revised returns should have been treated as amended assessment orders under section 122(3)."
+  ],
+  "income_details": {
+    "original_income": "Rs 11,20,530",
+    "first_revised_income": "Rs 13,02,000",
+    "second_revised_income": "Rs 15,10,900",
+    "amended_income": "Rs 3,95,798"
+  },
+  "additions": [
+    {
+      "section": "21(c) and (m)",
+      "amount": "Rs 1,57,40,004",
+      "reason": "Salaries exceeding threshold without deduction or banking channel payment."
+    },
+    {
+      "section": "21(1)",
+      "amount": "Rs 57,30,403",
+      "reason": "Repair and maintenance expenses exceeding Rs 50,000 not paid through banking channel."
+    },
+    {
+      "section": "174(2)",
+      "amount": "Rs 66,19,347",
+      "reason": "Unverifiable expenses under various heads."
+    },
+    {
+      "section": "18(3) read with 22(12)",
+      "amount": "Rs 99,52,144",
+      "reason": "Excessive depreciation claim on leased assets."
+    }
+  ],
+  "arguments": {
+    "department": "Additions were justified and taxpayer failed to provide complete records.",
+    "taxpayer": "Revised returns should be accepted; expenses were legitimate and supported by evidence."
+  },
+  "final_decision": "Assessment framed by Taxation Officer deemed illegal and cancelled."
+}

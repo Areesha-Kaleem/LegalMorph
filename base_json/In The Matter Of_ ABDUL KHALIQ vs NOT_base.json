@@ -1,0 +1,82 @@
+{
+  "case_title": "In The Matter Of: ABDUL KHALIQ vs NOT",
+  "reference_no_or_id": "Show-Cause Notices No. SMD/Co. 62/3/2004-S, dated January 23, 2006 and January 26, 2006",
+  "judgment_date": "2006-03-28",
+  "first_hearing_date": "2006-01-31",
+  "court": "Appellate Bench of Securities and Exchange Commission of Pakistan",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Jahanara Sajjad Ahmad"
+  ],
+  "appellant": [
+    {
+      "name": "Abdul Khaliq",
+      "father_name": "Mohammad Zaman Khan",
+      "N.I.C.": "35201-1606641-1",
+      "address": "c/o Adamjee Insurance Company Limited, Nawa-e-Waqt House, Queen's Road, Lahore"
+    }
+  ],
+  "respondant": [
+    {
+      "name": "N/A"
+    }
+  ],
+  "accussed_details": [
+    {
+      "name": "Abdul Khaliq",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Applicant",
+      "allegation": [
+        "Filing multiple applications for shares in violation of Section 18A of the Securities and Exchange Ordinance, 1969"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [],
+    "defense": []
+  },
+  "complaint_summary": "The Securities and Exchange Commission of Pakistan issued show-cause notices to Abdul Khaliq for allegedly submitting multiple applications for shares using the same N.I.C. number but different addresses and signatures.",
+  "investigation_summary": "The Commission identified two applications submitted under Abdul Khaliq's name. One application was deemed genuine, while the other was found to be fictitious. Written explanations were sought, and hearings were conducted to ascertain the facts.",
+  "judgment_summary": "The court ruled that Application No. 11-186-1215 submitted by Abdul Khaliq was genuine and directed the Privatization Commission to allot shares against it. Application No. 01-203-1763 was declared fictitious, and the subscription money was ordered to be confiscated.",
+  "punishment": "Confiscation of subscription money deposited against Application No. 01-203-1763.",
+  "Decision_or_verdict": "Application No. 11-186-1215 accepted; Application No. 01-203-1763 declared fictitious.",
+  "legal_arguments": [
+    "Section 18A of the Securities and Exchange Ordinance, 1969 prohibits fictitious applications and multiple applications for shares.",
+    "Evidence presented included original N.I.C. and correspondence exchanged."
+  ],
+  "assets": [],
+  "statutes": [
+    "Securities and Exchange Ordinance, 1969"
+  ],
+  "sections": [
+    "Section 18A"
+  ],
+  "citations": [
+    "2006 P.C.T.L.R. 1007"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Securities Law",
+    "Corporate Governance"
+  ],
+  "key_issues": [
+    "Submission of multiple applications for shares",
+    "Verification of identity and authenticity of applications"
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "fictitious application": "An application submitted with false or misleading information.",
+    "confiscation": "The legal seizure of property or funds."
+  },
+  "words_and_phrases": {
+    "Privatization Commission": "The entity responsible for managing the allotment of shares.",
+    "subscription money": "Funds deposited for the purchase of shares."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case involved allegations of multiple share applications filed under the same identity. After investigation and hearings, one application was deemed genuine, while the other was declared fictitious and its funds confiscated. The judgment emphasized adherence to Section 18A of the Securities and Exchange Ordinance, 1969."
+}

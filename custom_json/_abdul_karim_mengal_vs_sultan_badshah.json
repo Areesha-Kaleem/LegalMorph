@@ -1,0 +1,65 @@
+{
+  "case_title": "ABDUL KARIM MENGAL vs SULTAN BADSHAH",
+  "case_number": "Regular First Appeal No. 88 of 2012",
+  "judgment_date": "2014-02-18",
+  "court": "Balochistan High Court",
+  "judges": [
+    "Ghulam Mustafa Mengal",
+    "Abdul Qadir Mengal"
+  ],
+  "appellant": "Abdul Karim Mengal",
+  "respondent": "Sultan Badshah",
+  "result": "Appeal accepted",
+  "reported_as": "2014 C L C 1063",
+  "legal_basis": {
+    "laws_cited": [
+      "Order XXXVII, Rule 2, C.P.C.",
+      "Section 489-F, P.P.C.",
+      "Article 118 of Qanun-e-Shahadat"
+    ],
+    "precedents_cited": [
+      "PLD 2011 SC 151",
+      "PLD 2008 Karachi 429",
+      "2013 YLR 611",
+      "2013 CLC 1048",
+      "PLD 2004 Peshawar 168",
+      "PLD 1980 Lahore 145"
+    ]
+  },
+  "facts": {
+    "cheque_details": {
+      "cheque_number": "26919267",
+      "date": "2003-08-07",
+      "amount": "8,000,000",
+      "bank": "Muslim Commercial Bank, Kalat Branch"
+    },
+    "claim": "Recovery of Rs. 8,000,000/- along with mark-up/interest",
+    "appellant_defense": "Cheque was lost/stolen and reported to bank and Tehsildar prior to suit."
+  },
+  "issues": [
+    {
+      "issue": "Maintainability of the suit",
+      "decision": "Suit was maintainable under the law."
+    },
+    {
+      "issue": "Existence of business transaction/partnership",
+      "decision": "No evidence of business transaction or partnership existed."
+    },
+    {
+      "issue": "Dishonoring of cheque due to non-availability of funds",
+      "decision": "Cheque was dishonored due to stoppage of payment, not insufficient funds."
+    },
+    {
+      "issue": "Issuance of cheque dishonestly",
+      "decision": "No evidence of dishonest issuance of cheque."
+    }
+  ],
+  "evidence_summary": {
+    "respondent_evidence": "Failed to prove issuance of cheque or existence of business transaction.",
+    "appellant_evidence": "Provided plausible explanation of stolen cheque and prior reporting to authorities."
+  },
+  "judgment_summary": {
+    "reasoning": "Respondent failed to prove entitlement to the claimed amount. Appellant's defense of stolen cheque was supported by evidence.",
+    "conclusion": "Judgment and decree of trial court set aside. Appeal allowed. Suit dismissed."
+  }
+}

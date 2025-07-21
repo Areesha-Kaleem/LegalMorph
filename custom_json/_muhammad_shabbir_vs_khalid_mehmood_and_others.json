@@ -1,0 +1,90 @@
+{
+  "case_title": "MUHAMMAD SHABBIR vs KHALID MEHMOOD and others",
+  "case_number": "R.O.R. No. 1968 of 1991",
+  "judgment_date": "1993-08-19",
+  "court_name": "Board of Revenue, Punjab",
+  "judge": "Hafeezullah Ishaq",
+  "result": "Revision dismissed",
+  "reported_as": "PLD 1994 Revenue 1",
+  "appellant": "MUHAMMAD SHABBIR",
+  "respondent": "KHALID MEHMOOD and others",
+  "facts": {
+    "ihata_details": {
+      "number": "26",
+      "size": "19 Marlas 5 Sarsahis",
+      "location": "Chak No.47/WB, Tehsil Vehari",
+      "original_purpose": "Dera Deh Attiadaran for public purpose"
+    },
+    "initial_application": {
+      "submitted_by": "Bahadar Ali",
+      "request": "Change of category of Ihata",
+      "approval_date": "1987-10-21",
+      "approved_by": "District Collector, Vehari"
+    },
+    "subsequent_allotment": {
+      "allotted_to": "Bahadar Ali",
+      "date": "1987-10-21",
+      "authority": "AC/Collector, Vehari"
+    },
+    "appeal_details": {
+      "filed_by": "Land owners of Chak",
+      "authority": "Additional Commissioner (Cons.), Multan Division",
+      "decision_date": "1988-02-17",
+      "result": "Case remanded to District Collector, Vehari"
+    },
+    "remanded_case": {
+      "petitioner_allotment": {
+        "allotted_to": "Muhammad Shabbir",
+        "date": "1990-02-11",
+        "scheme": "Jinnah Abadi Scheme",
+        "mutation_number": "139",
+        "mutation_date": "1990-11-17"
+      },
+      "district_collector_decision": {
+        "date": "1991-03-25",
+        "result": "Restore original position of Ihata for public purpose"
+      }
+    },
+    "appeals": {
+      "filed_by": [
+        "Bahadar Ali",
+        "Muhammad Shabbir"
+      ],
+      "authority": "Additional Commissioner (Cons.), Multan Division",
+      "decision_date": "1991-09-09",
+      "result": "Appeals rejected"
+    }
+  },
+  "legal_basis": {
+    "revision_petition": {
+      "filed_under": [
+        "Section 164 of the West Pakistan Land Revenue Act, 1967",
+        "Section 7 of the Colonization of Government Lands (Punjab) Act, 1912"
+      ]
+    },
+    "arguments": {
+      "petitioner": {
+        "claim": "Ihata reserved for Girls Primary School; eligible for allotment under Jinnah Abadi Act",
+        "mutation_details": {
+          "mutation_number": "141",
+          "mutation_date": "1990-11-17"
+        }
+      },
+      "respondent": {
+        "claim": "Petitioner not eligible under Jinnah Abadi Scheme; irregular allotment process"
+      }
+    }
+  },
+  "judgment": {
+    "key_findings": {
+      "ihata_purpose": "Reserved as Dera Deh Attiadaran, not Girls Primary School",
+      "classification_change": "Circumvention of legal requirements",
+      "allotment_irregularities": [
+        "Jinnah Abadi Act not applicable to Colony Chaks",
+        "Allotment exceeds permissible limit of 7 Marlas",
+        "Matter was subjudice during allotment"
+      ]
+    },
+    "decision": "Revision petition dismissed with costs"
+  }
+}

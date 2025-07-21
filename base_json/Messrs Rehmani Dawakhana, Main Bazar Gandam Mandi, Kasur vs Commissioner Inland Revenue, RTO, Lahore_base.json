@@ -1,0 +1,86 @@
+{
+  "case_title": "Messrs Rehmani Dawakhana, Main Bazar Gandam Mandi, Kasur vs Commissioner Inland Revenue, RTO, Lahore",
+  "reference_no_or_id": "S.T.A. No.1922/LB of 2023",
+  "judgment_date": "2023-11-24",
+  "first_hearing_date": "N/A",
+  "court": "Appellate Tribunal Inland Revenue",
+  "bench_type": "Two-member bench",
+  "judges": [
+    "Dr. Shahid Siddiq",
+    "Ayesha Fazil Qazi"
+  ],
+  "appellant": [
+    "Messrs Rehmani Dawakhana, Main Bazar Gandam Mandi, Kasur"
+  ],
+  "respondant": [
+    "Commissioner Inland Revenue, RTO, Lahore"
+  ],
+  "accussed_details": [
+    {
+      "name": "Messrs Rehmani Dawakhana",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "Business Owner",
+      "allegation": [
+        "Failure to register for sales tax despite turnover exceeding threshold",
+        "Non-payment of sales tax on supplies"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [],
+    "defense": []
+  },
+  "complaint_summary": "The taxpayer failed to register for sales tax despite declaring a turnover of Rs.94,200,316/- for the tax period July 2019 to June 2021, making them liable for sales tax registration and payment.",
+  "investigation_summary": "A show-cause notice was issued on 19.12.2022 alleging non-compliance with sales tax registration and payment obligations. The taxpayer was compulsorily registered but failed to comply, leading to an assessment order under section 11(2) of the Sales Tax Act, 1990, creating a demand of Rs.16,014,054/-.",
+  "judgment_summary": "The tribunal found that the assessment order was passed beyond the scope of the show-cause notice, rendering it illegal. The proceedings initiated and finalized under section 11(2) of the Sales Tax Act, 1990, were declared null and void. The appeal was allowed, and the impugned order was annulled.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Appeal allowed; assessment order annulled.",
+  "legal_arguments": [
+    "The assessment order was passed beyond the scope of the show-cause notice.",
+    "No demand could be created without confronting the taxpayer in the show-cause notice.",
+    "The CIR(A) remanded the case despite identifying illegality, which was argued to be against section 45B(3) of the Sales Tax Act, 1990."
+  ],
+  "assets": [],
+  "statutes": [
+    "Sales Tax Act, 1990"
+  ],
+  "sections": [
+    "Section 11(2)",
+    "Section 3(1A)",
+    "Section 34(1)(c)",
+    "Section 33(5)",
+    "Sections 2, 3, 6, 7, 14, 23, 26"
+  ],
+  "citations": [
+    "2022 PTD 1153",
+    "2013 PTD 1001",
+    "2010 PTD 451",
+    "2011 PTD 1883",
+    "2011 PTD 2538"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "S.T.A. No.1922/LB of 2023",
+  "legal_categories": [
+    "Tax Law",
+    "Sales Tax Compliance"
+  ],
+  "key_issues": [
+    "Validity of assessment order beyond show-cause notice",
+    "Non-confrontation of allegations in show-cause notice",
+    "Legality of CIR(A)'s remand order"
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "Show-Cause Notice": "A legal notice requiring a party to explain or justify their actions.",
+    "Assessment Order": "An order determining tax liability."
+  },
+  "words_and_phrases": {
+    "Nullity in Law": "A legal act or decision that is void and has no legal effect."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around the legality of an assessment order under section 11(2) of the Sales Tax Act, 1990. The tribunal annulled the order, citing procedural defects in the show-cause notice and subsequent actions."
+}

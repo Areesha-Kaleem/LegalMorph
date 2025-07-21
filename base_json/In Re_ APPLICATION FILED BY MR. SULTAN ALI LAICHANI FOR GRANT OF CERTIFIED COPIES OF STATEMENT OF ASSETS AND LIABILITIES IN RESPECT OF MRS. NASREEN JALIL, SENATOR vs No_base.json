@@ -1,0 +1,97 @@
+{
+  "case_title": "In Re: APPLICATION FILED BY MR. SULTAN ALI LAICHANI FOR GRANT OF CERTIFIED COPIES OF STATEMENT OF ASSETS AND LIABILITIES IN RESPECT OF MRS. NASREEN JALIL, SENATOR",
+  "reference_no_or_id": "1994 C L C 1511",
+  "judgment_date": "1994-04-19",
+  "first_hearing_date": "1994-04-14",
+  "court": "Chief Election Commissioner",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Naimuddin"
+  ],
+  "appellant": [
+    "Mr. Sultan Ali Lakhani"
+  ],
+  "respondant": [
+    "Mrs. Nasreen Jalil"
+  ],
+  "accussed_details": [
+    {
+      "name": "Mrs. Nasreen Jalil",
+      "age": "N/A",
+      "gender": "Female",
+      "designation": "Senator",
+      "allegation": [
+        "Failure to submit accurate statement of assets and liabilities under Section 25 of the Senate (Election) Act, 1975"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Mr. Abdul Hafees Pirzada"
+    ],
+    "defense": [
+      "Mr. Makhdoom Ali Khan"
+    ]
+  },
+  "complaint_summary": "Application filed by Mr. Sultan Ali Lakhani requesting certified copies of the statement of assets and liabilities submitted by Mrs. Nasreen Jalil, alleging potential inaccuracies and corrupt practices under the Senate (Election) Act, 1975.",
+  "investigation_summary": "The Chief Election Commissioner reviewed the application and heard arguments from both parties regarding the public nature of the statement of assets and liabilities and its relevance to election petitions.",
+  "judgment_summary": "The Chief Election Commissioner ruled that the statement of assets and liabilities is a public document under Article 85 of Qanun-e-Shahadat and directed the issuance of a certified copy to the applicant upon payment of the prescribed fee.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Certified copy of the statement of assets and liabilities to be provided to the applicant.",
+  "legal_arguments": [
+    "Section 25 of the Senate (Election) Act, 1975 mandates submission of assets and liabilities by successful candidates.",
+    "Section 58 defines corrupt practices, including submission of false statements.",
+    "Section 49 outlines grounds for declaring elections void due to corrupt practices.",
+    "Section 36 specifies the contents of election petitions, requiring precise statements of material facts.",
+    "Article 218 and 219 of the Constitution emphasize the duty of the Election Commission to guard against corrupt practices.",
+    "Article 85 of Qanun-e-Shahadat defines public documents."
+  ],
+  "assets": [
+    "Statement of assets and liabilities filed by Mrs. Nasreen Jalil"
+  ],
+  "statutes": [
+    "Senate (Election) Act, 1975",
+    "Constitution of Pakistan",
+    "Qanun-e-Shahadat"
+  ],
+  "sections": [
+    "Section 25",
+    "Section 58",
+    "Section 49",
+    "Section 36"
+  ],
+  "citations": [
+    "PLD 1967 Lahore 1051",
+    "AIR 1959 Bombay 414",
+    "AIR 1928 Oudh 155",
+    "AIR 1928 Lahore 640",
+    "AIR 1942 Madras 558",
+    "AIR 1940 Madras 768"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Election Law",
+    "Corrupt Practices",
+    "Public Documents"
+  ],
+  "key_issues": [
+    "Whether the statement of assets and liabilities is a public document.",
+    "Whether certified copies of such statements can be granted under the Senate (Election) Act, 1975."
+  ],
+  "maxims": {
+    "Suppressio veri, suggestio falsi": "Suppression of truth is equivalent to the suggestion of falsehood."
+  },
+  "legal_terms": {
+    "Corrupt Practices": "Acts defined under Section 58 of the Senate (Election) Act, 1975.",
+    "Public Document": "Defined under Article 85 of Qanun-e-Shahadat."
+  },
+  "words_and_phrases": {
+    "Statement of Assets and Liabilities": "A document required under Section 25 of the Senate (Election) Act, 1975."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "Application for certified copies of assets and liabilities statement filed by Mrs. Nasreen Jalil. Judgment emphasizes public nature of the document under Qanun-e-Shahadat and its relevance to election petitions under the Senate (Election) Act, 1975."
+}

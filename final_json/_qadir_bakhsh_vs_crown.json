@@ -1,0 +1,158 @@
+{
+  "case_title": "QADIR BAKHSH vs CROWN",
+  "reference_no_or_id": "Criminal appeal No. 65 of 1950",
+  "judgment_date": "1950-12-03",
+  "first_hearing_date": "N/A",
+  "court": "Baghdad-ul-Jadid",
+  "bench_type": "Division Bench",
+  "judges": [
+    "Abdul Aziz",
+    "Mahmood Khan"
+  ],
+  "appellant": [
+    "Qadir Bakhsh"
+  ],
+  "respondant": [
+    "CROWN"
+  ],
+  "accussed_details": [
+    {
+      "name": "Qadir Bakhsh",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "N/A",
+      "allegation": [
+        "Murder of Ata Muhammad and Ghulam Muhammad"
+      ]
+    },
+    {
+      "name": "Amir Bakhsh",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "N/A",
+      "allegation": [
+        "Murder of Ata Muhammad and Ghulam Muhammad"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "Malik Karam Ezad"
+    ]
+  },
+  "complaint_summary": "On July 15, 1949, goats owned by Qadir Bakhsh trespassed into a field leased by Zar Ali Khan. The deceased, servants of Asmatullah Khan, attempted to impound the goats, leading to a fight where the deceased were killed by kulhari blows.",
+  "investigation_summary": "Police prepared injury statements and inquest reports. Weapons used in the crime were recovered. Post-mortem confirmed death due to head injuries.",
+  "judgment_summary": "The court found that the deceased acted illegally in seizing the goats. Qadir Bakhsh exercised his right of private defense but exceeded its limits. His conviction under Section 302 IPC was set aside, and he was convicted under Section 304(2) IPC with an 8-year rigorous imprisonment sentence.",
+  "punishment": "8 years rigorous imprisonment under Section 304(2) IPC.",
+  "Decision_or_verdict": "Appeal rejected; conviction altered to Section 304(2) IPC.",
+  "legal_arguments": [
+    "Right of private defense under Sections 97, 99, and 100 IPC.",
+    "Illegal seizure under Section 10 of the Cattle Trespass Act.",
+    "Exceeding limits of private defense."
+  ],
+  "assets": [],
+  "statutes": [
+    "Indian Penal Code",
+    "Cattle Trespass Act"
+  ],
+  "sections": [
+    "Section 302 IPC",
+    "Section 304(2) IPC",
+    "Section 97 IPC",
+    "Section 99 IPC",
+    "Section 100 IPC",
+    "Section 10 of Cattle Trespass Act"
+  ],
+  "citations": [
+    "P L D 1951 Baghdad-ul-Jadid 19",
+    "9 Calcutta Weekly Notes 624",
+    "50 I.C. 1006",
+    "1946 N. 221",
+    "1943 Oudh 280"
+  ],
+  "witnesses": [
+    "Ghulam Rasool",
+    "Nasrullah Jan",
+    "Mst. Ghulam Maryam"
+  ],
+  "witness_statement": {
+    "Ghulam Rasool": "Left the scene to inform Asmatullah Khan.",
+    "Nasrullah Jan": "Stayed with the dead bodies.",
+    "Mst. Ghulam Maryam": "Provided contradictory testimony but claimed to witness the fight."
+  },
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Criminal Law",
+    "Homicide",
+    "Self-defense"
+  ],
+  "key_issues": [
+    "Right of private defense.",
+    "Illegal seizure of property.",
+    "Exceeding limits of self-defense."
+  ],
+  "maxims": {
+    "N/A": "N/A"
+  },
+  "legal_terms": {
+    "Private Defense": "Right to protect one's body and property within legal limits.",
+    "Cattle Trespass": "Unauthorized entry of cattle into cultivated land."
+  },
+  "words_and_phrases": {
+    "Kulhari": "A sharp-edged weapon used in the crime.",
+    "Trespass": "Unauthorized entry into property."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around the murder of two individuals by Qadir Bakhsh, who claimed self-defense after an altercation over the illegal seizure of his goats. The court acknowledged the right of private defense but ruled that the accused exceeded its limits, altering the conviction to culpable homicide not amounting to murder under Section 304(2) IPC.",
+  "facts": {
+    "incident_date": "1949-07-15",
+    "accused": [
+      "Qadir Bakhsh",
+      "Amir Bakhsh"
+    ],
+    "victims": [
+      "Ata Muhammad",
+      "Ghulam Muhammad"
+    ],
+    "cause_of_death": "Kulhari blows to the head",
+    "land_owner": "Asmatullah Khan",
+    "land_leasee": "Zar Ali Khan",
+    "dispute": "Trespassing goats and seizure attempt by deceased leading to fight."
+  },
+  "legal_issues": {
+    "primary_defense": "Right of private defense of person and property under Section 97 of Indian Penal Code.",
+    "prosecution_argument": "Illegal seizure of goats by deceased was theft.",
+    "defense_argument": "Accused acted in self-defense after being injured."
+  },
+  "judgment": {
+    "initial_conviction": "Section 302 Indian Penal Code - Death Sentence",
+    "final_conviction": "Section 304(2) Indian Penal Code - Culpable Homicide",
+    "sentence": "8 years rigorous imprisonment"
+  },
+  "evidence": {
+    "eye_witnesses": [
+      "Mst. Ghulam Maryam",
+      "Ghulam Rasool",
+      "Nasrullah Jan"
+    ],
+    "medical_report": "Incised wound on accused's left palm caused by sharp-edged weapon.",
+    "weapons_recovered": [
+      "Kulhari of Qadir Bakhsh (Exhibit P1)",
+      "Kulhari of Amir Bakhsh (Exhibit P2)"
+    ]
+  },
+  "dissenting_opinion": {
+    "judge": "Mahmood Khan",
+    "key_points": [
+      "Deceased were justified in impounding goats under Section 10 of Cattle Trespass Act.",
+      "Seizure did not amount to theft as there was no dishonest intention.",
+      "Minor injury on accused's hand could have been self-inflicted."
+    ],
+    "recommended_sentence": "Death penalty for double murder."
+  }
+}

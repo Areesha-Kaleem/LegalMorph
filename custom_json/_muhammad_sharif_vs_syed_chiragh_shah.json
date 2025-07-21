@@ -1,0 +1,40 @@
+{
+  "case_title": "MUHAMMAD SHARIF vs Syed CHIRAGH SHAH",
+  "case_number": "R. 0. A. No. 626 of 1978-79",
+  "judgment_date": "1979-06-24",
+  "court": "Board of Revenue, Punjab",
+  "judge": "Syed Naseer Ahmad",
+  "reported_as": "P L D 1980 Rev, 5",
+  "result": "Appeal dismissed",
+  "appellant": "MUHAMMAD SHARIF",
+  "respondent": "Syed CHIRAGH SHAH",
+  "legal_basis": {
+    "act": "Punjab Land Reforms Act, 1977",
+    "sections": [
+      "Section 6",
+      "Section 7(1)",
+      "Section 7(5)"
+    ]
+  },
+  "key_facts": {
+    "respondent_failed_declaration": "Respondent failed to submit declaration under Section 7(1) of the Punjab Land Reforms Act, 1977.",
+    "land_resumed": "72 kanals and 19 marlas resumed as excess land.",
+    "respondent_choice": "Respondent allowed to surrender 110 kanals and 14 marlas in village Jumman Shah.",
+    "sale_dispute": "Land sold by respondent on 27-12-1977 deemed void under Section 6 of the Act."
+  },
+  "arguments": {
+    "appellant": {
+      "time_barred_claim": "Appeal should be considered within time due to lack of knowledge.",
+      "ownership_dispute": "Appellants claimed bona fide purchase of land via registered sale deed."
+    },
+    "respondent": {
+      "void_transaction": "Land transfer after 4-1-1977 void under Section 6 of the Act.",
+      "remedy_suggestion": "Petitioners advised to file civil suit for compensation or alternate land."
+    }
+  },
+  "judgment_summary": {
+    "preliminary_objection": "Appeal deemed time-barred.",
+    "ownership_ruling": "Land transfer void as per Section 6 of the Act.",
+    "final_decision": "Orders of Land Commissioner upheld; appeal dismissed."
+  }
+}

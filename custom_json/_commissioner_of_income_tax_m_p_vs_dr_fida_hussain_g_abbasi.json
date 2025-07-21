@@ -1,0 +1,63 @@
+{
+  "case_title": "Commissioner of Income-Tax, M.P. vs Dr. Fida Hussain G. Abbasi",
+  "case_number": "Civil Case No. 241 of 1964",
+  "judgment_date": "1967-12-07",
+  "court_name": "Andhra Pradesh High Court",
+  "judges": "P. V. Dixit, K. L. Pandey",
+  "appellant": "Commissioner of Income-Tax, M.P.",
+  "respondent": "Dr. Fida Hussain G. Abbasi",
+  "result": "Company is allowed",
+  "reported_as": "1971 P T D 562",
+  "legal_questions": [
+    {
+      "question": "Whether, on the facts and in the circumstances of the case, the interest paid on loans borrowed for investment in the shares of Ratlam Straw Board Mills (Private) Ltd., which did not yield any dividend income, is allowable as deduction under section 12 of the Income-tax Act, 1922?"
+    },
+    {
+      "question": "Whether, on the facts and in the circumstances of the case, the amount of Rs. 9,422 credited to the account of the assessee in the books of account of Regal Cinema Ltd., East Africa, has been rightly included in the income of the assessee and subject to tax?"
+    }
+  ],
+  "facts": {
+    "assessee_role": "Shareholder and director of Ratlam Straw Board Mills (Private) Limited, Ratlam",
+    "shares_held": "225 shares of Rs. 1,000 each",
+    "loans_borrowed": [
+      {
+        "amount": "Rs. 20,000",
+        "borrowed_from": "Abdul Hussain Ismailji",
+        "date": "December 1953"
+      },
+      {
+        "amount": "Rs. 15,000",
+        "borrowed_from": "Asghar Ali Kamruddin",
+        "date": "July 17, 1954"
+      }
+    ],
+    "interest_paid": [
+      {
+        "to": "Abdul Hussain Ismailji",
+        "amount": "Rs. 1,500"
+      },
+      {
+        "to": "Asghar Ali Kamruddin",
+        "amount": "Rs. 1,350"
+      }
+    ],
+    "total_interest_paid": "Rs. 2,850",
+    "income_received": {
+      "salary_as_director": "Rs. 3,600",
+      "sitting_fees": "Rs. 150"
+    },
+    "dividend_income": "None"
+  },
+  "tribunal_decision": "Allowed deduction following Ormerads (India) (Private) Ltd. v. Commissioner of Income-tax (1959) 36 ITR 329",
+  "high_court_decision": {
+    "first_question": "Allowed deduction under section 12(2) of the Income-tax Act, 1922",
+    "second_question": "Declined to answer due to procedural non-compliance under section 66(1)"
+  },
+  "references": [
+    "Ormerads (India) (Private) Ltd. v. Commissioner of Income-tax (1959) 36 ITR 329",
+    "Chhail Behari Lal v. Commissioner of Income-tax (1960) 39 ITR 696",
+    "K. Appa Rao v. Commissioner of Income-tax (1962) 46 ITR 511",
+    "P. V. Mohamed Ghouse v. Commissioner of Income-tax (1963) 49 ITR 127",
+    "Girdhardas & Co. Ltd. v. Commissioner of Income-tax (1957) 31 ITR 92"
+  ]
+}

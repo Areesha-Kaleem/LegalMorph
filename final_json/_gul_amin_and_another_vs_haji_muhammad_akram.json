@@ -1,0 +1,145 @@
+{
+  "case_title": "GUL AMIN AND Another vs Haji MUHAMMAD AKRAM",
+  "reference_no_or_id": "Civil Revision No. 96 of 1980",
+  "judgment_date": "1980-10-05",
+  "first_hearing_date": "1979-12-10",
+  "court": "Peshawar High Court",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Shahnawaz Khan"
+  ],
+  "appellant": [
+    "GUL AMIN",
+    "Another"
+  ],
+  "respondant": [
+    "Haji MUHAMMAD AKRAM"
+  ],
+  "accussed_details": [
+    {
+      "name": "Haji MUHAMMAD AKRAM",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Plaintiff",
+      "allegation": [
+        "Wrong drafting of the plaint",
+        "Non-joinder of necessary parties",
+        "Omission of required documents",
+        "Failure to serve notice"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "Haji Muhammad Akram sought permission to withdraw his suit and file a fresh one, citing procedural defects in the original suit.",
+  "investigation_summary": "The respondents contested the withdrawal application, arguing it was untimely and lacked formal defects. They demanded Rs. 2,500 as compensation for litigation expenses.",
+  "judgment_summary": "The Peshawar High Court set aside the order of the Additional District Judge allowing withdrawal of the suit with liberty to file a fresh one, citing irregular exercise of jurisdiction and lack of formal defects. The case was remitted for a decision on merits.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Petition accepted; case remitted to the Additional District Judge, Malakand at Batkhela, for decision on merits.",
+  "legal_arguments": [
+    "Order XXIII, Rule 1, C.P.C.",
+    "Section 115, C.P.C.",
+    "Ahmad Din and 3 others v. Town Committee (1972 SCMR 205)",
+    "NLR 1979 Civil 169"
+  ],
+  "assets": [],
+  "statutes": [
+    "Order XXIII, Rule 1, C.P.C.",
+    "Section 115, C.P.C."
+  ],
+  "sections": [
+    "Order XXIII, Rule 1",
+    "Section 115"
+  ],
+  "citations": [
+    "P L D 1981 Peshawar 72",
+    "1972 SCMR 205",
+    "NLR 1979 Civil 169"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "Civil Appeal No. 30/13 of 1979",
+  "legal_categories": [
+    "Civil Law",
+    "Procedural Law"
+  ],
+  "key_issues": [
+    "Whether procedural defects justify withdrawal of the suit with liberty to file a fresh one.",
+    "Whether the Additional District Judge exercised jurisdiction irregularly."
+  ],
+  "maxims": {
+    "N/A": "N/A"
+  },
+  "legal_terms": {
+    "Formal defect": "A defect that does not affect the merits of the case but prevents a fair trial."
+  },
+  "words_and_phrases": {
+    "Withdrawal of suit": "The act of discontinuing a legal case with or without permission to file a new one."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around procedural defects cited by the plaintiff to withdraw a suit and file a fresh one. The High Court found the lower court's order irregular and remitted the case for a decision on merits.",
+  "facts": {
+    "original_case": "Civil Appeal No. 30/13 of 1979",
+    "court_of_origin": "Additional District Judge, Malakand at Batkhela",
+    "appellant_in_original_case": "Haji Muhammad Akram",
+    "respondents_in_original_case": [
+      "Gul Amin",
+      "etc."
+    ],
+    "application_date": "1979-10-12",
+    "application_request": "Withdrawal of suit with liberty to file a fresh suit",
+    "respondents_objections_date": "1980-01-16",
+    "respondents_objections": {
+      "timeliness": "Petition for withdrawal was not within time",
+      "compensation_request": "Rs. 2,500 as compensation for litigation expenses"
+    },
+    "lower_court_decision_date": "1980-02-04",
+    "lower_court_decision": {
+      "permission_granted": "Allowed withdrawal of suit with liberty to file a fresh suit",
+      "condition": "Payment of Rs. 100 as costs to contesting respondents"
+    }
+  },
+  "issues": {
+    "formal_defects": "No formal defects identified in the suit",
+    "grounds_for_withdrawal": [
+      "Wrong drafting of the plaint",
+      "Non-joinder of necessary parties",
+      "Omission of documents or their list",
+      "Failure to serve notice"
+    ],
+    "legal_basis": "Order XXIII, Rule 1, C.P.C."
+  },
+  "arguments": {
+    "petitioners": {
+      "contention": "No formal defect exists to justify withdrawal",
+      "legal_reference": "Ahmad Din and 3 others v. Town Committee (1972 S.C.M.R. 205)",
+      "request": "Vacate withdrawal order and remit appeal for decision on merits"
+    },
+    "respondents": {
+      "grounds_for_withdrawal": [
+        "Wrong drafting of plaint",
+        "Non-joinder of necessary parties",
+        "Omission of documents",
+        "Failure to serve notice"
+      ]
+    }
+  },
+  "decision": {
+    "impugned_order": "Set aside",
+    "reasoning": [
+      "No reasons provided for allowing withdrawal with liberty to sue afresh",
+      "Material irregularity in exercise of jurisdiction by lower court"
+    ],
+    "remittance": "Case remitted to Additional District Judge, Malakand at Batkhela for decision on merits",
+    "costs": "Costs shall follow the event"
+  },
+  "reported_as": "P L D 1981 Peshawar 72"
+}

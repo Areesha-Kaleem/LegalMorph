@@ -1,0 +1,184 @@
+{
+  "case_title": "THE STATE and others vs RAHIM DAD and others",
+  "reference_no_or_id": "Murder Reference No.30 of 2002, Criminal Jail Appeal No.72 of 2002, Criminal Appeals Nos.73, 76 of 2002 (ATA), Criminal Acquittal Appeal No.89 of 2002 (ATA)",
+  "judgment_date": "2005-04-11",
+  "first_hearing_date": "2002-01-10",
+  "court": "Balochistan High Court",
+  "bench_type": "Anti-Terrorism Court",
+  "judges": [
+    "Amanullah Khan",
+    "Fazal-ur-Rahman"
+  ],
+  "appellant": [
+    "THE STATE"
+  ],
+  "respondant": [
+    "RAHIM DAD",
+    "Fayyaz Ahmad alias Kaka Marri",
+    "Muhammad Afzal",
+    "Mashooq alias Mustafa",
+    "Abdul Haq Abro",
+    "Haji Muhammad",
+    "Shah Nazar Lehri"
+  ],
+  "accussed_details": [
+    {
+      "name": "Fayyaz Ahmad alias Kaka Marri",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Chowkidar",
+      "allegation": [
+        "Abduction of minor Ambreen",
+        "Murder of Muhammad Ayub"
+      ]
+    },
+    {
+      "name": "Rahim Dad",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "N/A",
+      "allegation": [
+        "Abduction of minor Ambreen",
+        "Murder of Muhammad Ayub"
+      ]
+    },
+    {
+      "name": "Muhammad Afzal",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "N/A",
+      "allegation": [
+        "Receiving ransom money",
+        "Abduction of minor Ambreen"
+      ]
+    },
+    {
+      "name": "Mashooq alias Mustafa",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "N/A",
+      "allegation": [
+        "Abduction of minor Ambreen",
+        "Murder of Muhammad Ayub"
+      ]
+    },
+    {
+      "name": "Abdul Haq Abro",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "N/A",
+      "allegation": [
+        "Abduction of minor Ambreen",
+        "Murder of Muhammad Ayub"
+      ]
+    },
+    {
+      "name": "Haji Muhammad",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "N/A",
+      "allegation": [
+        "Conspiracy in abduction"
+      ]
+    },
+    {
+      "name": "Shah Nazar Lehri",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "N/A",
+      "allegation": [
+        "Conspiracy in abduction"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Khalid Dogar"
+    ],
+    "defense": [
+      "Basharatullah",
+      "W.N. Kohli",
+      "Baz Muhammad Kakar",
+      "Muhammad Amir Rana",
+      "Ch. Rafique Ahmad"
+    ]
+  },
+  "complaint_summary": "Minor Ambreen was abducted from her home in Quetta, and Muhammad Ayub was murdered during the abduction. A ransom demand of Rs. 1 crore was made, later negotiated to Rs. 30 lacs.",
+  "investigation_summary": "Police arrested Muhammad Afzal in Afghanistan after he received the ransom money. Minor Ambreen was recovered. Other accused were arrested based on disclosures and evidence.",
+  "judgment_summary": "Appellants Fayyaz Ahmad alias Kaka Marri and Rahim Dad were convicted for abduction and sentenced to life imprisonment. Muhammad Afzal was convicted for receiving ransom money and sentenced to life imprisonment. Absconding accused were acquitted due to lack of evidence.",
+  "punishment": "Life imprisonment for Fayyaz Ahmad alias Kaka Marri, Rahim Dad, and Muhammad Afzal; Rs. 100,000 fine each.",
+  "Decision_or_verdict": "Conviction upheld for Fayyaz Ahmad alias Kaka Marri, Rahim Dad, and Muhammad Afzal. Acquittal of absconding accused confirmed.",
+  "legal_arguments": [
+    "Confessions made to police inadmissible under Qanoon-e-Shahadat Order.",
+    "Identification parade of Rahim Dad valid and credible.",
+    "Anonymous letters allegedly written by Muhammad Afzal not proven."
+  ],
+  "assets": [
+    "Ransom money (Rs. 30 lacs)",
+    "Pistol recovered from Muhammad Illyas"
+  ],
+  "statutes": [
+    "Anti-Terrorism Act, 1997",
+    "Anti-Terrorism (Amendment) Ordinance, 2001"
+  ],
+  "sections": [
+    "365-A",
+    "302(a)",
+    "120-B",
+    "109",
+    "449",
+    "34",
+    "7-A",
+    "7-E",
+    "21-L"
+  ],
+  "citations": [
+    "2005 M L D 1620",
+    "PLD 1974 Quetta 28",
+    "2003 SCMR 1419"
+  ],
+  "witnesses": [
+    "Shafique Ahmad Khan",
+    "Faqir Muhammad",
+    "Laila",
+    "Ambreen",
+    "Abdul Rahim",
+    "Muhammad Illyas",
+    "Wazir Khan Nasir"
+  ],
+  "witness_statement": {
+    "Shafique Ahmad Khan": "Reported the abduction and murder incident.",
+    "Faqir Muhammad": "Identified Rahim Dad during identification parade.",
+    "Laila": "Identified Rahim Dad as one of the abductors.",
+    "Ambreen": "Identified Rahim Dad as one of the abductors.",
+    "Abdul Rahim": "Delivered ransom money and witnessed arrest of Muhammad Afzal.",
+    "Muhammad Illyas": "Provided pistol used in the crime.",
+    "Wazir Khan Nasir": "Led recovery operation for abductee."
+  },
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Abduction",
+    "Murder",
+    "Ransom"
+  ],
+  "key_issues": [
+    "Admissibility of confessions made to police",
+    "Validity of identification parade",
+    "Recovery of abductee and ransom money"
+  ],
+  "maxims": {
+    "Admissibility of Evidence": "Confessions made to police are inadmissible unless leading to discovery of facts."
+  },
+  "legal_terms": {
+    "Confession": "A statement admitting guilt.",
+    "Identification Parade": "A process to identify suspects."
+  },
+  "words_and_phrases": {
+    "Ransom": "Money demanded for release of abductee.",
+    "Absconding": "Fleeing to avoid arrest."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "Case involves abduction of minor Ambreen and murder of Muhammad Ayub. Convictions based on credible identification and recovery of ransom money. Absconding accused acquitted due to lack of evidence."
+}

@@ -1,0 +1,41 @@
+{
+  "case_title": "GIRIJAN COOPERATIVE CORPORATION LTD. vs COMMISSIONER OF INCOME-TAX",
+  "case_number": "Case No.1 of 1984",
+  "judgment_date": "1989-02-01",
+  "court": "Andhra Pradesh High Court",
+  "judges": [
+    "B. P. Jeevan Reddy",
+    "V. Neeladri Rao"
+  ],
+  "appellant": "GIRIJAN COOPERATIVE CORPORATION LTD.",
+  "respondent": "COMMISSIONER OF INCOME-TAX",
+  "result": "Order accordingly",
+  "reported_as": "1991 P T D 109",
+  "legal_question": "Whether the assessee can be considered a public charitable institution under section 2(15) of the Income-tax Act, 1961, and its income excluded under section 11 of the Act?",
+  "key_points": {
+    "assessee_objective": "Relief of Scheduled Tribes and advancement of their economic and social welfare.",
+    "tribunal_findings": "Activities are commercial in nature and not held under trust for charitable purposes.",
+    "court_ruling": "The corporation's predominant object is charitable, focusing on the upliftment of Scheduled Tribes, and its income qualifies for exemption under section 11."
+  },
+  "statutes_referenced": [
+    "Income-tax Act, 1961 - Section 2(15)",
+    "Income-tax Act, 1961 - Section 11",
+    "A.P. Co-operative Societies Act"
+  ],
+  "precedents_cited": [
+    "CIT v. Indian Sugar Mills Association (1974) 97 ITR 486",
+    "Addl. CIT v. Surat Art Silk Cloth Manufacturers' Association (1980) 121 ITR 1",
+    "CIT v. A.P. State Road Transport Corporation (1986) 159 ITR 1",
+    "CIT v. A.P. Police Welfare Society (1984) 148 ITR 287"
+  ],
+  "bye-laws_summary": {
+    "objects": [
+      "Purchase and marketing of Scheduled Tribes' produce.",
+      "Supply of necessities to Scheduled Tribes.",
+      "Advancing loans and working capital.",
+      "Promotion of economic and social welfare of Scheduled Tribes."
+    ],
+    "funds": "Share capital, subsidies, and grants.",
+    "profit_distribution": "Reserve fund, education fund, dividends (capped at 6.25%), and bonuses."
+  }
+}

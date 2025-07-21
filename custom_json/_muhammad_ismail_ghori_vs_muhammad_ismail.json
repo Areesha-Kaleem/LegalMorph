@@ -1,0 +1,48 @@
+{
+  "case_title": "MUHAMMAD ISMAIL GHORI vs MUHAMMAD ISMAIL",
+  "case_number": "Second Appeal No. 639 of 1967",
+  "judgment_date": "1969-02-04",
+  "court": "Sindh High Court",
+  "judges": "Muhammad Afzal Cheema",
+  "result": "Appeal Allowed",
+  "reported_as": "P L D 1969 Karachi 306",
+  "appellant": "MUHAMMAD ISMAIL GHORI",
+  "respondent": "MUHAMMAD ISMAIL",
+  "legal_provisions": {
+    "main_section": "Section 13(3)(a) and (b) of the Urban Rent Restriction Ordinance",
+    "proviso": "Second proviso to section 13(3)(6)"
+  },
+  "key_issues": [
+    "Interpretation of the second proviso to section 13(3)(6) as independent or subordinate to the main provision.",
+    "Ownership of a residential building by the appellant under the legal definition."
+  ],
+  "facts": {
+    "landlord_application_date": "1966-12-02",
+    "grounds_for_ejectment": [
+      "Default in payment of rent",
+      "Bona fide personal requirement",
+      "Impairing value and utility of the building"
+    ],
+    "additional_application_date": "1967-02-02",
+    "tenant_structure": "Residential building No. A/viii-26-S-9 in Agra Taj Colony, Karachi",
+    "municipal_resolutions": "Karachi Municipal Committee resolutions for regularization of unauthorized constructions"
+  },
+  "lower_court_decision": {
+    "rent_controller": "Rejected application due to unauthorized construction not equating to ownership.",
+    "additional_district_judge": "Reversed decision, deemed tenant as owner of residential building under the proviso."
+  },
+  "high_court_decision": {
+    "interpretation": "Proviso must be read as subordinate to the main provision.",
+    "requirement": "Bona fide personal requirement must be satisfied before determining ownership.",
+    "outcome": "Appeal allowed, case remanded to Rent Controller for further proceedings."
+  },
+  "citation": {
+    "maxwell_reference": "Maxwell's Interpretation of Statutes, 11th Edition, page 154",
+    "supreme_court_case": "East & West Steamship Company v. Pakistan (P L D 1958 S C (Pak) 41)"
+  },
+  "directions": {
+    "remand_to": "Rent Controller",
+    "instructions": "Proceed with the main application."
+  },
+  "costs": "No order as to costs"
+}

@@ -1,0 +1,84 @@
+{
+  "case_title": "Assistant Commissioner, Unit-16, SRB vs M/s Target TMC (Pvt.) Limited",
+  "reference_no_or_id": "APPEAL NO. AT-09/2016",
+  "judgment_date": "2017-01-26",
+  "first_hearing_date": "N/A",
+  "court": "Appellate Tribunal Sindh Revenue Board",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Agha Kafeel Barik"
+  ],
+  "appellant": [
+    "Assistant Commissioner, Unit-16, SRB"
+  ],
+  "respondant": [
+    "M/s Target TMC (Pvt.) Limited"
+  ],
+  "accussed_details": [
+    {
+      "name": "M/s Target TMC (Pvt.) Limited",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "Tour Operator",
+      "allegation": [
+        "Failure to file tax returns for July, August, September 2014",
+        "Failure to pay tax for the same period"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Mr. Sarmad Ali (Assistant Commissioner, SRB)"
+    ],
+    "defense": [
+      "Mr. Iftikhar Ahmed Shamsi"
+    ]
+  },
+  "complaint_summary": "The Assistant Commissioner, SRB alleged that M/s Target TMC (Pvt.) Limited failed to file tax returns and pay taxes for July, August, and September 2014 despite being liable under tariff heading 9805.5100 effective from 01.07.2014.",
+  "investigation_summary": "Show cause notice issued on 21.01.2015 was not responded. Tax returns were eventually filed on 11.02.2015. Penalty imposed under Section 43(2) from due dates till filing of returns on 11.12.2015.",
+  "judgment_summary": "The Appellate Tribunal upheld the Commissioner (Appeals)' decision to reduce the penalty period to start from the date of registration (15.11.2014) rather than the due dates prior to registration. The appeal was rejected.",
+  "punishment": "Penalty imposed from the date of registration (15.11.2014) till filing of returns on 11.12.2015.",
+  "Decision_or_verdict": "Appeal Rejected",
+  "legal_arguments": [
+    "Section 2(71) does not allow penalty for non-filing of returns before registration.",
+    "Section 30 and Rule 12 specify filing requirements for registered persons only.",
+    "National Asset Management Co. Ltd. judgment cited as precedent."
+  ],
+  "assets": [],
+  "statutes": [
+    "Sindh Sales Tax on Services Act, 2011"
+  ],
+  "sections": [
+    "Section 2(71)",
+    "Section 30",
+    "Section 43(2)"
+  ],
+  "citations": [
+    "National Asset Management Co. Ltd. v/s Commissioner (Appeals), SRB and another (09.04.2015)"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "201/2015",
+  "legal_categories": [
+    "Tax Law",
+    "Administrative Law"
+  ],
+  "key_issues": [
+    "Interpretation of 'registered person' under Section 2(71)",
+    "Liability for penalties prior to registration"
+  ],
+  "maxims": {
+    "Ratio decidendi": "Penalty cannot be imposed for non-filing of returns before registration."
+  },
+  "legal_terms": {
+    "Registered Person": "A person officially registered under the Sindh Sales Tax on Services Act, 2011.",
+    "Penalty": "A financial punishment for failing to comply with tax filing obligations."
+  },
+  "words_and_phrases": {
+    "Liable to be registered": "A person required to register under the tax law but not yet registered."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around the interpretation of tax filing obligations for unregistered persons under Section 2(71) of the Sindh Sales Tax on Services Act, 2011. The Appellate Tribunal upheld the Commissioner (Appeals)' decision to limit penalties to the period post-registration, rejecting the appeal filed by the Assistant Commissioner, SRB."
+}

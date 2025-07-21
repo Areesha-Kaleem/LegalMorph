@@ -1,0 +1,130 @@
+{
+  "case_title": "MUJAHID HUSSAIN NAQVI vs AZAD GOVERNMENT OF THE STATE OF JAMMU & KASHMIR",
+  "reference_no_or_id": "Appeal No. 94 of 1979",
+  "judgment_date": "1982-08-24",
+  "first_hearing_date": "N/A",
+  "court": "Azad Jammu and Kashmir Service Tribunal",
+  "bench_type": "Service Tribunal",
+  "judges": [
+    "Sardar Muhammad Ashraf Khan",
+    "Kh. Ghulam Qadir"
+  ],
+  "appellant": [
+    "Mujahid Hussain Naqvi"
+  ],
+  "respondant": [
+    "Azad Government of the State of Jammu & Kashmir"
+  ],
+  "accussed_details": [
+    {
+      "name": "Mujahid Hussain Naqvi",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Ex-Deputy Director, Information Department",
+      "allegation": [
+        "Inefficiency",
+        "Misconduct",
+        "Corruption"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [],
+    "defense": []
+  },
+  "complaint_summary": "The appellant was accused of inefficiency, misconduct, and corruption under the Azad Jammu and Kashmir Civil Servants (Efficiency and Discipline) Rules, 1977, based on a report by Commission of Inquiry No. 2.",
+  "investigation_summary": "The appellant was investigated by Commission of Inquiry No. 2 under the Commission of Inquiries Act, 1955. The inquiry was conducted ex parte, and the appellant alleged that he was not provided with the charges or evidence during the investigation. The government issued multiple show-cause notices, which the appellant refuted.",
+  "judgment_summary": "The tribunal found that none of the nine charges against the appellant were substantiated. The charges were vague, lacked essential particulars, and did not comply with mandatory procedural rules. The tribunal ruled the removal order invalid and reinstated the appellant with back benefits, deducting income earned from legal practice.",
+  "punishment": "The penalty of removal from service was overturned.",
+  "Decision_or_verdict": "The appellant was reinstated into service with all consequential benefits, subject to deductions for income earned during his legal practice.",
+  "legal_arguments": [
+    "The charges were vague and lacked essential particulars.",
+    "The appellant was not provided with a copy of the Commission's report or access to relevant records.",
+    "The inquiry was conducted ex parte and violated principles of natural justice.",
+    "The penalty imposed was excessive and unwarranted."
+  ],
+  "assets": [],
+  "statutes": [
+    "Service Tribunals Act, 1975",
+    "Azad Jammu and Kashmir Civil Servants (Efficiency and Discipline) Rules, 1977",
+    "Commission of Inquiries Act, 1955"
+  ],
+  "sections": [
+    "Section 4 of the Service Tribunals Act, 1975",
+    "Rule 6(3) of the Azad Jammu and Kashmir Civil Servants (Efficiency and Discipline) Rules, 1977"
+  ],
+  "citations": [
+    "1982 P L C (C. S.) 770",
+    "P L D 1970 Lah. 811",
+    "P L D 1957 Kar. 54",
+    "P L D 1957 Kar. 363",
+    "P L D 1960 Kar. 500",
+    "P L D 1978 Lah. 972"
+  ],
+  "witnesses": [
+    "Abdul Qayyum (Information Officer)",
+    "Sheikh Mashood Ahmad (Assistant, Services and General Administration Department)"
+  ],
+  "witness_statement": {
+    "Abdul Qayyum": "Testified that payments alleged in the charges were not made during the appellant's tenure.",
+    "Sheikh Mashood Ahmad": "Provided supporting evidence for the appellant's defense."
+  },
+  "appeal_number": "94 of 1979",
+  "legal_categories": [
+    "Service Law",
+    "Administrative Law"
+  ],
+  "key_issues": [
+    "Whether the charges against the appellant were substantiated.",
+    "Whether the procedural requirements under the Efficiency and Discipline Rules were followed.",
+    "Whether the penalty of removal from service was justified."
+  ],
+  "maxims": {
+    "Audi alteram partem": "The appellant was not afforded a reasonable opportunity to defend himself."
+  },
+  "legal_terms": {
+    "Ex parte": "Proceedings conducted in the absence of one party.",
+    "Show-cause notice": "A notice requiring a party to explain or justify their actions."
+  },
+  "words_and_phrases": {
+    "Reasonable opportunity": "An opportunity that allows the accused to adequately defend themselves."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around procedural lapses in disciplinary action against a civil servant. The tribunal emphasized adherence to natural justice and procedural rules, ultimately reinstating the appellant.",
+  "summary": {
+    "appeal_basis": "Appellant challenged removal from service under section 4 of the Service Tribunals Act, 1975.",
+    "government_order": "S&GAD/I-1/2982-3042/78 dated 18th September, 1978",
+    "charges": [
+      "Inefficiency",
+      "Misconduct",
+      "Corruption"
+    ],
+    "rules_invoked": "Azad Jammu and Kashmir Civil Servants (Efficiency and Discipline) Rules, 1977"
+  },
+  "key_points": {
+    "commission_inquiry": "Commission of Inquiry No. 2 was set up under section 3 of the Commission of Inquiries Act, 1955.",
+    "show_cause_notices": [
+      {
+        "date": "1978-05-14",
+        "charges": 5
+      },
+      {
+        "date": "1978-06-26",
+        "charges": 4
+      }
+    ],
+    "appellant_defense": [
+      "Denied all charges as baseless and untrue.",
+      "Argued lack of reasonable opportunity to show cause."
+    ],
+    "tribunal_findings": "None of the charges against the appellant were proven."
+  },
+  "decision": {
+    "reinstatement": "Appellant reinstated into service with all consequential benefits.",
+    "income_deduction": "Income earned from legal practice to be deducted from emoluments.",
+    "costs": "No order as to costs."
+  },
+  "reported_as": "1982 P L C (C. S.) 770"
+}

@@ -1,0 +1,55 @@
+{
+  "case_title": "KISHANLAL HARICHARAN vs INCOME-TAX OFFICER, A-WARD, NIZAMABAD",
+  "case_number": "Writ Petition No. 1486 of 1965",
+  "judgment_date": "1968-07-03",
+  "court_name": "Andhra Pradesh High Court",
+  "judges": [
+    "Basi Reddy",
+    "Sambasiva Rao"
+  ],
+  "appellant": "KISHANLAL HARICHARAN",
+  "respondent": "INCOME-TAX OFFICER, A-WARD, NIZAMABAD",
+  "result": "Dismissed",
+  "citation": "1971 P T D 854",
+  "advocates": {
+    "petitioner": "P. Rama Rao"
+  },
+  "statutes_referred": [
+    "Indian Income-tax Act, 1922",
+    "Income-tax Act, 1961",
+    "Article 226 of the Constitution"
+  ],
+  "key_points": {
+    "issue_1": "Notice under section 35(5) of the Income-tax Act, 1922 issued after the Income-tax Act, 1961 came into force.",
+    "issue_2": "Rectification order under section 35(5) barred by limitation."
+  },
+  "facts": {
+    "assessment_years": [
+      "1949-50",
+      "1950-51"
+    ],
+    "firm_name": "Messrs Sriram Haricharandas, Bombay",
+    "firm_income": "Rs. 26,00,000",
+    "petitioner's_share": "Rs. 13,00,000",
+    "rectification_order_date": "1965-03-16"
+  },
+  "arguments": {
+    "petitioner": {
+      "limitation_period": "Four years from the date of the final order under section 33-A.",
+      "contention": "Impugned order passed beyond the limitation period."
+    },
+    "respondent": {
+      "justification": "Rectification order passed within four years from the consequential order dated January 29, 1963."
+    }
+  },
+  "court_observations": {
+    "final_order": "Income-tax Officer's order dated January 29, 1963 deemed as final order.",
+    "limitation_period": "Four years computed from January 29, 1963.",
+    "consequential_order": "Valid under section 35(5)."
+  },
+  "judgment_summary": {
+    "decision": "Petition dismissed.",
+    "reasoning": "Rectification order passed within the limitation period."
+  },
+  "costs_awarded": "Rs. 250"
+}

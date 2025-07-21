@@ -1,0 +1,61 @@
+{
+  "case_title": "FAZAL-E-HADI vs NATIONAL ACCOUNTABILITY BUREAU, SINDH through Director-General, Sindh and another",
+  "case_number": "C.P. No,D-2088 of 2007",
+  "judgment_date": "2007-11-02",
+  "court_name": "Sindh High Court",
+  "judges": [
+    "Rehmat Hussain Jaffery",
+    "Syed Mehmood Alam Rizvi"
+  ],
+  "appellant": "Fazal-e-Hadi",
+  "respondent": "National Accountability Bureau, Sindh through Director-General, Sindh and another",
+  "result": "Bail refused",
+  "reported_as": "2008 P Cr. L J 171",
+  "case_details": {
+    "reference_number": "53 of 2007",
+    "offense": "Corruption and corrupt practices",
+    "laws_invoked": {
+      "primary_section": "9(a)(i)",
+      "punishment_section": "10",
+      "statute": "National Accountability Bureau Ordinance, 1999"
+    },
+    "prosecution_case": {
+      "accused_role": "Assistant Director (Investigation), NAB Sindh",
+      "complainant": "Zafar Baloch",
+      "allegations": "Demanding Rs. 1 million cash or GLI Toyota car for excluding complainant's name from inquiry and softening the role of colleague Shahid Raza",
+      "trap_details": {
+        "trap_date": "2007-06-18",
+        "trap_supervisor": "Mr. Asim Lodhi, Judicial Magistrate",
+        "tainted_money_recovered": "Rs. 200,000",
+        "recovery_location": "Car of the applicant"
+      },
+      "plea_bargain_offer": "Rs. 7,45,700 (including Rs. 6,50,000 illegal gratification and 15% NAB accidental charges)"
+    },
+    "defense_arguments": {
+      "contradictions": [
+        "No mention of illegal demand in complainant's initial application for pardon",
+        "Delayed statement of complainant (8 days)",
+        "Discrepancies in raiding report and reference",
+        "Telephonic conversation not verified by expert"
+      ],
+      "procedural_flaws": [
+        "Stereo-type warrant of arrest",
+        "Seized car returned to applicant's wife after 36 days"
+      ]
+    },
+    "prosecution_arguments": {
+      "evidence": [
+        "Letter dated 21st May, 2007 showing applicant authorized as Investigating Officer",
+        "Recovery of tainted money corroborated by complainant and Judicial Magistrate",
+        "Affidavit of plea bargain dated 14th July, 2007",
+        "Handwritten letter by applicant admitting mistakes and requesting pardon"
+      ],
+      "case_strength": "Minor contradictions do not affect prosecution case; prima facie evidence established"
+    }
+  },
+  "judgment_summary": {
+    "prima_facie_case": "Established against applicant",
+    "bail_decision": "Applicant not entitled for bail",
+    "reasoning": "Applicant admitted receiving money, offered plea bargain, and requested pardon in writing. Corruption by NAB officials undermines the institution's credibility."
+  }
+}

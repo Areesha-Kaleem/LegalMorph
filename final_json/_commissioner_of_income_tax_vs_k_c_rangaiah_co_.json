@@ -1,0 +1,125 @@
+{
+  "case_title": "COMMISSIONER OF INCOME-TAX vs K. C. RANGAIAH & CO.",
+  "reference_no_or_id": "R. C. No. 206 of 1991",
+  "case_number": "R.C. No. 206 of 1991",
+  "judgment_date": "1997-09-23",
+  "first_hearing_date": "1987-11-26",
+  "court": "Andhra Pradesh High Court",
+  "court_name": "Andhra Pradesh High Court",
+  "bench_type": "Division Bench",
+  "judges": [
+    "Syed Shah Mohammad Quadri",
+    "Chelameswar"
+  ],
+  "appellant": [
+    "Commissioner of Income-Tax"
+  ],
+  "respondant": [
+    "K. C. Rangaiah & Co."
+  ],
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": []
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Sri Prasad"
+    ],
+    "defense": [
+      "Sri Kodanda Ram"
+    ]
+  },
+  "complaint_summary": "The Commissioner of Income-Tax exercised revisional powers under Section 263 of the Income Tax Act, 1961, to cancel the registration granted to the respondent firm under Section 185 for the assessment year 1980-81, citing improper inquiries by the Income-Tax Officer.",
+  "investigation_summary": "The Commissioner of Income-Tax relied on material not available at the time of the original registration order. The Income-Tax Appellate Tribunal overturned the cancellation, stating the Commissioner erred in relying on post-registration material.",
+  "judgment_summary": "The High Court ruled in favor of the Revenue, holding that the Commissioner was justified in exercising revisional powers under Section 263 based on material available at the time of examination, even if it was not part of the original record. The Tribunal's decision was overturned.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Reference answered in favor of the Revenue and against the assessee.",
+  "result": "Reference answered",
+  "legal_arguments": [
+    "Prosecution argued that Section 263 allows reliance on material available at the time of examination, even if not part of the original record.",
+    "Defense contended that the Commissioner could only rely on material available at the time of granting registration, and amendments to Section 263 were not applicable retroactively."
+  ],
+  "assets": [],
+  "statutes": [
+    "Income Tax Act, 1961"
+  ],
+  "sections": [
+    "Section 185",
+    "Section 263",
+    "Section 256(2)"
+  ],
+  "legal_provisions": [
+    {
+      "section": "256(2)",
+      "act": "Income Tax Act, 1961",
+      "description": "Reference provision for questions of law."
+    },
+    {
+      "section": "263",
+      "act": "Income Tax Act, 1961",
+      "description": "Revision of orders prejudicial to Revenue."
+    },
+    {
+      "section": "185",
+      "act": "Income Tax Act, 1961",
+      "description": "Granting registration to firms."
+    }
+  ],
+  "citations": [
+    "1999 P T D 3651",
+    "South India Steel Rolling Mills v. CIT (1997) 224 ITR 654",
+    "Ganga Properties v. ITO (1979) 118 ITR 447",
+    "CIT v. M.A. Unneerikutty (1992) 194 ITR 546",
+    "K. A. Ramaswamy Chettiar v. CIT (1996) 220 ITR 657"
+  ],
+  "reported_as": "1999 P T D 3651",
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "I.T.C. No. 62 of 1986",
+  "legal_categories": [
+    "Tax Law",
+    "Revisional Powers"
+  ],
+  "key_issues": [
+    "Whether the Commissioner of Income-Tax was justified in exercising revisional powers under Section 263 based on material not available at the time of the original registration order.",
+    "Whether the Income-Tax Appellate Tribunal erred in ignoring material available at the time of the Commissioner's examination."
+  ],
+  "questions_of_law": [
+    {
+      "question": "Whether, on the facts and in the circumstances of the case, the Income-tax Appellate Tribunal is correct in law in cancelling the order passed by the Commissioner of Income-tax under section 263 of the Income Tax Act, 1961?",
+      "answer": "Negative, in favour of the Revenue and against the assessee."
+    },
+    {
+      "question": "Whether, on the facts and in the circumstances of the case, the Income-tax Appellate Tribunal ought to have held that the Commissioner of Income-tax had jurisdiction to pass orders under section 263 since the facts subsequently revealed showed that the Income-tax Officer did not make proper enquiries when granting registration to the firm?",
+      "answer": "Affirmative, in favour of the Revenue and against the assessee."
+    },
+    {
+      "question": "Whether, on the facts and in the circumstances of the case, the Income-tax Appellate Tribunal is correct in law in directing that the material available at the time of passing the order under section 263 but which was not available at the time the Income-tax Officer passed the impugned order dated August 29, 1981, under section 185 should be ignored?",
+      "answer": "Negative, in favour of the Revenue and against the assessee."
+    }
+  ],
+  "key_points": [
+    "The Commissioner exercised revisional power under section 263 to cancel the registration granted under section 185.",
+    "The Tribunal initially ruled in favor of the assessee, stating the Commissioner could not rely on material unavailable at the time of the Income-tax Officer's order.",
+    "The High Court clarified that the Explanation to section 263, inserted by the Finance Act, 1988, is retrospective and allows the Commissioner to rely on material available at the time of examination.",
+    "Supreme Court judgments affirmed the wide amplitude of section 263, allowing consideration of subsequent material before revisional power is exercised."
+  ],
+  "maxims": {
+    "N/A": "N/A"
+  },
+  "legal_terms": {
+    "Revisional Powers": "Authority to review and amend decisions deemed erroneous and prejudicial to the interests of the Revenue."
+  },
+  "words_and_phrases": {
+    "Record": "Includes all records relating to any proceeding under the Act available at the time of examination by the Commissioner."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around the exercise of revisional powers under Section 263 of the Income Tax Act, 1961. The High Court ruled that the Commissioner was justified in relying on material available at the time of examination, even if not part of the original record, thus overturning the Tribunal's decision in favor of the Revenue."
+}

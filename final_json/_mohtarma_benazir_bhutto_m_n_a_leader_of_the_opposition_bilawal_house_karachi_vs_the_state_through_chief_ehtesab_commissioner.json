@@ -1,0 +1,143 @@
+{
+  "case_title": "Mohtarma Benazir Bhutto, M.N.A., Leader of the Opposition, Bilawal House, Karachi vs The State through Chief Ehtesab Commissioner",
+  "reference_no_or_id": "Criminal Miscellaneous Appeal No. 3 in Criminal Appeal No. Nil of 1999, Criminal Petition No. 100 of 1999, C.M.A. No. 140 of 1999",
+  "judgment_date": "1999-05-27",
+  "first_hearing_date": "N/A",
+  "court": "Supreme Court of Pakistan",
+  "bench_type": "Ehtesab Bench",
+  "judges": [
+    "Irshad Hasan Khan"
+  ],
+  "appellant": [
+    "Mohtarma Benazir Bhutto, M.N.A., Leader of the Opposition, Bilawal House, Karachi"
+  ],
+  "respondant": [
+    "The State through Chief Ehtesab Commissioner"
+  ],
+  "accussed_details": [
+    {
+      "name": "Mohtarma Benazir Bhutto",
+      "age": "N/A",
+      "gender": "Female",
+      "designation": "Leader of the Opposition",
+      "allegation": [
+        "Corruption",
+        "Misuse of authority"
+      ]
+    },
+    {
+      "name": "Senator Asif Ali Zardari",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Senator",
+      "allegation": [
+        "Corruption",
+        "Misuse of authority"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Mr. Tanvir Bashir Ansari (Deputy Attorney-General)"
+    ],
+    "defense": [
+      "Mr. Aitzaz Ahsan (Senior Advocate Supreme Court)"
+    ]
+  },
+  "complaint_summary": "The appellant and her spouse were accused of corruption and misuse of authority, leading to their conviction and sentencing by the Ehtesab Bench of the Lahore High Court.",
+  "investigation_summary": "The Ehtesab Bench found the appellant and her spouse guilty of corruption and misuse of authority, resulting in a five-year imprisonment sentence, a fine of $8.6 million each, confiscation of properties, and disqualification from holding public office for five years.",
+  "judgment_summary": "The Supreme Court allowed the appeal, setting aside the Deputy Registrar's order and directing the appeal to be processed. The Court held that the appellant's absence did not bar her right to appeal under Section 26 of the Ehtesab Act, 1997.",
+  "punishment": "Five years imprisonment, $8.6 million fine each, confiscation of properties, and disqualification from holding public office for five years (original sentence by Ehtesab Bench).",
+  "decision_or_verdict": "Appeal allowed",
+  "legal_arguments": [
+    "The appellant argued that Rule 8 of Order XXIII of the Supreme Court Rules, 1980, was not applicable to appeals filed as of right under Section 26 of the Ehtesab Act, 1997.",
+    "The prosecution contended that the appellant's failure to surrender rendered the appeal inadmissible.",
+    "The Court held that the appellant's absence, permitted by the Court, did not constitute a bar to her appeal."
+  ],
+  "assets": [
+    "Confiscated properties of the appellant and her spouse"
+  ],
+  "statutes": [
+    "Ehtesab Act, 1997",
+    "Supreme Court Rules, 1980",
+    "Criminal Procedure Code (Cr.P.C.)"
+  ],
+  "sections": [
+    "Section 26 of the Ehtesab Act, 1997",
+    "Section 419 of Cr.P.C.",
+    "Order XXIII, Rule 8 of Supreme Court Rules, 1980"
+  ],
+  "citations": [
+    "1999 SCMR 1619",
+    "PLD 1956 FC 43",
+    "1998 PCr.LJ 1486",
+    "PLD 1989 SC 6"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Criminal Law",
+    "Anti-Corruption"
+  ],
+  "key_issues": [
+    "Applicability of Rule 8 of Order XXIII to direct appeals under Section 26 of the Ehtesab Act",
+    "Right to appeal in absentia",
+    "Interpretation of procedural rules in criminal appeals"
+  ],
+  "maxims": {
+    "Fugitive from justice": "A person who flees jurisdiction after committing a crime cannot seek judicial relief without surrendering."
+  },
+  "legal_terms": {
+    "In absentia": "Legal proceedings conducted without the physical presence of the accused."
+  },
+  "words_and_phrases": {
+    "Fugitive from justice": "A person who, having committed a crime, flees from the jurisdiction of the court."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around the appeal filed by Mohtarma Benazir Bhutto against her conviction and sentencing by the Ehtesab Bench. The Supreme Court allowed the appeal, emphasizing the appellant's right to appeal under Section 26 of the Ehtesab Act, even in her absence. The Court clarified procedural rules and upheld the appellant's legal rights.",
+  "facts": {
+    "conviction_details": {
+      "case_reference": "Ehtesab Reference No. 30 of 1998",
+      "court": "Lahore High Court, Rawalpindi Bench",
+      "judges": [
+        "Justice Malik Muhammad Qyyum",
+        "Justice Najam-ul-Hasan Kazmi"
+      ],
+      "sentence": "Five years imprisonment and fine of US $8.6 million each (or equivalent in Pakistani currency)",
+      "additional_penalties": [
+        "Confiscation of properties and assets",
+        "Disqualification from holding public office for five years"
+      ],
+      "convicted_in_absentia": true
+    },
+    "appeal_returned_reason": "Non-compliance with First Proviso to Rule 8 of Order XXIII of Supreme Court Rules, 1980"
+  },
+  "arguments": {
+    "appellant": {
+      "main_contention": "Rule 8 of Order XXIII does not apply to appeals filed as of right under Section 26 of the Ehtesab Act, 1997.",
+      "supporting_points": [
+        "Appellant was out of the country with leave of the court.",
+        "Conviction and sentence were announced in absentia.",
+        "Appeal is a fundamental right and continuation of proceedings."
+      ]
+    },
+    "respondent": {
+      "main_contention": "Rule 8 of Order XXIII applies to all appeals, including direct appeals.",
+      "supporting_points": [
+        "Appellant must surrender before competent authority.",
+        "Appellant is a fugitive from justice residing in England."
+      ]
+    }
+  },
+  "decision": {
+    "key_findings": [
+      "Rule 8 of Order XXIII applies only to petitions for leave to appeal and appeals arising therefrom, not direct appeals under Section 26 of the Ehtesab Act, 1997.",
+      "Appellant's absence was authorized by the court, and her appeal can be entertained in absentia.",
+      "Appeal is a continuation of the trial and a fundamental right."
+    ],
+    "order": "Impugned order of Deputy Registrar (Judicial) set aside. Appeal to be processed in accordance with law."
+  }
+}

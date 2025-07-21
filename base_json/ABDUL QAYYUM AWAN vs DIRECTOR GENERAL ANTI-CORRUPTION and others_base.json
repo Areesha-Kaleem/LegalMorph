@@ -1,0 +1,84 @@
+{
+  "case_title": "ABDUL QAYYUM AWAN vs DIRECTOR GENERAL ANTI-CORRUPTION and others",
+  "reference_no_or_id": "Application for partial suspension of the impugned Notification dated 18.5.2016",
+  "judgment_date": "2016-09-09",
+  "first_hearing_date": "2016-07-26",
+  "court": "Azad Jammu and Kashmir Service Tribunal",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Ameerullah Khan Mughal"
+  ],
+  "appellant": [
+    "Abdul Qayyum Awan"
+  ],
+  "respondant": [
+    "Director General Anti-Corruption",
+    "Others"
+  ],
+  "accussed_details": [
+    {
+      "name": "Abdul Qayyum Awan",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Civil Servant",
+      "allegation": [
+        "Incorrect date of birth entry in service record",
+        "Claiming salary beyond retirement date"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [],
+    "defense": []
+  },
+  "complaint_summary": "The appellant was retired from service via Notification dated 18.05.2016, with instructions to recover salary and benefits received after 04.08.2015 due to alleged incorrect date of birth entry in service records.",
+  "investigation_summary": "The appellant applied for correction of his date of birth based on his Identity Card and matriculation certificate. The application was rejected by the departmental authority on 14.11.2014. Subsequent appeals were filed, leading to conflicting judgments by the Service Tribunal and the apex Court.",
+  "judgment_summary": "The Tribunal suspended the impugned Notification dated 18.05.2016 to the extent of recovery of salary and benefits drawn after 04.08.2015, citing legal precedents that disallow recovery of salary for services rendered post-retirement due to litigation.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Notification suspended",
+  "legal_arguments": [
+    "Recovery of salary post-retirement is unjustified as the appellant rendered services during the litigation period.",
+    "Legal precedents establish that salary drawn during such periods cannot be recovered."
+  ],
+  "assets": [],
+  "statutes": [
+    "2017 P L C (C.S.) 331"
+  ],
+  "sections": [],
+  "citations": [
+    "PLD 1992 SC 207",
+    "2000 PLC (C.S.) 480",
+    "2001 PLC (C.S.) 1092",
+    "2009 PLC 1400",
+    "2014 SCR 13",
+    "PLD 2012 SC (AJ&K) 42",
+    "PLD 2009 SC 889"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Service Law",
+    "Pension Recovery",
+    "Superannuation"
+  ],
+  "key_issues": [
+    "Validity of recovery of salary post-retirement",
+    "Correction of date of birth in service records",
+    "Application of legal precedents in service disputes"
+  ],
+  "maxims": {
+    "Equity": "No one should be unjustly enriched at the expense of another."
+  },
+  "legal_terms": {
+    "Superannuation": "The age at which a person is required to retire from service.",
+    "Pensionary Benefits": "Benefits received by a retired employee."
+  },
+  "words_and_phrases": {
+    "Impugned Notification": "The notification being challenged in the appeal."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case involves a dispute over recovery of salary drawn post-retirement due to litigation over correction of date of birth. The Tribunal suspended the recovery citing legal precedents that disallow penalizing employees for services rendered during litigation."
+}

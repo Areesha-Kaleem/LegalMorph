@@ -1,0 +1,78 @@
+{
+  "case_title": "RAMLAL ONKARMAL vs COMMISSIONER OF INCOME-TAX, ASSAM",
+  "case_number": "Income-tax Reference No. 2 of 1959",
+  "court_name": "Assam High Court",
+  "judgment_date": "1959-08-11",
+  "judges": [
+    "Sinha",
+    "H. Deka"
+  ],
+  "appellant": "RAMLAL ONKARMAL",
+  "respondent": "COMMISSIONER OF INCOME-TAX, ASSAM",
+  "result": "Reference answered in the affirmative",
+  "facts": {
+    "assessee": "Ramlal Onkarmal, Hindu undivided family",
+    "shares_in_firms": {
+      "Ramlal Onkarmal": "12 annas",
+      "Durgapur Tea Estate": "8 annas"
+    },
+    "assessment_details": {
+      "assessment_date": "1954-06-21",
+      "assessment_year": "1953-54",
+      "income_tax_officer_inclusion": {
+        "profit_ramlal_onkarmal": 38392,
+        "loss_durgapur_tea_estate": 32759
+      },
+      "total_income_after_deduction": 18656
+    },
+    "commissioner_action": {
+      "date": "1956-06-04",
+      "reason": "Loss of Rs. 32,759 from Durgapur Tea Estate should not have been set off under section 24(1) proviso",
+      "order": "Assessment enhanced by Rs. 32,759"
+    }
+  },
+  "legal_issue": "Whether the Commissioner's order under section 33-B is valid?",
+  "legal_provisions": {
+    "section_33_B": {
+      "introduced_by": "Income-tax and Business Profits Tax Amendment Act, 1948",
+      "conditions": [
+        "Order by Income-tax Officer is erroneous and prejudicial to revenue",
+        "No revision of re-assessment under section 34",
+        "Revision within two years of the order"
+      ]
+    },
+    "section_31": {
+      "powers_of_appellate_assistant_commissioner": [
+        "Confirm, reduce, enhance, or annul assessment",
+        "Income-tax Officer has right to be heard"
+      ]
+    }
+  },
+  "court_analysis": {
+    "key_points": [
+      "Section 33-B powers are not restricted by pending appeals unless explicitly stated.",
+      "Contrast between sections 33-A and 33-B highlights broader powers under section 33-B.",
+      "Supreme Court precedent supports the Commissioner's authority under section 33-B even during pending appeals."
+    ],
+    "precedents_considered": [
+      {
+        "case_name": "Commissioner of Income-tax v. Amritlal Bhogilal & Co.",
+        "court": "Bombay High Court",
+        "decision": "Commissioner cannot revise during pending appeal",
+        "overruled_by": "Supreme Court"
+      },
+      {
+        "case_name": "Smt. Durgabati and Smt. Narmadabala Gupta v. Commissioner of Income-tax",
+        "court": "Patna High Court",
+        "decision": "Commissioner can revise under section 33-B"
+      }
+    ]
+  },
+  "final_decision": {
+    "question_answered": "Affirmative",
+    "reasoning": "Section 33-B explicitly allows revision by Commissioner without restrictions related to pending appeals."
+  },
+  "costs_awarded": {
+    "respondent": "Rs. 100"
+  }
+}

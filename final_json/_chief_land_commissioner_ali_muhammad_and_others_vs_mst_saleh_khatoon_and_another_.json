@@ -1,0 +1,110 @@
+{
+  "case_title": "Chief Land Commissioner ALI MUHAMMAD and others vs Mst. SALEH KHATOON and another",
+  "reference_no_or_id": "Cases Nos.SROR-455, 446 and 452 of 1980",
+  "judgment_date": "1986-05-25",
+  "first_hearing_date": "N/A",
+  "court": "Board of Revenue",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Amir Yusuf Ali Khan"
+  ],
+  "appellant": [
+    "Chief Land Commissioner ALI MUHAMMAD and others"
+  ],
+  "respondant": [
+    "Mst. SALEH KHATOON and another"
+  ],
+  "accussed_details": [
+    {
+      "name": "Mst. Saleh Khatoon",
+      "age": "N/A",
+      "gender": "Female",
+      "designation": "Landowner",
+      "allegation": [
+        "Concealing land holdings",
+        "Violation of Land Reforms Regulation, 1972"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "Tenants alleged Mst. Saleh Khatoon concealed her land holdings and violated Land Reforms Regulation, 1972.",
+  "investigation_summary": "Deputy Land Commissioner, Hyderabad conducted inquiry and found her holdings within the permissible limit of 12,000 PIUs.",
+  "judgment_summary": {
+    "tenant_claims": "Declared baseless and frivolous",
+    "land_commissioner_decision": "Endorsed Deputy Land Commissioner orders dated 8-5-1979 and 15-5-1979",
+    "final_decision": "No grounds to interfere with impugned orders"
+  },
+  "punishment": "N/A",
+  "Decision_or_verdict": "Revision dismissed; orders of Deputy Land Commissioner upheld.",
+  "legal_arguments": [
+    "Petitioners lacked locus standi.",
+    "Resumed land grant to tenants was illegal.",
+    "Land sold by Mst. Saleh Khatoon wrongly included in her holdings.",
+    "Banjar concession denied for certain survey numbers."
+  ],
+  "assets": [
+    "Land holdings under dispute"
+  ],
+  "statutes": [
+    "Land Reforms Regulation, 1972",
+    "Sind Land Reform Rules, 1977"
+  ],
+  "sections": [
+    "N/A"
+  ],
+  "citations": [
+    "1987 M L D 1082"
+  ],
+  "witnesses": [
+    "N/A"
+  ],
+  "witness_statement": {},
+  "appeal_number": "Appeals Nos.1594-HVC (LR-15)/79 and 1674-HVC (LR-115)/79",
+  "legal_categories": [
+    "Land Reforms",
+    "Property Law"
+  ],
+  "key_issues": [
+    "Concealment of land holdings",
+    "Validity of resumed land grant",
+    "Application of Rehabilitation laws"
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "PIUs": "Productivity Index Units",
+    "Banjar": "Uncultivated land"
+  },
+  "words_and_phrases": {
+    "Locus Standi": "The right to bring an action or to be heard in a court."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case involves allegations of land concealment under Land Reforms Regulation, 1972. Tenant complaints were dismissed as baseless, and Mst. Saleh Khatoon's holdings were found within permissible limits. The Board of Revenue upheld the Deputy Land Commissioner's orders.",
+  "legal_provisions": {
+    "land_reforms_regulation": "1972",
+    "land_reforms_act": "1977",
+    "sind_land_reform_rules": "1977",
+    "mlr_89_91": "Applicable"
+  },
+  "key_points": {
+    "holding_ceiling": "12,000 PIUs",
+    "tenant_complaints": "Concealing holding and violating Land Reforms Regulation, 1972",
+    "appeals_rejected": "Appeals Nos.1594-HVC (LR-15)/79 and 1674-HVC (LR-115)/79",
+    "banjar_concession": "Denied",
+    "tenant_locus_standi": "Disputed",
+    "land_sold_included_in_holding": "Contested",
+    "rehabilitation_laws": "Repealed in 1974, not relevant"
+  },
+  "implementation": {
+    "directed_to": "Deputy Land Commissioner, Hyderabad",
+    "orders_to_implement": "Orders dated 8-5-1979 and 15-5-1979"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "case_title": "JAI NARAIN vs SRI RAM NARAIN by Legal Heirs and others",
+  "reference_no_or_id": "Second Appeal No. 2366 of 1979",
+  "judgment_date": "1988-12-08",
+  "first_hearing_date": "N/A",
+  "court": "Allahabad High Court",
+  "bench_type": "Single Bench",
+  "judges": [
+    "A. N. Varma"
+  ],
+  "appellant": [
+    "JAI NARAIN"
+  ],
+  "respondant": [
+    "SRI RAM NARAIN by Legal Heirs and others"
+  ],
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": []
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Sri Saran Behari Lal Srivastava"
+    ],
+    "defense": []
+  },
+  "complaint_summary": "Plaintiff sought declaration, permanent injunction, and possession of land granted under a license in 1956, which was later leased to the defendant by the Zamindar.",
+  "investigation_summary": "The trial court found the defendant in possession of the land under a valid lease. The appellate court reversed this, holding the license irrevocable under Section 60 of the Easements Act.",
+  "judgment_summary": "The court upheld the appellate court's decision that the license granted to the plaintiff was irrevocable under Section 60(h) of the Easements Act due to the construction of a permanent structure and use of appurtenant land.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Appeal dismissed.",
+  "legal_arguments": [
+    "Section 60(h) of the Easements Act makes a license irrevocable if a permanent structure is built.",
+    "The foundation of a building constitutes a permanent character under Section 60(b).",
+    "The appurtenant land used for beneficial enjoyment of the house is protected under the license."
+  ],
+  "assets": [
+    "Land measuring 45' x 6\" north-south and 13' x 10\" east-west"
+  ],
+  "statutes": [
+    "Easements Act"
+  ],
+  "sections": [
+    "Section 60(h)",
+    "Section 60(b)",
+    "Section 145 Cr.P.C."
+  ],
+  "citations": [
+    "1940 All LJ 354",
+    "AIR 1940 All 324",
+    "AIR 1969 Ker 23"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "Second Appeal No. 2366 of 1979",
+  "legal_categories": [
+    "Property Law",
+    "Easements"
+  ],
+  "key_issues": [
+    "Irrevocability of license under Section 60(h) of the Easements Act.",
+    "Validity of lease granted to the defendant overriding the license."
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "License": "Permission granted by the owner to use the land.",
+    "Sehan": "Appurtenant land used for beneficial enjoyment of a house."
+  },
+  "words_and_phrases": {
+    "Permanent character": "Construction or foundation that makes a license irrevocable."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around the irrevocability of a license granted for land construction under Section 60(h) of the Easements Act. The plaintiff constructed a house and used the appurtenant land for beneficial purposes, making the license irrevocable. The appellate court's decision was upheld, dismissing the defendant's appeal."
+}

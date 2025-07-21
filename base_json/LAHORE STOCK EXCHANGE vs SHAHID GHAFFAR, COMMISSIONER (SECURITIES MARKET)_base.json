@@ -1,0 +1,121 @@
+{
+  "case_title": "LAHORE STOCK EXCHANGE vs SHAHID GHAFFAR, COMMISSIONER (SECURITIES MARKET)",
+  "reference_no_or_id": "Appeal No, 2 of 2002",
+  "judgment_date": "2002-06-27",
+  "first_hearing_date": "2002-04-26",
+  "court": "Appellate Bench of Securities and Exchange Commission of Pakistan",
+  "bench_type": "Appellate Bench",
+  "judges": [
+    "Abdul Rehman Oureshi",
+    "N. K. Shahani"
+  ],
+  "appellant": [
+    "Lahore Stock Exchange"
+  ],
+  "respondant": [
+    "Shahid Ghaffar, Commissioner (Securities Market)"
+  ],
+  "accussed_details": [
+    {
+      "name": "Respondent No. 3",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "Broker",
+      "allegation": [
+        "Fraudulent cross-transactions",
+        "Violation of trading regulations"
+      ]
+    },
+    {
+      "name": "Respondent No. 4",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "Broker",
+      "allegation": [
+        "Fraudulent cross-transactions",
+        "Violation of trading regulations"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Mr. Faisal Islam",
+      "Mr. Aamir Zareef Khan"
+    ],
+    "defense": [
+      "Syed Aamir Masood",
+      "Ms. Sumbul Naved Qureshi",
+      "Mr. Salim Chamdia",
+      "Ejaz Ahmed Bodla",
+      "Riaz Chaudhry",
+      "Mr. Rafay Alam",
+      "Mr. Arif Habib"
+    ]
+  },
+  "complaint_summary": "LSE deleted 23 trades involving 1,002,500 shares of Adamjee Insurance Company Limited, alleging fraudulent cross-transactions and negotiated deals.",
+  "investigation_summary": "The Commission remanded the case to LSE, which imposed fines on brokers. Subsequent investigations by the Joint Committee found procedural compliance by respondents and deemed LSE's deletion of trades unjustified.",
+  "judgment_summary": "The Appellate Bench upheld the deletion of trades as unlawful, reprimanded LSE for violations, and directed action against responsible directors. Compensation claims were referred to civil courts.",
+  "punishment": "Fine of Rs. 25,000 imposed on Respondents Nos. 3 and 4 by LSE.",
+  "Decision_or_verdict": "Deletion of trades declared unlawful; LSE warned and reprimanded.",
+  "legal_arguments": [
+    "Violation of principles of natural justice",
+    "Improper investigation under SECP Act",
+    "Jurisdictional overreach by Commission",
+    "Validity of Regulation 19(f) of LOTS"
+  ],
+  "assets": [
+    "1,002,500 shares of Adamjee Insurance Company Limited"
+  ],
+  "statutes": [
+    "Securities and Exchange Commission of Pakistan Act, 1997",
+    "Securities and Exchange Ordinance, 1969",
+    "Contract Act, 1872"
+  ],
+  "sections": [
+    "Section 20 of SECP Act",
+    "Section 17 of Securities and Exchange Ordinance, 1969",
+    "Section 23 of Contract Act, 1872"
+  ],
+  "citations": [
+    "2002 C L D 1583",
+    "1994 SCMR 150",
+    "PLD 1985 SC 86",
+    "AIR 1999 Gujarat 221"
+  ],
+  "witnesses": [
+    "Respondent No. 2",
+    "Respondent No. 3",
+    "Respondent No. 4",
+    "Mr. Tariq Iqbal Khan"
+  ],
+  "witness_statement": {
+    "Respondent No. 3": "Admitted to negotiated deals but disputed deletion of trades.",
+    "Respondent No. 4": "Denied allegations of connivance and fraudulent transactions."
+  },
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Securities Regulation",
+    "Fraudulent Transactions",
+    "Contract Law"
+  ],
+  "key_issues": [
+    "Validity of trade deletion by LSE",
+    "Jurisdiction of SECP",
+    "Application of Regulation 19(f)"
+  ],
+  "maxims": {
+    "audi alteram partem": "No one is to be condemned unheard."
+  },
+  "legal_terms": {
+    "Negotiated Deal": "A deal negotiated between two parties outside the regular market.",
+    "Cross-Transaction": "Transactions where buyer and seller originate from the same brokerage house."
+  },
+  "words_and_phrases": {
+    "Settlement": "Final adjustment or payment in a trade.",
+    "Exposure": "Risk borne by a clearing house in trade transactions."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around LSE's deletion of trades involving Adamjee Insurance shares, citing fraudulent cross-transactions. SECP declared the deletion unlawful, reprimanded LSE, and referred compensation claims to civil courts."
+}

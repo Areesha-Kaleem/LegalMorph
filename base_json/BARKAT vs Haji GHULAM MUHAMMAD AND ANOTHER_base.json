@@ -1,0 +1,95 @@
+{
+  "case_title": "BARKAT vs Haji GHULAM MUHAMMAD AND ANOTHER",
+  "reference_no_or_id": "Letters Patent Appeal No. 3 of 1967",
+  "judgment_date": "1969-10-11",
+  "first_hearing_date": "N/A",
+  "court": "Balochistan High Court",
+  "bench_type": "Division Bench",
+  "judges": [
+    "Shamim Hussain Qadri",
+    "A. R. Sheikh"
+  ],
+  "appellant": [
+    "BARKAT"
+  ],
+  "respondant": [
+    "Haji GHULAM MUHAMMAD",
+    "Munshi Faizul Haq"
+  ],
+  "accussed_details": [
+    {
+      "name": "BARKAT",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": [
+        "Violation of Section 447, P.P.C."
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "The respondent alleged that the appellant violated Section 447, P.P.C., concerning property redemption rights under a compromise agreement dated 26-6-53.",
+  "investigation_summary": "The Extra-Assistant Commissioner dismissed the respondents' application on 26-12-58, citing time-barred claims. The Commissioner reversed this decision on 16-5-61 and 29-8-62, leading to subsequent legal challenges.",
+  "judgment_summary": "The court held that the second writ petition filed by the respondent was not maintainable due to suppression of material facts and the application of res judicata principles. The Letters Patent Appeal was accepted, and the writ issued on 30-6-67 was recalled.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Appeal accepted; writ recalled.",
+  "legal_arguments": [
+    "Application of res judicata principles to writ petitions.",
+    "Suppression of material facts by the respondent.",
+    "Dismissal of first writ petition in limine constitutes a bar to subsequent petitions."
+  ],
+  "assets": [],
+  "statutes": [
+    "Article 98 of the Constitution",
+    "Section 447, P.P.C.",
+    "Section 11 of the Code of Civil Procedure",
+    "Article 151 of the Limitation Act"
+  ],
+  "sections": [
+    "Section 447, P.P.C.",
+    "Section 12 of the Limitation Act",
+    "Order IX, Rule 4 of the Code of Civil Procedure"
+  ],
+  "citations": [
+    "P L D 1970 Quetta 10",
+    "P L D 1966 Lah. 319",
+    "A I R 1941 Lah. 257",
+    "P L D 1965 S C 255",
+    "A I R 1961 S C 1457"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "L. P. A. No. 4 of 1963 (previous appeal)",
+  "legal_categories": [
+    "Constitutional Law",
+    "Civil Procedure",
+    "Property Law"
+  ],
+  "key_issues": [
+    "Applicability of res judicata to writ petitions.",
+    "Suppression of material facts by the respondent.",
+    "Validity of the Commissioner's orders reversing the Extra-Assistant Commissioner's decision."
+  ],
+  "maxims": {
+    "Res Judicata": "A petitioner is not entitled to file multiple writ petitions on the same facts."
+  },
+  "legal_terms": {
+    "Res Judicata": "A principle barring the same parties from litigating the same issue multiple times.",
+    "Limine": "A preliminary dismissal without a detailed hearing."
+  },
+  "words_and_phrases": {
+    "Speaking Order": "An order that explicitly states the reasons for the decision.",
+    "Dismissed in Limine": "Dismissal at the initial stage without detailed examination."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around property redemption rights under Section 447, P.P.C., and the application of res judicata principles to writ petitions. The appellant succeeded in the Letters Patent Appeal due to the respondent's suppression of material facts and the legal bar against filing multiple petitions on the same facts."
+}

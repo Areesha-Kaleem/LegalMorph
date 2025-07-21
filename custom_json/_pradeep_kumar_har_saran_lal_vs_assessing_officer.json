@@ -1,0 +1,51 @@
+{
+  "case_title": "PRADEEP KUMAR HAR SARAN LAL vs ASSESSING OFFICER",
+  "case_number": "Civil Miscellaneous Writ Petition No. 414 of 1996",
+  "court_name": "Allahabad High Court",
+  "judgment_date": "1997-03-21",
+  "judges": [
+    "B. K. Sharma",
+    "Om Prakash"
+  ],
+  "appellant": "PRADEEP KUMAR HAR SARAN LAL",
+  "respondent": "ASSESSING OFFICER",
+  "result": "Reference answered",
+  "reported_as": "1999 P T D 2795",
+  "legal_issues": [
+    "Validity of notice under section 148 of the Income Tax Act, 1961",
+    "Applicability of section 44-AC for computing profits",
+    "Jurisdiction of Assessing Officer under section 143(1)(a) and section 147",
+    "Merger of intimation in appellate order"
+  ],
+  "key_points": [
+    "The petitioner, a partnership firm engaged in the business of alcoholic liquor, challenged the notice issued under section 148 of the Income Tax Act, 1961.",
+    "The Assessing Officer had initially computed taxable income under section 44-AC, which was later set aside by the Commissioner of Income-tax (Appeals).",
+    "The court held that adjustments made under section 143(1)(a) were ab initio void as they involved debatable issues.",
+    "The court clarified that intimation under section 143(1)(a) does not constitute an assessment.",
+    "The Assessing Officer was justified in initiating reassessment proceedings under section 147, as income had escaped assessment.",
+    "Failure to issue notice under section 143(2) does not preclude the Assessing Officer from initiating reassessment under section 147."
+  ],
+  "judgment_summary": "The petition was dismissed, allowing the Assessing Officer to proceed with the notice under section 148 and pass an order on merits without being influenced by prior observations.",
+  "references": [
+    {
+      "case_name": "A. Sanyasi Rao v. Government of Andhra Pradesh",
+      "citation": "178 ITR 31 (AP)"
+    },
+    {
+      "case_name": "Union of India v. A. Sanyasi Rao",
+      "citation": "219 ITR 330 (SC)"
+    },
+    {
+      "case_name": "Jorawar Singh Baid v. Assistant Commissioner of Income-tax",
+      "citation": "198 ITR 47 (Cal)"
+    }
+  ],
+  "statutes": [
+    "Income Tax Act, 1961",
+    "Section 143(1)(a)",
+    "Section 147",
+    "Section 148",
+    "Section 44-AC",
+    "Section 154"
+  ]
+}

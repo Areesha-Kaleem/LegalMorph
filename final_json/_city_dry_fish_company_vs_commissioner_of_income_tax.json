@@ -1,0 +1,110 @@
+{
+  "case_title": "CITY DRY FISH COMPANY vs COMMISSIONER OF INCOME-TAX",
+  "reference_no_or_id": "Case No.7 of 1992",
+  "judgment_date": "2000-01-19",
+  "first_hearing_date": "N/A",
+  "court": "Andhra Pradesh High Court",
+  "bench_type": "Double Bench",
+  "judges": [
+    "B. Subhashan Reddy",
+    "K. B. Siddappa"
+  ],
+  "appellant": [
+    "CITY DRY FISH COMPANY"
+  ],
+  "respondant": [
+    "COMMISSIONER OF INCOME-TAX"
+  ],
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": [
+        "Misrepresentation of income",
+        "Incorrect tax filings"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [],
+    "defense": []
+  },
+  "complaint_summary": "The appellant, a partnership firm engaged in the wholesale purchase and sale of dry fish, filed a return for the assessment year 1980-81 declaring income supported by books of account. A search under section 132 revealed discrepancies, leading to a revised return and disputes over reserve amounts.",
+  "investigation_summary": "A notebook recovered during a search indicated income discrepancies. The Income-tax Officer added Rs.85,622 to the income, claiming it was not previously taxed. The Tribunal later remitted the case for further examination of profit-sharing ratios among retired partners.",
+  "judgment_summary": "The court set aside the Tribunal's decision to club Rs.85,622 as income for the assessment year 1980-81. It directed the Income-tax Officer to ascertain the profit-sharing ratios of outgoing partners and pass fresh orders.",
+  "punishment": "No penalty imposed; levy of penalty on Rs.85,622 set aside.",
+  "Decision_or_verdict": "Order accordingly; case remitted to Income-tax Officer for further examination.",
+  "legal_arguments": [
+    "Section 256(2) of the Income Tax Act, 1961 invoked by the appellant.",
+    "Dispute over Rs.85,622 reserve amount and its taxability."
+  ],
+  "assets": [],
+  "statutes": [
+    "Income Tax Act, 1961"
+  ],
+  "sections": [
+    "Section 132",
+    "Section 256(2)"
+  ],
+  "citations": [
+    "2000 P T D 3543"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Income Tax",
+    "Tax Dispute"
+  ],
+  "key_issues": [
+    "Taxability of Rs.85,622 reserve amount",
+    "Profit-sharing ratios among retired partners"
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "Income Tax Return": "A document filed with the tax authorities declaring income and tax obligations.",
+    "Reserve": "Funds set aside for specific purposes, often untaxed."
+  },
+  "words_and_phrases": {
+    "Profit-sharing ratio": "The proportion of profits allocated to partners in a firm."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case involves a dispute over the taxability of reserve funds and discrepancies in income declarations. The court remitted the matter to the Income-tax Officer for detailed examination of profit-sharing ratios among retired partners.",
+  "case_details": {
+    "application_section": "Section 256(2) of the Income Tax Act, 1961",
+    "firm_details": {
+      "original_partners": 18,
+      "retired_partners": 6,
+      "new_partners": 6,
+      "business_type": "Purchase and sale of dry fish on wholesale basis"
+    },
+    "accounting_year": "Ending on September 30, 1979",
+    "assessment_year": "1980-81",
+    "returns": {
+      "initial_return_date": "1980-07-19",
+      "initial_income_declared": "Rs.2,07,03",
+      "revised_income_declared": "Rs.3,79,689",
+      "income_breakdown": {
+        "income_per_share": "Rs.4,000 per share (108 shares)",
+        "total_income": "Rs.4,32,000",
+        "reserve_amount": "Rs.85,622",
+        "inadmissible_expenditure": "Rs.33,311"
+      }
+    },
+    "tribunal_findings": {
+      "reserve_amount": "Rs.85,622",
+      "previous_year_reserve": true,
+      "penalty_levy": "Set aside",
+      "remitted_to_officer": true
+    },
+    "income_tax_officer_action": {
+      "reserve_clubbing": "Negated",
+      "profit_sharing_ratio": "To be determined"
+    }
+  },
+  "disclaimer": "The court judgment may be subject to updates, modifications, or revisions by competent authorities. Consult official sources for the most accurate information."
+}

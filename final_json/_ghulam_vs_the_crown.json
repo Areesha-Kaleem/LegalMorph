@@ -1,0 +1,134 @@
+{
+  "case_title": "GHULAM vs THE CROWN",
+  "reference_no_or_id": "Appeal No. 44 of 1955",
+  "judgment_date": "1955-03-10",
+  "first_hearing_date": "N/A",
+  "court": "Baghdad-ul-Jadid",
+  "bench_type": "Single Judge Bench",
+  "judges": [
+    "Faiz Muhammad"
+  ],
+  "appellant": [
+    "Ghulam"
+  ],
+  "respondant": [
+    "The Crown"
+  ],
+  "accussed_details": [
+    {
+      "name": "Ghulam",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "N/A",
+      "allegation": [
+        "Abduction of Mst. Sharifan under Section 364 P.P.C.",
+        "Murder of Mst. Sharifan under Section 302 P.P.C."
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "Ghulam was accused of abducting Mst. Sharifan with intent to murder her and was later charged with her murder under Section 302 P.P.C.",
+  "investigation_summary": "Ghulam absconded during the initial inquiry in 1950 and was arrested in 1952. Evidence included circumstantial proof and identification of dead bodies of Mst. Sharifan and her father Wali Muhammad.",
+  "judgment_summary": "The Sessions Judge convicted Ghulam under Section 364 P.P.C. for abduction but acquitted him of murder under Section 302 P.P.C. The High Court set aside the conviction under Section 364 P.P.C. due to procedural errors and ordered a retrial with amended charges.",
+  "punishment": "Life imprisonment (initial conviction under Section 364 P.P.C., later set aside)",
+  "Decision_or_verdict": "Retrial ordered; conviction under Section 364 P.P.C. set aside.",
+  "legal_arguments": [
+    "Applicability of Sections 236, 237, and 238 Cr.P.C.",
+    "Whether Section 364 P.P.C. is a cognate offence to Section 302 P.P.C.",
+    "Procedural errors in charging and trial process."
+  ],
+  "assets": [],
+  "statutes": [
+    "Criminal Procedure Code (Cr.P.C.)",
+    "Pakistan Penal Code (P.P.C.)"
+  ],
+  "sections": [
+    "364 P.P.C.",
+    "302 P.P.C.",
+    "236 Cr.P.C.",
+    "237 Cr.P.C.",
+    "238 Cr.P.C."
+  ],
+  "citations": [
+    "P L D 1955 Baghdad-ul-Jadid 9"
+  ],
+  "witnesses": [
+    "N/A"
+  ],
+  "witness_statement": {},
+  "appeal_number": "Appeal No. 44 of 1955",
+  "legal_categories": [
+    "Criminal Law",
+    "Procedural Law"
+  ],
+  "key_issues": [
+    "Procedural validity of conviction under Section 364 P.P.C.",
+    "Relationship between Section 364 P.P.C. and Section 302 P.P.C.",
+    "Impact of procedural errors on trial fairness."
+  ],
+  "maxims": {
+    "Legal Maxim": "Major charge gives notice of all circumstances constituting the minor offence."
+  },
+  "legal_terms": {
+    "Cognate Offences": "Offences sharing common elements or particulars.",
+    "Minor Offence": "A lesser offence derived from a major offence."
+  },
+  "words_and_phrases": {
+    "Absconding": "Deliberately avoiding arrest or trial.",
+    "Retrial": "Re-examination of a case by the court."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case involves procedural errors in convicting Ghulam under Section 364 P.P.C. without formal charges. The High Court ordered a retrial with amended charges, emphasizing the distinction between cognate offences and procedural fairness.",
+  "charges": {
+    "original_charge": "Section 302 P.P.C.",
+    "conviction_charge": "Section 364 P.P.C."
+  },
+  "facts": {
+    "abduction_victim": "Mst. Sharifan",
+    "murder_victims": [
+      "Mst. Sharifan",
+      "Wali Muhammad"
+    ],
+    "previous_case": {
+      "year": 1950,
+      "accused": [
+        "Ghulam",
+        "four others"
+      ],
+      "outcome": "Four accused convicted and sentenced to life imprisonment for murder of Mst. Sharifan."
+    },
+    "absconding_period": "1950-1952",
+    "current_case": {
+      "charge": "Section 302 P.P.C. for murder of Mst. Sharifan",
+      "outcome": "Charge under Section 302 P.P.C. not established; convicted under Section 364 P.P.C."
+    }
+  },
+  "legal_issues": {
+    "main_issue": "Conviction under Section 364 P.P.C. without formal charge.",
+    "statutory_provisions": [
+      "Sections 236, 237, 238 Cr.P.C."
+    ],
+    "court_findings": {
+      "section_236": "Not applicable.",
+      "section_237": "Controlled by Section 236, hence not applicable.",
+      "section_238": "Minor offence must be cognate to major offence; Section 364 P.P.C. and Section 302 P.P.C. are not cognate."
+    }
+  },
+  "directions": {
+    "retrial": "Sessions Judge to amend charge to include Section 364 P.P.C. in the alternative and decide case afresh.",
+    "opportunity": "Appellant to be given opportunity to meet amended charge."
+  },
+  "notes": {
+    "single_judge_hearing": "Appeal heard by single judge due to conflict of interest of other judges.",
+    "applicable_rules": "Rule IV of Ch. 3-B of Vol. V of Lahore High Court Rules and Orders."
+  }
+}

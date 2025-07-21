@@ -1,0 +1,122 @@
+{
+  "case_title": "Mehr ABDUR RASHID vs Ch. SHER ALI",
+  "reference_no_or_id": "Petition No. 60 of 1990",
+  "judgment_date": "1992-09-30",
+  "first_hearing_date": "1992-06-17",
+  "court": "Election Tribunal",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Irshad Hasan Khan"
+  ],
+  "appellant": [
+    "Mehr ABDUR RASHID"
+  ],
+  "respondant": [
+    "Ch. SHER ALI"
+  ],
+  "accussed_details": [
+    {
+      "name": "Ch. SHER ALI",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Member of National Assembly (Constituency NA-65, Faisalabad-IX)",
+      "allegation": [
+        "Election procured through corrupt and illegal practices"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Ch. Khurshid Ahmad"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "The appellant challenged the election of Ch. Sher Ali as Member of the National Assembly from Constituency NA-65, alleging corrupt and illegal practices.",
+  "investigation_summary": "The petitioner failed to deposit process fees and diet money for summoning official witnesses and did not produce witnesses for cross-examination. The Tribunal noted gross negligence in pursuing the case.",
+  "judgment_summary": "The Tribunal dismissed the petition due to the appellant's failure to substantiate allegations, produce witnesses for cross-examination, and comply with procedural requirements.",
+  "punishment": "Petition dismissed with costs.",
+  "Decision_or_verdict": "Petition dismissed.",
+  "legal_arguments": [
+    "Failure to deposit process fees constitutes gross negligence.",
+    "Tribunal discretion to adjourn hearings must be exercised on sound judicial principles.",
+    "Non-compliance with Election Commission procedures for trial of election petitions."
+  ],
+  "assets": [],
+  "statutes": [
+    "Representation of the People Act, 1976 (No. LXXXV of 1976)"
+  ],
+  "sections": [
+    "Section 52"
+  ],
+  "citations": [
+    "1993 M L D 2149"
+  ],
+  "witnesses": [
+    "Shahadat Khan",
+    "Muhammad Anwar",
+    "Manzoor Ahmad",
+    "Muhammad Aslam",
+    "Sufi Muhammad Sadiq",
+    "Khalid Hussain",
+    "Akhtar Ghaffar alias Jimmi",
+    "Maqsood Ahmad",
+    "Malik Rehmat Ali",
+    "Munawar Hussain",
+    "Mian Nasim Ahmad",
+    "Saeed Ahmad Khan",
+    "Sheikh Muhammad Ashraf"
+  ],
+  "witness_statement": {
+    "Shahadat Khan": "Affidavit filed but not presented for cross-examination.",
+    "Muhammad Anwar": "Affidavit filed but not presented for cross-examination.",
+    "Manzoor Ahmad": "Affidavit filed but not presented for cross-examination.",
+    "Muhammad Aslam": "Affidavit filed but not presented for cross-examination.",
+    "Sufi Muhammad Sadiq": "Affidavit filed but not presented for cross-examination.",
+    "Khalid Hussain": "Affidavit filed but not presented for cross-examination.",
+    "Akhtar Ghaffar alias Jimmi": "Affidavit filed but not presented for cross-examination.",
+    "Maqsood Ahmad": "Affidavit filed but not presented for cross-examination.",
+    "Malik Rehmat Ali": "Affidavit filed but not presented for cross-examination.",
+    "Munawar Hussain": "Affidavit filed but not presented for cross-examination.",
+    "Mian Nasim Ahmad": "Affidavit filed but not presented for cross-examination.",
+    "Saeed Ahmad Khan": "Affidavit filed but not presented for cross-examination.",
+    "Sheikh Muhammad Ashraf": "Affidavit filed but not presented for cross-examination."
+  },
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Election Law"
+  ],
+  "key_issues": [
+    "Failure to deposit process fees for summoning witnesses.",
+    "Non-compliance with procedural requirements for election petitions.",
+    "Gross negligence in pursuing the case."
+  ],
+  "key_findings": {
+    "failure_to_deposit_fees": "Petitioner failed to deposit process fee and diet money for summoning official witnesses.",
+    "non_appearance_of_witnesses": "Petitioner did not produce witnesses for cross-examination.",
+    "negligence": "Petitioner and counsel exhibited gross negligence in pursuing the case."
+  },
+  "tribunal_decision": {
+    "adjournment_request": "Denied due to lack of sufficient cause.",
+    "evidence_closure": "Petitioner's evidence closed due to procedural breaches."
+  },
+  "costs_awarded": "Petition dismissed with costs.",
+  "maxims": {
+    "Delegation of ministerial duties": "The act of depositing process fees is a ministerial duty that could have been delegated."
+  },
+  "legal_terms": {
+    "Process Fee": "Fee required to summon witnesses or proceed with legal actions.",
+    "Diet Money": "Expenses for witnesses attending court."
+  },
+  "words_and_phrases": {
+    "Gross Negligence": "Failure to exercise reasonable diligence in pursuing a case.",
+    "Ministerial Duty": "Administrative tasks that do not require judicial discretion."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "Election petition dismissed due to gross negligence by the petitioner in failing to deposit process fees and produce witnesses for cross-examination. Tribunal exercised discretion based on judicial principles and found no sufficient cause for adjournment.",
+  "election_date": "1990-10-24",
+  "constituency": "NA-65 (Faisalabad-IX)"
+}

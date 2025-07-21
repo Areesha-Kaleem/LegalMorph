@@ -1,0 +1,98 @@
+{
+  "case_title": "NAWAB GHAZI JUNG vs ASSISTANT CONTROLLER OF ESTATE DUTY, HYDERABAD",
+  "reference_no_or_id": "Writ Petition No. 119 of 1964",
+  "judgment_date": "1964-09-28",
+  "first_hearing_date": "N/A",
+  "court": "Andhra Pradesh High Court",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Gopalakrishnan Nair"
+  ],
+  "appellant": [
+    "Nawab Ghazi Jung"
+  ],
+  "respondant": [
+    "Assistant Controller of Estate Duty, Hyderabad"
+  ],
+  "accussed_details": [
+    {
+      "name": "Nawab Ghazi Jung",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Accountable Person",
+      "allegation": [
+        "Failure to pay estate duty in lump sum as per demand notice"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Mr. Kondaiah"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "The petitioner challenged the Assistant Controller's decision to collect estate duty in one lump sum, arguing for the option to pay in instalments under Section 70(2) of the Estate Duty Act.",
+  "investigation_summary": "The Assistant Controller assessed estate duty on the property inherited by the petitioner from his deceased wife, including immovable property and personal belongings, totaling Rs. 49,152.",
+  "judgment_summary": "The court ruled that the petitioner was entitled to pay the estate duty in four equal annual instalments starting from the date specified in the demand notice under Section 73(1), rather than the date of the deceased's death. The writ petition was allowed in part, and the respondent was directed to collect the duty accordingly.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Petition allowed in part",
+  "legal_arguments": [
+    "Section 70(2) of the Estate Duty Act allows estate duty on immovable property to be paid in instalments.",
+    "Section 73(1) and 73(2) specify the timeline for payment based on the demand notice.",
+    "Section 57(1) declares liability from the date of death but does not determine the payment date."
+  ],
+  "assets": [
+    {
+      "description": "6/192 share in Salar Jung Estate",
+      "value": "Rs. 4,84,713"
+    },
+    {
+      "description": "Personal belongings of deceased wife",
+      "value": "Rs. 1,300"
+    },
+    {
+      "description": "Jagir commutation amount due to deceased",
+      "value": "Rs. 75,213"
+    }
+  ],
+  "statutes": [
+    "Estate Duty Act"
+  ],
+  "sections": [
+    "Section 53",
+    "Section 57(1)",
+    "Section 70(2)",
+    "Section 73(1)",
+    "Section 73(2)",
+    "Section 73(4)"
+  ],
+  "citations": [
+    "1965 P T D 785"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Estate Duty",
+    "Taxation Law"
+  ],
+  "key_issues": [
+    "Interpretation of Section 70(2) of the Estate Duty Act",
+    "Timeline for payment of estate duty"
+  ],
+  "maxims": {
+    "Fiscal statutes": "Provisions intended for taxpayer benefit must be construed liberally."
+  },
+  "legal_terms": {
+    "Accountable Person": "Individual liable for estate duty payment under the Estate Duty Act."
+  },
+  "words_and_phrases": {
+    "Estate Duty": "Tax levied on the property of a deceased individual."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around the interpretation of Section 70(2) of the Estate Duty Act, focusing on whether estate duty on immovable property can be paid in instalments starting from the date specified in the demand notice or the date of the deceased's death. The court ruled in favor of the petitioner, allowing instalment payments based on the demand notice timeline."
+}

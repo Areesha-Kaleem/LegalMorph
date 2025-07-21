@@ -1,0 +1,86 @@
+{
+  "case_title": "P. C. DWADESH SHRENI & Co. LTD. vs INCOME-TAX OFFICER, A-WARD, ALIGARH",
+  "reference_no_or_id": "Special Appeal No. 601 of 1961",
+  "judgment_date": "1966-04-27",
+  "first_hearing_date": "N/A",
+  "court": "Allahabad High Court",
+  "bench_type": "Division Bench",
+  "judges": [
+    "Jagdish Sahai",
+    "B. D. Gupta"
+  ],
+  "appellant": [
+    "P. C. Dawadesh Shreni & Company Limited"
+  ],
+  "respondant": [
+    "Income-Tax Officer, A-Ward, Aligarh"
+  ],
+  "accussed_details": [
+    {
+      "name": "P. C. Dawadesh Shreni & Company Limited",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "Corporate Entity",
+      "allegation": [
+        "Non-payment of advance income-tax under Section 18-A of the Income-tax Act, 1922"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "Mr. Pachauri"
+    ]
+  },
+  "complaint_summary": "The Income-tax Officer demanded advance payment of income-tax under Section 18-A of the Income-tax Act, 1922, which the appellant failed to pay, claiming entitlement to a refund exceeding the demand.",
+  "investigation_summary": "The Income-tax Department determined Rs. 4,805 as interest payable due to default in payment of advance income-tax. The appellant's appeal was dismissed by the Appellate Assistant Commissioner and later affirmed by the Tribunal.",
+  "judgment_summary": "The court dismissed the special appeal, ruling that interest under Section 18-A(8) was payable on the unpaid balance of advance income-tax. The court clarified that partial non-payment constitutes non-payment under the statute and that no separate order for awarding interest is required.",
+  "punishment": "Payment of Rs. 4,805 as interest under Section 18-A(8) of the Income-tax Act, 1922.",
+  "Decision_or_verdict": "Appeal dismissed with costs.",
+  "legal_arguments": [
+    "Interpretation of Section 18-A(8) regarding liability for interest on unpaid advance income-tax.",
+    "Requirement of a separate order for awarding interest under Section 18-A(8)."
+  ],
+  "assets": [],
+  "statutes": [
+    "Income-tax Act, 1922"
+  ],
+  "sections": [
+    "Section 18-A(1)(a)",
+    "Section 18-A(6)",
+    "Section 18-A(8)",
+    "Section 49-E"
+  ],
+  "citations": [
+    "(1962) 46 ITR 586",
+    "(1963) 48 ITR 1 (SC)",
+    "1972 P T D 440"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "Special Appeal No. 601 of 1961",
+  "legal_categories": [
+    "Tax Law",
+    "Corporate Law"
+  ],
+  "key_issues": [
+    "Liability for interest on unpaid advance income-tax.",
+    "Interpretation of statutory provisions under Section 18-A of the Income-tax Act, 1922."
+  ],
+  "maxims": {
+    "ut res valeat potius quam pereat": "The machinery of calculation should be interpreted to make it workable."
+  },
+  "legal_terms": {
+    "Advance Payment of Tax": "Payment required under Section 18-A of the Income-tax Act, 1922.",
+    "Interest Liability": "Charge imposed for non-payment of advance tax."
+  },
+  "words_and_phrases": {
+    "No payment of tax has been made": "Includes partial non-payment under Section 18-A(8)."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around the interpretation of Section 18-A(8) of the Income-tax Act, 1922, concerning interest liability for unpaid advance tax. The court clarified that partial non-payment constitutes non-payment under the statute and upheld the interest charge without requiring a separate order."
+}

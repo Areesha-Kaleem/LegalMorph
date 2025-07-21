@@ -1,0 +1,58 @@
+{
+  "case_title": "Ln The Matter Of Ismail Abdul Shakoor, Member, Karachi Stock Exchange vs NOT",
+  "case_number": "Show-Cause Notice No. 1(8) OCT 18/MSW/SMD/2005/38, dated December 26, 2005",
+  "judgment_date": "2006-03-16",
+  "court_name": "Appellate Bench of Securities and Exchange Commission of Pakistan",
+  "judge": "Imran Inayat Butt",
+  "reported_as": "2006 P.C.T.L.R. 827",
+  "appellant": "Ismail Abdul Shakoor",
+  "respondent": "NOT",
+  "result": "Order accordingly",
+  "penalty": "Rs. 50,000",
+  "penalty_due_date": "30 days from the date of order",
+  "facts": {
+    "market_volatility_date": "2005-10-18",
+    "client_name": "Abdul Rauf",
+    "client_kats_code": "45",
+    "transactions": [
+      {
+        "shares": "50,000",
+        "company": "Bank of Punjab",
+        "sale_time": "9:48 AM - 9:49 AM",
+        "purchase_time": "9:54 AM"
+      },
+      {
+        "shares": "200,000",
+        "company": "Bank of Punjab",
+        "sale_time": "11:49 AM - 12:24 PM",
+        "purchase_time": "12:25 PM - 12:34 PM"
+      }
+    ]
+  },
+  "issues": [
+    {
+      "description": "Whether the respondent's client had pre-existing interest in the shares of BOP to the extent of 200,000 shares?",
+      "finding": "No pre-existing interest was established."
+    },
+    {
+      "description": "What should the order be?",
+      "finding": "Penalty imposed."
+    }
+  ],
+  "violations": [
+    {
+      "rules": "Brokers and Agents Registration Rules, 2001",
+      "clause": "8(iii)"
+    },
+    {
+      "regulations": "Regulations for Short Selling Under Ready Market, 2002",
+      "clause": "4"
+    }
+  ],
+  "order": {
+    "action": "Penalty imposed",
+    "amount": "Rs. 50,000",
+    "payment_instructions": "Deposit with the Commission within 30 days and provide deposit challan copy."
+  },
+  "remarks": "The order is issued without prejudice to further actions by the Commission."
+}

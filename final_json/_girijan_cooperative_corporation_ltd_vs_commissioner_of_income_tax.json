@@ -1,0 +1,100 @@
+{
+  "case_title": "GIRIJAN COOPERATIVE CORPORATION LTD. vs COMMISSIONER OF INCOME-TAX",
+  "reference_no_or_id": "Case No.1 of 1984",
+  "judgment_date": "1989-02-01",
+  "first_hearing_date": "N/A",
+  "court": "Andhra Pradesh High Court",
+  "bench_type": "Division Bench",
+  "judges": [
+    "B. P. Jeevan Reddy",
+    "V. Neeladri Rao"
+  ],
+  "appellant": [
+    "GIRIJAN COOPERATIVE CORPORATION LTD."
+  ],
+  "respondant": [
+    "COMMISSIONER OF INCOME-TAX"
+  ],
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": []
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "The appellant claimed exemption from income tax under Section 11 of the Income-tax Act, 1961, asserting its status as a public charitable institution under Section 2(15). The Revenue disputed this, arguing the corporation's activities were commercial in nature.",
+  "investigation_summary": "The Income-tax Appellate Tribunal reviewed the corporation's bye-laws and concluded its activities were commercial, not charitable, and denied tax exemption. The corporation appealed this decision.",
+  "judgment_summary": "The court held that the predominant object of the corporation was charitable, aimed at uplifting Scheduled Tribes, and not earning profits. It ruled the corporation qualifies as a public charitable institution under Section 2(15) and its income is exempt under Section 11.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Order accordingly. The corporation qualifies as a public charitable institution under Section 2(15) and its income is exempt under Section 11.",
+  "legal_arguments": [
+    "The appellant argued its activities were aimed at improving the economic conditions of Scheduled Tribes, qualifying as 'relief of the poor' and 'advancement of general public utility' under Section 2(15).",
+    "The Revenue contended the corporation's activities were commercial, with profits distributed as dividends, disqualifying it from tax exemption."
+  ],
+  "assets": [],
+  "statutes": [
+    "Income-tax Act, 1961",
+    "A.P. Co-operative Societies Act"
+  ],
+  "sections": [
+    "Section 2(15)",
+    "Section 11",
+    "Section 256(1)"
+  ],
+  "citations": [
+    "1977 109 ITR 527 (Dharmodayam case)",
+    "1974 97 ITR 486 (Indian Sugar Mills Association case)",
+    "1980 121 ITR 1 (Surat Art Silk Cloth Manufacturers' Association case)",
+    "1988 170 ITR 476 (A.P. Bankers and Pawnbrokers Association case)",
+    "1986 159 ITR 1 (A.P. State Road Transport Corporation case)",
+    "1984 148 ITR 287 (A.P. Police Welfare Society case)"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Tax Law",
+    "Charitable Institutions"
+  ],
+  "key_issues": [
+    "Whether the corporation qualifies as a public charitable institution under Section 2(15) of the Income-tax Act, 1961.",
+    "Whether its income is exempt under Section 11 of the Income-tax Act, 1961."
+  ],
+  "key_points": {
+    "assessee_objective": "Relief of Scheduled Tribes and advancement of their economic and social welfare.",
+    "tribunal_findings": "Activities are commercial in nature and not held under trust for charitable purposes.",
+    "court_ruling": "The corporation's predominant object is charitable, focusing on the upliftment of Scheduled Tribes, and its income qualifies for exemption under Section 11."
+  },
+  "bye-laws_summary": {
+    "objects": [
+      "Purchase and marketing of Scheduled Tribes' produce.",
+      "Supply of necessities to Scheduled Tribes.",
+      "Advancing loans and working capital.",
+      "Promotion of economic and social welfare of Scheduled Tribes."
+    ],
+    "funds": "Share capital, subsidies, and grants.",
+    "profit_distribution": "Reserve fund, education fund, dividends (capped at 6.25%), and bonuses."
+  },
+  "maxims": {},
+  "legal_terms": {
+    "Charitable Purpose": "Includes relief of the poor, education, medical relief, and advancement of any other object of general public utility not involving the carrying on of any activity for profit."
+  },
+  "words_and_phrases": {
+    "General Public Utility": "Activities aimed at benefiting a sizable number of the public without the primary objective of earning profit."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk",
+    "reported_as": "1991 P T D 109"
+  },
+  "summary_vector_notes": "The case revolves around the classification of Girijan Cooperative Corporation Ltd. as a public charitable institution under Section 2(15) of the Income-tax Act, 1961. The court ruled in favor of the appellant, emphasizing its predominant charitable purpose aimed at uplifting Scheduled Tribes, despite incidental profits."
+}

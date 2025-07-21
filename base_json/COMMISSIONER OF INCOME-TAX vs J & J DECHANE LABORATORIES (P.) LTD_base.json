@@ -1,0 +1,81 @@
+{
+  "case_title": "COMMISSIONER OF INCOME-TAX vs J & J DECHANE LABORATORIES (P.) LTD",
+  "reference_no_or_id": "Case Referred No. 70 of 1987",
+  "judgment_date": "1995-07-27",
+  "first_hearing_date": "N/A",
+  "court": "Andhra Pradesh High Court",
+  "bench_type": "Division Bench",
+  "judges": [
+    "Syed Shah Mohammad Quadri",
+    "G. Bikshapathy"
+  ],
+  "appellant": [
+    "Commissioner of Income-Tax"
+  ],
+  "respondant": [
+    "J & J Dechane Laboratories (P.) Ltd"
+  ],
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": []
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "S.R. Ashok"
+    ],
+    "defense": []
+  },
+  "complaint_summary": "The Revenue challenged the exclusion of certain expenditures under sections 40-A(5), 40(c), and 37(3-A) of the Income Tax Act, 1961.",
+  "investigation_summary": "The Income Tax Officer initially disallowed certain expenditures related to managing director's perquisites and free samples distributed to doctors, treating them as advertisement expenses under section 37(3-A). The Commissioner of Income-Tax (Appeals) reversed these findings, which were upheld by the Tribunal.",
+  "judgment_summary": "The court affirmed the Tribunal's decision that section 40(c) applies to managing director's perquisites and that free samples distributed to doctors for testing drug efficacy are not advertisement expenses under section 37(3-A). The reference was answered in favor of the assessee.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Reference answered in favor of the assessee and against the Revenue.",
+  "legal_arguments": [
+    "Section 40-A(5) vs Section 40(c) applicability for managing director's perquisites.",
+    "Exclusion of free sample expenditures from advertisement expenses under section 37(3-A).",
+    "Precedents cited: Geoffrey Manners & Co. Ltd. v. ITO (1983) 3 SOT 40, Smith Kline and French (India) Ltd. v. CIT (1992) 193 ITR 582, CIT v. Bata India Ltd. (1993) 201 ITR 884."
+  ],
+  "assets": [],
+  "statutes": [
+    "Income Tax Act, 1961"
+  ],
+  "sections": [
+    "Section 40-A(5)",
+    "Section 40(c)",
+    "Section 37(3-A)"
+  ],
+  "citations": [
+    "Geoffrey Manners & Co. Ltd. v. ITO (1983) 3 SOT 40",
+    "Smith Kline and French (India) Ltd. v. CIT (1992) 193 ITR 582",
+    "CIT v. Bata India Ltd. (1993) 201 ITR 884",
+    "CIT v. Ampro Food Products (1995) 215 ITR 904"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Tax Law",
+    "Corporate Law"
+  ],
+  "key_issues": [
+    "Applicability of section 40-A(5) vs section 40(c) for managing director's perquisites.",
+    "Classification of free sample expenditures under section 37(3-A)."
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "Advertisement expenditure": "Expenses incurred for promoting sales or publicity.",
+    "Perquisites": "Additional benefits received by an employee apart from salary."
+  },
+  "words_and_phrases": {
+    "Physicians' samples": "Free samples of drugs distributed to doctors for testing efficacy."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around the interpretation of sections 40-A(5), 40(c), and 37(3-A) of the Income Tax Act, 1961. The court upheld the Tribunal's decision favoring the assessee, ruling that free samples distributed to doctors for testing drug efficacy are not advertisement expenses and that section 40(c) applies to managing director's perquisites."
+}

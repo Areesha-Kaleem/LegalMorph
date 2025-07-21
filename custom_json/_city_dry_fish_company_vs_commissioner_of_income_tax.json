@@ -1,0 +1,44 @@
+{
+  "case_title": "CITY DRY FISH COMPANY vs COMMISSIONER OF INCOME-TAX",
+  "case_number": "Case No.7 of 1992",
+  "judgment_date": "2000-01-19",
+  "court_name": "Andhra Pradesh High Court",
+  "judges": "B. Subhashan Reddy, K. B. Siddappa",
+  "reported_as": "2000 P T D 3543",
+  "appellant": "CITY DRY FISH COMPANY",
+  "respondent": "COMMISSIONER OF INCOME-TAX",
+  "result": "Order accordingly",
+  "case_details": {
+    "application_section": "Section 256(2) of the Income Tax Act, 1961",
+    "firm_details": {
+      "original_partners": 18,
+      "retired_partners": 6,
+      "new_partners": 6,
+      "business_type": "Purchase and sale of dry fish on wholesale basis"
+    },
+    "accounting_year": "Ending on September 30, 1979",
+    "assessment_year": "1980-81",
+    "returns": {
+      "initial_return_date": "1980-07-19",
+      "initial_income_declared": "Rs.2,07,03",
+      "revised_income_declared": "Rs.3,79,689",
+      "income_breakdown": {
+        "income_per_share": "Rs.4,000 per share (108 shares)",
+        "total_income": "Rs.4,32,000",
+        "reserve_amount": "Rs.85,622",
+        "inadmissible_expenditure": "Rs.33,311"
+      }
+    },
+    "tribunal_findings": {
+      "reserve_amount": "Rs.85,622",
+      "previous_year_reserve": true,
+      "penalty_levy": "Set aside",
+      "remitted_to_officer": true
+    },
+    "income_tax_officer_action": {
+      "reserve_clubbing": "Negated",
+      "profit_sharing_ratio": "To be determined"
+    }
+  },
+  "disclaimer": "The court judgment may be subject to updates, modifications, or revisions by competent authorities. Consult official sources for the most accurate information."
+}

@@ -1,0 +1,90 @@
+{
+  "case_title": "KISHANLAL HARICHARAN vs INCOME-TAX OFFICER, A-WARD, NIZAMABAD",
+  "reference_no_or_id": "Writ Petition No. 1486 of 1965",
+  "judgment_date": "1968-07-03",
+  "first_hearing_date": "N/A",
+  "court": "Andhra Pradesh High Court",
+  "bench_type": "Division Bench",
+  "judges": [
+    "Basi Reddy",
+    "Sambasiva Rao"
+  ],
+  "appellant": [
+    "Kishanlal Haricharan"
+  ],
+  "respondant": [
+    "Income-Tax Officer, A-Ward, Nizamabad"
+  ],
+  "accussed_details": [
+    {
+      "name": "Kishanlal Haricharan",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Hindu Undivided Family Assessee",
+      "allegation": [
+        "Challenge to rectification order under Section 35(5) of the Indian Income-tax Act, 1922"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "P. Rama Rao"
+    ]
+  },
+  "complaint_summary": "Petitioner challenged the rectification order dated March 16, 1965, issued under Section 35(5) of the Indian Income-tax Act, 1922, alleging it was barred by limitation and void due to procedural irregularities.",
+  "investigation_summary": "The petitioner was assessed as a Hindu Undivided Family for 1949-50 and 1950-51. Rectification was sought after income from Messrs Sriram Haricharandas, Bombay, was finalized. The Commissioner directed reassessment, but the petitioner alleged procedural lapses and limitation issues.",
+  "judgment_summary": "The court held that the rectification order dated March 16, 1965, was valid and within the limitation period, as the consequential order dated January 29, 1963, constituted the final assessment. The petition was dismissed with costs.",
+  "punishment": "Petition dismissed with costs (Advocate's fee Rs. 250).",
+  "Decision_or_verdict": "Dismissed",
+  "legal_arguments": [
+    "Petitioner argued rectification order was barred by limitation under Section 35(5) of the Indian Income-tax Act, 1922.",
+    "Respondent justified rectification based on the consequential order dated January 29, 1963."
+  ],
+  "assets": [
+    "N/A"
+  ],
+  "statutes": [
+    "Indian Income-tax Act, 1922",
+    "Indian Income-tax Act, 1961"
+  ],
+  "sections": [
+    "Section 35(5)",
+    "Section 23(4)",
+    "Section 33-A(2)",
+    "Section 297"
+  ],
+  "citations": [
+    "S. Sangappa v. Income-tax Officer ((1968) 68 ITR 760 (SC))",
+    "1971 P T D 854"
+  ],
+  "witnesses": [
+    "N/A"
+  ],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Tax Law",
+    "Writ Petition"
+  ],
+  "key_issues": [
+    "Validity of rectification order under Section 35(5) of the Indian Income-tax Act, 1922.",
+    "Limitation period for rectification orders."
+  ],
+  "maxims": {
+    "ex debito justitiae": "Mandamus should issue to compel compliance with superior tribunal directions."
+  },
+  "legal_terms": {
+    "rectification": "Correction of errors apparent on the record.",
+    "limitation": "Statutory time limit within which legal action must be taken."
+  },
+  "words_and_phrases": {
+    "consequential order": "An order resulting from directions given by a superior authority."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "Petitioner challenged rectification order under Section 35(5) of the Indian Income-tax Act, 1922, alleging procedural lapses and limitation issues. Court upheld validity of rectification order based on consequential order dated January 29, 1963, and dismissed the petition with costs."
+}

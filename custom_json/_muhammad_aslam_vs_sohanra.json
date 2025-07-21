@@ -1,0 +1,38 @@
+{
+  "case_title": "MUHAMMAD ASLAM vs SOHANRA",
+  "case_number": "R.S A. No. 516 of 1974",
+  "judgment_date": "1989-04-15",
+  "court_name": "Board of Revenue, Punjab",
+  "judge": "Muhammad Tiwana",
+  "appellant": "Muhammad Aslam",
+  "respondent": "Sohanra",
+  "result": "Appeal dismissed",
+  "reported_as": "K.L.R. 1991 Revenue Cases 118",
+  "key_issue": "Superior right of pre-emption",
+  "land_details": {
+    "area": "36 kanals 11 marlas",
+    "price": "Rs. 1000"
+  },
+  "common_ancestor": {
+    "name_in_pedigree_table": "Aziz Muhammad",
+    "name_in_statement": "Abdul Aziz"
+  },
+  "findings": {
+    "trial_court": {
+      "judge": "Ayub Hassan",
+      "decision": "Pre-emption suit decreed in favor of Sohanra",
+      "basis": "Pedigree table (Ex.P.8) and oral evidence"
+    },
+    "appellate_court": {
+      "judge": "Ch. Abdul Majid",
+      "decision": "Appeal dismissed",
+      "basis": "Vendor and pre-emptor related through common ancestor"
+    },
+    "current_court": {
+      "judge": "Muhammad Tiwana",
+      "decision": "Appeal dismissed",
+      "basis": "Variation in ancestor's name immaterial; findings affirmed"
+    }
+  },
+  "costs": "Parties to bear their own costs"
+}

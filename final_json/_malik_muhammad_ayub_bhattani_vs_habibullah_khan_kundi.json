@@ -1,0 +1,178 @@
+{
+  "case_title": "Malik MUHAMMAD AYUB BHATTANI vs HABIBULLAH KHAN KUNDI",
+  "reference_no_or_id": "Petition No.16 of 1997",
+  "judgment_date": "1999-05-31",
+  "first_hearing_date": "1997-10-20",
+  "court": "Election Tribunal",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Nasir-ul-Mulk"
+  ],
+  "appellant": [
+    "Malik Muhammad Ayub Bhattani"
+  ],
+  "respondant": [
+    "Habibullah Khan Kundi"
+  ],
+  "accussed_details": [
+    {
+      "name": "Habibullah Khan Kundi",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Returned Candidate",
+      "allegation": [
+        "Default in repayment of loans to Agriculture Development Bank and National Bank of Pakistan",
+        "Undervaluation of declared assets in nomination papers",
+        "Failure to disclose certain properties in nomination papers",
+        "Bogus voting and illegal practices during election",
+        "Purchasing votes"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "Petitioner alleged that the respondent was a defaulter of loans, undervalued assets, failed to disclose properties in nomination papers, and engaged in illegal practices, including vote purchasing, during the election.",
+  "investigation_summary": "Petitioner failed to provide evidence to substantiate allegations. Witness testimonies were inconsistent and lacked affidavits. Tribunal dismissed applications for additional witnesses and documents.",
+  "judgment_summary": "The Tribunal dismissed the petition due to lack of evidence supporting allegations. All issues were decided in the negative, and the petitioner was not entitled to relief.",
+  "punishment": "None",
+  "Decision_or_verdict": "Petition dismissed",
+  "legal_arguments": [
+    "Section 76-A of the Representation of the People Act, 1976, had lapsed, rendering allegations of disqualification invalid.",
+    "Petitioner failed to provide supporting affidavits or evidence for allegations.",
+    "Witness testimonies were inconsistent and excluded under Section 55(1) of the Act."
+  ],
+  "assets": [
+    {
+      "type": "Real Estate",
+      "details": [
+        "Bungalow No.220, Sector 7, Street 21, Islamabad",
+        "209 Kanals of agricultural land known as 'Kundi Gardens', D.I. Khan",
+        "House at Gul Imam, Tank",
+        "400 Kanals of agricultural land at Mamrez Jamal, Tank",
+        "12000 Kanals at Ahmad Nagar, Tank",
+        "Bungalow No.53, Sector G-2, Hayatabad, Peshawar",
+        "Four Kanal plot at Hayatabad",
+        "Residential apartment in U.K."
+      ]
+    },
+    {
+      "type": "Vehicles",
+      "details": [
+        "Toyota Land Cruiser Registration No. PRU-777 Model 1991",
+        "Toyota Land Cruiser Registration No. DNB-99 Model 1991"
+      ]
+    }
+  ],
+  "statutes": [
+    "Representation of the People Act, 1976"
+  ],
+  "sections": [
+    "Section 76-A",
+    "Section 55(1)"
+  ],
+  "citations": [
+    "2000 M L D 1224"
+  ],
+  "witnesses": [
+    {
+      "name": "Alamgir",
+      "role": "Witness for petitioner",
+      "testimony": "Alleged purchase of votes by respondent's relatives."
+    },
+    {
+      "name": "Halim Khan",
+      "role": "Witness for petitioner",
+      "testimony": "Alleged purchase of votes at Polling Station Chadrer."
+    },
+    {
+      "name": "Muhammad Iqbal",
+      "role": "Witness for petitioner",
+      "testimony": "Alleged presence of identity cards in respondent's relative's car."
+    },
+    {
+      "name": "Zafar Iqbal",
+      "role": "Returning Officer",
+      "testimony": "Provided sealed election material and noted discrepancy in votes."
+    }
+  ],
+  "witness_statement": {
+    "Alamgir": "Testimony excluded due to lack of affidavit and inconsistent statements.",
+    "Halim Khan": "Testimony excluded due to lack of affidavit and unreliable claims.",
+    "Muhammad Iqbal": "Testimony excluded due to lack of affidavit and implausible claims.",
+    "Zafar Iqbal": "Noted discrepancy of five votes but found no evidence of illegal practices."
+  },
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Election Law",
+    "Disqualification",
+    "Corrupt Practices"
+  ],
+  "key_issues": [
+    "Default in repayment of loans",
+    "Undervaluation of declared assets",
+    "Failure to disclose properties",
+    "Bogus voting and illegal practices",
+    "Vote purchasing"
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "Election Petition": "Legal challenge to the validity of an election result.",
+    "Disqualification": "Ineligibility to contest elections due to legal violations."
+  },
+  "words_and_phrases": {
+    "Bogus Votes": "Votes cast fraudulently or illegally.",
+    "Undervaluation": "Declaring assets at a value lower than their actual worth."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "Petition dismissed due to lack of evidence. Allegations of loan default, undervaluation of assets, and corrupt practices, including vote purchasing, were unsubstantiated. Witness testimonies excluded due to procedural deficiencies.",
+  "issues": {
+    "issue_1": "Whether petitioner has a cause of action?",
+    "issue_2": "Whether the election petition is maintainable?",
+    "issue_3": "Whether the petition is liable to dismissal on the ground that it is accompanied neither by list of witnesses nor supporting affidavits of the witnesses?",
+    "issue_4": "Whether respondent No.1, his spouse and children have defaulted in repayment of loan of Rs.4,29,06,750, or any other amount, to the Agriculture Development Bank in respect of their project, called Agro Oil Extraction Industries Ltd. D.I. Khan, and therefore incurred disqualification?",
+    "issue_5": "Whether respondent No.1 was disqualified from contesting the election on account of being defaulter of loan due to Agriculture Development Bank of Pakistan for Rs.262,40,000 and National Bank of Pakistan for Rs.15,00,000?",
+    "issue_6": "Whether respondent No.1 in his declaration with the nomination paper had undervalued his properties and vehicles?",
+    "issue_7": "Whether respondent No.1 had failed to disclose and declare in his nomination papers certain properties?",
+    "issue_8": "Whether respondent No.1 by using his influence and illegal practices managed to poll bogus votes and converted the result in his favor?",
+    "issue_9": "Whether respondent No.1 conducted illegal practice of purchasing votes?",
+    "issue_10": "Relief"
+  },
+  "findings": {
+    "issue_4_to_7": "No evidence provided to prove allegations of default, undervaluation, or nondisclosure of properties. Decided in the negative.",
+    "issue_8": "No evidence of corrupt or illegal practices at polling stations. Discrepancy of five votes noted but deemed insignificant. Decided in the negative.",
+    "issue_9": "No credible evidence of vote purchasing or misuse of identity cards. Witness testimonies ruled out due to inconsistencies and lack of affidavits. Decided in the negative.",
+    "issue_10": "Petitioner not entitled to relief. Election petition dismissed."
+  },
+  "votes": {
+    "respondent_votes": 10372,
+    "petitioner_votes": 6958,
+    "margin": "More than 3000 votes"
+  },
+  "properties_in_question": {
+    "undervalued_properties": [
+      "Bungalow No.220, Sector 7, Street 21, Islamabad",
+      "209 Kanals of agricultural land known as 'Kundi Gardens', D.I. Khan",
+      "Two Toyota Land Cruisers (Registration No. PRU-777 Model 1991 and DNB-99 Model 1991)"
+    ],
+    "undisclosed_properties": [
+      "House owned at Gul Imam, Tank",
+      "400 Kanals of agricultural land at Mamrez Jamal, Tank",
+      "12000 Kanals at Ahmad Nagar, Tank",
+      "Bungalow No.53, Sector G-2, Hayatabad, Peshawar",
+      "Four Kanals plot at Hayatabad",
+      "Residential apartment in U.K."
+    ]
+  },
+  "legal_references": {
+    "act": "Representation of the People Act, 1976",
+    "section": "Section 76-A (lapsed)"
+  }
+}

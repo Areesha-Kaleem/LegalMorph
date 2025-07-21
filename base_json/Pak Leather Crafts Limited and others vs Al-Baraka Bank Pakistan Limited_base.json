@@ -1,0 +1,84 @@
+{
+  "case_title": "Pak Leather Crafts Limited and others vs Al-Baraka Bank Pakistan Limited",
+  "reference_no_or_id": "Civil Appeal No. 24-K of 2019",
+  "judgment_date": "2022-08-04",
+  "first_hearing_date": "2019-05-29",
+  "court": "Supreme Court of Pakistan",
+  "bench_type": "Three-Member Bench",
+  "judges": [
+    "Sajjad Ali Shah",
+    "Umar Ata Bandial",
+    "Munib Akhtar"
+  ],
+  "appellant": [
+    "Pak Leather Crafts Limited and others"
+  ],
+  "respondant": [
+    "Al-Baraka Bank Pakistan Limited"
+  ],
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": []
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "The appellants challenged the Sindh High Court's dismissal of their appeal under section 22 of the Financial Institutions (Recovery of Finances) Ordinance, 2001, citing time-barred filing.",
+  "investigation_summary": "The appellants filed for certified copies of the decree after 5 days of its preparation and consumed 23 days in filing the appeal, totaling 28 days within the prescribed 30-day limit. However, they took an additional 38 days to pay the fee for certified copies, which was deemed non-excludable under section 12(5) of the Limitation Act.",
+  "judgment_summary": "The Supreme Court upheld the Sindh High Court's decision, ruling that the 38 days consumed by the appellants in paying the fee for certified copies could not be excluded under section 12(5) of the Limitation Act. The appeal was dismissed as time-barred.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Appeal dismissed",
+  "legal_arguments": [
+    "Appellants argued that subsection (5) of section 12 of the Limitation Act allows exclusion of time consumed in depositing fees for certified copies.",
+    "Respondents contended that 'time requisite' under section 12 refers only to the time consumed by the court in preparing certified copies, not the litigant's delay in payment."
+  ],
+  "assets": [],
+  "statutes": [
+    "Financial Institutions (Recovery of Finances) Ordinance, 2001",
+    "Limitation Act, 1908"
+  ],
+  "sections": [
+    "Section 22 of Financial Institutions (Recovery of Finances) Ordinance, 2001",
+    "Section 12(5) of Limitation Act, 1908"
+  ],
+  "citations": [
+    "1975 SCMR 157 (Fateh Muhammad v. Malik Qadir Bakhsh)",
+    "PLD 1984 SC 208 (Mst. Jamila Khatoon v. Mst. Tajunnisa)",
+    "PLD 2008 SC 577 (Mian Muhammad Sabir v. Malik Muhammad Sadiq)"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "Civil Appeal No. 24-K of 2019",
+  "legal_categories": [
+    "Limitation Law",
+    "Banking Law"
+  ],
+  "key_issues": [
+    "Whether the time consumed by litigants in paying fees for certified copies can be excluded under section 12(5) of the Limitation Act.",
+    "Interpretation of 'time requisite' under section 12 of the Limitation Act."
+  ],
+  "maxims": {
+    "Interpretation of deeming provisions": "Statutory fiction must be carried to its logical conclusion but cannot be extended beyond the language of the section."
+  },
+  "legal_terms": {
+    "Time requisite": "The interval between the application for certified copies and the date they are ready for delivery, excluding delays caused by the litigant."
+  },
+  "words_and_phrases": {
+    "Certified copies": "Officially attested copies of court judgments or decrees.",
+    "Limitation period": "The legally prescribed time limit for filing appeals or applications."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around the interpretation of section 12(5) of the Limitation Act, specifically whether time consumed by litigants in paying fees for certified copies can be excluded from the limitation period. The Supreme Court upheld the Sindh High Court's decision, emphasizing that 'time requisite' refers only to the time consumed by the court in preparing certified copies, not delays caused by the litigant."
+}

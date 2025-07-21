@@ -1,0 +1,79 @@
+{
+  "case_title": "Sardar Karim Hayat vs S. Ahmad Nawaz Shah",
+  "court": "High Court of Judicature at Baghdad-ul-Jadid",
+  "judgment_date": "1953-10-14",
+  "case_number": "Not Provided",
+  "judges": [
+    "Abdul Hameed",
+    "Sheikh Abdul Rashid",
+    "Faiz Muhammad"
+  ],
+  "appellant": "Sardar Karim Hayat",
+  "respondent": "S. Ahmad Nawaz Shah",
+  "result": "Order Made",
+  "legal_provisions": {
+    "Bahawalpur Interim Constitution Act, 1952": [
+      "Section 2",
+      "Section 11",
+      "Section 12",
+      "Section 16",
+      "Section 50"
+    ],
+    "Pakistan Administration of Evacuee Property Ordinance, 1949": [
+      "Section 4",
+      "Section 12"
+    ],
+    "Criminal Procedure Code": [
+      "Section 145",
+      "Section 435"
+    ]
+  },
+  "facts": {
+    "disputed_property": "Dhanpat Mal Diwan Chand Factory, Sadiqabad",
+    "issue": "Possession and management rights over the factory",
+    "initial_action": "Magistrate issued notice under Section 145 Cr. P.C. and attached the factory",
+    "respondent_claim": "Apprehension of breach of peace due to possession dispute",
+    "appellant_claim": "Factory jointly possessed; appellant claims managing allottee rights"
+  },
+  "key_arguments": {
+    "appellant": [
+      "No apprehension of breach of peace existed",
+      "Joint possession invalidates Section 145 Cr. P.C.",
+      "Appellant is the managing allottee",
+      "Notice improperly described the property",
+      "Notice not published as required under Section 145(3) Cr. P.C.",
+      "Evacuee property cannot be attached under Section 12 of the Ordinance"
+    ],
+    "respondent": [
+      "Magistrate acted within jurisdiction",
+      "Attachment under Section 145 Cr. P.C. is valid despite evacuee property exemption",
+      "Evacuee property laws do not apply to criminal court processes"
+    ]
+  },
+  "court_decision": {
+    "preliminary_objection": {
+      "issue": "Validity of High Court under Section 50 of Bahawalpur Interim Constitution Act, 1952",
+      "decision": "High Court is validly constituted under Section 50 and otherwise"
+    },
+    "revision_petition": {
+      "decision": "Attachment set aside due to evacuee property exemption under Section 12 of the Ordinance",
+      "reasoning": [
+        "Evacuee property exempt from legal process including attachment",
+        "Magistrate acted with undue haste",
+        "Notice improperly described the property and was not published"
+      ]
+    }
+  },
+  "advocates": {
+    "appellant": [
+      "Farzand Ali"
+    ],
+    "respondent": [
+      "Nisar Ahmad",
+      "Abdur Rahman"
+    ]
+  },
+  "citations": {
+    "reported_as": "P L D 1953 Baghdad-ul-Jadid 59"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "case_title": "PATCHALA SEETHARAMAIAH vs COMMISSIONER OF INCOME-TAX and another",
+  "case_number": "Writ Petition No.13506 of 1999",
+  "judgment_date": "1999-09-08",
+  "court_name": "Andhra Pradesh High Court",
+  "judges": [
+    "P. Venkatarama Reddy",
+    "B. Prakash Rao"
+  ],
+  "appellant": "PATCHALA SEETHARAMAIAH",
+  "respondents": [
+    "COMMISSIONER OF INCOME-TAX",
+    "Another"
+  ],
+  "result": "Petition accepted",
+  "reported_as": "2001 P T D 3674",
+  "key_points": {
+    "scheme_name": "Voluntary Disclosure of Income Scheme, 1997",
+    "finance_act": "Finance Act, 1997 (Act No.26 of 1997)",
+    "tax_paid": "Rs.23,281",
+    "declaration_date": "1997-12-27",
+    "payment_date": "1998-03-31",
+    "delay_in_payment": "1 day",
+    "sections_invoked": [
+      "Section 67(1)",
+      "Section 67(2)",
+      "Section 70"
+    ],
+    "constitutional_reference": "Article 265 of the Constitution of India"
+  },
+  "judgment_summary": {
+    "issue": "Refund of tax paid under a void declaration due to delayed payment.",
+    "court_ruling": "The petitioner is entitled to a refund of the tax paid as the declaration was deemed void under Section 67(2) of the scheme.",
+    "reasoning": "Retention of tax paid under a void declaration violates Article 265 of the Constitution of India. Section 70 does not apply to void declarations."
+  },
+  "direction": {
+    "to": "Respondents",
+    "action": "Refund the tax paid under the declaration dated December 27, 1997.",
+    "deadline": "Within two months from receipt of the order",
+    "adjustment_clause": "Unless adjustment is made towards any arrears."
+  }
+}

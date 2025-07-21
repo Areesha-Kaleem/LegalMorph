@@ -1,0 +1,66 @@
+{
+  "case_title": "Mohtarma Benazir Bhutto, M.N.A., Leader of the Opposition, Bilawal House, Karachi vs The State through Chief Ehtesab Commissioner",
+  "case_number": "Criminal Miscellaneous Appeal No. 3 in Criminal Appeal No. Nil of 1999, Criminal Petition No. 100 of 1999, C.M.A. No. 140 of 1999",
+  "judgment_date": "1999-05-27",
+  "court": "Supreme Court of Pakistan",
+  "judges": "Irshad Hasan Khan",
+  "appellant": "Mohtarma Benazir Bhutto, M.N.A., Leader of the Opposition, Bilawal House, Karachi",
+  "respondent": "The State through Chief Ehtesab Commissioner",
+  "result": "Appeal allowed",
+  "reported_as": "1999 SCMR 1619",
+  "legal_basis": {
+    "laws_cited": [
+      "Order XVII, Rule 5 of Supreme Court Rules, 1980",
+      "Order V, Rule 3 of Supreme Court Rules, 1980",
+      "Section 26 of Ehtesab Act, 1997",
+      "Section 419, Cr.P.C."
+    ],
+    "precedents_cited": [
+      "Chan Shah v. The Crown PLD 1956 FC 43",
+      "Muhammad Ashfaque alias Chief v. The State 1998 PCr.LJ 1486",
+      "Pakistan through Secretary, Ministry of Defence v. The General Public PLD 1989 SC 6"
+    ]
+  },
+  "facts": {
+    "conviction_details": {
+      "case_reference": "Ehtesab Reference No. 30 of 1998",
+      "court": "Lahore High Court, Rawalpindi Bench",
+      "judges": [
+        "Justice Malik Muhammad Qyyum",
+        "Justice Najam-ul-Hasan Kazmi"
+      ],
+      "sentence": "Five years imprisonment and fine of US $8.6 million each (or equivalent in Pakistani currency)",
+      "additional_penalties": [
+        "Confiscation of properties and assets",
+        "Disqualification from holding public office for five years"
+      ],
+      "convicted_in_absentia": true
+    },
+    "appeal_returned_reason": "Non-compliance with First Proviso to Rule 8 of Order XXIII of Supreme Court Rules, 1980"
+  },
+  "arguments": {
+    "appellant": {
+      "main_contention": "Rule 8 of Order XXIII does not apply to appeals filed as of right under Section 26 of the Ehtesab Act, 1997.",
+      "supporting_points": [
+        "Appellant was out of the country with leave of the court.",
+        "Conviction and sentence were announced in absentia.",
+        "Appeal is a fundamental right and continuation of proceedings."
+      ]
+    },
+    "respondent": {
+      "main_contention": "Rule 8 of Order XXIII applies to all appeals, including direct appeals.",
+      "supporting_points": [
+        "Appellant must surrender before competent authority.",
+        "Appellant is a fugitive from justice residing in England."
+      ]
+    }
+  },
+  "decision": {
+    "key_findings": [
+      "Rule 8 of Order XXIII applies only to petitions for leave to appeal and appeals arising therefrom, not direct appeals under Section 26 of the Ehtesab Act, 1997.",
+      "Appellant's absence was authorized by the court, and her appeal can be entertained in absentia.",
+      "Appeal is a continuation of the trial and a fundamental right."
+    ],
+    "order": "Impugned order of Deputy Registrar (Judicial) set aside. Appeal to be processed in accordance with law."
+  }
+}

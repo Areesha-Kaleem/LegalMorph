@@ -1,0 +1,164 @@
+{
+  "case_title": "AMIR DIN alias BIR DIN vs ADDITIONAL SETTLEMENT COMMISSIONER, BAHAWALNAGAR AND 2 OTHERS",
+  "reference_no_or_id": "Letters Patent Appeal No. 4 and Writ Miscellaneous No. 194 of 1975/BWP",
+  "case_number": "Letters Patent Appeal No. 4 and Writ Miscellaneous No. 194 of 1975/BWP",
+  "judgment_date": "1979-02-17",
+  "first_hearing_date": "N/A",
+  "court": "Baghdad-ul-Jadid",
+  "bench_type": "Two-Judge Bench",
+  "judges": [
+    "Dilawar Mahmood",
+    "M. Mehboob Ahmad"
+  ],
+  "appellant": [
+    "Amir Din alias Bir Din"
+  ],
+  "respondant": [
+    "Additional Settlement Commissioner, Bahawalnagar",
+    "Unnamed Informer",
+    "Chief Settlement Commissioner"
+  ],
+  "respondents": [
+    "Additional Settlement Commissioner, Bahawalnagar",
+    "Two Others"
+  ],
+  "accussed_details": [
+    {
+      "name": "Amir Din alias Bir Din",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Claimant",
+      "allegation": [
+        "Fraudulent acquisition of urban land under Displaced Persons (Land Settlement) Act, 1958"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "An informer alleged that Amir Din fraudulently obtained confirmation of urban agricultural land against his rural claim under the Displaced Persons (Land Settlement) Act, 1958.",
+  "investigation_summary": "The Additional Settlement Commissioner accepted the informer’s application, holding that Amir Din obtained the land through fraud and ordered its cancellation under Section 10 of the Displaced Persons (Land Settlement) Act, 1958.",
+  "judgment_summary": "The court found that the allotment was not obtained fraudulently or through false representation. The appellant was in continuous possession of the land since 1948, and the allotment was consistent with departmental practices. The cancellation order was declared illegal and quashed.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Appeal allowed; cancellation order quashed.",
+  "result": "Appeal allowed",
+  "legal_arguments": [
+    "The appellant argued that no fraud was committed, and the allotment was consistent with departmental practices.",
+    "The defense cited departmental instructions and practices allowing confirmation of urban land allotments for persons in possession for over five years.",
+    "The court referred to Section 10 of the Displaced Persons (Land Settlement) Act, 1958, and determined that the appellant's actions did not meet the definitions of fraud or false representation."
+  ],
+  "appellant_contentions": [
+    "No fraud or false representation was committed by the appellant.",
+    "Departmental practice allowed confirmation of urban agricultural land against verified rural claims for individuals in possession.",
+    "The appellant was in continuous possession of the land since 1948."
+  ],
+  "respondent_contentions": [
+    "Appellant was not eligible for urban land confirmation against a rural claim.",
+    "Temporary allotment was in the name of the appellant's son, not the appellant."
+  ],
+  "court_findings": {
+    "fraud_analysis": "The appellant's actions did not constitute fraud or false representation. The allotment was based on departmental practice and full disclosure of facts.",
+    "departmental_practice": "The department had a practice of confirming urban land allotments to individuals in possession, even if the temporary allotment was in the name of their relatives.",
+    "section_10_scope": "Section 10 of the Displaced Persons (Land Settlement) Act, 1958, cannot be invoked for irregular allotments without fraud or false representation."
+  },
+  "assets": [
+    "48 kanals of urban agricultural land in Chak No. 15 Gajiani, Chishtian, District Bahawalnagar"
+  ],
+  "facts": {
+    "temporary_allotment": {
+      "allottee": "Mukhtar (son of appellant)",
+      "land_details": "Chak No. 15 Gajiani, Chishtian, District Bahawalnagar",
+      "date": "1948-05-01",
+      "khasras": [
+        3,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ]
+    },
+    "claim_verification": {
+      "appellant_father": "Umer Din",
+      "inheritance_mutation": "Mutation No. 12",
+      "land_type": "Rural area"
+    },
+    "confirmation_proposal": {
+      "date": "1963-10-21",
+      "land_area": "48 kanals",
+      "khasras": [
+        3,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "scheme": "Rehabilitation Settlement Scheme"
+    },
+    "cancellation_order": {
+      "date": "1969-03-28",
+      "authority": "Additional Settlement Commissioner (Land), Bahawalnagar",
+      "reason": "Alleged fraud and ineligibility under section 10 of the Displaced Persons (Land Settlement) Act, 1958"
+    }
+  },
+  "statutes": [
+    "Displaced Persons (Land Settlement) Act, 1958",
+    "West Pakistan Rehabilitation Settlement Scheme"
+  ],
+  "sections": [
+    "Section 10 of Displaced Persons (Land Settlement) Act, 1958",
+    "Section 11 of Displaced Persons (Land Settlement) Act, 1958"
+  ],
+  "citations": [
+    "1979 C L C 711",
+    "P L D 1970 S C 453"
+  ],
+  "reported_as": "1979 C L C 711",
+  "witnesses": [
+    "Halqa Patwari"
+  ],
+  "witness_statement": {
+    "Halqa Patwari": "Confirmed that Amir Din had been in possession of the disputed land since 1948 and that similar allotments were made to fathers of temporary allottees."
+  },
+  "appeal_number": "815-R-1969/LHR",
+  "legal_categories": [
+    "Land Settlement",
+    "Displaced Persons",
+    "Fraud Allegations"
+  ],
+  "key_issues": [
+    "Whether the appellant fraudulently obtained urban land against his rural claim.",
+    "Whether departmental practices justified the allotment.",
+    "Cancellation of allotment under section 10 of the Displaced Persons (Land Settlement) Act, 1958.",
+    "Allegations of fraud and false representation in obtaining land allotment.",
+    "Practice of confirming urban agricultural land allotments to individuals with verified rural claims."
+  ],
+  "maxims": {
+    "Fraud": "Defined as criminal deception or false representation to obtain an unjust advantage."
+  },
+  "legal_terms": {
+    "Temporary Allotment": "Land granted on a provisional basis.",
+    "Verified Claim": "A claim authenticated by relevant authorities."
+  },
+  "words_and_phrases": {
+    "Fraudulent": "Criminal deception or dishonest trick.",
+    "False Representation": "Incorrect or untrue representation."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The appellant successfully challenged the cancellation of his urban land allotment, arguing that his possession since 1948 and departmental practices justified the allotment. The court found no evidence of fraud or false representation and quashed the cancellation order.",
+  "judgment": {
+    "decision": "The appeal is allowed.",
+    "order": "The cancellation order dated 1969-03-28 by the Additional Settlement Commissioner is declared without lawful authority and quashed.",
+    "costs": "No order as to costs."
+  }
+}

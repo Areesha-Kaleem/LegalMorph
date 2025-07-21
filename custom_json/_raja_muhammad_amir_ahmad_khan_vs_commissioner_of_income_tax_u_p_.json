@@ -1,0 +1,36 @@
+{
+  "case_title": "Raja MUHAMMAD AMIR AHMAD KHAN vs COMMISSIONER OF INCOME-TAX, U. P.",
+  "case_number": "Income-tax Reference No. 647 of 1961",
+  "court_name": "Allahabad High Court",
+  "judgment_date": "1965-08-07",
+  "judges": [
+    "Brijlal Gupta",
+    "M. C. Desai"
+  ],
+  "appellant": "Raja MUHAMMAD AMIR AHMAD KHAN",
+  "respondent": "Commissioner of Income-Tax, U. P.",
+  "result": "answered in the affirmative",
+  "questions_referred": [
+    {
+      "question": "Whether on the facts and in the circumstances of the case the proceedings under section 34 were valid?",
+      "answer": "affirmative"
+    },
+    {
+      "question": "Whether there were materials to justify the assessment of Rs. 9,45,000 as income of the assessee from undisclosed source in respect of the assessment year 1942-43?",
+      "answer": "affirmative"
+    }
+  ],
+  "key_facts": {
+    "amount_in_question": "Rs. 9,45,000",
+    "source_claimed_by_assessee": "Privy purse of grandmother and mother, income of estate",
+    "assessee_status": "Prominent talukdar of Avadh",
+    "income_tax_officer_findings": "No supporting evidence for claimed sources; treated amount as income from undisclosed source",
+    "tribunal_findings": "Rejected explanation of assessee; deemed amount assessable for year 1942-43"
+  },
+  "legal_provisions": [
+    "Section 34 of the Income-tax Act",
+    "Section 66(2) of the Income-tax Act"
+  ],
+  "costs_awarded": "Rs. 200 to the Department",
+  "reported_as": "1965 P T D 1"
+}

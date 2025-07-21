@@ -1,0 +1,175 @@
+{
+  "case_title": "MUHAMMAD SIDDIQUE QURESHI AND 3 OTHERS vs S. NASIR AHMAD SHAH (REPRESENTED BY 5 LEGAL HEIRS) AND 7 OTHERS",
+  "reference_no_or_id": "R. 0. R. No. 1279 of 1980",
+  "judgment_date": "1980-05-08",
+  "first_hearing_date": "N/A",
+  "court": "Board of Revenue, Punjab",
+  "bench_type": "Single Bench",
+  "judges": [
+    "A. K. Khalid"
+  ],
+  "appellant": [
+    "Muhammad Siddique Qureshi",
+    "3 Others"
+  ],
+  "respondant": [
+    "S. Nasir Ahmad Shah (Represented by 5 Legal Heirs)",
+    "7 Others"
+  ],
+  "accussed_details": [
+    {
+      "name": "Muhammad Siddique",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "N/A",
+      "allegation": [
+        "Fraud",
+        "Misrepresentation",
+        "Violation of Paragraph 10 of the Scheme"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Counsel for S. Nasir Ahmad Shah"
+    ],
+    "defense": [
+      "Counsel for Muhammad Siddique",
+      "Counsel for Nawabzada Asghar Ali Khan"
+    ]
+  },
+  "complaint_summary": "Dispute over the transfer and proprietary rights of agricultural land initially allotted to Nawabzada Asghar Ali Khan under Martial Law Regulation No. 89/91.",
+  "investigation_summary": "The case involved allegations of fraudulent land transfer, misrepresentation, and violation of legal provisions governing the transfer of government-allotted land. Multiple parties, including Muhammad Siddique and S. Nasir Ahmad Shah, claimed rights over the land based on agreements and court decrees.",
+  "judgment_summary": {
+    "findings": [
+      "Transfers made without Collector's permission are void.",
+      "Ex parte civil court decree does not bind the government.",
+      "Fraud and misrepresentation invalidated proprietary rights granted to Muhammad Siddique."
+    ],
+    "directions": [
+      "Nawabzada Asghar Ali Khan allowed to deposit unpaid installments within two months.",
+      "Failure to deposit will result in land resumption."
+    ]
+  },
+  "punishment": "N/A",
+  "Decision_or_verdict": "Nawabzada Asghar Ali Khan allowed to deposit unpaid installments within two months to acquire proprietary rights; failure to do so would result in land resumption.",
+  "legal_arguments": [
+    "Muhammad Siddique argued that the Board of Revenue could not review its earlier orders.",
+    "S. Nasir Ahmad Shah's counsel relied on a civil court decree to claim rights.",
+    "Nawabzada Asghar Ali Khan contended that his rights remained intact under the revised policy."
+  ],
+  "assets": [
+    "Agricultural land in villages Kharianwala, Ammonki, Jhabbran, Dhilwan, Mukta, and Bhatti Dhilwan, Tehsil and District Sheikhupura."
+  ],
+  "statutes": [
+    "Colonization of Government (Lands) Punjab Act, 1912",
+    "Registration Act, 1908"
+  ],
+  "sections": [
+    "Section 19 of the Colonization Act",
+    "Section 49 of the Registration Act"
+  ],
+  "citations": [
+    "P L D 1980 Rev. 62"
+  ],
+  "witnesses": [
+    "Nawabzada Asghar Ali Khan",
+    "Muhammad Siddique",
+    "S. Nasir Ahmad Shah"
+  ],
+  "witness_statement": {
+    "Nawabzada Asghar Ali Khan": "Claimed his rights to purchase the land under the revised policy.",
+    "Muhammad Siddique": "Defended his acquisition of proprietary rights as valid.",
+    "S. Nasir Ahmad Shah": "Relied on a civil court decree to assert his claim."
+  },
+  "appeal_number": "Writ Petition Nos. 2172/74 and 2325/74",
+  "legal_categories": [
+    "Property Law",
+    "Fraud",
+    "Land Disputes"
+  ],
+  "key_issues": [
+    "Validity of land transfer agreements.",
+    "Fraudulent acquisition of proprietary rights.",
+    "Applicability of civil court decrees to government-allotted land."
+  ],
+  "maxims": {
+    "Fraud vitiates everything": "Fraudulent actions render legal proceedings and agreements void."
+  },
+  "legal_terms": {
+    "Proprietary Rights": "Legal ownership rights over property.",
+    "Ex Parte Decree": "A court decision made in the absence of one party."
+  },
+  "words_and_phrases": {
+    "Optee Purchaser": "A person who opts to purchase government-allotted land.",
+    "Surrendered Land": "Land relinquished under specific regulations."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around disputes over the transfer of agricultural land allotted under Martial Law Regulation No. 89/91. Fraudulent actions, misrepresentation, and improper legal procedures were central issues. The court invalidated orders favoring Muhammad Siddique and S. Nasir Ahmad Shah, affirming Nawabzada Asghar Ali Khan's rights to purchase the land upon fulfilling payment obligations.",
+  "facts": {
+    "claimant": "Nawabzada Asghar Ali Khan",
+    "initial_allocation": "19,259 P.I. Units",
+    "adjusted_allocation": "3,673 P.I. Units",
+    "surrendered_area_option": "Allowed to purchase at Rs. 10 per P.I. Unit",
+    "agreements": [
+      {
+        "date": "1962-07-09",
+        "parties": [
+          "Nawabzada Asghar Ali Khan",
+          "S. Nasir Ahmad Shah and others"
+        ],
+        "status": "Disputed"
+      },
+      {
+        "date": "1971-05-22",
+        "parties": [
+          "Nawabzada Asghar Ali Khan",
+          "Muhammad Siddique and others"
+        ],
+        "status": "Disputed"
+      }
+    ],
+    "civil_court_decree": {
+      "date": "1966-03-17",
+      "result": "Restrained Nawabzada Asghar Ali Khan from encumbering or interfering with possession of land"
+    },
+    "payment_history": {
+      "initial_installments": [
+        {
+          "date": "1962-06-30",
+          "amount": "Rs. 4,360"
+        },
+        {
+          "date": "1963-01-31",
+          "amount": "Rs. 3,910"
+        }
+      ],
+      "default": "Land resumed on 1969-09-03",
+      "policy_relaxation": "Allowed payment of defaulted installments by 1972-06-30"
+    }
+  },
+  "key_orders": [
+    {
+      "date": "1972-01-05",
+      "issued_by": "Board of Revenue",
+      "content": "Permission granted to S. Nasir Ahmad Shah to deposit unpaid installments"
+    },
+    {
+      "date": "1971-12-10",
+      "issued_by": "Deputy Commissioner, Sheikhupura",
+      "content": "Permission granted to Nawabzada Asghar Ali Khan to deposit balance price"
+    },
+    {
+      "date": "1972-01-06",
+      "issued_by": "Deputy Commissioner, Sheikhupura",
+      "content": "Proprietary rights granted to Muhammad Siddique"
+    },
+    {
+      "date": "1974-06-24",
+      "issued_by": "Board of Revenue",
+      "content": "Permission extended to S. Nasir Ahmad Shah to clear dues"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "case_title": "COMMISSIONER OF WEALTH TAX vs A. NAGESWARA RAO",
+  "reference_no_or_id": "Case Referred No,55 of 1989",
+  "judgment_date": "1997-12-19",
+  "first_hearing_date": "N/A",
+  "court": "Andhra Pradesh High Court",
+  "bench_type": "Division Bench",
+  "judges": [
+    "P. Venkatarama Reddy",
+    "Krishna Saran Shrivastav"
+  ],
+  "appellant": [
+    "Commissioner of Wealth Tax"
+  ],
+  "respondant": [
+    "A. Nageswara Rao"
+  ],
+  "accussed_details": [
+    {
+      "name": "A. Nageswara Rao",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Assessee",
+      "allegation": [
+        "Underestimation of property valuation",
+        "Liability to Life Insurance Corporation disallowed"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "S.R. Ashok"
+    ],
+    "defense": [
+      "C. Kodandaram"
+    ]
+  },
+  "complaint_summary": "The Commissioner of Wealth Tax alleged that the valuation of the respondent's property was underestimated and prejudicial to revenue interests.",
+  "investigation_summary": "The Wealth Tax Officer accepted the valuation provided by the respondent for assessment years 1971-72 to 1974-75 but disallowed liability to Life Insurance Corporation. The Commissioner of Wealth Tax directed fresh assessment, citing errors in valuation.",
+  "judgment_summary": "The High Court ruled in favor of the applicant-Department, holding that the Commissioner had jurisdiction to revise the assessment under section 25(2) of the Wealth Tax Act. The Court reframed the second question and answered it affirmatively, stating that the Commissioner relied on the valuation report already on record.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Questions answered in favor of the applicant-Department and against the assessee.",
+  "legal_arguments": [
+    "Doctrine of merger does not universally apply; depends on appellate jurisdiction scope.",
+    "Explanation (b) to section 25(2) of Wealth Tax Act allows reliance on records available at the time of examination.",
+    "Retrospectivity of Explanation (b) upheld due to deeming clause."
+  ],
+  "assets": [
+    {
+      "type": "Residential Building",
+      "location": "Banjara Hills, Hyderabad",
+      "valuation": [
+        "Rs. 2,39,946 (1971-72)",
+        "Rs. 2,78,300 (1972-73)",
+        "Rs. 2,78,300 (1973-74)",
+        "Rs. 3,00,000 (1974-75)"
+      ]
+    }
+  ],
+  "statutes": [
+    "Wealth Tax Act, Section 25(2)",
+    "Income Tax Act, Section 263"
+  ],
+  "sections": [
+    "Section 25(2) of Wealth Tax Act",
+    "Section 27(3) of Wealth Tax Act"
+  ],
+  "citations": [
+    "State of Madras v. Madurai Mills Co. Ltd. (1967) 19 STC 144",
+    "Kaliki Veera Reddy & Co. v. State of Andhra Pradesh (1974) 34 STC 517",
+    "CIT v. Rajasthan Mercantile Co. Ltd. (1995) 211 ITR 400",
+    "CIT v. Patel Brothers & Co. Ltd. (1995) 215 ITR 165",
+    "South India Steel Rolling Mills v. CIT (1997) 224 ITR 654"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "W.T.C. Nos.16, 19, 29 and 31 of 1984",
+  "legal_categories": [
+    "Taxation Law",
+    "Property Valuation"
+  ],
+  "key_issues": [
+    "Jurisdiction of Commissioner under section 25(2) of Wealth Tax Act",
+    "Doctrine of merger in appellate proceedings",
+    "Retrospectivity of Explanation (b) to section 25(2)"
+  ],
+  "maxims": {
+    "Doctrine of Merger": "The extent of merger depends on the scope and subject matter of appellate jurisdiction."
+  },
+  "legal_terms": {
+    "Record": "Includes all records relating to proceedings available at the time of examination by the Commissioner."
+  },
+  "words_and_phrases": {
+    "Prejudicial to Revenue": "Actions or valuations that result in loss or underestimation of tax revenue."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around the jurisdiction of the Commissioner of Wealth Tax to revise assessments under section 25(2) of the Wealth Tax Act. The High Court ruled that the Commissioner acted within jurisdiction, relying on records available at the time of examination. The doctrine of merger was deemed inapplicable to untouched portions of the assessment order. Retrospectivity of Explanation (b) to section 25(2) was upheld due to its deeming clause."
+}

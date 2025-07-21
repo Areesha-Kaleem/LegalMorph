@@ -1,0 +1,102 @@
+{
+  "case_title": "Mitha Khan, Ex-Sub-Inspector, District Jaffarabad vs Inspector-General of Police, Balochistan, Quetta and another",
+  "case_number": "S.A. No. 419 of 2017",
+  "judgment_date": "2018-06-06",
+  "court_name": "Balochistan Service Tribunal",
+  "judges": [
+    "Sher Shah Kasi",
+    "Safdar Hussain",
+    "Maqbool Ahmed"
+  ],
+  "appellant": "Mitha Khan, Ex-Sub-Inspector, District Jaffarabad",
+  "respondents": [
+    "Inspector-General of Police, Balochistan, Quetta",
+    "Another"
+  ],
+  "result": "Case remanded",
+  "reported_as": "2019 [M] C.L.R. 1044",
+  "laws_cited": [
+    "Balochistan Service Tribunals Act, 1974",
+    "Balochistan Employees Efficiency, Discipline and Accountability Act, 2011",
+    "Balochistan Police Disciplinary Rules, 1975",
+    "Article 10(A) of the Constitution of Pakistan",
+    "Article 13 of the Constitution of Pakistan",
+    "2003 SCMR 207",
+    "2004 SCMR 316",
+    "PLD 2008 SC 392"
+  ],
+  "key_points": {
+    "initial_appointment": "Appointed as ASI on 15.09.2008",
+    "promotion": "Promoted to S.I. on 24.01.2012",
+    "disciplinary_proceedings": [
+      {
+        "year": 2013,
+        "allegations": "Missing arms and ammunition from Police Station City Sibi",
+        "missing_items": [
+          {
+            "type": "Rifle G-3",
+            "serial_number": "J06539",
+            "magazines": 1,
+            "bullets": 10,
+            "missing_date": "22.05.2013"
+          },
+          {
+            "type": "SMG",
+            "serial_number": "03035",
+            "magazines": 1,
+            "bullets": 28,
+            "missing_date": "09.06.2013"
+          },
+          {
+            "type": "Rifle G-3",
+            "serial_number": "J06197",
+            "magazines": 1,
+            "bullets": 20,
+            "missing_date": "13.06.2013"
+          },
+          {
+            "type": "SMG",
+            "serial_number": "28100",
+            "magazines": 1,
+            "bullets": 10,
+            "missing_date": "23.07.2013"
+          }
+        ],
+        "penalty": "Dismissal from service on 11.02.2014"
+      }
+    ],
+    "appeals": [
+      {
+        "date": "06.03.2014",
+        "result": "Rejected on 14.04.2014"
+      },
+      {
+        "case_number": "S.A. No. 249/2014",
+        "judgment_date": "17.09.2014",
+        "result": "Partly allowed, reinstatement with de novo inquiry"
+      }
+    ],
+    "subsequent_inquiries": [
+      {
+        "date": "07.07.2015",
+        "penalty": "Forfeiture of 6 months' approved service"
+      },
+      {
+        "date": "04.01.2017",
+        "result": "Inquiry closed on 07.02.2017"
+      },
+      {
+        "date": "08.02.2017",
+        "charges": "Frivolous and vague charges for same period",
+        "penalty": "Dismissal from service on 22.03.2017"
+      }
+    ],
+    "legal_issues": [
+      "Double jeopardy under Article 13 of the Constitution",
+      "Violation of Article 10(A) of the Constitution (right to fair trial)",
+      "Failure to conduct full-fledged inquiry as per Balochistan Police Disciplinary Rules, 1975",
+      "Denial of natural justice"
+    ],
+    "judgment_summary": "Impugned order dated 22.03.2017 set aside. Case remanded for de novo inquiry within four months."
+  }
+}

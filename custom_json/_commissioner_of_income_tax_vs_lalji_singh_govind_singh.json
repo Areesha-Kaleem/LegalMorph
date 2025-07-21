@@ -1,0 +1,36 @@
+{
+  "case_title": "COMMISSIONER OF INCOME-TAX vs LALJI SINGH GOVIND SINGH",
+  "case_number": "Income-tax Reference No. 223 of 1980",
+  "judgment_date": "1996-07-01",
+  "court_name": "Allahabad High Court",
+  "judges": "B. M. Lal, B. Dikshit",
+  "appellant": "COMMISSIONER OF INCOME-TAX",
+  "respondent": "LALJI SINGH GOVIND SINGH",
+  "result": "Order accordingly",
+  "reported_as": "1999 P T D 2150",
+  "legal_questions": [
+    {
+      "question": "Whether, on the facts and in the circumstances of the case, the Tribunal was legally correct in holding that the order passed by the Income-tax Officer was one under section 185 and not under section 184(4)?"
+    },
+    {
+      "question": "Whether, on the facts and in the circumstances of the case, the Tribunal was legally correct in holding that an appeal could be filed against an order under section 184(4) of the Income-tax Act?"
+    }
+  ],
+  "facts": {
+    "business_type": "Wholesale cloth business",
+    "partnership_deed_date": "1965-10-24",
+    "partners_count": 4,
+    "issue": "Non-compliance with subsection (4) of section 184 of the Income Tax Act, 1961 due to delay in filing a certified copy of the revised partnership deed."
+  },
+  "legal_provisions": {
+    "section_184_4": "Obligation to furnish a certified copy of the revised partnership deed within the period of limitation.",
+    "section_185": "Provisions for appeal and revision applicable to orders under section 185."
+  },
+  "tribunal_decision": "Appeal lies against the order under subsection (4) of section 184 if it results in refusing registration, having the same effect as contemplated under section 185.",
+  "precedent": {
+    "case_name": "C.I.T. v. Ashoka Engineering Co.",
+    "citation": "1992 194 ITR 645",
+    "holding": "Order under subsection (4) of section 184 resulting in refusal of registration is appealable."
+  },
+  "final_decision": "Questions answered in the affirmative in favor of the assessee."
+}

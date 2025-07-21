@@ -1,0 +1,90 @@
+{
+  "case_title": "GHULAM HUSSAIN SHAH vs GHULAM MUHAMMAD",
+  "case_number": "Civil Miscellaneous No, 948/S of 1964/BWP Regular First Appeal No, 6 of 1962",
+  "judgment_date": "1979-04-24",
+  "court_name": "Baghdad-ul-Jadid",
+  "judges": [
+    "Abdul Shakurul Salam",
+    "Aftab Farrukh"
+  ],
+  "appellant": "GHULAM HUSSAIN SHAH",
+  "respondent": "GHULAM MUHAMMAD",
+  "result": "Orders accordingly",
+  "reported_as": "1980 C L C 775",
+  "facts": {
+    "land_dispute": {
+      "total_area": "800 kanals",
+      "purchase_date": "1947-11-17",
+      "purchase_price": "Rs 17,000",
+      "seller": "Non-Muslims",
+      "buyer": "Ghulam Muhammad",
+      "mutation_dispute": {
+        "challenger": "Ghulam Hussain Shah",
+        "claim": "Half share (400 kanals)",
+        "basis": "Joint purchase with Ghulam Muhammad",
+        "agreement_date": "1952-11-14",
+        "agreement_terms": {
+          "land_share": "Half share to Ghulam Hussain Shah",
+          "price": "Rs 25,000",
+          "payment_terms": {
+            "total_paid": "Rs 15,000",
+            "remaining_due": "Rs 10,000"
+          }
+        }
+      }
+    }
+  },
+  "legal_proceedings": {
+    "initial_suit": {
+      "filed_by": "Ghulam Muhammad",
+      "claim": "Sole ownership of 800 kanals",
+      "result": "Dismissed by High Court on 1960-01-30"
+    },
+    "subsequent_suit": {
+      "filed_by": "Ghulam Hussain Shah",
+      "claim": "Possession of 400 kanals",
+      "result": "Dismissed by Senior Civil Judge on 1962-01-30"
+    },
+    "appeals": [
+      {
+        "appeal_number": "Regular First Appeal No, 6 of 1962/BWP",
+        "filed_by": "Ghulam Hussain Shah",
+        "result": "Dismissed on 1964-04-03"
+      },
+      {
+        "civil_miscellaneous": {
+          "application_number": "Civil Miscellaneous No, 948/S/64/LHR",
+          "result": "Dismissed on 1965-11-23"
+        }
+      },
+      {
+        "supreme_court_petition": {
+          "petition_number": "Civil Petition for Special Leave to Appeal No, 4/1966",
+          "result": {
+            "first_order": "Dismissed",
+            "second_order": "Leave granted"
+          }
+        }
+      }
+    ]
+  },
+  "legal_issues": {
+    "res_judicata": {
+      "principle": "Constructive res judicata",
+      "section": "Section 11, Explanation IV of C.P.C."
+    },
+    "constitutional_interpretation": {
+      "articles": [
+        "Article 58",
+        "Article 60"
+      ],
+      "code_sections": [
+        "Sections 109 and 110 of C.P.C."
+      ]
+    }
+  },
+  "certification": {
+    "status": "Certified for appeal to Supreme Court",
+    "reason": "Substantial question of law as to the interpretation of the Constitution"
+  }
+}

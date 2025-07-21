@@ -1,0 +1,96 @@
+{
+  "case_title": "ASIF ALI BUTT vs PROVINCE OF PUNJAB and others",
+  "reference_no_or_id": "Civil Petition No.574-L of 2001",
+  "judgment_date": "2005-10-03",
+  "first_hearing_date": "2001-01-01",
+  "court": "Supreme Court of Pakistan",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Falak Sher"
+  ],
+  "appellant": [
+    "Asif Ali Butt"
+  ],
+  "respondant": [
+    "Province of Punjab",
+    "Respondent No.2",
+    "Respondent No.3"
+  ],
+  "accussed_details": [
+    {
+      "name": "Asif Ali Butt",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Junior Clerk",
+      "allegation": [
+        "Representation against suspension of lien",
+        "Restoration of original seniority"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "The petitioner challenged the suspension of his lien in the Punjab Police and sought restoration of his original seniority.",
+  "investigation_summary": "The petitioner was confirmed in the Railways Police as Junior Clerk on 1-3-1977, promoted as Senior Clerk in 1980, and granted selection grade in 1987. His lien in Punjab Police was suspended on 13-1-1981. He was reverted to Punjab Police as Junior Clerk on 21-9-1987 upon his request and promoted as Senior Clerk on 26-4-1988. His representation against suspension of lien was rejected on 16-12-1999.",
+  "judgment_summary": "The court dismissed the petition, stating that confirmation in another post entails termination of lien on the previously held post. The petitioner approached the authority after more than 10 years, and no substantial question of law of public importance was raised.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Petition dismissed",
+  "legal_arguments": [
+    "Lien could not have been suspended even with consent.",
+    "Entitlement to promotion as Senior Clerk on the date of promotion of juniors."
+  ],
+  "assets": [],
+  "statutes": [
+    "Railways Police Act, 1977"
+  ],
+  "sections": [],
+  "citations": [
+    "2007 P L C (C.S.) 220"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Service Law"
+  ],
+  "key_issues": [
+    "Suspension of lien in Punjab Police",
+    "Restoration of seniority"
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "lien": "A legal right or interest that a worker has in a position or post."
+  },
+  "words_and_phrases": {
+    "confirmation": "Formal approval of a position or post."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "Petitioner challenged suspension of lien and seniority restoration in Punjab Police. Court dismissed petition citing lack of substantial legal question and delayed representation.",
+  "judgment_excerpt": {
+    "summary": "The petitioner sought leave to appeal against the order of the Punjab Service Tribunal dismissing his appeal. The petitioner was transferred to Punjab Police on his request and consent, confirmed in Railways Police, and later reverted to Punjab Police. His representation against suspension of lien and request for restoration of seniority was rejected. The court found no substantial question of law of public importance to warrant interference and dismissed the petition."
+  },
+  "key_facts": {
+    "initial_position": "Junior Clerk in Pakistan Railways Police",
+    "confirmation_date": "1977-03-01",
+    "promotion_date_railways_police": "1980",
+    "selection_grade_date": "1987",
+    "lien_suspension_date": "1981-01-13",
+    "reversion_to_punjab_police_date": "1987-09-21",
+    "promotion_date_punjab_police": "1988-04-26",
+    "representation_rejection_date": "1999-12-16",
+    "tribunal_dismissal_date": "2001-01-01"
+  },
+  "legal_points": {
+    "lien_suspension": "Lien was suspended upon confirmation in Railways Police.",
+    "timing_of_representation": "Representation against lien suspension was filed after more than 10 years.",
+    "court_decision": "No substantial question of law of public importance was raised."
+  }
+}

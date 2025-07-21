@@ -1,0 +1,143 @@
+{
+  "case_title": "MUHAMMAD BASHIR vs PUNJAB PROVINCE AND 7 OTHERS",
+  "reference_no_or_id": "Civil Revision No. 54 of 1974",
+  "judgment_date": "1980-10-28",
+  "first_hearing_date": "1971-07-08",
+  "court": "Baghdad-ul-Jadid",
+  "bench_type": "Single Bench",
+  "judges": [
+    "A. Rahman"
+  ],
+  "appellant": [
+    "Muhammad Bashir"
+  ],
+  "respondant": [
+    "Province of Punjab",
+    "Respondents Nos. 2 to 8",
+    "Mazharul Hassan",
+    "Lutaf Ali Shah",
+    "Sadiq Muhammad"
+  ],
+  "accussed_details": [
+    {
+      "name": "Deputy Commissioner, Muzaffargarh",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "Deputy Commissioner",
+      "allegation": [
+        "Illegal appointment of junior clerks ignoring the petitioner"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Learned Counsel for Muhammad Bashir"
+    ],
+    "defense": [
+      "Learned Counsel for Respondent No. 1"
+    ]
+  },
+  "complaint_summary": "Muhammad Bashir challenged the appointment of junior clerks made by the Deputy Commissioner, Muzaffargarh, on 13th January 1970, claiming his legal right to the post based on his inclusion in the approved candidates list maintained since 1962.",
+  "investigation_summary": "The petitioner argued that the list of approved candidates was valid under rule 3.5 of the District Office Manual, which was saved under rule 11 of the West Pakistan Revenue Department District Ministerial Service Rules, 1964. Respondent No. 1 contended that the petitioner had no legal right as the list was discontinued after 1964.",
+  "judgment_summary": "The court ruled in favor of Muhammad Bashir, declaring that he was entitled to be appointed as a junior clerk on 13th January 1970. The Deputy Commissioner's actions and subsequent orders by the Commissioner and Board of Revenue were deemed illegal and ineffective.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Petition accepted; declaratory decree passed in favor of Muhammad Bashir.",
+  "legal_arguments": [
+    "Rule 3.5 of the District Office Manual saved under rule 11 of the West Pakistan Revenue Department District Ministerial Service Rules, 1964.",
+    "Publication of notice for test and interview did not override the petitioner's legal right based on the approved candidates list."
+  ],
+  "assets": [],
+  "statutes": [
+    "West Pakistan Revenue Department District Ministerial Service Rules, 1964",
+    "District Subordinate Service Rules, 1942"
+  ],
+  "sections": [
+    "Rule 3.5",
+    "Rule 8",
+    "Rule 11"
+  ],
+  "citations": [
+    "1981 P L C (C. S.) 880"
+  ],
+  "witnesses": [
+    "Rehmat Ilahi (P.W. 3)"
+  ],
+  "witness_statement": {
+    "Rehmat Ilahi": "Confirmed that the list of approved candidates was maintained till October 1969."
+  },
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Civil Revision",
+    "Employment Law"
+  ],
+  "key_issues": [
+    "Validity of the approved candidates list under rule 3.5",
+    "Legal right of the petitioner to appointment as junior clerk",
+    "Effect of non-appearance in test and interview"
+  ],
+  "issues": [
+    {
+      "issue_number": 1,
+      "description": "Whether the plaintiff's suit is maintainable in law?",
+      "decision": "In favor of petitioner"
+    },
+    {
+      "issue_number": 2,
+      "description": "Whether suit is bad for misjoinder of parties?",
+      "decision": "Against respondent No. 1"
+    },
+    {
+      "issue_number": 3,
+      "description": "Whether suit is bad for misjoinder of causes of action?",
+      "decision": "Against respondent No. 1"
+    },
+    {
+      "issue_number": 4,
+      "description": "Whether suit is not maintainable in the present form?",
+      "decision": "Against respondent No. 1"
+    },
+    {
+      "issue_number": 5,
+      "description": "Whether the plaintiff is entitled to be posted as junior clerk on the basis of his candidature in the list maintained by the defendant?",
+      "decision": "In favor of petitioner"
+    },
+    {
+      "issue_number": 6,
+      "description": "Whether no list is being maintained for candidate-clerks in the defendant's office since 1964?",
+      "decision": "In favor of petitioner"
+    },
+    {
+      "issue_number": 7,
+      "description": "What is the effect of non-appearance of the plaintiff in the test interview for the selection of junior clerks?",
+      "decision": "In favor of petitioner"
+    }
+  ],
+  "key_findings": [
+    "The petitioner was entitled to be appointed as junior clerk based on his inclusion in the list of approved candidates maintained by the Deputy Commissioner.",
+    "The Deputy Commissioner acted illegally by ignoring the petitioner during the appointment process on January 13, 1970.",
+    "Orders dated June 20, 1970 (Commissioner, Multan Division) and November 23, 1970 (Board of Revenue) upholding the Deputy Commissioner's actions were declared illegal and ineffective.",
+    "The petitioner was not required to appear for test and interview as his legal right was established under rule 3.5 of the District Office Manual."
+  ],
+  "legal_basis": {
+    "rule_3_5": "District Office Manual",
+    "rule_8": "West Pakistan Revenue Department District Ministerial Service Rules, 1964",
+    "rule_11": "West Pakistan Revenue Department District Ministerial Service Rules, 1964"
+  },
+  "relief_granted": {
+    "declaratory_decree": "Petitioner entitled to appointment as junior clerk on January 13, 1970.",
+    "illegal_orders": "Orders dated June 20, 1970 and November 23, 1970 declared illegal and ineffective.",
+    "appointment_challenge": "Petitioner's challenge to appointments of respondents Nos. 2 to 8 and others disallowed."
+  },
+  "costs": "Parties to bear their own costs.",
+  "maxims": {},
+  "legal_terms": {
+    "Declaratory Decree": "A court judgment that determines the rights of parties without ordering any specific action or awarding damages."
+  },
+  "words_and_phrases": {
+    "Initial Recruitment": "The process of filling vacancies through direct appointment."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "Muhammad Bashir filed a revision petition challenging the appointment of junior clerks by the Deputy Commissioner, Muzaffargarh, claiming his legal right based on the approved candidates list maintained under rule 3.5 of the District Office Manual. The court ruled in favor of the petitioner, declaring the appointments and subsequent orders by higher authorities illegal and ineffective."
+}

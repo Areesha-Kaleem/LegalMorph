@@ -1,0 +1,83 @@
+{
+  "case_title": "SHREE JANKKI SOLVENT EXTRACTIONS LTD. and 2 others vs DEPUTY DIRECTOR OF INCOME-TAX (INVESTIGATION) and others",
+  "reference_no_or_id": "Civil Miscellaneous/Writ Petitions Nos.189, 190 and 192 of 1995",
+  "judgment_date": "1995-11-14",
+  "first_hearing_date": "N/A",
+  "court": "Allahabad High Court",
+  "bench_type": "Division Bench",
+  "judges": [
+    "R. A. Sharma",
+    "D. K. Seth"
+  ],
+  "appellant": [
+    "SHREE JANKKI SOLVENT EXTRACTIONS LTD.",
+    "2 others"
+  ],
+  "respondant": [
+    "DEPUTY DIRECTOR OF INCOME-TAX (INVESTIGATION)",
+    "others"
+  ],
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": []
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Mr. Bharatji Agarwal"
+    ],
+    "defense": [
+      "Mr. Upadhyaya"
+    ]
+  },
+  "complaint_summary": "The appellants challenged the requisition order issued under Section 132-A(1)(b) of the Income-tax Act, 1961, arguing that the conditions for invoking the section were not satisfied.",
+  "investigation_summary": "The requisitioning authority failed to record satisfaction or belief that the documents would not be produced if summons were issued, rendering the order invalid.",
+  "judgment_summary": "The court quashed the requisition order dated January 23, 1995, for the assessment year 1993-94 due to lack of proper application of mind and directed the return of documents to the trade tax authorities.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Writ petition allowed; requisition order quashed.",
+  "legal_arguments": [
+    "Section 132-A(1)(b) requires satisfaction of both conditions: documents must be relevant to a pending proceeding, and there must be belief that the documents will not be produced.",
+    "Explanation 2 of Section 132 does not apply to Section 132-A(1)(b) as argued by the defense.",
+    "Prosecution argued that Explanation 2 applies to all subsections of Section 132, including Section 132-A(1)(b)."
+  ],
+  "assets": [],
+  "statutes": [
+    "Income-tax Act, 1961"
+  ],
+  "sections": [
+    "Section 132-A(1)(b)",
+    "Section 132-A(3)",
+    "Section 132(4-A) to Section 132(14)"
+  ],
+  "citations": [
+    "ITO v. Madnani Engineering Works Ltd. (1979) 118 ITR 1 (SC)"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Taxation Law",
+    "Income-tax Act"
+  ],
+  "key_issues": [
+    "Validity of requisition order under Section 132-A(1)(b)",
+    "Application of Explanation 2 of Section 132"
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "Requisition": "A formal demand for documents or evidence.",
+    "Pending Proceeding": "A legal process that is currently ongoing."
+  },
+  "words_and_phrases": {
+    "Legislation by Reference": "Adopting provisions of another statute by reference.",
+    "Nullity": "A legal act that is invalid and has no effect."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around the validity of a requisition order under Section 132-A(1)(b) of the Income-tax Act, 1961. The court found that the requisitioning authority failed to record satisfaction or belief that the documents would not be produced if summons were issued, rendering the order invalid. The writ petition was allowed, and the order was quashed."
+}

@@ -1,0 +1,49 @@
+{
+  "case_title": "NAWAB GHAZI JUNG vs ASSISTANT CONTROLLER OF ESTATE DUTY, HYDERABAD",
+  "case_number": "Writ Petition No. 119 of 1964",
+  "judgment_date": "1964-09-28",
+  "court_name": "Andhra Pradesh High Court",
+  "judge": "Gopalakrishnan Nair",
+  "result": "Petition allowed in part",
+  "reported_as": "1965 P T D 785",
+  "parties": {
+    "appellant": "Nawab Ghazi Jung",
+    "respondent": "Assistant Controller of Estate Duty, Hyderabad"
+  },
+  "key_issues": {
+    "estate_duty_amount": "Rs. 49,152",
+    "immovable_property_duty": "Rs. 23,109",
+    "valuation_of_property": "Rs. 4,84,713",
+    "personal_belongings_value": "Rs. 1,300",
+    "jagir_commutation_amount_due": "Rs. 75,213"
+  },
+  "laws_cited": {
+    "estate_duty_act_sections": [
+      "53",
+      "57(1)",
+      "70(2)",
+      "73(1)",
+      "73(2)",
+      "73(4)"
+    ]
+  },
+  "judgment_summary": {
+    "main_issue": "Interpretation of Section 70(2) of the Estate Duty Act regarding payment in instalments.",
+    "court_ruling": "The first instalment date is based on the notice under Section 73(1) or the statutory date under Section 73(2), not the date of death.",
+    "payment_schedule": {
+      "first_instalment": "15th August 1963",
+      "second_instalment": "15th August 1964",
+      "third_instalment": "15th August 1965",
+      "fourth_instalment": "15th August 1966"
+    },
+    "interest_rate": "4% per annum as prescribed in Section 70(2)"
+  },
+  "additional_matters": {
+    "pending_appeal": "Jagir commutation amount of Rs. 75,213 under appeal to Appellate Controller at Delhi.",
+    "stay_request": "Stay of collection denied; petitioner advised to approach Assistant Controller under Section 73(4)."
+  },
+  "costs_awarded": {
+    "respondent_to_pay": "Costs of petitioner",
+    "counsel_fee": "Rs. 100"
+  }
+}

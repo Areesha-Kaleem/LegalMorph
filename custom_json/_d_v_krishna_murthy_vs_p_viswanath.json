@@ -1,0 +1,24 @@
+{
+  "case_title": "D.V. KRISHNA MURTHY vs P. VISWANATH",
+  "case_number": "C. R.P. No. 2271 of 1989",
+  "judgment_date": "1993-03-15",
+  "court_name": "Andhra Pradesh High Court",
+  "judge": "G Radha Krishna Rao",
+  "appellant": "D.V. Krishna Murthy",
+  "respondent": "P. Viswanath",
+  "result": "Dismissed",
+  "reported_as": "1996 P.C.T.L.R. 1128",
+  "legal_provisions": {
+    "order_38_rule_5_cpc": "Attachment before judgment",
+    "section_49_indian_partnership_act": "Payment of firm debts and of separate debts",
+    "section_25_indian_partnership_act": "Liability of a partner for acts of the firm"
+  },
+  "case_summary": {
+    "issue": "Attachment of property of a partner before judgment in a suit against the firm and its partners.",
+    "lower_court_order": "Attachment before judgment ordered by District Munsif, Hindupur.",
+    "appellant_argument": "Properties of individual partners cannot be attached before judgment under Section 49 of the Indian Partnership Act.",
+    "court_ruling": "Section 49 does not apply before decree. Partners are jointly and severally liable under Section 25. Court is competent to order attachment under Order 38, Rule 5, CPC."
+  },
+  "revision_petition_outcome": "Dismissed",
+  "costs": "No costs"
+}

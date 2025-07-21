@@ -1,0 +1,76 @@
+{
+  "case_title": "Messrs Ghalib City vs Additional Commissioner Pra, Jarranwala and another",
+  "case_number": "Appeal No.19 of 2021",
+  "court_name": "Appellate Tribunal Punjab Revenue Authority",
+  "judgment_date": "2022-10-17",
+  "judges": [
+    "Ch. Muhammad Tariq Javed",
+    "Ch. Javed Anwar"
+  ],
+  "appellant": "Messrs Ghalib City",
+  "respondent": "Additional Commissioner Pra, Jarranwala and another",
+  "result": "Appeal dismissed",
+  "reported_as": "2023 PTD (Trib.) 450",
+  "legal_basis": {
+    "act": "Punjab Sales Tax on Services Act, 2012",
+    "sections_cited": [
+      "3",
+      "10",
+      "18",
+      "24",
+      "25",
+      "27",
+      "35",
+      "49"
+    ],
+    "taxable_entry": "Entry No. 15 of Second Schedule",
+    "rules_cited": "Punjab Sales Tax on Services (Adjudication and Appeals) Rules, 2012"
+  },
+  "facts": {
+    "approved_area_kanals": 306.15,
+    "approved_area_sq_yards": 185220.75,
+    "rate_per_sq_yard": 100,
+    "sales_tax_payable": 18522075,
+    "registration_date": "2017-04-03",
+    "show_cause_notice_date": "2020-01-30",
+    "assessment_order_date": "2020-02-24",
+    "appeal_order_date": "2020-11-17"
+  },
+  "arguments": {
+    "appellant": {
+      "contentions": [
+        "Show-cause notice was vague and lacked specification of allegations.",
+        "Nature of services allegedly provided was not determined.",
+        "Compulsory registration does not justify tax liability."
+      ],
+      "case_laws_cited": [
+        "2016 PTD (Trib.) 445",
+        "2001 SCMR 838",
+        "2007 PTD 2265",
+        "2021 PTD (Trib.) 641",
+        "2020 PTD (Trib.) 1911"
+      ]
+    },
+    "respondent": {
+      "contentions": [
+        "Appeal not maintainable as Punjab Revenue Authority was not arrayed as a party.",
+        "Appellant was given sufficient time and opportunities to defend.",
+        "Tax liability was established based on government-provided information."
+      ]
+    }
+  },
+  "key_findings": [
+    "Taxable services were identified based on approved area of development land.",
+    "Appellant was compulsorily registered after multiple notices and intimation.",
+    "Sufficient time and opportunities were provided to the appellant for defense.",
+    "Explanation clause of Section 25 denies exemption from tax liability due to lack of registration."
+  ],
+  "decision": {
+    "reasoning": [
+      "Show-cause notice contained clear charges and applicable provisions.",
+      "Appellant failed to provide defense despite multiple opportunities.",
+      "Tax liability is enforceable under the law regardless of registration status."
+    ],
+    "order": "Appeal dismissed and impugned order upheld."
+  }
+}

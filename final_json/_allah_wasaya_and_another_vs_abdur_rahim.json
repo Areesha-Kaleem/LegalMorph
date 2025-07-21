@@ -1,0 +1,99 @@
+{
+  "case_title": "ALLAH WASAYA AND Another vs ABDUR RAHIM",
+  "reference_no_or_id": "Second Appeal No. 13 of 1952",
+  "judgment_date": "1953-02-24",
+  "first_hearing_date": "1949-04-26",
+  "court": "Baghdad-ul-Jadid",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Abdul Hameed"
+  ],
+  "appellant": [
+    "Allah Wasaya",
+    "Another"
+  ],
+  "respondant": [
+    "Abdur Rahim"
+  ],
+  "accussed_details": [
+    {
+      "name": "Allah Wasaya",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": [
+        "Forcible encroachment on site BB', KK' in October 1942"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "Mustafa Khan"
+    ]
+  },
+  "complaint_summary": "Abdur Rahim filed a suit for possession of site BB', KK', alleging forcible encroachment by Allah Wasaya in October 1942.",
+  "investigation_summary": "The plaintiff alleged prior encroachment in 1938 on site BD', B' D'. Defendants claimed the disputed site fell to their share by partition and pleaded res judicata.",
+  "judgment_summary": {
+    "key_findings": [
+      "Plaintiff's claim of October 1942 encroachment was not denied by defendants.",
+      "Amendment would introduce a new and inconsistent case.",
+      "Delay alone is not a ground for refusing amendment, but inconsistency is."
+    ],
+    "decision": "The court dismissed the appeal, affirming the lower court's decision. The defendants' request to amend pleadings was denied as it introduced a new and inconsistent case.",
+    "references": [
+      "1933 Lab. 676",
+      "1943 Lab. 159"
+    ]
+  },
+  "punishment": "Costs throughout awarded against the appellants.",
+  "Decision_or_verdict": "Appeal dismissed with costs.",
+  "legal_arguments": [
+    "Defendants argued the site fell to their share by partition.",
+    "Defendants claimed the suit was barred by res judicata.",
+    "Plaintiff alleged encroachment occurred in October 1942, which was not denied by defendants.",
+    "Defendants sought amendment under Order VI, Rule 7, which was denied."
+  ],
+  "assets": [
+    "Site BB', KK'",
+    "Site BD', B' D'"
+  ],
+  "statutes": [
+    "Order VI, Rule 7",
+    "Order II, Rule 2"
+  ],
+  "sections": [],
+  "citations": [
+    "1933 Lab. 676",
+    "1943 Lab. 159",
+    "P L D 1953 Baghdad-ul-Jadid 77"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "Second Appeal No. 13 of 1952",
+  "legal_categories": [
+    "Civil Law",
+    "Property Disputes"
+  ],
+  "key_issues": [
+    "Forcible encroachment on property",
+    "Applicability of res judicata",
+    "Amendment of pleadings introducing inconsistent case"
+  ],
+  "maxims": {
+    "Order VI, Rule 17": "Leave to amend is usually granted unless it introduces a totally inconsistent case."
+  },
+  "legal_terms": {
+    "Res judicata": "A matter that has been adjudicated by a competent court and therefore may not be pursued further by the same parties."
+  },
+  "words_and_phrases": {
+    "Encroachment": "Unauthorized intrusion on another's property.",
+    "Partition": "Division of property among parties."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case involves a property dispute where the plaintiff alleged forcible encroachment by the defendants. The defendants' appeal was dismissed as their request to amend pleadings introduced a new and inconsistent case. Costs were awarded against the appellants."
+}

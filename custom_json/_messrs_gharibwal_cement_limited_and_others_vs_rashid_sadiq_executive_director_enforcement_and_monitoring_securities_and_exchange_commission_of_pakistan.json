@@ -1,0 +1,46 @@
+{
+  "case_title": "Messrs GHARIBWAL CEMENT LIMITED and others vs RASHID SADIQ, EXECUTIVE DIRECTOR (ENFORCEMENT AND MONITORING), SECURITIES AND EXCHANGE COMMISSION OF PAKISTAN",
+  "court_name": "Appellate Bench of Securities and Exchange Commission of Pakistan",
+  "judgment_date": "2002-04-02",
+  "case_number": "Appeal against Order dated 5-12-2001",
+  "reported_as": "2003 C L D 131",
+  "result": "Appeal disposed of",
+  "appellant": "Messrs GHARIBWAL CEMENT LIMITED and others",
+  "respondent": "RASHID SADIQ, EXECUTIVE DIRECTOR (ENFORCEMENT AND MONITORING), SECURITIES AND EXCHANGE COMMISSION OF PAKISTAN",
+  "judges": [
+    "Shahid Ghaffar",
+    "M. Zafar-Ul-Haq Hijazi"
+  ],
+  "key_issues": [
+    "Investments made in Dandot as an associated company of Gharibwal",
+    "Ratification by shareholders and its impact on section 208 violations",
+    "Nature of financial facilities provided by Gharibwal to Dandot",
+    "Losses suffered by Gharibwal due to investments in Dandot",
+    "Buy-back arrangement with Saudi-Pak Leasing and its compliance with section 208",
+    "Applicability of sections 195(5) and 488 of the Companies Ordinance, 1984"
+  ],
+  "violations": {
+    "section_208": {
+      "description": "Investments made by Gharibwal in Dandot exceeded the 30% threshold without prior shareholder approval.",
+      "extent": "Purchase of 966,500 shares for Rs 7.3 million and advances of Rs 337.8 million."
+    }
+  },
+  "penalties": {
+    "directors": {
+      "original_penalty": "Rs 300,000 each",
+      "reduced_penalty": "Rs 100,000 each"
+    },
+    "chief_executive_officer": {
+      "penalty": "Rs 200,000"
+    }
+  },
+  "directions": {
+    "auditor_certificate": "Gharibwal must submit a certificate from its auditors confirming the actual amount to be brought back within 15 days.",
+    "shortfall_recovery": "Any shortfall indicated in the auditor's certificate must be recovered from Dandot within 30 days, failing which the directors will be held liable."
+  },
+  "additional_notes": {
+    "shareholder_approval": "Subsequent ratification by shareholders does not validate unauthorized investments under section 208.",
+    "commercial_justifications": "Commercial considerations cannot justify violations of mandatory legal provisions.",
+    "buy_back_arrangement": "Buy-back arrangement with Saudi-Pak Leasing does not attract section 208 but may expose Gharibwal to financial loss."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "case_title": "MUHAMMAD SAL1M vs THE STATE",
+  "case_number": "R. 0. R. No. 2755 of 1984",
+  "judgment_date": "1985-01-10",
+  "court_name": "Board of Revenue, Punjab",
+  "judge": "S. M. Nasim",
+  "reported_as": "P L D 1986 Rev. 4",
+  "result": "Petition allowed",
+  "appellant": "MUHAMMAD SAL1M",
+  "respondent": "THE STATE",
+  "judgment_summary": {
+    "original_order_date": "1980-07-01",
+    "reviewed_order_date": "1984-05-15",
+    "additional_commissioner_order_date": "1984-06-20",
+    "land_details": {
+      "square_number": "80/17",
+      "measurement": "1A-0K-18M",
+      "location": "Cbak No. 208/G.B."
+    },
+    "lease_scheme": "5 Years Lease Scheme",
+    "notification_date": "1979-09-03",
+    "father_land_details": {
+      "scheme": "Ejected Tenants Scheme",
+      "measurement": "64 Kanals"
+    },
+    "key_arguments": {
+      "lease_conditions_fulfilled": true,
+      "price_deposited_date": "1980-07-22",
+      "subsistence_holding_not_exceeded": true,
+      "petitioner_status": "Married and independent",
+      "notification_para_4b_not_applicable": true,
+      "review_permission_invalid": true
+    },
+    "final_decision": "Order of A.C./Collector dated 1980-07-01 restored; orders dated 1984-06-20 and 1984-05-15 set aside."
+  }
+}

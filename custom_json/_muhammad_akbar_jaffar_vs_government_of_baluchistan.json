@@ -1,0 +1,55 @@
+{
+  "case_title": "MUHAMMAD AKBAR JAFFAR vs GOVERNMENT OF BALUCHISTAN",
+  "case_number": "Appeal No. 15 of 1977",
+  "judgment_date": "1978-01-21",
+  "court_name": "Balochistan High Court",
+  "judges": [
+    "Fakhruddin H. Shaikh",
+    "Malik Abdus Samad",
+    "Malik Habibullah Khan"
+  ],
+  "appellant": "Muhammad Akbar Jaffar",
+  "respondent": "Government of Baluchistan",
+  "result": "Appeal allowed",
+  "reported_as": "1978 P L C (C. S. T.) 56",
+  "charges": [
+    {
+      "description": "Accumulated huge amount of money by accepting illegal gratifications for issuing permits of second-hand clothing, onions, and potatoes.",
+      "status": "Not proven"
+    },
+    {
+      "description": "Assumed a style of living beyond his means and purchased a house worth Rs. 5 lacs in the name of his mother-in-law, disproportionate to his known sources of income.",
+      "status": "Not proven"
+    },
+    {
+      "description": "Associated and mixed up with notorious smugglers and helped them in their smuggling operations.",
+      "status": "Not proven"
+    }
+  ],
+  "key_issues": [
+    {
+      "issue": "Violation of mandatory provisions of Efficiency and Discipline Rules, 1974.",
+      "finding": "Rules 5 and 6 were infringed during the inquiry process."
+    },
+    {
+      "issue": "Bias of the Inquiry Officer.",
+      "finding": "Inquiry Officer was found to have acted with bias and overstepped his jurisdiction."
+    },
+    {
+      "issue": "Lack of direct evidence.",
+      "finding": "Charges were based on presumptions and conjectures, not on direct evidence."
+    },
+    {
+      "issue": "Ownership of the house.",
+      "finding": "House belonged to the appellant's mother-in-law, and no evidence proved appellant's ownership."
+    }
+  ],
+  "tribunal_decision": {
+    "majority_opinion": "Appeal allowed due to procedural defects and lack of evidence.",
+    "minority_opinion": "Appeal dismissed, appellant found guilty of charges."
+  },
+  "order": {
+    "status": "Impugned order set aside",
+    "instructions": "Appellant reinstated in service from 30th March, 1977. Authority may conduct a fresh inquiry through an impartial Inquiry Officer if deemed necessary."
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "case_title": "USMAN LTD vs THE COLLECTOR OF CUSTOMS (APPRAISEMENT) CUSTOMS HOUSE, QUETTA and another",
+  "reference_no_or_id": "Constitutional Petitions Nos.4 and 5 of 1989",
+  "case_number": "Constitutional Petitions Nos.4 and 5 of 1989",
+  "judgment_date": "1989-09-12",
+  "first_hearing_date": "N/A",
+  "court": "Balochistan High Court",
+  "court_name": "Balochistan High Court",
+  "bench_type": "Coram",
+  "judges": [
+    "Abdul Qadeer Chaudhry",
+    "Fazal-ur-Rahman"
+  ],
+  "appellant": [
+    "USMAN LTD"
+  ],
+  "respondant": [
+    "THE COLLECTOR OF CUSTOMS (APPRAISEMENT) CUSTOMS HOUSE, QUETTA",
+    "Another"
+  ],
+  "respondent": "THE COLLECTOR OF CUSTOMS (APPRAISEMENT) CUSTOMS HOUSE, QUETTA and another",
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": []
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Advocate-General"
+    ],
+    "defense": [
+      "Anwar Mansoor Khan"
+    ]
+  },
+  "complaint_summary": "Petitioners challenged the demand for payment of 'surcharge' and 'Iqra surcharge' imposed by Customs authorities under the Finance Ordinance, 1982 and Finance Act, 1985, claiming exemption based on customs notifications.",
+  "investigation_summary": "Petitioners, public companies incorporated under the Companies Ordinance, 1984, imported machinery from Germany and Hong Kong for their textile manufacturing industry located in Hub, District Lasbella (Balochistan). They claimed exemption from customs duties under SRO-500(I)84 and SRO-480(I)88. Customs authorities demanded additional duties ('surcharge' and 'Iqra surcharge'), which petitioners contested as unconstitutional.",
+  "judgment_summary": {
+    "decision": "Petitions dismissed",
+    "reasoning": [
+      "Finance Ordinance, 1982 and Finance Act, 1985 are valid and within legislative competence.",
+      "'Surcharge' and 'Iqra surcharge' are additional customs duties and not covered by exemption notifications.",
+      "Article 270-A validates the Finance Ordinance, 1982 as existing law."
+    ],
+    "costs": "No costs imposed"
+  },
+  "punishment": "N/A",
+  "Decision_or_verdict": "Petitions dismissed",
+  "legal_arguments": {
+    "petitioners": {
+      "main_points": [
+        "Legislation imposing 'surcharge' and 'Iqra surcharge' exceeds Federal Legislature's powers under Article 70(4) of the Constitution.",
+        "Finance Ordinance 1982 and Finance Act 1985 lack provisions for tax collection machinery.",
+        "'Iqra surcharge' for education is beyond Federal Legislature's competence."
+      ],
+      "supporting_cases": [
+        "AIR 1945 PC 98",
+        "AIR 1970 SC 1771",
+        "PLD 1983 SC 451",
+        "PLD 1974 SC 210"
+      ]
+    },
+    "respondent": {
+      "main_points": [
+        "'Surcharge' and 'Iqra surcharge' are valid additional customs duties under Federal Legislative List.",
+        "Finance Ordinance 1982 and Finance Act 1985 are protected under Article 270-A of the Constitution.",
+        "Customs Act provisions are overridden by express provisions in Finance Ordinance and Finance Act."
+      ],
+      "supporting_cases": [
+        "PLD 1966 SC 828",
+        "PLD 1988 Lah. 461",
+        "PLD 1975 SC 506"
+      ]
+    }
+  },
+  "assets": [
+    "Imported machinery from Germany (Luwa, A.G. Ltd. Zurich)",
+    "Imported machinery from Hong Kong (M/s C. IHO. Co. Limited)"
+  ],
+  "statutes": [
+    "Finance Ordinance, 1982",
+    "Finance Act, 1985",
+    "Customs Act",
+    "Companies Ordinance, 1984",
+    "Article 89 of the Constitution",
+    "Article 270-A of the Constitution"
+  ],
+  "sections": [
+    "Section 2 of Finance Ordinance, 1982",
+    "Section 5 of Finance Act, 1985",
+    "Section 18(1) of Customs Act",
+    "Section 19 of Customs Act"
+  ],
+  "citations": [
+    "P L D 1990 Quetta 1",
+    "AIR 1945 PC 98",
+    "AIR 1970 SC 1771",
+    "AIR 1963 SC 703",
+    "PLD 1983 SC 451",
+    "AIR 1965 SC 1379",
+    "1983 CLC 3204",
+    "PLD 1974 SC 210",
+    "AIR 1981 SC 1922",
+    "PLD 1988 Lah. 461",
+    "PLD 1966 SC 828",
+    "PLD 1970 Quetta 49"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Constitutional Law",
+    "Customs Law",
+    "Taxation Law"
+  ],
+  "key_issues": [
+    "Validity of 'surcharge' and 'Iqra surcharge' under Finance Ordinance, 1982 and Finance Act, 1985",
+    "Legislative competence of Federal Government",
+    "Applicability of exemption notifications under Customs Act"
+  ],
+  "maxims": {
+    "pith_and_substance": "Legislation is valid if its primary objective falls within legislative competence, even if it incidentally affects other areas."
+  },
+  "legal_terms": {
+    "surcharge": "Additional customs duty imposed under Finance Ordinance, 1982.",
+    "Iqra_surcharge": "Additional customs duty allocated for educational purposes under Finance Act, 1985."
+  },
+  "words_and_phrases": {
+    "additional_customs_duty": "Duty imposed beyond standard customs duties.",
+    "exemption_notification": "Legal provision allowing exemption from certain duties."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case involved constitutional petitions challenging the validity of 'surcharge' and 'Iqra surcharge' imposed as additional customs duties. The court upheld the legislation, citing Federal Government's competence and the principle of 'pith and substance.'"
+}

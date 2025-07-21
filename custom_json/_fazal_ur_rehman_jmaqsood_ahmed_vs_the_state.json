@@ -1,0 +1,67 @@
+{
+  "case_title": "Fazal-ur-Rehman, JMAQSOOD AHMED vs THE STATE",
+  "case_number": "Criminal Appeal No. 165 of 1999",
+  "court_name": "Balochistan High Court",
+  "judgment_date": "1999-09-29",
+  "judge": "Iftikhar Ahmad Chaudhary",
+  "appellant": "Fazal-ur-Rehman, JMAQSOOD AHMED",
+  "respondent": "THE STATE",
+  "result": "Appeal dismissed",
+  "reported_as": "2000 M L D 725",
+  "laws_referenced": [
+    "Control of Narcotic Substances Act, 1997 - Section 9(c)",
+    "Criminal Procedure Code (Cr.P.C.) - Section 103, Section 342, Section 382(b)",
+    "Prohibition (Enforcement of Hadd) Ordinance, 1979 - Articles 3/4",
+    "Arms Ordinance - Section 13-E"
+  ],
+  "facts_summary": {
+    "incident_date": "1998-08-22",
+    "location": "Killi Kashmirabad, Quetta",
+    "recovered_items": {
+      "opium": "8 kgs",
+      "charas": "4 kgs"
+    },
+    "accused_residence": "Rented house shared with parents and other tenants",
+    "raid_details": {
+      "time": "1:30 PM",
+      "conducted_by": "Police party led by Rasool Bakhsh (S.H.O.) and supervised by DSP/SDPO",
+      "presence_of_magistrate": "Muhammad Hashim"
+    },
+    "case_registration": {
+      "FIR_number": "151 of 1998",
+      "police_station": "Sariab Road, Quetta"
+    }
+  },
+  "trial_details": {
+    "charge_date": "1998-11-12",
+    "charge": "Section 9(c) of Control of Narcotic Substances Act, 1997",
+    "plea": "Not guilty",
+    "defense_claims": {
+      "disputed_recovery": "Claimed narcotics were recovered from a godown belonging to another tenant, Ghulam Farooq",
+      "allegations_against_police": "False implication due to non-payment of bribe"
+    }
+  },
+  "conviction_details": {
+    "sentence": {
+      "imprisonment": "14 years rigorous imprisonment",
+      "fine": "Rs. 20,000",
+      "default_penalty": "6 months simple imprisonment"
+    },
+    "benefit": "Section 382(b) Cr.P.C."
+  },
+  "appeal_arguments": {
+    "appellant_claims": {
+      "recovery_doubtful": "Non-compliance with Section 103 Cr.P.C.",
+      "police_witnesses_unreliable": "Police personnel as sole witnesses"
+    },
+    "court_response": {
+      "validity_of_search": "Section 25 of Control of Narcotic Substances Act overrides Section 103 Cr.P.C.",
+      "reliability_of_police_witnesses": "Police evidence deemed trustworthy",
+      "chemical_analysis": "Expert report confirmed narcotics presence"
+    }
+  },
+  "appeal_outcome": {
+    "dismissal_reason": "Prosecution proved possession and involvement beyond reasonable doubt",
+    "sentence_review": "No enhancement due to lack of State appeal"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "case_title": "Akhtar Zaman Malghani, JMir Muhammad Jumma Khan Kubdani and others vs Government of Balochistan",
+  "case_number": "Constitutional Petition No. 322 of 2007",
+  "court_name": "Balochistan High Court",
+  "judgment_date": "2007-11-20",
+  "judge": "Amanullah Khan Yasinzai",
+  "appellant": "Akhtar Zaman Malghani, JMir Muhammad Jumma Khan Kubdani and others",
+  "respondent": "Government of Balochistan",
+  "result": "Order accordingly",
+  "reported_as": "2008 C L C 493",
+  "relief_claimed": "Declaration that notifications/letters/orders dated 7-7-2001, 2-4-2007, 11-4-2007, 15-6-2007, and 22-8-2007 issued by respondents are illegal and issued in excess of jurisdiction, and restraining respondents from disturbing the territorial limits of Tehsil Council Kharan.",
+  "key_facts": {
+    "petitioners_elected": "Nazim and Naib Nazim of Tehsil Council Kharan in 2005 Local Government Election.",
+    "notifications_issued": [
+      "Creation of Tehsil Sar-e-Kharan and Sub-Tehsil Tohumulk (2-4-2007)",
+      "Declaration of Tehsil Sar-e-Kharan as Local Government Tehsil/TMA (15-6-2007)",
+      "Appointment of petitioners as Nazim and Naib Nazim of Tehsil Sar-e-Kharan (22-8-2007)",
+      "Declaration of seats of Nazim and Naib Nazim of Tehsil Kharan as vacant (22-8-2007)",
+      "Appointment of caretaker for Nazim Tehsil Council Kharan (25-8-2007)"
+    ],
+    "petitioners_contention": "Government acted illegally by removing elected members and creating new Tehsils despite rejection by Tehsil Council.",
+    "respondents_contention": "Government has authority to create new Tehsils and appoint caretakers under relevant laws."
+  },
+  "court_findings": {
+    "notification_under_section_6": "Cannot be challenged constitutionally unless mala fide is shown.",
+    "removal_of_elected_members": "Government lacks authority under section 197 of Local Government Ordinance, 2001 to remove elected Nazim and Naib Nazim.",
+    "boundary_changes": "Changes in boundaries of unions and Tehsils come into effect after next Local Government elections."
+  },
+  "judgment": {
+    "notifications_declared_void": [
+      "22nd August, 2007",
+      "25th August, 2007"
+    ],
+    "petitioners_offices": "Petitioners to continue holding offices until next Local Government elections.",
+    "boundary_changes_effective": "Boundary changes to take effect after announcement of next Local Government elections."
+  }
+}

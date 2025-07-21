@@ -1,0 +1,51 @@
+{
+  "case_title": "In Re: Application Filed by Mr. Sultan Ali Lakhani for Grant of Certified Copies of Statement of Assets and Liabilities in Respect of Mrs. Nasreen Jalil, Senator",
+  "case_number": "No",
+  "judgment_date": "1994-04-19",
+  "court_name": "Chief Election Commissioner",
+  "judge": "Naimuddin",
+  "appellant": "Mr. Sultan Ali Lakhani",
+  "respondent": "Mrs. Nasreen Jalil",
+  "result": "Order accordingly",
+  "reported_as": "1994 C L C 1511",
+  "legal_provisions": {
+    "Senate_Election_Act_1975": {
+      "section_25": "Declaration of result of election and submission of statement of assets and liabilities.",
+      "section_58": "Definition of corrupt practices including submission of false statements.",
+      "section_49": "Grounds for declaring election of returned candidate void.",
+      "section_36": "Contents of election petition."
+    },
+    "constitution_articles": {
+      "article_218": "Election Commission duties to ensure fair elections.",
+      "article_219": "Duties of Commissioner including organizing Senate elections."
+    },
+    "qanun_e_shahadat": {
+      "article_85": "Definition of public documents."
+    }
+  },
+  "arguments": {
+    "applicant": {
+      "counsel": "Mr. Abdul Hafees Pirzada",
+      "key_points": [
+        "Statement of assets and liabilities is a public document under Article 85 of Qanun-e-Shahadat.",
+        "Necessary for filing election petitions under sections 36 and 49 of the Senate Election Act.",
+        "Supports transparency and guards against corrupt practices as per constitutional duties."
+      ]
+    },
+    "respondent": {
+      "counsel": "Mr. Makhdoom Ali Khan",
+      "key_points": [
+        "Statement of assets and liabilities is not a public document.",
+        "No express provision in the Act for granting certified copies."
+      ]
+    }
+  },
+  "judgment_summary": {
+    "decision": "Certified copy of statement of assets and liabilities to be supplied to the applicant upon payment of prescribed fee.",
+    "reasoning": [
+      "Statement of assets and liabilities is a public document under Article 85 of Qanun-e-Shahadat.",
+      "Granting certified copies aligns with constitutional duties to guard against corrupt practices.",
+      "No legal provision explicitly prohibits inspection or granting certified copies."
+    ]
+  }
+}

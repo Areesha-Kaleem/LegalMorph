@@ -1,0 +1,165 @@
+{
+  "case_title": "S. K. DUTTA vs MEMBER, BOARD OF AGRICULTURAL INCOME-TAX, ASSAM",
+  "reference_no_or_id": "Income-tax Reference No. 1 of 1961",
+  "case_number": "Income-tax Reference No. 1 of 1961",
+  "judgment_date": "1963-04-03",
+  "first_hearing_date": "N/A",
+  "court": "Assam High Court",
+  "court_name": "Assam High Court",
+  "bench_type": "Division Bench",
+  "judges": [
+    "G. Mehrotra",
+    "C. S. Nayudu"
+  ],
+  "appellant": [
+    "S. K. DUTTA"
+  ],
+  "respondant": [
+    "MEMBER, BOARD OF AGRICULTURAL INCOME-TAX, ASSAM"
+  ],
+  "assessee": "S. K. DUTTA",
+  "shareholding_companies": [
+    "Sarojini Tea Company (Private) Ltd.",
+    "Udalguri Tea Company (Private) Ltd."
+  ],
+  "income_sources": [
+    "dividends",
+    "house property rents",
+    "government service salaries"
+  ],
+  "refund_claims": [
+    {
+      "year": "1955-56",
+      "claimed": "Rs. 4,573-11-0",
+      "allowed": "Rs. 3,541.62 nP"
+    },
+    {
+      "year": "1956-57",
+      "claimed": "Rs. 1,726-5-0",
+      "allowed": "Rs. 2,289.19 nP"
+    },
+    {
+      "year": "1957-58",
+      "claimed": "Rs. 1,940-15-0",
+      "allowed": "Rs. 2,120.62 nP"
+    }
+  ],
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": []
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Advocate-General"
+    ],
+    "defense": [
+      "Dr. Mehdi"
+    ]
+  },
+  "complaint_summary": "The appellant sought a refund of agricultural income-tax paid by tea companies on dividends received, claiming that such dividends were not agricultural income under the Assam Agricultural Income-tax Act, 1939.",
+  "investigation_summary": "The appellant filed refund applications for tax paid in excess by tea companies for the years 1955-56, 1956-57, and 1957-58. The Agricultural Income-tax Officer allowed partial refunds, which were appealed to the Assistant Commissioner of Taxes.",
+  "judgment_summary": {
+    "question_1": "Tax paid by a company cannot be deemed to be paid on behalf of shareholders under the Act.",
+    "question_2": "Shareholders cannot claim refund for agricultural income-tax paid by the company when dividends are not agricultural income.",
+    "question_3": "Considering 'world income' for refund calculation under Rule 25-A is not illegal."
+  },
+  "punishment": "N/A",
+  "Decision_or_verdict": "Answered in the negative for all three questions referred.",
+  "result": "answered in the negative",
+  "reported_as": "1964 P T D 310",
+  "legal_arguments": [
+    "The appellant argued that Rule 25 introduced a legal fiction deeming tax paid by companies as paid on behalf of shareholders.",
+    "The respondent contended that under the Act, tax paid by companies was not on behalf of shareholders, and refunds were limited to cases where tax exceeded liability.",
+    "The appellant challenged the validity of the proviso to Rule 25-A, arguing it was ultra vires and inconsistent with the Act."
+  ],
+  "assets": [],
+  "statutes": [
+    "Assam Agricultural Income-tax Act, 1939"
+  ],
+  "key_statutes": [
+    "Assam Agricultural Income-tax Act, 1939",
+    "Assam Agricultural Income-tax Rules, 1939"
+  ],
+  "sections": [
+    "Section 28(2)",
+    "Section 24",
+    "Section 4(ii)",
+    "Section 50"
+  ],
+  "key_sections": [
+    {
+      "section": "Section 2(e)",
+      "description": "Defines an assessee as a person by whom agricultural income-tax is payable."
+    },
+    {
+      "section": "Section 3",
+      "description": "Provides for agricultural income-tax to be charged on total agricultural income."
+    },
+    {
+      "section": "Section 6",
+      "description": "Specifies threshold for agricultural income-tax liability."
+    },
+    {
+      "section": "Section 50",
+      "description": "Empowers rule-making for refunds and other provisions."
+    }
+  ],
+  "citations": [
+    "Bacha F. Guzdar v. Commissioner of Income-tax ((1955) 27 ITR 1)",
+    "Accountant-General, Baroda State v. Commissioner of Income-tax ((1948) 16 ITR 78)",
+    "Commissioner of Income-tax v. A. H. Wadia ((1947) 15 ITR 367)",
+    "A. H. Wadia v. Commissioner of Income-tax ((1949) 17 ITR 63 (PC))"
+  ],
+  "key_rules": [
+    {
+      "rule": "Rule 25",
+      "description": "Tax paid by a company is deemed to be paid on behalf of shareholders for refund purposes."
+    },
+    {
+      "rule": "Rule 25-A",
+      "description": "Allows refund if tax paid exceeds the amount chargeable under the Act."
+    }
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Taxation Law",
+    "Agricultural Income Tax"
+  ],
+  "key_issues": [
+    "Whether tax paid by a company can be deemed as paid on behalf of shareholders.",
+    "Whether shareholders can claim refunds for non-agricultural income.",
+    "Legality of considering 'world income' for refund calculations."
+  ],
+  "legal_questions": [
+    {
+      "question": "Whether under the provisions of the Assam Agricultural Income-tax Act, tax paid by a company is deemed to be paid on behalf of its shareholders?",
+      "answer": "No"
+    },
+    {
+      "question": "Whether the shareholder of a company can claim refund of the agricultural income-tax paid by the company though the dividend in the hands of the shareholders is not agricultural income?",
+      "answer": "No"
+    },
+    {
+      "question": "Whether for the purpose of determining the rate at which refund would be granted under rule 25-A of the Assam Agricultural Income-tax Rules, 1939, it was illegal to take the total world income of the petitioner into account?",
+      "answer": "No"
+    }
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "world income": "Total income derived from all sources globally."
+  },
+  "words_and_phrases": {
+    "fiction of law": "A legal assumption that something is true even if it is not."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case involved the interpretation of provisions under the Assam Agricultural Income-tax Act, 1939, regarding refunds of tax paid by companies on behalf of shareholders. The court ruled against the appellant's claims, emphasizing that dividends were not agricultural income and upheld the legality of considering 'world income' for refund calculations."
+}

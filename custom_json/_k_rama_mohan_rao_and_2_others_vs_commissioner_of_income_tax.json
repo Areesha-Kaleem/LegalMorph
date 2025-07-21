@@ -1,0 +1,43 @@
+{
+  "case_title": "K. RAMA MOHAN RAO and 2 others vs COMMISSIONER OF INCOME-TAX",
+  "case_number": "Income-tax Cases Nos.46 of 1995, 2 of 1996 and 23 of 1999",
+  "court_name": "Andhra Pradesh High Court",
+  "judgment_date": "1999-06-08",
+  "judges": "P. Venkatarama Reddy, A. Hanumanthu",
+  "appellant": "K. RAMA MOHAN RAO and 2 others",
+  "respondent": "COMMISSIONER OF INCOME-TAX",
+  "result": "Applications dismissed",
+  "reported_as": "2001 P T D 3660",
+  "legal_provisions": [
+    "Section 256(2) of the Income Tax Act, 1961",
+    "Section 57 of the Income Tax Act",
+    "Section 67 of the Income Tax Act"
+  ],
+  "key_questions": [
+    "Whether the interest claimed by the assessee could be allowed as deduction?",
+    "Whether the borrowed money invested had any nexus to the allotment of shares by the private limited company?",
+    "Whether the borrowed amounts deposited in the firm were in discharge of the assessee's liability?"
+  ],
+  "tribunal_findings": {
+    "borrowings_purpose": "Liquidation of outstanding debit balance against partners in the firm's account",
+    "nexus_with_shares": "No nexus established between borrowings and acquisition of shares",
+    "deduction_disallowed": "Interest claimed could not be allowed under sections 57 or 67"
+  },
+  "facts": {
+    "firm_name": "Southern Engineering Works",
+    "loss_period": "1972 to 1980",
+    "firm_dissolution_date": "October 1983",
+    "firm_takeover": "SEW Constructions (P.) Limited",
+    "debit_balance_example": "Rs.2,90,169 for K. Ramamohan Rao as of April 1, 1980",
+    "borrowed_amount_example": "Rs.2,99,000 deposited by K. Ramamohan Rao"
+  },
+  "tribunal_reasoning": {
+    "income_relation": "Interest incurred was not relatable to income earned during the relevant assessment years",
+    "investment_purpose": "Amounts were utilised to discharge partners' liability, not for acquisition of shares",
+    "precedent_distinction": "Supreme Court decision in CIT v. Rajendra Prasad Moody distinguished due to lack of direct investment in shares"
+  },
+  "high_court_observation": {
+    "question_of_law": "No question of law arises for consideration",
+    "tribunal_approach": "Tribunal approached the issue correctly based on facts and record"
+  }
+}

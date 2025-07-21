@@ -1,0 +1,96 @@
+{
+  "case_title": "WIPRO INPOTECH Ltd. vs C.E.G.A.T.",
+  "reference_no_or_id": "Writ Appeal No. 2120-2122/1994",
+  "judgment_date": "1994-09-30",
+  "first_hearing_date": "1994-07-14",
+  "court": "Bangalore High Court",
+  "bench_type": "Division Bench",
+  "judges": [
+    "Muhammad Ramakrishna",
+    "Tirath Singh Thakur"
+  ],
+  "appellant": [
+    "WIPRO INPOTECH Ltd."
+  ],
+  "respondant": [
+    "Customs, Excise and Gold (Control) Appellate Tribunal (C.E.G.A.T.)"
+  ],
+  "accussed_details": [
+    {
+      "name": "Ashok Soota",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "President of WIPRO INPOTECH Ltd.",
+      "allegation": [
+        "Misrepresentation and suppression of facts regarding import valuation",
+        "Splitting value of manuals and diskettes to evade higher duty"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "Chander Kumar"
+    ]
+  },
+  "complaint_summary": "The appellant allegedly misrepresented the valuation of imported manuals and diskettes to evade higher customs duty.",
+  "investigation_summary": "The Customs Department found that the manuals and diskettes were essential components of software packages and should be assessed together. Statements from company officials supported this conclusion.",
+  "judgment_summary": "The court upheld the Tribunal's decision requiring a pre-deposit of 50% of the total duty and penalty demanded, rejecting claims of undue hardship and procedural errors.",
+  "punishment": "Pre-deposit of Rs. 40,16,000/- directed; penalty on President stayed subject to compliance.",
+  "Decision_or_verdict": "Appeals dismissed; extended time granted for pre-deposit compliance.",
+  "legal_arguments": [
+    "Appellant argued undue hardship due to cash flow issues.",
+    "Appellant claimed procedural error in Tribunal's omission to consider limitation.",
+    "Tribunal found prima facie misrepresentation in splitting valuation of manuals and diskettes."
+  ],
+  "assets": [
+    "Imported manuals",
+    "Imported diskettes"
+  ],
+  "statutes": [
+    "Central Excises and Salt Act, 1944"
+  ],
+  "sections": [
+    "Section 35F of Central Excises and Salt Act, 1944"
+  ],
+  "citations": [
+    "1997 P.C.T.L.R. 450",
+    "Rajendrakumar R. Shah v. Collector of Customs [1992 (58) E.L.T. 64 (Kar.)]",
+    "U.P. Lamination v. Union of India & others [1985 (20) E.L.T. 243]",
+    "Assistant Collector of Central Excise v. Dunlop India Ltd. [1985 (19) E.L.T 22 (SC)]"
+  ],
+  "witnesses": [
+    "S.S. Ramakrishnan (Manager, Procurement)",
+    "N. Mohan (General Manager, Materials)"
+  ],
+  "witness_statement": {
+    "S.S. Ramakrishnan": "Confirmed manuals and diskettes are essential components sold as a single set.",
+    "N. Mohan": "Stated manuals are integral to software packages, similar to instruction manuals for consumer electronics."
+  },
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Customs Law",
+    "Taxation Law"
+  ],
+  "key_issues": [
+    "Whether manuals and diskettes should be assessed separately or together.",
+    "Whether the Tribunal erred in requiring pre-deposit without considering limitation."
+  ],
+  "maxims": {
+    "Balance of Convenience": "Consideration of hardship versus public revenue interests."
+  },
+  "legal_terms": {
+    "Pre-deposit": "Mandatory payment before appeal consideration.",
+    "Undue Hardship": "Significant difficulty or burden caused by compliance."
+  },
+  "words_and_phrases": {
+    "Cash Flow Problems": "Temporary financial liquidity issues.",
+    "Prima Facie Case": "Initial evidence sufficient to establish a fact unless rebutted."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around customs duty valuation of imported manuals and diskettes. Tribunal upheld a pre-deposit requirement, finding prima facie misrepresentation by the appellant. Appeals dismissed; procedural claims rejected."
+}

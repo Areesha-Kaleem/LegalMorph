@@ -1,0 +1,70 @@
+{
+  "case_title": "Members Raja NAVED AHMED vs MEMBER-I, BOARD OF REVENUE, BALUCHISTAN and 2 others",
+  "case_number": "Appeals Nos, 13 and 14 of 1982",
+  "judgment_date": "1984-06-10",
+  "court_name": "Balochistan Service Tribunal",
+  "judges": [
+    "Abdul Qadeer Chaudhry",
+    "Muhammad Rais",
+    "E.B. Malghani"
+  ],
+  "appellant": "Members Raja NAVED AHMED",
+  "respondents": [
+    "MEMBER-I, BOARD OF REVENUE, BALUCHISTAN",
+    "Respondent No. 2",
+    "Respondent No. 3"
+  ],
+  "result": "Appeal dismissed",
+  "reported_as": "1985 P L C (C.S.) 374",
+  "key_points": {
+    "appointment_details": {
+      "appeal_13_82": {
+        "position": "NaibTehsildar",
+        "appointment_date": "1963-04-17",
+        "promotion_date": "1977-01-27"
+      },
+      "appeal_14_82": {
+        "position": "Tehsildar",
+        "appointment_date": "1975-06-26"
+      }
+    },
+    "rules_involved": [
+      "West Pakistan Tehsildari and Naib-Tehsildari Service Rules, 1962",
+      "Baluchistan Service Rules, 1980",
+      "Baluchistan Civil Servants Act, 1974",
+      "West Pakistan Tehsildari and Naib-Tehsildari Departmental Examination and Training Rules, 1969"
+    ],
+    "arguments": {
+      "appellants": "Claimed eligibility for confirmation under rule 10(3) of 1962 Rules and opposed requirement for departmental examination.",
+      "respondents": "Directed appellants to appear in departmental examination for confirmation."
+    },
+    "government_action": "Amendment in section 7 of Baluchistan Civil Servants Act, 1974 via Ordinance-III of 1983.",
+    "court_findings": [
+      "Legislation can be retrospective if clearly expressed.",
+      "Confirmation requires passing departmental examination as per rules.",
+      "Deeming clause does not imply automatic confirmation."
+    ],
+    "final_decision": "Appeals dismissed due to lack of merit and absence of final order."
+  },
+  "citations": [
+    "P L D 1970 SC 146",
+    "P L D 1959 SC 296",
+    "P L D 1969 SC 623",
+    "P L D 1969 Lah. 228",
+    "PLD 1965 W.P. Lah. 445",
+    "P L D 1966 Lah. 967",
+    "P L D 1968 SC 37",
+    "1975 S C M R 505"
+  ],
+  "legal_provisions": {
+    "civil_servants_act": {
+      "section_6_1": "Initial appointment on probation.",
+      "section_7_amendment": "Removed automatic confirmation after two years."
+    },
+    "rules_1962": {
+      "rule_8": "Training and departmental examination required.",
+      "rule_10_4": "Confirmation contingent on passing examination."
+    }
+  },
+  "disclaimer": "Judgment may be subject to updates or revisions. Consult official sources for authoritative information."
+}

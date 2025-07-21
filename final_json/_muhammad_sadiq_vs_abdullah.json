@@ -1,0 +1,102 @@
+{
+  "case_title": "MUHAMMAD SADIQ vs ABDULLAH",
+  "reference_no_or_id": "Criminal Miscellaneous No. 425 of 1969",
+  "judgment_date": "1970-02-23",
+  "first_hearing_date": "1969-07-30",
+  "court": "Baghdad-ul-Jadid",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Ataullah Sajjad"
+  ],
+  "appellant": [
+    "Muhammad Sadiq"
+  ],
+  "respondant": [
+    "Abdullah"
+  ],
+  "accussed_details": [
+    {
+      "name": "Abdullah",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "N/A",
+      "allegation": [
+        "Murder",
+        "Firing at the deceased"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "A. R. Tayyib"
+    ],
+    "defense": [
+      "Sh. Khuda Bakhsh",
+      "Mahmood Aslam Pirzada"
+    ]
+  },
+  "complaint_summary": "Abdullah accused of murder and evading court appearances.",
+  "investigation_summary": "Medical examinations revealed no evidence of active peptic ulcer, contradicting earlier claims used to justify bail.",
+  "judgment_summary": "Bail granted initially on medical grounds was canceled due to lack of evidence for illness and evasion of court appearances.",
+  "punishment": "Bail canceled; respondent ordered to be taken into custody.",
+  "Decision_or_verdict": "Petition allowed; bail canceled.",
+  "legal_arguments": [
+    "Medical Superintendent's initial report suggested suspected gastric ulcer.",
+    "Board of three doctors found no evidence of active peptic ulcer.",
+    "Respondent evaded court appearances intentionally.",
+    "Manipulation of legal proceedings through adjournment tactics."
+  ],
+  "assets": [],
+  "statutes": [
+    "1972 P Cr. L J 709"
+  ],
+  "sections": [],
+  "citations": [],
+  "witnesses": [
+    "Allah Bakhsh (son of petitioner)"
+  ],
+  "witness_statement": {
+    "Allah Bakhsh": "Stated his father was under treatment in Multan after leaving B.V. Hospital, Bahawalpur."
+  },
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Criminal Law",
+    "Bail Cancellation"
+  ],
+  "key_issues": [
+    "Validity of medical grounds for bail.",
+    "Evasion of court appearances.",
+    "Manipulation of legal proceedings."
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "Peptic Ulcer": "A medical condition cited as grounds for bail.",
+    "Bail Cancellation": "Legal process to revoke bail due to non-compliance."
+  },
+  "words_and_phrases": {
+    "Adjournment": "Request to postpone court proceedings.",
+    "Hide and Seek": "Phrase used by the judge to describe respondent's evasion tactics."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "Case involves bail granted on medical grounds later canceled due to lack of evidence for illness and evasion of court appearances. Medical reports contradicted initial claims, leading to custody order.",
+  "key_points": {
+    "respondent_status": "Accused in a murder case",
+    "initial_bail_reason": "Medical grounds (suspected gastric ulcer)",
+    "medical_findings": {
+      "initial_opinion": "Suspected gastric ulcer but not confirmed",
+      "board_opinion": "No evidence of active peptic ulcer; stomach normal"
+    },
+    "bail_cancellation_reasons": [
+      "Medical grounds invalidated by Board findings",
+      "Respondent evading court appearances",
+      "Manipulation of legal proceedings (e.g., adjournment maneuvers)"
+    ]
+  },
+  "orders": {
+    "adjournment_request": "Denied",
+    "bail_status": "Cancelled",
+    "custody_order": "Respondent to be taken into custody"
+  }
+}

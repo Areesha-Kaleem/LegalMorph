@@ -1,0 +1,93 @@
+{
+  "case_title": "MUHAMMAD HASHIM vs PRESIDING OFFICER and 6 others",
+  "reference_no_or_id": "C.P. No. D-894 of 2007",
+  "judgment_date": "2007-09-25",
+  "first_hearing_date": "N/A",
+  "court": "Sindh High Court",
+  "bench_type": "Single Bench",
+  "judges": [
+    {
+      "name": "Rehmat Hussain Jaffery",
+      "designation": "Judge"
+    }
+  ],
+  "appellant": [
+    {
+      "name": "Muhammad Hashim",
+      "designation": "Petitioner"
+    }
+  ],
+  "respondant": [
+    {
+      "name": "Presiding Officer",
+      "designation": "Respondent"
+    },
+    {
+      "name": "6 others",
+      "designation": "Respondents"
+    }
+  ],
+  "accussed_details": [
+    {
+      "name": "Muhammad Hashim",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Petitioner",
+      "allegation": [
+        "Quashment of proceedings pending before the Special Court (Offences in Banks) Sindh at Karachi",
+        "Jurisdictional challenge of trial court"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [],
+    "defense": [
+      {
+        "name": "N/A",
+        "designation": "Advocate for petitioner"
+      }
+    ]
+  },
+  "complaint_summary": "Petition filed for quashment of proceedings arising out of F.I.R. No.1/2001 and challenge to trial court jurisdiction.",
+  "investigation_summary": "Petitioner invoked trial court jurisdiction for acquittal and filed application under section 249-A, Cr.P.C., which remains undecided.",
+  "judgment_summary": "The Sindh High Court directed the trial court to decide the jurisdictional point and application under section 249-A, Cr.P.C. within one month. Petition disposed of accordingly.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Petition disposed of with directions to trial court.",
+  "legal_arguments": [
+    "Application under section 249-A, Cr.P.C. for acquittal.",
+    "Jurisdictional challenge of trial court."
+  ],
+  "assets": [],
+  "statutes": [
+    "Criminal Procedure Code (Cr.P.C.)"
+  ],
+  "sections": [
+    "Section 249-A, Cr.P.C."
+  ],
+  "citations": [
+    "2008 M L D 177"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Criminal Law",
+    "Jurisdictional Challenge"
+  ],
+  "key_issues": [
+    "Jurisdiction of trial court",
+    "Application under section 249-A, Cr.P.C."
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "Quashment": "The act of nullifying or voiding a legal proceeding.",
+    "Jurisdiction": "The authority of a court to hear and decide a case."
+  },
+  "words_and_phrases": {
+    "Adequate remedy": "A sufficient legal solution available to the petitioner."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "Petition filed for quashment of proceedings and jurisdictional challenge. Sindh High Court directed trial court to decide application under section 249-A, Cr.P.C. within one month."
+}

@@ -1,0 +1,91 @@
+{
+  "case_title": "M/S. Maple Leaf Cement vs Collector Of Sales Tax, Factory Ltd. Lahore. Faisalabad",
+  "reference_no_or_id": "STA No.340/LB/2009",
+  "judgment_date": "2012-09-22",
+  "first_hearing_date": "N/A",
+  "court": "Appellate Tribunal Inland Revenue",
+  "bench_type": "Tribunal",
+  "judges": [
+    "Abdul Rauf",
+    "Muhammad Nawaz Bajwah"
+  ],
+  "appellant": [
+    "M/S. Maple Leaf Cement"
+  ],
+  "respondant": [
+    "Collector Of Sales Tax, Factory Ltd. Lahore. Faisalabad"
+  ],
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": [
+        "Wrong adjustment of input tax",
+        "Adjustment of input tax on receipt of electricity bills rather than after payment"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "The appellant was accused of wrong adjustment of input tax relating to Phase-II against the output tax of Phase-I and adjustment of input tax on receipt of electricity bills rather than after payment.",
+  "investigation_summary": "The Additional Collector issued a show cause notice alleging violations of Section 8(4) of the Sales Tax Act, 1990. Penalty and additional tax were proposed for procedural lapses and non-taxable activities.",
+  "judgment_summary": "The Tribunal accepted the appeal, holding that the appellant was justified in adjusting input tax due to the cancellation of the second registration. Procedural lapses were deemed non-penalizable, and penalties and additional tax were deleted.",
+  "punishment": "None. Penalties and additional tax were deleted.",
+  "Decision_or_verdict": "Appeal accepted. Adjustment of input tax allowed.",
+  "legal_arguments": [
+    "Clarification issued by CBR through Sales Tax General Order No. 10/1998",
+    "Cancellation of second registration w.e.f. 27.06.1998",
+    "Procedural lapse in adjustment timing",
+    "Electricity consumption within factory premises contributes to taxable activities"
+  ],
+  "assets": [],
+  "statutes": [
+    "Sales Tax Act, 1990"
+  ],
+  "sections": [
+    "Section 8(4)",
+    "Section 34",
+    "Section 33"
+  ],
+  "citations": [
+    "2013 P T D (Trib.) 1800",
+    "PTCL 2013 CL. 136",
+    "2000 PTD 1296",
+    "GST 2004 CL-318",
+    "2005 PTD (Trib.) 1358",
+    "2006 PTD (Trib.) 196"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "STA No.340/LB/2009",
+  "legal_categories": [
+    "Tax Law",
+    "Sales Tax Adjustment"
+  ],
+  "key_issues": [
+    "Wrong adjustment of input tax",
+    "Timing of input tax adjustment",
+    "Electricity consumption for non-taxable activities"
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "Input Tax Adjustment": "Adjustment of tax paid on inputs against tax payable on outputs.",
+    "Procedural Lapse": "A minor error or oversight in following legal procedures."
+  },
+  "words_and_phrases": {
+    "Misconceived Notion": "An incorrect understanding or interpretation of the law.",
+    "Taxable Activity": "Activities subject to taxation under the law."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around the adjustment of input tax between two business units under one registration. The Tribunal ruled in favor of the appellant, citing procedural lapses and clarifications from the CBR. Penalties and additional tax were deleted."
+}

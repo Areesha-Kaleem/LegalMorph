@@ -1,0 +1,127 @@
+{
+  "case_title": "Azizia Steel Company Ltd. Jeddah K.S.A vs. Mian Muhammad Nawaz Sharif",
+  "reference_no_or_id": "19/2017",
+  "judgment_date": "December 24, 2018",
+  "first_hearing_date": "N/A",
+  "court": "Accountability Court, Islamabad",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Judge Muhammad Arshad Malik"
+  ],
+  "appellant": [
+    "Mian Muhammad Nawaz Sharif"
+  ],
+  "respondant": [
+    "National Accountability Bureau (NAB)"
+  ],
+  "accussed_details": [
+    {
+      "name": "Mian Muhammad Nawaz Sharif",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Former Prime Minister of Pakistan",
+      "allegation": [
+        "Corruption and corrupt practices",
+        "Possession of assets disproportionate to known sources of income",
+        "Ownership of assets beyond known sources of income"
+      ]
+    },
+    {
+      "name": "Hussain Nawaz Sharif",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Businessman",
+      "allegation": [
+        "Benamidar for Nawaz Sharif",
+        "Failure to appear before the court"
+      ],
+      "status": "Absconding"
+    },
+    {
+      "name": "Hassan Nawaz Sharif",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Businessman",
+      "allegation": [
+        "Failure to appear before the court"
+      ],
+      "status": "Absconding"
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "NAB Prosecutors"
+    ],
+    "defense": [
+      "Khawaja Haris"
+    ]
+  },
+  "complaint_summary": "The case involves allegations of corruption, possession of assets disproportionate to known sources of income, and ownership of assets beyond known sources of income against Mian Muhammad Nawaz Sharif and his sons, stemming from the Panama Papers leak.",
+  "investigation_summary": "The Supreme Court of Pakistan directed NAB to file references based on findings from the JIT formed in 2017. The JIT concluded that the accused failed to justify the sources of funds for the assets. MLA requests to UAE and KSA revealed fabricated documents submitted by the accused. Remittance records showed €1.26 million and $10.2 million transferred to Nawaz Sharif and family.",
+  "judgment_summary": "The court convicted Nawaz Sharif under Section 9(a)(v) of NAO, 1999, for corruption and corrupt practices. He was sentenced to 7 years of rigorous imprisonment, fined Rs. 1.5 billion and $25 million, and disqualified from holding public office for 10 years post-release. Assets of HME and ASCL were ordered forfeited to the Federal Government. Absconding co-accused were declared proclaimed offenders, with perpetual non-bailable warrants issued.",
+  "punishment": {
+    "imprisonment": "7 years rigorous imprisonment",
+    "fine": "Rs. 1.5 billion and $25 million",
+    "asset_forfeiture": "Confiscation of ASCL and HME",
+    "disqualification": "10 years from holding public office post-release",
+    "financial_restrictions": "Barred from government-backed loans for 10 years"
+  },
+  "Decision_or_verdict": "Conviction under Section 9(a)(v) of NAO, 1999.",
+  "legal_arguments": [
+    "Prosecution argued Nawaz Sharif was the beneficial owner of ASCL and HME.",
+    "Defense claimed remittances were gifts and challenged JIT findings.",
+    "Court relied on Section 14(c) of NAO, presuming guilt due to failure to justify assets."
+  ],
+  "assets": [
+    "Al-Azizia Steel Company Ltd. (ASCL)",
+    "Hill Metals Establishment (HME)"
+  ],
+  "statutes": [
+    "National Accountability Ordinance (NAO), 1999"
+  ],
+  "sections": [
+    "Section 9(a)(v)",
+    "Section 14(c)",
+    "Section 15",
+    "Section 32(a)"
+  ],
+  "citations": [
+    "PLD 2018 SC 114",
+    "2013 P Cr. LJ 591",
+    "2015 SCMR 710"
+  ],
+  "witnesses": [
+    "NAB Investigators",
+    "JIT Members"
+  ],
+  "witness_statement": {
+    "NAB Investigators": "Provided evidence of financial discrepancies, fabricated documents, and remittance records.",
+    "JIT Members": "Submitted findings confirming failure to justify sources of funds."
+  },
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Corruption",
+    "Disproportionate Assets",
+    "Accountability Laws"
+  ],
+  "key_issues": [
+    "Ownership of ASCL and HME",
+    "Failure to justify sources of funds",
+    "Fabrication of documents",
+    "Political motivation claims"
+  ],
+  "maxims": {
+    "Presumption of guilt": "Section 14(c) of NAO allows presumption of guilt if assets are disproportionate to known sources of income."
+  },
+  "legal_terms": {
+    "Benamidar": "Nominee or ostensible owner acting on behalf of the real owner."
+  },
+  "words_and_phrases": {
+    "Disproportionate Assets": "Assets exceeding known sources of income.",
+    "Rigorous Imprisonment": "A form of imprisonment involving hard labor."
+  },
+  "metadata": {
+    "source_website": "N/A"
+  },
+  "summary_vector_notes": "The case highlights the application of accountability laws to public officeholders, focusing on corruption, disproportionate assets, and the burden of proof under NAO. It also underscores the significance of statutory presumptions in corruption cases."
+}

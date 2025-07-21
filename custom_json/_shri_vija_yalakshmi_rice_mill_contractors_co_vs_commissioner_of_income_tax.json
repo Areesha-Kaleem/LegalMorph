@@ -1,0 +1,29 @@
+{
+  "case_title": "Shri VIJA YALAKSHMI RICE MILL CONTRACTORS CO. vs COMMISSIONER OF INCOME-TAX",
+  "case_number": "Income-tax Reference No. 171 of 1984",
+  "court_name": "Andhra Pradesh High Court",
+  "judgment_date": "1989-02-01",
+  "judges": [
+    "B. P. Jeevan Reddy",
+    "V. Neeladri Rao"
+  ],
+  "appellant": "Shri VIJA YALAKSHMI RICE MILL CONTRACTORS CO.",
+  "respondent": "Commissioner of Income-Tax",
+  "result": "Question answered in the affirmative",
+  "reported_as": "1990 P T D 552",
+  "legal_question": "Whether, on the facts and circumstances of the case, the Tribunal is justified in upholding the refusal of registration of the firm by the lower authorities?",
+  "facts": {
+    "assessment_year": "1976-77",
+    "accounting_year_end": "1975-10-13",
+    "return_filed_loss": "Rs. 2,46,230",
+    "income_assessed": "Rs. 20,000",
+    "books_of_account_status": "Lost (not accepted by authorities)"
+  },
+  "reasoning": {
+    "income_tax_officer": "Refused registration due to lack of proof of profit distribution and loss of books.",
+    "appellate_assistant_commissioner": "Agreed with refusal, citing lack of genuineness of the firm.",
+    "tribunal": "Upheld the reasoning of lower authorities."
+  },
+  "advocate_for_assessee": "Sri Y. Ratnakar",
+  "final_decision": "Registration of the firm refused; decision in favor of Revenue and against the assessee."
+}

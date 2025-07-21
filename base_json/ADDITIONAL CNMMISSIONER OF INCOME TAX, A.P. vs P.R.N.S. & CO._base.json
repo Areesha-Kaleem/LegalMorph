@@ -1,0 +1,88 @@
+{
+  "case_title": "ADDITIONAL COMMISSIONER OF INCOME TAX, A.P. vs P.R.N.S. & CO.",
+  "reference_no_or_id": "Case referred No. 18 of 1975",
+  "judgment_date": "1976-08-20",
+  "first_hearing_date": "N/A",
+  "court": "Allahabad High Court",
+  "bench_type": "Division Bench",
+  "judges": [
+    "B. J. Divan",
+    "Raghuvir"
+  ],
+  "appellant": [
+    "Additional Commissioner of Income Tax, A.P."
+  ],
+  "respondant": [
+    "P.R.N.S. & CO."
+  ],
+  "accussed_details": [
+    {
+      "name": "P.R.N.S. & CO.",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "Registered Partnership Firm",
+      "allegation": [
+        "Non-compliance with notices under sections 134(2), 142(1), and 139(2) of the Income Tax Act, 1961",
+        "Delay in filing income tax returns for assessment years 1962-63, 1963-64, and 1964-65"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Mr. Rama Rao"
+    ],
+    "defense": [
+      "Sri M. J. Swamy"
+    ]
+  },
+  "complaint_summary": "The appellant alleged non-compliance with statutory notices and delay in filing income tax returns by the respondent for assessment years 1962-63, 1963-64, and 1964-65, resulting in penal interest and penalties under sections 139 and 271(1)(a) of the Income Tax Act, 1961.",
+  "investigation_summary": "The Income Tax Officer issued notices under section 139(2) for the respective assessment years. Returns were filed late, leading to assessments under section 144. The Appellate Tribunal later directed reframing of assessments, but penal interest and penalties were imposed.",
+  "judgment_summary": "The court held that rectification under section 154 was not applicable as the mistake alleged by the respondent was debatable and not apparent on the record. The court ruled in favor of the revenue, affirming the penal interest charged under section 139.",
+  "punishment": "Penal interest charged under section 139 for assessment years 1962-63 (Rs. 1,554), 1963-64 (Rs. 5,051), and 1964-65 (Rs. 1,333). Penalties under section 271(1)(a) were also levied.",
+  "Decision_or_verdict": "In favor of the revenue and against the assessee.",
+  "legal_arguments": [
+    "The respondent argued that penal interest under section 139 could not be charged without an application for extension of time in Form No. 6, citing Kishanlal Haricharan v. Income Tax Officer [1971] 82 ITR 660 (AP).",
+    "The appellant contended that the issue was debatable and not a mistake apparent on the record, relying on T.S. Balaram v. Volkart Brothers [1971] 82 ITR 50 (SC)."
+  ],
+  "assets": [],
+  "statutes": [
+    "Income Tax Act, 1961"
+  ],
+  "sections": [
+    "Section 139",
+    "Section 144",
+    "Section 154",
+    "Section 271(1)(a)"
+  ],
+  "citations": [
+    "Kishanlal Haricharan v. Income Tax Officer [1971] 82 ITR 660 (AP)",
+    "T.S. Balaram v. Volkart Brothers [1971] 82 ITR 50 (SC)",
+    "Progressive Engineering Co. v. Income Tax Officer [1976] 105 ITR 226 (AP)"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Tax Law",
+    "Rectification of Errors",
+    "Penal Interest"
+  ],
+  "key_issues": [
+    "Applicability of section 154 for rectification of penal interest charged under section 139.",
+    "Interpretation of section 139 regarding extension of time for filing returns."
+  ],
+  "maxims": {
+    "Illustration (e) of Section 114 of the Evidence Act": "Presumption that official acts have been regularly performed."
+  },
+  "legal_terms": {
+    "Penal Interest": "Interest charged for delay in compliance with statutory requirements.",
+    "Rectification": "Correction of mistakes apparent on the record under section 154."
+  },
+  "words_and_phrases": {
+    "Mistake Apparent on the Record": "An obvious and patent mistake not requiring extensive reasoning."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around the applicability of penal interest under section 139 and rectification under section 154 of the Income Tax Act, 1961. The court ruled in favor of the revenue, holding that the alleged mistake was debatable and not apparent on the record."
+}

@@ -1,0 +1,122 @@
+{
+  "case_title": "NAZIR AHMAD vs THE STATE through Executive District Officer (Revenue), Vehari and another",
+  "reference_no_or_id": "R.O.R. No. 267 of 2009",
+  "judgment_date": "2010-01-06",
+  "first_hearing_date": "N/A",
+  "court": "Board of Revenue",
+  "bench_type": "Judicial-IV",
+  "judges": [
+    "Aftab Ahmad Maneka"
+  ],
+  "appellant": [
+    "Nazir Ahmad"
+  ],
+  "respondant": [
+    "The State through Executive District Officer (Revenue), Vehari"
+  ],
+  "accussed_details": [
+    {
+      "name": "Nazir Ahmad",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Petitioner",
+      "allegation": [
+        "Illegal rejection of application for grant of proprietary rights of State land"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [],
+    "defense": [
+      "Learned counsel for the petitioner (name not mentioned)"
+    ]
+  },
+  "complaint_summary": "Nazir Ahmad filed a revision petition against the rejection of his application for proprietary rights of 100 Kanals of State land in Chak No. 365-EB, Burewala, District Vehari.",
+  "investigation_summary": "The petitioner argued that the rejection of his application was unlawful and against the principles of natural justice. The land was allotted under a temporary cultivation lease scheme from Kharif 1995 to Rabi 2000, and he fulfilled all terms and conditions of the lease. The DO(R), Vehari reviewed his earlier order dated 2002-09-11 without justification and in the absence of the petitioner.",
+  "judgment_summary": "The court found that the impugned orders dated 2003-09-05 and 2008-12-22 suffered from legal and factual infirmities, as they were passed without providing an opportunity of hearing to the petitioner. The maxim 'audi alteram partem' was applied, and the case was remanded to the DO(R), Vehari for fresh adjudication strictly on merits.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Case remanded to DO(R), Vehari for fresh adjudication.",
+  "legal_arguments": [
+    "Impugned order passed without providing opportunity of hearing.",
+    "Violation of principles of natural justice.",
+    "Petitioner fulfilled all lease terms and conditions.",
+    "Other allottees in similar circumstances were granted proprietary rights."
+  ],
+  "assets": [
+    {
+      "type": "Land",
+      "details": "100 Kanals in Chak No. 365-EB, Burewala, District Vehari"
+    }
+  ],
+  "statutes": [
+    "Notification dated 10-7-2001"
+  ],
+  "sections": [],
+  "citations": [
+    "2010 C L C 629"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Land Rights",
+    "Administrative Law",
+    "Natural Justice"
+  ],
+  "key_issues": [
+    "Whether the rejection of proprietary rights application was lawful.",
+    "Whether the principles of natural justice were violated.",
+    "Whether the review order dated 2003-09-05 rejecting proprietary rights was valid under the law."
+  ],
+  "maxims": {
+    "audi alteram partem": "No one should be condemned unheard."
+  },
+  "legal_terms": {
+    "suo motu": "Action taken by a court or authority on its own initiative."
+  },
+  "words_and_phrases": {
+    "Parcha Dakhal": "Possession document issued for land."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case involves a dispute over proprietary rights of State land allotted under a temporary cultivation lease scheme from Kharif 1995 to Rabi 2000. The petitioner argued that the rejection of his application was unlawful and violated principles of natural justice. The court remanded the case for fresh adjudication, emphasizing the need for a fair hearing.",
+  "facts": {
+    "land_details": "State land measuring 100 Kanals, situated in Chak No. 365-EB, Burewala, District Vehari",
+    "lease_period": "Kharif 1995 to Rabi 2000",
+    "initial_order_date": "2002-09-11",
+    "review_order_date": "2003-09-05",
+    "appeal_order_date": "2008-12-22"
+  },
+  "issues": {
+    "main_issue": "Whether the review order dated 2003-09-05 rejecting proprietary rights was valid under the law",
+    "procedural_flaw": "Order passed without providing opportunity of hearing to the petitioner"
+  },
+  "arguments": {
+    "petitioner": {
+      "contention": "Impugned order was illegal and violated principles of natural justice",
+      "claim": "Petitioner fulfilled all lease terms and was eligible for proprietary rights",
+      "comparison": "Other allottees in similar circumstances were granted proprietary rights"
+    },
+    "respondent": {
+      "contention": "Land was allotted for 5 years but litigation delayed issuance of Parcha Dakhal",
+      "review_reason": "DO(R) Vehari reviewed earlier order and rejected application for proprietary rights"
+    }
+  },
+  "decision": {
+    "impugned_orders": [
+      {
+        "date": "2003-09-05",
+        "authority": "DO(R), Vehari",
+        "status": "set aside"
+      },
+      {
+        "date": "2008-12-22",
+        "authority": "EDO(R), Vehari",
+        "status": "set aside"
+      }
+    ],
+    "reasoning": "Orders suffered from legal and factual infirmities; violated 'audi alteram partem' principle",
+    "action": "Case remanded to DO(R), Vehari for fresh decision after providing opportunity of hearing"
+  }
+}

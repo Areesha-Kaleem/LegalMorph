@@ -1,0 +1,79 @@
+{
+  "case_title": "JAN MUHAMMAD AND 2 OTHERS vs Mst. WALAYAT-UN-NISA",
+  "reference_no_or_id": "R. C. R. No, 255 of 1985",
+  "judgment_date": "1986-01-27",
+  "first_hearing_date": "N/A",
+  "court": "Board of Revenue, Punjab",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Maqbool Ahmad Sheikh"
+  ],
+  "appellant": [
+    "Jan Muhammad",
+    "Others"
+  ],
+  "respondant": [
+    "Mst. Walayat-un-Nisa"
+  ],
+  "accussed_details": [
+    {
+      "name": "Jan Muhammad",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Petitioner",
+      "allegation": [
+        "Default in payment of rent"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "Mst. Walayat-un-Nisa filed an ejectment suit against Jan Muhammad and others, alleging default in rent payment and seeking eviction.",
+  "investigation_summary": "The case was initially heard by A.C.-I but transferred to the Collector due to failure to decide within 60 days. The Collector decreed ejectment based on landlord-tenant relationship and rent default.",
+  "judgment_summary": "The court rejected the revision petition filed by Jan Muhammad and others, upholding the lower courts' findings that the respondent was entitled to rent and eviction as the landlord.",
+  "punishment": "Petitioners ordered to vacate the premises.",
+  "Decision_or_verdict": "Petition rejected; ejectment decree upheld.",
+  "legal_arguments": [
+    "Failure to decide the case within 30 days does not render the decree void.",
+    "Respondent inherited landlord rights from her deceased husband and was entitled to rent."
+  ],
+  "assets": [],
+  "statutes": [
+    "Punjab Land Reforms (Procedure for Ejectment Suits) Rules, 1977"
+  ],
+  "sections": [
+    "N/A"
+  ],
+  "citations": [
+    "P L D 1986 Rev. 70"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Landlord-Tenant Dispute",
+    "Ejectment Suit"
+  ],
+  "key_issues": [
+    "Validity of ejectment decree despite delay in decision",
+    "Landlord rights of respondent"
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "Ejectment": "Legal process to remove a tenant from property.",
+    "Landlord-Tenant Relationship": "Legal relationship involving rental agreements."
+  },
+  "words_and_phrases": {
+    "Directory Provision": "A rule that is not mandatory but advisory in nature."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around an ejectment suit filed by Mst. Walayat-un-Nisa against Jan Muhammad and others for default in rent payment. The court upheld the lower courts' findings that the respondent was the landlord and entitled to eviction despite procedural delays."
+}

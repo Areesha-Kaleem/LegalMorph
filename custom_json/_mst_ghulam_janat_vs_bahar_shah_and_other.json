@@ -1,0 +1,84 @@
+{
+  "case_title": "Mst. GHULAM JANAT vs BAHAR SHAH And Other",
+  "case_number": "Petition No. 23 of 1951",
+  "judgment_date": "1952-03-26",
+  "court_name": "Baghdad-ul-Jadid",
+  "judge": "Abdul Aziz",
+  "reported_as": "P L D 1952 Baghdad-ul-Jadid 53",
+  "appellant": "Mst. GHULAM JANAT",
+  "respondent": "BAHAR SHAH And Other",
+  "result": "Order accordingly",
+  "key_points": {
+    "application_details": {
+      "law": "Guardians and Wards Act",
+      "section": "Section 10",
+      "applicant": "Bahar Shah",
+      "minors": [
+        {
+          "name": "Muhammad Shah",
+          "age": 12
+        },
+        {
+          "name": "Bashir Ahmad",
+          "age": 8
+        },
+        {
+          "name": "Muhammad Shah",
+          "age": 5
+        },
+        {
+          "name": "Mst. Jhanwar Bibi",
+          "age": 3
+        }
+      ],
+      "deceased_father": "Amir Shah"
+    },
+    "compromise_details": {
+      "date_presented": "1951-05-14",
+      "order_date": "1951-05-24",
+      "appointed_guardian": "Bahar Shah"
+    },
+    "revision_petition": {
+      "date_filed": "1951-12-08",
+      "arguments": [
+        {
+          "contention": "No revision could be entertained under law",
+          "support": [
+            "Section 47(A) of Guardians and Wards Act",
+            "Section 115 of C.P.C."
+          ]
+        },
+        {
+          "contention": "Petition was barred by time"
+        }
+      ]
+    },
+    "high_court_findings": {
+      "failure_of_lower_court": "Senior Sub-Judge failed to determine suitability of guardian and relied solely on compromise.",
+      "special_circumstances": "Court ignored imperative provisions of law regarding welfare of minors.",
+      "precedents": [
+        {
+          "case": "1940 Lahore 9",
+          "finding": "Compromise without considering welfare of minors is illegal."
+        },
+        {
+          "case": "1923 Nag 36",
+          "finding": "Ignoring procedure under Guardians and Wards Act is materially irregular."
+        },
+        {
+          "case": "1927 Cal 578",
+          "finding": "Revision may be allowed in exceptional circumstances."
+        }
+      ]
+    },
+    "decision": {
+      "petition_dismissed": true,
+      "order_set_aside": true,
+      "directions": "Fresh order for appointment of guardian to be made after complying with provisions of law.",
+      "next_hearing": {
+        "date": "1952-04-10",
+        "court": "District Judge, Rahimyar Khan"
+      }
+    }
+  }
+}

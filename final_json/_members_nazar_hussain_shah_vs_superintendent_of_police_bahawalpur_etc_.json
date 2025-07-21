@@ -1,0 +1,93 @@
+{
+  "case_title": "NAZAR HUSSAIN SHAH vs SUPERINTENDENT OF POLICE, BAHAWALPUR ETC.",
+  "reference_no_or_id": "Case No, 116/233 of 1978",
+  "judgment_date": "1979-09-18",
+  "first_hearing_date": "N/A",
+  "court": "Azad Jammu and Kashmir Service Tribunal",
+  "bench_type": "Service Tribunal",
+  "judges": [
+    "Muhammad Saleem Chaudhry",
+    "Mazhar Muneer",
+    "S. Hafeez-Ur-Rehman"
+  ],
+  "appellant": [
+    "Nazar Hussain Shah"
+  ],
+  "respondant": [
+    "Superintendent of Police, Bahawalpur"
+  ],
+  "accussed_details": [
+    {
+      "name": "Nazar Hussain Shah",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Foot Constable",
+      "allegation": [
+        "Unlawfully absent from sentry duty at Adam Waha Railway Bridge on 3rd November, 1968"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [],
+    "defense": []
+  },
+  "complaint_summary": "The appellant was accused of being unlawfully absent from sentry duty along with three others during a surprise check conducted by Ghulam Hussain Butt, DSP, on 3rd November, 1968.",
+  "investigation_summary": "The appellant was initially punished with forfeiture of 12 years' approved service by the Superintendent of Police, Bahawalpur on 24th January, 1969. The punishment was later enhanced to dismissal from service by the DIG Police, Bahawalpur on 25th April, 1969. Appeals to the IG Police and High Court were dismissed.",
+  "judgment_summary": "The tribunal ruled that the DIG Police was not competent to enhance the punishment as per Bahawalpur Police Rules applicable to the appellant, who was recruited prior to 1958. The appeal was accepted, and the orders of dismissal and subsequent rejection by the IG Police were set aside. The original punishment of forfeiture of 12 years' approved service was reinstated.",
+  "punishment": "Original punishment of forfeiture of 12 years' approved service reinstated.",
+  "Decision_or_verdict": "Appeal accepted; enhanced punishment declared void.",
+  "legal_arguments": [
+    "DIG Police lacked authority under Bahawalpur Police Rules to enhance punishment.",
+    "Section 14 of the Limitation Act applied for condonation of delay."
+  ],
+  "assets": [],
+  "statutes": [
+    "Bahawalpur Police Rules",
+    "Section 14 of the Limitation Act"
+  ],
+  "sections": [
+    "Section 14 of the Limitation Act"
+  ],
+  "citations": [
+    "1980 P L C (C. S.) 486",
+    "Muhammad Siddique v. S.P., Bahawalpur etc. (Case No. 283/97 of 1974)"
+  ],
+  "witnesses": [
+    "Ghulam Hussain Butt, DSP"
+  ],
+  "witness_statement": {
+    "Ghulam Hussain Butt": "Conducted surprise check and found the appellant unlawfully absent from sentry duty."
+  },
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Service Law",
+    "Police Rules"
+  ],
+  "key_issues": [
+    "Competence of DIG Police to enhance punishment",
+    "Application of Section 14 of the Limitation Act"
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "Condonation of Delay": "Legal principle allowing extension of limitation period under specific circumstances."
+  },
+  "words_and_phrases": {
+    "Void Order": "An order deemed legally ineffective due to lack of authority or jurisdiction."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The appellant's dismissal from service was overturned due to lack of authority by the DIG Police under applicable rules. The tribunal reinstated the original punishment and applied Section 14 of the Limitation Act for condonation of delay.",
+  "judgment_details": {
+    "original_punishment_date": "1969-01-24",
+    "original_punishment": "Forfeiture of 12 years' approved service as Foot Constable",
+    "enhanced_punishment_date": "1969-04-25",
+    "enhanced_punishment": "Dismissal from service",
+    "appeal_rejection_date": "1969-08-27",
+    "charge": "Unlawfully absent from sentry duty at Adam Waha Railway Bridge on 1968-11-03",
+    "tribunal_opinion": "D.I.-G. Police lacked competence to enhance punishment under Bahawalpur Police Rules for recruits prior to 1958",
+    "high_court_observation_date": "1978-04-19",
+    "high_court_observation": "Appellant could rely on section 14 of the Limitation Act for condonation of delay",
+    "final_decision": "Order of D.I.-G. Police dated 1969-04-25 and I.G. Police dated 1969-08-27 set aside; original punishment upheld"
+  }
+}

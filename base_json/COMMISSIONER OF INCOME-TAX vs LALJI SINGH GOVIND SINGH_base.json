@@ -1,0 +1,81 @@
+{
+  "case_title": "COMMISSIONER OF INCOME-TAX vs LALJI SINGH GOVIND SINGH",
+  "reference_no_or_id": "Income-tax Reference No. 223 of 1980",
+  "judgment_date": "1996-07-01",
+  "first_hearing_date": "N/A",
+  "court": "Allahabad High Court",
+  "bench_type": "Division Bench",
+  "judges": [
+    "B. M. Lal",
+    "B. Dikshit"
+  ],
+  "appellant": [
+    "Commissioner of Income-Tax"
+  ],
+  "respondant": [
+    "Lalji Singh Govind Singh"
+  ],
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": []
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Shri R.K. Agarwal"
+    ],
+    "defense": []
+  },
+  "complaint_summary": "The assessee-firm failed to furnish a certified copy of the revised partnership deed within the stipulated period under subsection (4) of section 184 of the Income Tax Act, 1961, leading to rejection of its application for condonation of delay.",
+  "investigation_summary": "The firm was assessed as a registered firm but changes in partnership due to the death of a partner required compliance with section 184(4). The revised deed was filed late, and the application for condonation was rejected.",
+  "judgment_summary": "The court held that an appeal is maintainable against an order under subsection (4) of section 184 of the Income Tax Act, 1961, if it results in refusal of registration under section 185. The questions of law were answered in favor of the assessee, relying on the precedent set by the Supreme Court in C.I.T. v. Ashoka Engineering Co. (1992) 194 ITR 645.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Questions of law answered in favor of the assessee; appeal maintainable.",
+  "legal_arguments": [
+    "Section 184(4) does not envisage appeal or revision.",
+    "Section 185 allows appeal provisions to apply to orders refusing registration.",
+    "Supreme Court precedent in C.I.T. v. Ashoka Engineering Co. supports the maintainability of appeal."
+  ],
+  "assets": [],
+  "statutes": [
+    "Income Tax Act, 1961"
+  ],
+  "sections": [
+    "Section 184(4)",
+    "Section 185",
+    "Section 246",
+    "Section 256(2)"
+  ],
+  "citations": [
+    "C.I.T. v. Ashoka Engineering Co. (1992) 194 ITR 645",
+    "1999 P T D 2150"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Tax Law",
+    "Income Tax"
+  ],
+  "key_issues": [
+    "Whether the Tribunal was correct in holding that the order passed by the Income-tax Officer was under section 185 and not section 184(4).",
+    "Whether an appeal could be filed against an order under section 184(4) of the Income Tax Act."
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "Condonation of Delay": "The act of forgiving a delay in compliance with legal requirements.",
+    "Refusal of Registration": "Denial of recognition as a registered entity under the law."
+  },
+  "words_and_phrases": {
+    "Appealable": "Capable of being appealed in a higher court.",
+    "Registered Firm": "A partnership firm recognized under legal provisions."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around the maintainability of an appeal under section 184(4) of the Income Tax Act, 1961, which was resolved in favor of the assessee based on Supreme Court precedent."
+}

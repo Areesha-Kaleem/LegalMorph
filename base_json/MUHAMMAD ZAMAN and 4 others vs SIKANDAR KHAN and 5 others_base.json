@@ -1,0 +1,98 @@
+{
+  "case_title": "MUHAMMAD ZAMAN and 4 others vs SIKANDAR KHAN and 5 others",
+  "reference_no_or_id": "R.OA. No,51 of 1989",
+  "judgment_date": "1990-09-03",
+  "first_hearing_date": "N/A",
+  "court": "Board of Revenue",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Abdul Waheed"
+  ],
+  "appellant": [
+    "Muhammad Zaman",
+    "4 others"
+  ],
+  "respondant": [
+    "Sikandar Khan",
+    "5 others"
+  ],
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": []
+    }
+  ],
+  "lawyers": {
+    "prosecution": [],
+    "defense": []
+  },
+  "complaint_summary": "The respondents sought redemption of mortgaged land originally mortgaged in 1880. The appellants contested the claim, arguing that the limitation period had expired.",
+  "investigation_summary": "The Assistant Commissioner/Collector allowed the redemption application in 1988, which was upheld by the Additional Commissioner in 1989. The appellants argued that the limitation period started from the original mortgage date in 1880, not the redemption date in 1930.",
+  "judgment_summary": "The court accepted the appeal, setting aside the orders of the Collector and Additional Commissioner. It ruled that the limitation period started from the original mortgage date in 1880, extinguishing the respondents' ownership rights and vesting them in the appellants.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Appeal accepted; ownership rights of respondents extinguished and vested in appellants.",
+  "legal_arguments": [
+    "Limitation period starts from original mortgage date (14-8-1880).",
+    "Doctrine of subrogation under sections 92 and 95 of the Transfer of Property Act.",
+    "No acknowledgment of liability under section 19 of the Limitation Act.",
+    "Limitation for redemption under Article 148 of the Limitation Act is 60 years.",
+    "Principle of extinctive prescription under section 28 of the Limitation Act."
+  ],
+  "assets": [
+    {
+      "description": "Land bearing Khasra Nos. 136, 765, 203, 204, and 207 measuring 29 Kanals-8 marlas.",
+      "location": "Village Khanna Kak, Tehsil and District Rawalpindi"
+    }
+  ],
+  "statutes": [
+    "Redemption and Restitution of Mortgage Lands Act, 1964",
+    "Transfer of Property Act, 1882",
+    "Limitation Act"
+  ],
+  "sections": [
+    "Section 14(2) of Redemption and Restitution of Mortgage Lands Act, 1964",
+    "Sections 92 and 95 of Transfer of Property Act, 1882",
+    "Section 19 of Limitation Act",
+    "Article 148 of Limitation Act",
+    "Section 28 of Limitation Act"
+  ],
+  "citations": [
+    "1991 C L C 197",
+    "P L D 1972 Peshawar 78",
+    "P L D 1984 Peshawar 202",
+    "P L D 1972 Lahore 682",
+    "40 All 683",
+    "A I R 1937 Patna 60",
+    "P L D 1958 (W.P.) Karachi 534"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Property Law",
+    "Limitation Law"
+  ],
+  "key_issues": [
+    "Determination of limitation period for redemption of mortgaged land.",
+    "Application of doctrine of subrogation.",
+    "Effect of acknowledgment of liability under section 19 of Limitation Act."
+  ],
+  "maxims": {
+    "Subrogation": "A co-mortgagor redeeming the whole mortgage replaces the original mortgagee in respect of the shares of other co-mortgagors."
+  },
+  "legal_terms": {
+    "Redemption": "The act of reclaiming mortgaged property by paying off the debt.",
+    "Subrogation": "The substitution of one party for another with respect to legal rights."
+  },
+  "words_and_phrases": {
+    "Limitation Period": "The time frame within which legal action must be initiated.",
+    "Extinctive Prescription": "The principle under which rights are extinguished after the expiration of a limitation period."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around the redemption of mortgaged land and the determination of the limitation period. The court ruled in favor of the appellants, holding that the limitation period started from the original mortgage date in 1880, extinguishing the respondents' ownership rights."
+}

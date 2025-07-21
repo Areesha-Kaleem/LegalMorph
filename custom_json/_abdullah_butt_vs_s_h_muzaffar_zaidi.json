@@ -1,0 +1,44 @@
+{
+  "case_title": "ABDULLAH BUTT vs S. H. MUZAFFAR ZAIDI",
+  "case_number": "4(235) of 1976",
+  "judgment_date": "1976-11-11",
+  "court_name": "National Industrial Relations Commission",
+  "judge": "Qaisar Khan",
+  "reported_as": "1977 P L C 212",
+  "result": "Accused acquitted",
+  "appellant": "Abdullah Butt",
+  "respondent": "S. H. Muzaffar Zaidi",
+  "complaint_details": {
+    "complainant_position": "Machine Operator at United Bank Ltd., Abpara Branch, Islamabad",
+    "union_name": "UBL Employees Union, Rawalpindi Zone",
+    "complaint_against": "S. H. Muzaffar Zaidi, Executive Vice-President, United Bank Ltd., Rawalpindi Zone",
+    "allegations": "Scooter provided for trade union activities was taken back to force complainant to quit the union."
+  },
+  "legal_references": {
+    "primary_section": "Section 53 of the I.R.O.",
+    "secondary_section": "Section 15(f) of the I.R.O."
+  },
+  "prosecution_evidence": {
+    "witnesses": [
+      {
+        "name": "Rashid Malik",
+        "position": "Sub-Accountant, Agriculture Development Bank of Pakistan, Islamabad",
+        "statement_summary": "No personal knowledge; only heard complainant's claim."
+      },
+      {
+        "name": "S. Mumtaz",
+        "position": "Teller, State Bank of Pakistan, Islamabad",
+        "statement_summary": "No personal knowledge; only heard complainant's claim."
+      }
+    ],
+    "complainant_statement": "Failed to prove scooter was provided for trade union activities; no supporting records or examples presented."
+  },
+  "judgment_summary": {
+    "key_findings": [
+      "No evidence proving scooter was provided for trade union activities.",
+      "Withdrawal of facility does not constitute unfair labor practice under Section 15(f) of the I.R.O.",
+      "No demand or settlement involved between union and management."
+    ],
+    "decision": "Accused acquitted."
+  }
+}

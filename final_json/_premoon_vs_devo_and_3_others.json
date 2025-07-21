@@ -1,0 +1,80 @@
+{
+  "case_title": "PREMOON vs DEVO AND 3 OTHERS",
+  "reference_no_or_id": "Rs, SROR-1670 of 1974-75",
+  "judgment_date": "1978-05-16",
+  "first_hearing_date": "1974-11-16",
+  "court": "Board of Revenue",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Abdul Sami Qureshi"
+  ],
+  "appellant": [
+    "Premoon"
+  ],
+  "respondant": [
+    "Devo",
+    "Janu",
+    "Jumoo",
+    "Misri"
+  ],
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": []
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Mr. Habibullah Memon"
+    ],
+    "defense": [
+      "Mr. Rustam Khan Talpur"
+    ]
+  },
+  "complaint_summary": "The petitioner, Premoon, filed a revision petition against the order of the Additional Commissioner, Hyderabad, which upheld the appeal of respondent Devo regarding the grant of land S. Rs, 367 in Deh Chachri, Taluka Tando Bago.",
+  "investigation_summary": "The disputed land was originally granted to Premoon (S. Rs, 367), Devo (S. Rs, 368), and Janu (S. Rs, 369) in an open Kutchery. Devo appealed against the grant of S. Rs, 367 and 369 but later withdrew his appeal for S. Rs, 369. The Additional Commissioner upheld Devo's appeal for S. Rs, 367, ignoring a settlement agreement dated 6-2-1974 that confirmed Premoon's possession of the land.",
+  "judgment_summary": "The court found that the petitioner, Premoon, was in cultivating possession of the disputed land as confirmed by a settlement agreement and Katchery records. The respondent Devo had no valid grounds for appeal, as he had previously consented to the grant of the land to Premoon. The revision petition was accepted, and the grant of S. Rs, 367 was restored to Premoon.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Revision upheld; grant of S. Rs, 367 restored to Premoon.",
+  "legal_arguments": [
+    "Petitioner argued that he was the sitting tenant and in cultivating possession of the land, as confirmed by a settlement agreement and Katchery records.",
+    "Petitioner highlighted that the land was granted in an open Katchery according to a compromise and that he supplied sugarcane crops to Talhar Mill.",
+    "Respondent contended that the petition was not maintainable due to misjoinder of parties and claimed long-term possession of the land.",
+    "Respondent argued that he had leased the land during 1957-68 and 1968-69 and had been in cultivating possession for 15-16 years."
+  ],
+  "assets": [
+    "S. Rs, 367 (disputed land)"
+  ],
+  "statutes": [],
+  "sections": [],
+  "citations": [
+    "P L D 1985 Rev. 198 [Sind]"
+  ],
+  "witnesses": [
+    "Mr. Nadir Ali (Revenue Officer representative)"
+  ],
+  "witness_statement": {
+    "Mr. Nadir Ali": "Produced Katchery papers showing the land was granted to Premoon, Devo, and Janu with mutual consent."
+  },
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Land Dispute",
+    "Revision Petition"
+  ],
+  "key_issues": [
+    "Whether the petitioner was in cultivating possession of the disputed land.",
+    "Whether the respondent's appeal was maintainable."
+  ],
+  "maxims": {},
+  "legal_terms": {},
+  "words_and_phrases": {
+    "Katchery": "An open court session for administrative or judicial proceedings."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case involved a land dispute where the petitioner, Premoon, successfully challenged an order that granted the disputed land (S. Rs, 367) to the respondent, Devo. The court restored the land to Premoon based on evidence of his cultivating possession, a settlement agreement dated 6-2-1974, and prior mutual consent."
+}

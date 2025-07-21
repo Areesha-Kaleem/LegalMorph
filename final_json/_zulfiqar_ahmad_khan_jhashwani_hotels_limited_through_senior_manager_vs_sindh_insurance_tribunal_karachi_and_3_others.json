@@ -1,0 +1,151 @@
+{
+  "case_title": "Zulfiqar Ahmad Khan, JHASHWANI HOTELS LIMITED through Senior Manager vs SINDH INSURANCE TRIBUNAL, KARACHI and 3 others",
+  "reference_no_or_id": "Constitutional Petition No. 6388 of 2014",
+  "judgment_date": "2016-04-19",
+  "first_hearing_date": "N/A",
+  "court": "Sindh High Court",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Sajjad Ali Shah"
+  ],
+  "appellant": [
+    "Zulfiqar Ahmad Khan",
+    "JHASHWANI HOTELS LIMITED through Senior Manager"
+  ],
+  "respondant": [
+    "SINDH INSURANCE TRIBUNAL, KARACHI",
+    "New Jubilee Insurance Company Limited",
+    "PICIC Insurance Company",
+    "Swiss Reinsurance Company of Switzerland"
+  ],
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": []
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "The petitioner challenged the Insurance Tribunal's order dismissing its application to include Swiss Reinsurance Company as a co-defendant in a claim for fire damages exceeding Rs. 1.12 billion following a bomb blast at Islamabad Marriott Hotel.",
+  "investigation_summary": "The petitioner obtained six insurance policies, including coverage for terrorist acts and fire. While the terrorist act claim was settled, the fire damage claim remains unresolved. Expert reports and surveyors concluded the fire was caused by the bomb blast, contrary to the petitioner's assertion.",
+  "judgment_summary": "The court dismissed the petition, holding that Swiss Reinsurance Company is neither a necessary nor proper party due to the lack of privity of contract between the petitioner and Swiss Re. The court also ruled that the Insurance Tribunal's decision on the application was final under Section 124 of the Insurance Ordinance, 2000.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Petition dismissed.",
+  "legal_arguments": [
+    "Petitioner argued Swiss Re should be impleaded as a proper party due to its reinsurance treaty with the insurer.",
+    "Respondents contended Swiss Re has no contractual relationship with the petitioner and is not a necessary or proper party.",
+    "Court held that privity of contract bars the petitioner from involving Swiss Re in the litigation."
+  ],
+  "assets": [],
+  "statutes": [
+    "Insurance Ordinance, 2000"
+  ],
+  "sections": [
+    "Section 41(1)",
+    "Section 122(1)(a)",
+    "Section 124"
+  ],
+  "citations": [
+    "2016 C L D 1790",
+    "1998 SCMR 1899",
+    "2011 CLD 931",
+    "1995 CLC 239",
+    "1999 SCMR 1881",
+    "2013 SCMR 1707",
+    "PLD 1997 SC 3",
+    "1996 SCMR 781",
+    "1996 CLC 678",
+    "PLD 1972 Lahore 169",
+    "PLD 1996 Karachi 467"
+  ],
+  "witnesses": [
+    "Peter Shaw",
+    "Dr. Andrew Moncrieff",
+    "Joseph Lobo (Pvt.) Limited",
+    "Ghafoor Associates"
+  ],
+  "witness_statement": {
+    "Peter Shaw": "Submitted report on fire cause.",
+    "Dr. Andrew Moncrieff": "Provided forensic analysis.",
+    "Joseph Lobo (Pvt.) Limited": "Surveyed damages.",
+    "Ghafoor Associates": "Surveyed damages."
+  },
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Insurance Law",
+    "Contract Law"
+  ],
+  "key_issues": [
+    "Whether Swiss Reinsurance Company can be impleaded as a co-defendant.",
+    "Applicability of Section 124 of the Insurance Ordinance, 2000.",
+    "Doctrine of privity of contract in reinsurance agreements.",
+    "Whether the court is barred under Section 124 of the Insurance Ordinance to consider the constitutional petition against the Insurance Tribunal's order."
+  ],
+  "maxims": {
+    "dominus litis": "Plaintiff has the right to choose defendants."
+  },
+  "legal_terms": {
+    "privity of contract": "Legal principle barring third parties from enforcing contractual rights."
+  },
+  "words_and_phrases": {
+    "necessary party": "A party without whom no effective decree can be passed.",
+    "proper party": "A party whose presence is necessary for complete adjudication."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around the petitioner's attempt to implead Swiss Reinsurance Company as a co-defendant in a fire damage claim. The court dismissed the petition, citing lack of privity of contract and the finality of the Insurance Tribunal's decision under Section 124 of the Insurance Ordinance, 2000.",
+  "facts": {
+    "incident": "Bomb blast at Islamabad Marriott Hotel on 2008-09-20 causing extensive damage.",
+    "insurance_policies": [
+      {
+        "type": "Terrorist acts",
+        "amount": "50 million PKR",
+        "status": "Settled"
+      },
+      {
+        "type": "Fire",
+        "amount": "1,120,072,977 PKR",
+        "status": "Claim pending"
+      }
+    ],
+    "claims": [
+      {
+        "total_amount": "2,067,308,213 PKR",
+        "number_of_suits": 6
+      }
+    ],
+    "application": "Petitioner sought to implead Swiss Re as a co-defendant due to concerns over insurer liquidity."
+  },
+  "tribunal_decision": {
+    "date": "2014-10-09",
+    "order": "Dismissed petitioner's application to include Swiss Re as co-defendant."
+  },
+  "court_analysis": {
+    "section_124_analysis": {
+      "subsection_1": "Tribunal decisions on applications are final and cannot be questioned in any court.",
+      "subsection_2": "Allows appeals to the High Court for claims exceeding 100,000 PKR, but does not apply to interim application decisions."
+    },
+    "privity_of_contract": "No direct contractual relationship exists between the petitioner and Swiss Re.",
+    "necessary_or_proper_party": {
+      "necessary_party": "Swiss Re is not necessary as the dispute can be resolved without its inclusion.",
+      "proper_party": "Swiss Re is not proper as its inclusion is not essential for adjudication."
+    }
+  },
+  "court_ruling": {
+    "findings": [
+      "Swiss Re has no direct obligations to the petitioner due to lack of privity of contract.",
+      "Swiss Re is neither a necessary nor a proper party under Order I, Rule 10."
+    ],
+    "decision": "Petition dismissed."
+  }
+}

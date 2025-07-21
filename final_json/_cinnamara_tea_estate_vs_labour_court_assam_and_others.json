@@ -1,0 +1,115 @@
+{
+  "case_title": "CINNAMARA TEA ESTATE vs LABOUR COURT, ASSAM And Others",
+  "reference_no_or_id": "Civil Rule No. 129 of 1960",
+  "judgment_date": "1961-04-04",
+  "first_hearing_date": "N/A",
+  "court": "Assam High Court",
+  "bench_type": "Division Bench",
+  "judges": [
+    "C. Mehrotra",
+    "S. K. Dutta"
+  ],
+  "appellant": [
+    "CINNAMARA TEA ESTATE"
+  ],
+  "respondant": [
+    "LABOUR COURT, ASSAM",
+    "Others"
+  ],
+  "accussed_details": [
+    {
+      "name": "Shri Banamali Pradhan",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Sirdar",
+      "allegation": [
+        "Negligence in supervising planting work on 8th March 1958",
+        "Failure to report against laborers who ignored warnings"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Mr. Goswami"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "The termination of Shri Banamali Pradhan’s services was challenged as unjustified, alleging negligence in supervising laborers during planting work on 8th March 1958.",
+  "investigation_summary": "The Labor Court reviewed evidence, including prior warnings issued to Banamali Pradhan, his explanation, and the lack of inquiry by the management. Witnesses and documents were examined.",
+  "judgment_summary": {
+    "decision": "Writ of certiorari issued quashing the award of the Labour Court, Assam.",
+    "costs": "Parties to bear their own costs."
+  },
+  "punishment": "Termination of services initially imposed by management; Labor Court modified to demotion to Assistant Sirdar; High Court quashed the Labor Court's modification.",
+  "Decision_or_verdict": "Award quashed by Assam High Court; writ of certiorari issued.",
+  "legal_arguments": [
+    "Labor Court exceeded jurisdiction by interfering with managerial discretion on punishment.",
+    "Management argued that the Labor Court could only interfere in cases of victimization, unfair labor practices, or violation of natural justice.",
+    "High Court ruled that Labor Court cannot substitute its own punishment for that of the management."
+  ],
+  "assets": [],
+  "statutes": [
+    "Article 226 of the Constitution of India",
+    "Industrial Disputes Act",
+    "1963 P L C 482"
+  ],
+  "sections": [
+    "Section 33 of the Industrial Disputes Act"
+  ],
+  "citations": [
+    "Indian Iron and Steel Co. Ltd. v. Their Workmen (1957) 13 F J R 377",
+    "Punjab National Bank Ltd. v. All-India Punjab National Bank Employees’ Federation",
+    "Assam Oil Co., Ltd., New Delhi v. Its Workmen"
+  ],
+  "witnesses": [
+    "Sri Bharjan",
+    "Dhoniram"
+  ],
+  "witness_statement": {
+    "Sri Bharjan": "Admitted negligence in supervision along with Banamali Pradhan.",
+    "Dhoniram": "Admitted negligence in supervision along with Banamali Pradhan."
+  },
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Industrial Disputes",
+    "Labor Law",
+    "Constitutional Law"
+  ],
+  "key_issues": [
+    "Jurisdiction of Labor Court in modifying managerial punishment",
+    "Principles of natural justice in industrial disputes",
+    "Scope of Article 226 in quashing awards"
+  ],
+  "key_points": {
+    "issue_referred": [
+      "Whether the termination of services of Shri Banamali Pradhan, a Sirdar, is justified?",
+      "If not, is he entitled to re-instatement or any other relief in lieu thereof?"
+    ],
+    "labour_court_award": {
+      "finding": "Workman was negligent in performing duties on 8th March 1958.",
+      "punishment": "Demotion to the post of Ghaiwalla (Assistant Sirdar) and entitled to pay during unemployment period."
+    },
+    "management_contention": "Labour Court acted without jurisdiction in interfering with the quantum of punishment after proper inquiry.",
+    "high_court_observations": [
+      "Labour Court cannot substitute its own punishment for that of the Management.",
+      "Labour Court has jurisdiction to direct re-instatement only if termination is found unjustified.",
+      "Labour Court exceeded its jurisdiction by directing employment in a lower grade."
+    ]
+  },
+  "maxims": {
+    "N/A": "N/A"
+  },
+  "legal_terms": {
+    "Certiorari": "A writ issued by a superior court to quash the decision of a lower court or tribunal."
+  },
+  "words_and_phrases": {
+    "Victimisation": "Unfair treatment of an employee by the employer.",
+    "Natural Justice": "Legal principles ensuring fair treatment in judicial and administrative proceedings."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The Assam High Court quashed the Labor Court's award modifying the managerial punishment of termination to demotion, ruling that the Labor Court exceeded its jurisdiction. The case involved allegations of negligence against a Sirdar, Banamali Pradhan, and raised questions about the scope of managerial discretion and judicial interference in industrial disputes."
+}

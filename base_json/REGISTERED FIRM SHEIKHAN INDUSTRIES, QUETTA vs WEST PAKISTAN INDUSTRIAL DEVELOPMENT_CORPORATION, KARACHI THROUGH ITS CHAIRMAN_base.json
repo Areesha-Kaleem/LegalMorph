@@ -1,0 +1,81 @@
+{
+  "case_title": "REGISTERED FIRM SHEIKHAN INDUSTRIES, QUETTA vs WEST PAKISTAN INDUSTRIAL DEVELOPMENT CORPORATION, KARACHI THROUGH ITS CHAIRMAN",
+  "reference_no_or_id": "F. A. 0. No, 2 of 1971",
+  "judgment_date": "1976-06-08",
+  "first_hearing_date": "1971-05-13",
+  "court": "Balochistan High Court",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Fakhruddin G. Ibrahim"
+  ],
+  "appellant": [
+    "REGISTERED FIRM SHEIKHAN INDUSTRIES, QUETTA"
+  ],
+  "respondant": [
+    "WEST PAKISTAN INDUSTRIAL DEVELOPMENT CORPORATION, KARACHI THROUGH ITS CHAIRMAN"
+  ],
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": []
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Mohammad Moqeem Ansari"
+    ],
+    "defense": [
+      "Basharatullah"
+    ]
+  },
+  "complaint_summary": "The plaintiff contested the forfeiture of Rs. 100,000 paid as a Call Deposit Receipt to the defendant, claiming it was independent of subsequent offers and not subject to conditions.",
+  "investigation_summary": "The court examined the jurisdictional validity of the case and whether the cause of action arose within the Quetta Court's jurisdiction.",
+  "judgment_summary": "The court ruled that the Quetta Court lacked jurisdiction as no part of the cause of action arose within its territory, and the defendant did not have a subordinate office in Quetta. The appeal was dismissed.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Appeal dismissed",
+  "legal_arguments": [
+    "Plaintiff argued that under Section 20(c) of CPC, jurisdiction is established if part of the cause of action arises within the court's territory.",
+    "Defendant argued that Explanation II of Section 20 CPC requires both cause of action and a subordinate office within the court's jurisdiction."
+  ],
+  "assets": [
+    "Call Deposit Receipt of Rs. 100,000"
+  ],
+  "statutes": [
+    "Section 20, Code of Civil Procedure"
+  ],
+  "sections": [
+    "Section 20(c), Explanation II"
+  ],
+  "citations": [
+    "P L D 1960 S C 202",
+    "P L D 1976 Quetta 94"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Civil Procedure",
+    "Jurisdiction"
+  ],
+  "key_issues": [
+    "Jurisdiction of Quetta Court under Section 20 CPC",
+    "Interpretation of Explanation II of Section 20 CPC"
+  ],
+  "maxims": {
+    "Interpretation": "Redundancy is not to be attributed to Legislatures."
+  },
+  "legal_terms": {
+    "Jurisdiction": "The authority of a court to hear and decide a case.",
+    "Cause of Action": "A set of facts sufficient to justify a right to sue."
+  },
+  "words_and_phrases": {
+    "Subordinate Office": "An office under the principal office of a corporation within the jurisdiction of a court."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case involved jurisdictional challenges under Section 20 CPC, focusing on whether the Quetta Court could entertain the suit based on cause of action and the presence of a subordinate office. The appeal was dismissed due to lack of jurisdiction."
+}

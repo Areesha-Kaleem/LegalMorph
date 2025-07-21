@@ -1,0 +1,99 @@
+{
+  "case_title": "THE RAJSHAHI CO-OPERATIVE TOWN BANK. LTD.- vs MOHINI MOHAN SANYAL And Other",
+  "reference_no_or_id": "Letters Patent Appeal No. 1 of 1949",
+  "judgment_date": "1952-07-22",
+  "first_hearing_date": "N/A",
+  "court": "Dacca",
+  "bench_type": "Two Judges",
+  "judges": [
+    "Muhammad Shahabuddin",
+    "Akbar"
+  ],
+  "appellant": [
+    "THE RAJSHAHI CO-OPERATIVE TOWN BANK. LTD."
+  ],
+  "respondant": [
+    "MOHINI MOHAN SANYAL",
+    "Harendra Nath Bagchi",
+    "Respondents Nos. 1, 3, and 4"
+  ],
+  "accussed_details": [
+    {
+      "name": "Harendra Nath Bagchi",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Judgment-debtor No. 4",
+      "allegation": [
+        "Failure to repay loan"
+      ]
+    },
+    {
+      "name": "Respondents Nos. 1, 3, and 4",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "Sureties",
+      "allegation": [
+        "Failure to fulfill surety obligations"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Mr. Bhattacharjee"
+    ],
+    "defense": [
+      "Mr. Birendra Kumar Dey (reported no instructions)"
+    ]
+  },
+  "complaint_summary": "The appellant bank sought execution of a decree against the respondents for repayment of a loan. The respondents included the principal debtor and sureties.",
+  "investigation_summary": "The execution petitions filed by the appellant bank were challenged by the respondents on procedural grounds, including defects in execution applications and stay orders issued under the Bengal Agricultural Debtors Act.",
+  "judgment_summary": "The court held that the execution application of 1942 was valid only against the 4th respondent due to procedural defects in column 11 of the application. The judgment of Ormond, J., was set aside, and the District Judge's decision was restored.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Appeal allowed; judgment and decree of District Judge restored.",
+  "legal_arguments": [
+    "Defects in column 11 of the execution application under Order XXI, Rule 11, Civil Procedure Code.",
+    "Interpretation of stay orders under section 34 of the Bengal Agricultural Debtors Act.",
+    "Applicability of procedural rules under Order XXI, Rule 22, Civil Procedure Code."
+  ],
+  "assets": [],
+  "statutes": [
+    "Co-operative Societies Act",
+    "Bengal Agricultural Debtors Act",
+    "Civil Procedure Code"
+  ],
+  "sections": [
+    "Order XXI, Rule 11",
+    "Order XXI, Rule 22",
+    "Section 34 of Bengal Agricultural Debtors Act",
+    "Section 47 of Civil Procedure Code"
+  ],
+  "citations": [
+    "P L D 1954 Dacca 37",
+    "43 C W N 318"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "Second Miscellaneous Appeal No. 129 of 1947",
+  "legal_categories": [
+    "Execution of Decrees",
+    "Debt Recovery",
+    "Procedural Law"
+  ],
+  "key_issues": [
+    "Validity of execution application against all judgment-debtors.",
+    "Interpretation of procedural defects in execution applications.",
+    "Scope of stay orders under the Bengal Agricultural Debtors Act."
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "Execution Petition": "A formal application to enforce a court decree.",
+    "Stay Order": "A court order halting proceedings temporarily."
+  },
+  "words_and_phrases": {
+    "Joint and Several Liability": "Legal obligation shared by multiple parties."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around procedural defects in execution applications filed by the appellant bank against judgment-debtors for recovery of a loan. The court clarified the scope of execution petitions under Order XXI, Civil Procedure Code, and the impact of stay orders issued under the Bengal Agricultural Debtors Act. The appeal was allowed, restoring the District Judge's decision."
+}

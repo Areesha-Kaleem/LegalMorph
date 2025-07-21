@@ -1,0 +1,112 @@
+{
+  "case_title": "Filter Pakistan (Pvt.) Limited, Karachi vs Commissioner Inland Revenue, Zone-I, MTO, Karachi",
+  "reference_no_or_id": "MA (Stay-Ext) No. 969/KB of 2022 in I.T.A. No. 345/KB of 2021",
+  "judgment_date": "2022-03-25",
+  "first_hearing_date": "N/A",
+  "court": "Appellate Tribunal Inland Revenue",
+  "bench_type": "Two-member bench",
+  "judges": [
+    "Habibullah Khan",
+    "Aminullah Siddiqui"
+  ],
+  "appellant": [
+    "Filter Pakistan (Pvt.) Limited, Karachi"
+  ],
+  "respondant": [
+    "Commissioner Inland Revenue, Zone-I, MTO, Karachi"
+  ],
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": []
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "The appellant requested an extension of stay against the recovery of tax demand, citing undue hardship and irreparable loss if not granted.",
+  "investigation_summary": "The Tribunal reviewed prior stay orders totaling 360 days and examined the provisions of Section 131(5) of the Income Tax Ordinance, 2001, along with relevant case law and judgments.",
+  "judgment_summary": "The Tribunal granted an extension of stay until the disposal of the main appeal, citing special circumstances and undue hardship to the appellant.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Stay granted until disposal of the main appeal.",
+  "legal_arguments": [
+    "Section 131(5) of the Income Tax Ordinance, 2001 is directory and not mandatory.",
+    "Tribunal empowered to grant stay beyond 180 days.",
+    "Judgments cited: 2016 PTD 1702 (Islamabad High Court), unreported cases MA(Stay) Ext. No.726/KB/2017, MA(Stay) No.1242/KB/2018, etc."
+  ],
+  "assets": [],
+  "statutes": [
+    "Income Tax Ordinance, 2001",
+    "Finance Act, 2018"
+  ],
+  "sections": [
+    "Section 131(5) of Income Tax Ordinance, 2001",
+    "Section 8(30) of Finance Act, 2018"
+  ],
+  "citations": [
+    "2016 PTD 1702",
+    "W.P.No.2608 of 2018",
+    "Writ Petition No.26556 of 2020"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "ITA No. 345/KB/2021",
+  "legal_categories": [
+    "Tax Law",
+    "Stay Application"
+  ],
+  "key_issues": [
+    "Extension of stay against tax recovery",
+    "Applicability of Section 131(5) of Income Tax Ordinance, 2001",
+    "Tribunal's authority to grant stay beyond 180 days"
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "Stay Order": "A temporary suspension of a legal obligation or enforcement.",
+    "Undue Hardship": "Excessive difficulty or suffering caused by legal enforcement."
+  },
+  "words_and_phrases": {
+    "Irreparable Loss": "Damage or harm that cannot be rectified or compensated."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk",
+    "reported_as": "2023 PTD (Trib.) 889"
+  },
+  "summary_vector_notes": "The case involves a stay application filed by Filter Pakistan (Pvt.) Limited against tax recovery demands. The Tribunal extended the stay until the disposal of the main appeal, citing undue hardship and special circumstances. Relevant statutes and case laws were reviewed, including Section 131(5) of the Income Tax Ordinance, 2001 and judgments from Islamabad High Court and Lahore High Court.",
+  "key_arguments": {
+    "appellant": {
+      "contention": "Tribunal is empowered to grant stay for more than 180 days.",
+      "supporting_cases": [
+        "2016 PTD 1702 [Islamabad High Court]",
+        "M.A. (Stay) Ext. No.726/KB/2017",
+        "MA(Stay) No.1242/KB/2018 dated 13-07-2018",
+        "MA (Stay) Nos.1213 to 1216/KB/2018 dated 09-07-2018"
+      ],
+      "claim": "Irreparable loss if stay is not granted."
+    },
+    "respondent": {
+      "contention": "Strongly opposed further stay."
+    }
+  },
+  "tribunal_findings": {
+    "previous_stay": "360 days granted in portions.",
+    "legal_analysis": [
+      "Section 8(30) of Finance Act, 2018 examined.",
+      "Judgment of Islamabad High Court (2016 PTD 1702) considered.",
+      "Judgment of Lahore High Court in Omega Industries case referenced."
+    ],
+    "decision": "Stay granted till disposal of main appeal."
+  },
+  "additional_notes": {
+    "main_appeal_status": "Pending before Tribunal.",
+    "temporary_relief": "Granted to appellant due to undue hardship."
+  }
+}

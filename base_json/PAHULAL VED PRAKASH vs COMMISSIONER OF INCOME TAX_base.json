@@ -1,0 +1,87 @@
+{
+  "case_title": "PAHULAL VED PRAKASH vs COMMISSIONER OF INCOME TAX",
+  "reference_no_or_id": "Income Tax Reference Application Nos. 32 and 34 of 1990",
+  "judgment_date": "1991-05-07",
+  "first_hearing_date": "N/A",
+  "court": "Allahabad High Court",
+  "bench_type": "Division Bench",
+  "judges": [
+    "R. K. Gulati",
+    "B. P. Jeevan Reddy"
+  ],
+  "appellant": [
+    "PAHULAL VED PRAKASH"
+  ],
+  "respondant": [
+    "COMMISSIONER OF INCOME TAX"
+  ],
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": [
+        "Concealment of income",
+        "Furnishing inaccurate particulars of income"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "The assessee, a partnership firm, was accused of concealing income and furnishing inaccurate particulars during the assessment year 1975-76.",
+  "investigation_summary": "A search was conducted at the firm's premises, leading to the seizure of account books. Additional income was disclosed under Section 273-A of the Income-tax Act, and reassessment proceedings revealed discrepancies such as bogus purchases, unexplained cash credits, and suppressed sales.",
+  "judgment_summary": "The court rejected the applications filed by both the assessee and the Revenue. It upheld the penalty imposed under Section 271(1)(c) of the Income-tax Act, concluding that the assessee knowingly understated its income and furnished inaccurate particulars.",
+  "punishment": "Penalty of Rs.1,06,417 imposed under Section 271(1)(c) of the Income-tax Act.",
+  "Decision_or_verdict": "Applications rejected.",
+  "legal_arguments": [
+    "The assessee argued that the penalty orders were illegal and not according to law.",
+    "The Revenue contended that the penalty should be recomputed after final determination of income."
+  ],
+  "assets": [],
+  "statutes": [
+    "Income-tax Act, 1961"
+  ],
+  "sections": [
+    "Section 256(2)",
+    "Section 271(1)(c)",
+    "Section 273-A",
+    "Section 148",
+    "Section 131",
+    "Section 274(2)"
+  ],
+  "citations": [
+    "1991 P T D 546",
+    "Karnani Properties Ltd. v. C.I.T. [(1971) 82 I T R 547]",
+    "Hukumchand Mills Ltd. v. C.I.T. (1967) 63 I T R 232 (SC)"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Income Tax",
+    "Penalty Proceedings"
+  ],
+  "key_issues": [
+    "Whether the penalty order was justified under Section 271(1)(c).",
+    "Whether the Tribunal was correct in directing penalty recomputation."
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "mens rea": "The intention or knowledge of wrongdoing."
+  },
+  "words_and_phrases": {
+    "concealment": "The act of hiding or not disclosing income.",
+    "under-totalling": "Incorrectly summing up figures to reduce taxable income."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around penalty proceedings under Section 271(1)(c) of the Income-tax Act, 1961, for concealment of income and furnishing inaccurate particulars. The court upheld the penalty imposed, rejecting the applications from both the assessee and the Revenue."
+}

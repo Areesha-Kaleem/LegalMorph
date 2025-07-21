@@ -1,0 +1,152 @@
+{
+  "case_title": "Mrs. ANIS HAIDER and others vs S. AMIR HAIDER and others",
+  "reference_no_or_id": "Civil Petition No. 844 of 2007",
+  "case_number": "Civil Petition No. 844 of 2007",
+  "judgment_date": "2007-10-22",
+  "first_hearing_date": "N/A",
+  "court": "Supreme Court of Pakistan",
+  "bench_type": "Coram 2",
+  "judges": [
+    "Falak Sher",
+    "Sardar Muhammad Raza Khan"
+  ],
+  "appellant": [
+    "Mrs. Anis Haider",
+    "Mrs. Tahira Bokhari",
+    "Mrs. Kausar Haider",
+    "Mrs. Samana Ali"
+  ],
+  "respondant": [
+    "S. Amir Haider",
+    "Dr. S. Agha Haider",
+    "Mrs. Saeed Khalid",
+    "Mrs. Shabi Kausar"
+  ],
+  "accussed_details": [
+    {
+      "name": "S. Amir Haider",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Brother of appellants",
+      "allegation": [
+        "Fraudulent claim of oral gift of property",
+        "Deprivation of Shari share"
+      ]
+    },
+    {
+      "name": "Dr. S. Agha Haider",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Brother of appellants",
+      "allegation": [
+        "Fraudulent claim of oral gift of property",
+        "Deprivation of Shari share"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "Syed Afzal Haider (Arbitrator)"
+    ]
+  },
+  "complaint_summary": "The appellants challenged the decree dated 6-11-1979, alleging fraud and forgery in the oral gift of property claimed by their brothers, depriving them of their rightful Shari share.",
+  "investigation_summary": "The trial court dismissed the application under section 12(2), C.P.C., without recording evidence. The Supreme Court remanded the case for proper adjudication and evidence collection.",
+  "judgment_summary": "The Supreme Court remanded the case to the trial court, directing it to decide the application under section 12(2), C.P.C., after recording evidence from both parties within six months.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Case remanded to trial court for evidence collection and adjudication.",
+  "legal_arguments": [
+    "Application under section 12(2), C.P.C. alleging fraud and forgery.",
+    "Improper application of Order VII, rule 11, C.P.C. by lower courts.",
+    "Requirement of evidence recording for serious allegations."
+  ],
+  "assets": [
+    "Disputed property allegedly gifted orally to brothers."
+  ],
+  "statutes": [
+    "Section 12(2), C.P.C.",
+    "Order VII, rule 11, C.P.C.",
+    "Section 141, C.P.C."
+  ],
+  "sections": [
+    "12(2), C.P.C.",
+    "Order VII, rule 11, C.P.C."
+  ],
+  "citations": [
+    "2008 SCMR 236"
+  ],
+  "reported_as": "2008 SCMR 236",
+  "witnesses": [
+    "Syed Afzal Haider (Arbitrator)"
+  ],
+  "witness_statement": {
+    "Syed Afzal Haider": "Filed written statement and earlier statement dated 1-7-1979 claiming oral gift of property."
+  },
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Property dispute",
+    "Fraud",
+    "Civil Procedure"
+  ],
+  "key_issues": [
+    "Fraudulent oral gift claim",
+    "Deprivation of Shari share",
+    "Improper dismissal of application under section 12(2), C.P.C."
+  ],
+  "maxims": {
+    "N/A": "N/A"
+  },
+  "legal_terms": {
+    "Oral gift": "A verbal transfer of property ownership without written documentation.",
+    "Shari share": "Islamic inheritance rights."
+  },
+  "words_and_phrases": {
+    "Rule of the Court": "Judicial confirmation of an arbitrator's award."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case involves a property dispute between siblings over an alleged oral gift by their father. The appellants claim fraud and forgery in the proceedings, seeking their Shari share. The Supreme Court remanded the case for evidence collection and proper adjudication.",
+  "original_owner": "Dr. S. Bahadur Ali Shah",
+  "property_dispute": {
+    "oral_gift_date": "1978-07-07",
+    "award_date": "1978-10-07",
+    "decree_date": "1979-11-06"
+  },
+  "key_events": [
+    {
+      "date": "1998-07-28",
+      "event": "Suit for administration of property filed by daughters"
+    },
+    {
+      "date": "1998-11-26",
+      "event": "Application under section 12(2), C.P.C. filed by daughters alleging fraud"
+    },
+    {
+      "date": "2002-11-14",
+      "event": "Trial Court's order restored by Lahore High Court"
+    },
+    {
+      "date": "2003-04-10",
+      "event": "Supreme Court remanded case to trial court"
+    }
+  ],
+  "legal_provisions": {
+    "challenged_sections": [
+      "Section 12(2), C.P.C.",
+      "Order VII, Rule 11, C.P.C."
+    ],
+    "court_directions": [
+      "Record evidence of both parties",
+      "Decide application under section 12(2), C.P.C. within six months"
+    ]
+  },
+  "arbitrator": {
+    "name": "Syed Afzal Haider",
+    "role": "Arbitrator",
+    "award_date": "1978-10-07"
+  },
+  "summary": "The Supreme Court remanded the case to the trial court for recording evidence and deciding the application under section 12(2), C.P.C. within six months, emphasizing that serious allegations of fraud and forgery require proper evidence and cannot be dismissed solely based on written statements."
+}

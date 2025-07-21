@@ -1,0 +1,90 @@
+{
+  "case_title": "MISRI BAI vs INCOME-TAX OFFICER, HYDERABAD",
+  "reference_no_or_id": "Writ Petition No. 323 of 1963",
+  "judgment_date": "1963-04-09",
+  "first_hearing_date": "N/A",
+  "court": "Andhra Pradesh High Court",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Chandrasekhara Sastry"
+  ],
+  "appellant": [
+    "Misri Bai"
+  ],
+  "respondant": [
+    "Income-Tax Officer, Hyderabad"
+  ],
+  "accussed_details": [
+    {
+      "name": "Rameshwar Pershad",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Assessee under Income-tax Act",
+      "allegation": [
+        "Failure to pay rectified tax amounts for assessment years 1956-57, 1957-58, and 1958-59"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "Mr. Ranganathachari"
+    ]
+  },
+  "complaint_summary": "The petitioner, Misri Bai, challenged the rectification order issued under Section 35 of the Indian Income-tax Act, 1922, claiming that no notice of demand was served as required by law.",
+  "investigation_summary": "The Income-tax Officer rectified the tax assessments for the years 1956-57, 1957-58, and 1958-59 based on the firm's completed assessment. No notice of demand was served on the petitioner, violating mandatory provisions under Section 29 of the Income-tax Act, 1922, and Section 156 of the Income-tax Act, 1961.",
+  "judgment_summary": "The court held that the Income-tax Officer failed to serve a mandatory notice of demand under Section 156 of the Income-tax Act, 1961, before proceeding with tax recovery or imposing penalties. The writ petition was allowed, and the respondent was directed to issue the prescribed notice before taking further action.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Petition allowed. Respondent directed to issue notice under Section 156 of the Income-tax Act, 1961, before further proceedings.",
+  "legal_arguments": [
+    "Section 35 of the Indian Income-tax Act, 1922 allows rectification of assessments.",
+    "Section 29 of the Indian Income-tax Act, 1922 mandates notice of demand in prescribed form.",
+    "Section 156 of the Income-tax Act, 1961 requires notice of demand for recovery of tax post-rectification."
+  ],
+  "assets": [
+    "N/A"
+  ],
+  "statutes": [
+    "Indian Income-tax Act, 1922",
+    "Income-tax Act, 1961"
+  ],
+  "sections": [
+    "Section 35 (Rectification of assessments)",
+    "Section 29 (Notice of demand under 1922 Act)",
+    "Section 156 (Notice of demand under 1961 Act)"
+  ],
+  "citations": [
+    "1964 P T D 382"
+  ],
+  "witnesses": [
+    "Sri Ghanshyamdas (Chartered Accountant)"
+  ],
+  "witness_statement": {
+    "Sri Ghanshyamdas": "Signed the order-sheet consenting to the rectification of assessments for 1956-57 and 1957-58."
+  },
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Tax Law",
+    "Administrative Law"
+  ],
+  "key_issues": [
+    "Failure to serve mandatory notice of demand under Section 156 of Income-tax Act, 1961.",
+    "Applicability of old versus new Income-tax Act provisions for rectification and recovery."
+  ],
+  "maxims": {
+    "Mandatory Provisions": "Statutory requirements such as notice of demand must be strictly adhered to."
+  },
+  "legal_terms": {
+    "Rectification": "Correction of errors in tax assessments.",
+    "Notice of Demand": "Formal notice specifying tax payable."
+  },
+  "words_and_phrases": {
+    "Prescribed Form": "Form mandated by statutory rules for legal compliance."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around procedural compliance under tax laws, specifically the mandatory issuance of notice of demand before tax recovery or penalty imposition. The court emphasized adherence to statutory provisions under both the repealed and current Income-tax Acts."
+}

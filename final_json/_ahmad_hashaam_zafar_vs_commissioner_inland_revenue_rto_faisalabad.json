@@ -1,0 +1,107 @@
+{
+  "case_title": "Ahmad Hashaam Zafar vs Commissioner Inland Revenue, RTO, Faisalabad",
+  "reference_no_or_id": "I.T.A. No.644/LB/2023",
+  "judgment_date": "2024-02-26",
+  "first_hearing_date": "N/A",
+  "court": "Appellate Tribunal Inland Revenue",
+  "bench_type": "Judicial Bench",
+  "judges": [
+    "Zahid Sikandar",
+    "Ch. Anwaar-ul-Haq"
+  ],
+  "author_judge": "Ch. Anwaar-ul-Haq",
+  "appellant": [
+    "Ahmad Hashaam Zafar"
+  ],
+  "respondant": [
+    "Commissioner Inland Revenue, RTO, Faisalabad"
+  ],
+  "accussed_details": [
+    {
+      "name": "Ahmad Hashaam Zafar",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Taxpayer",
+      "allegation": [
+        "Illegal adjustment of refund against tax liability without proper determination by the Commissioner"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "The taxpayer adjusted a refund of Rs.115,549/- against tax liability for the tax year 2017 without proper verification and determination by the Commissioner.",
+  "investigation_summary": "The taxpayer filed an income tax return for 2017, which was deemed an assessment order under Section 120 of the Income Tax Ordinance. The Officer Inland Revenue (OIR) initiated rectification proceedings under Section 221, disallowing the refund adjustment. The CIR(A) confirmed the rectification order.",
+  "judgment_summary": "The tribunal ruled that the taxpayer's self-adjustment of the refund was unlawful as it bypassed the required application and determination process under Section 170 of the Income Tax Ordinance. The rectification order under Section 221 was deemed invalid as it exceeded the scope of rectification. The appeal was allowed, and the impugned orders were set aside.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Appeal allowed; rectification order set aside.",
+  "legal_arguments": [
+    "Scope of rectification under Section 221 is limited to mistakes apparent on the record.",
+    "Self-adjustment of refunds without proper determination by the Commissioner is unlawful.",
+    "Tax liability cannot be altered under rectification provisions without following due process."
+  ],
+  "assets": [],
+  "statutes": [
+    "Income Tax Ordinance, 2001",
+    "Income Tax Rules, 2002"
+  ],
+  "sections": [
+    "Section 120",
+    "Section 122",
+    "Section 170",
+    "Section 221"
+  ],
+  "citations": [
+    "2012 SCMR 371",
+    "2018 SCMR 1131",
+    "2006 PTD 2854",
+    "2021 PTD 913",
+    "2016 PTD 377",
+    "2019 PTD 1116"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "I.T.A. No.644/LB/2023",
+  "legal_categories": [
+    "Tax Law",
+    "Rectification of Orders",
+    "Income Tax Refunds"
+  ],
+  "key_issues": [
+    "Scope of rectification under Section 221",
+    "Legality of self-adjustment of refunds",
+    "Procedural requirements under Section 170"
+  ],
+  "key_findings": {
+    "refund_adjustment": "Taxpayer adjusted refund of Rs.115,549/- against tax liability without proper determination by the Commissioner.",
+    "rectification_scope": "Rectification under Section 221 is limited to mistakes apparent on the record and cannot involve reassessment or detailed scrutiny.",
+    "self-adjustment_illegality": "Taxpayer's self-adjustment of refund without filing an application under Section 170 was deemed illegal."
+  },
+  "maxims": {
+    "Rectification": "Limited to mistakes apparent on the record."
+  },
+  "legal_terms": {
+    "Rectification": "Correction of an error apparent on the face of the record.",
+    "Deemed Assessment Order": "An assessment order automatically treated as finalized under Section 120."
+  },
+  "words_and_phrases": {
+    "Self-adjustment": "Adjustment of refund by the taxpayer without formal approval.",
+    "Mistake Apparent on Record": "An error visible without detailed investigation or reasoning."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk",
+    "reported_as": "2024 PTD (Trib.) 1062",
+    "printed_on": "2025-07-15",
+    "printed_by": "Areesha Kaleem"
+  },
+  "summary_vector_notes": "The case revolves around the taxpayer's self-adjustment of a refund against tax liability without following the prescribed process under Section 170 of the Income Tax Ordinance. The tribunal ruled that the rectification order under Section 221 was invalid as it exceeded its jurisdiction. The appeal was allowed, and the impugned orders were set aside.",
+  "summary": {
+    "appeal_reason": "Taxpayer challenged the rectification order disallowing refund adjustment.",
+    "decision": "Rectification order set aside as it exceeded lawful authority. Appeal allowed."
+  }
+}

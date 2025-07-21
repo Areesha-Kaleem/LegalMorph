@@ -1,0 +1,45 @@
+{
+  "case_title": "Messrs MAPLE LEAF CEMENT FACTORY LTD LAHORE vs COLLECTOR OF SALES TAX, FAISALABAD",
+  "case_number": "S.T.A. No,340/LB of 2009",
+  "judgment_date": "2012-09-22",
+  "court": "Appellate Tribunal Inland Revenue",
+  "judges": [
+    "Abdul Rauf",
+    "Muhammad Nawaz Bajwah"
+  ],
+  "appellant": "Messrs MAPLE LEAF CEMENT FACTORY LTD LAHORE",
+  "respondent": "COLLECTOR OF SALES TAX, FAISALABAD",
+  "result": "Appeal accepted",
+  "reported_as": "2013 P T D (Trib.) 1800",
+  "key_issues": {
+    "input_tax_adjustment": {
+      "phase_ii_vs_phase_i": "Adjustment of input tax from Phase-II against output tax of Phase-I was deemed lawful after clarification and cancellation of second registration.",
+      "timing_of_adjustment": "Adjustment of input tax before payment of electricity bills was considered a procedural lapse and not penalized."
+    },
+    "non_taxable_activities": "Input tax on electricity consumed in canteen and administrative offices within factory premises was allowed as integral to business operations."
+  },
+  "legal_references": {
+    "sales_tax_act_1990": [
+      "Section 7",
+      "Section 8(4)",
+      "Section 33",
+      "Section 34"
+    ],
+    "clarifications": [
+      "Sales Tax General Order No. 10/1998",
+      "CBR Letter No. 1/1STL/P dated 28-5-2001",
+      "CBR Letters No. 1(13)STR/2000 dated 10-12-2002 and 1(13)STR/2004 dated 9-12-2004"
+    ],
+    "case_law": [
+      "2000 PTD 1296",
+      "2005 PTD (Trib.) 1358",
+      "2006 PTD (Trib.) 196",
+      "GST 2004 CL-318"
+    ]
+  },
+  "penalty_and_tax": {
+    "additional_tax": "Rs. 65,191 deleted due to procedural lapse in timing of adjustment.",
+    "penalty": "3% penalty deleted for wrong adjustment of input tax."
+  },
+  "summary": "The appeal was accepted, allowing adjustments of input tax for Phase-II against Phase-I and input tax on electricity consumed in non-taxable activities within factory premises. Procedural lapses in timing of adjustments were not penalized."
+}

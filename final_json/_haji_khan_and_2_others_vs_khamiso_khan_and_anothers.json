@@ -1,0 +1,112 @@
+{
+  "case_title": "HAJI KHAN AND 2 OTHERS vs KHAMISO KHAN AND ANOTHERs",
+  "reference_no_or_id": "Case Rs, SROR-131 of 1971-72",
+  "judgment_date": "1975-06-07",
+  "first_hearing_date": "N/A",
+  "court": "Board of Revenue",
+  "bench_type": "Single Bench",
+  "judges": [
+    "D. S. Soomro"
+  ],
+  "appellant": [
+    "Haji Khan",
+    "2 Others"
+  ],
+  "respondant": [
+    "Khamiso Khan",
+    "Another"
+  ],
+  "accussed_details": [
+    {
+      "name": "Sanjar Khan Hajano",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "Attorney",
+      "allegation": [
+        "Unauthorized sale of land",
+        "Forgery of power-of-attorney",
+        "Non-payment of consideration for land"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "The appellants contested the sale of land executed by Sanjar Khan Hajano, claiming he lacked a valid power-of-attorney and that the sale deed was forged.",
+  "investigation_summary": "The respondents approached the Settlement Mukatiarkar for mutation of the disputed land, which was initially denied. Subsequent appeals to higher revenue authorities led to conflicting decisions, ultimately resulting in rejection of the petitioners' appeal by the Addl. Commissioner, Hyderabad.",
+  "judgment_summary": "The court rejected the revision petition, ruling that the alienation did not contravene Para. 25 of repealed M.L.R. 64 of 1959 as the joint holding remained above subsistence level. Claims of forgery and non-payment were deemed matters for civil court.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Revision petition rejected.",
+  "legal_arguments": {
+    "petitioners": {
+      "claim": "Alienation is void due to contravention of Para. 25 of repealed M.L.R. 64 of 1959",
+      "additional_points": [
+        "Sanjar Khan Hajano had no valid power-of-attorney",
+        "Consideration for the land was not paid"
+      ]
+    },
+    "respondents": {
+      "claim": "No contravention of Para. 25 of repealed M.L.R. 64 of 1959",
+      "joint_holding_status": "Joint holding remained above subsistence level after alienation"
+    }
+  },
+  "assets": {
+    "total_area": "44.21 Acres",
+    "post_alienation_area": "22.38 Acres",
+    "disputed_land": "S. Nos. 21/A, B, 37, 68/1, 2, 3, 71/1, 2, 3, 78, 82, 83, 75, 369 and 422 Deh Barochani, Taluka and District Hyderabad"
+  },
+  "statutes": [
+    "M.L.R. 64 of 1959 (repealed)"
+  ],
+  "sections": [
+    "Para. 25"
+  ],
+  "citations": [
+    "P L D 1985 Rev. 194 [Sind]"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Land Disputes",
+    "Revenue Law"
+  ],
+  "key_issues": [
+    "Validity of power-of-attorney",
+    "Compliance with subsistence holding requirements",
+    "Fraud allegations in land sale"
+  ],
+  "key_findings": {
+    "joint_holding_area": {
+      "total": "44.21 Acres",
+      "post_alienation": "22.38 Acres"
+    },
+    "subsistence_holding_status": "Above subsistence holding after alienation",
+    "additional_points": {
+      "power_of_attorney": "Not pressed in verbal arguments",
+      "consideration_payment": "Not pressed in verbal arguments"
+    }
+  },
+  "decision": {
+    "reasoning": "No contravention of Para. 25 of repealed M.L.R. 64 of 1959 and no justification for interference with lower court orders",
+    "outcome": "Revision petition rejected"
+  },
+  "maxims": {},
+  "legal_terms": {
+    "subsistence holding": "Minimum landholding required for livelihood",
+    "alienation": "Transfer of property rights"
+  },
+  "words_and_phrases": {
+    "mutation": "Change in ownership records",
+    "joint holding": "Shared ownership of land"
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around a disputed land sale executed by an alleged unauthorized attorney. The court ruled against the appellants, citing compliance with subsistence holding requirements and deferred fraud claims to civil court jurisdiction."
+}

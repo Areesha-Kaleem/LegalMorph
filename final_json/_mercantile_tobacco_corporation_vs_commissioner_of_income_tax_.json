@@ -1,0 +1,95 @@
+{
+  "case_title": "MERCANTILE TOBACCO CORPORATION vs COMMISSIONER OF INCOME-TAX",
+  "reference_no_or_id": "Writ Petition No. 524 of 1962",
+  "judgment_date": "1964-07-03",
+  "first_hearing_date": "N/A",
+  "court": "Andhra Pradesh High Court",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Gopalakrishnan Nair"
+  ],
+  "appellant": [
+    "MERCANTILE TOBACCO CORPORATION"
+  ],
+  "respondant": [
+    "COMMISSIONER OF INCOME-TAX"
+  ],
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": []
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "The appellant sought a writ of mandamus to compel the Commissioner of Income-tax, Hyderabad, to hear and determine a revision against the order of the Appellate Assistant Commissioner of Income-tax, Guntur, which upheld the assessment of undisclosed income of Rs. 14,000 for the year 1958-59.",
+  "investigation_summary": "The Income-tax Officer, Guntur, assessed Rs. 14,000 as undisclosed income in the appellant's return for 1958-59. Appeals to the Appellate Assistant Commissioner and the Income-tax Appellate Tribunal were dismissed, the latter on grounds of being time-barred.",
+  "judgment_summary": "The court dismissed the writ petition, holding that the appellant had made the Appellate Assistant Commissioner's order the subject of an appeal to the Tribunal, thereby precluding the Commissioner from entertaining a revision under Section 33A(2) of the Income-tax Act, 1922.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Petition dismissed",
+  "legal_arguments": [
+    "The petitioner argued that a time-barred appeal is not an appeal in the eye of law and does not preclude revision under Section 33A(2).",
+    "The respondent contended that the Tribunal's dismissal of the appeal as time-barred constituted a valid appeal, barring revision under the statute."
+  ],
+  "assets": [],
+  "statutes": [
+    "Income-tax Act, 1922"
+  ],
+  "sections": [
+    "Section 33",
+    "Section 33(1)",
+    "Section 33(2A)",
+    "Section 33(4)",
+    "Section 33(6)",
+    "Section 33A",
+    "Section 33A(1)",
+    "Section 33A(2)"
+  ],
+  "citations": [
+    "Nagendranath Dey v. Sureshchandra Dey (1933 ILR 60 Cal 1)",
+    "Mela Ram & Sons v. Commissioner of Income-tax (1956 29 ITR 607)",
+    "Sreenivasalu v. Commissioner of Income-tax (1948 16 ITR 341)"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Taxation Law",
+    "Administrative Law"
+  ],
+  "key_issues": [
+    "Whether a time-barred appeal constitutes an appeal in the eye of law.",
+    "Whether the Commissioner of Income-tax was precluded from entertaining a revision under Section 33A(2) of the Income-tax Act, 1922."
+  ],
+  "maxims": {
+    "N/A": "N/A"
+  },
+  "legal_terms": {
+    "Writ of Mandamus": "A court order compelling a government official to perform a duty."
+  },
+  "words_and_phrases": {
+    "Time-barred": "An action or appeal that is not filed within the prescribed time limit."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around the dismissal of a writ petition seeking mandamus against the Commissioner of Income-tax, Hyderabad. The petitioner argued that a time-barred appeal to the Tribunal does not preclude revision under Section 33A(2) of the Income-tax Act, 1922. The court held that the appeal was validly admitted and dismissed, barring revision under the statute.",
+  "facts": {
+    "assessment_year": "1958-59",
+    "disputed_amount": "Rs. 14,000",
+    "assessment_order_date": "1959-09-26",
+    "appeal_dismissal_date": "1960-01-13",
+    "revision_filing_date": "1961-01-19",
+    "revision_rejection_date": "1961-02-24"
+  },
+  "costs_awarded": "Rs. 100"
+}

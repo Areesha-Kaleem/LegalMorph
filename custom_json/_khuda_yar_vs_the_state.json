@@ -1,0 +1,82 @@
+{
+  "case_title": "KHUDA YAR vs THE STATE",
+  "case_number": "Criminal Appeal No. 553 of 1958, Appeal No. 64 of 1959",
+  "judgment_date": "1970-12-22",
+  "court": "Supreme Court of Pakistan",
+  "judges": [
+    "Muhammad Shahabuddin",
+    "Alvin R. Cornelius",
+    "Muhammad Munir",
+    "Dr. Sheikh Abdul Rahman",
+    "Amir-Ud-Din Ahmad"
+  ],
+  "author_judge": "S. A. Rahman",
+  "reported_as": "1970 P Cr. L J 18",
+  "appellant": "Khuda Yar",
+  "respondent": "The State",
+  "result": "Appeal dismissed",
+  "facts": {
+    "incident_date": "1957-09-06",
+    "victim": "Sajwara",
+    "location": "Village outskirts near Amir butcher's house",
+    "accused": [
+      "Khuda Yar",
+      "Khan",
+      "Basara",
+      "Gahra"
+    ],
+    "weapons_used": [
+      "lathi",
+      "chhavis"
+    ],
+    "motive": "Blood feud",
+    "medical_evidence": {
+      "victim_injuries": {
+        "total": 10,
+        "fatal": 2,
+        "grievous": 2
+      },
+      "witness_injuries": {
+        "total": 4,
+        "type": "blunt weapon"
+      }
+    },
+    "evidence": {
+      "blood_stained_items": [
+        "chhavi",
+        "shirt"
+      ],
+      "broken_pitcher": "Recovered near murder site"
+    },
+    "first_information_report": {
+      "time": "12:05 AM",
+      "distance_traveled": "14 miles on foot"
+    }
+  },
+  "prosecution_witnesses": [
+    "Khan",
+    "Fazil",
+    "Chakar",
+    "Dara",
+    "Sarwar",
+    "Said"
+  ],
+  "defense_arguments": {
+    "fabrication_claims": "Injuries of Khan fabricated",
+    "weapon_discrepancy": "Spear vs chhavi inconsistency",
+    "delay_in_FIR": "Alleged delay in reporting"
+  },
+  "court_findings": {
+    "key_points": [
+      "Khan's testimony credible",
+      "Recovery of blood-stained items corroborated guilt",
+      "FIR delay justified due to distance traveled",
+      "Defense claims unsupported by evidence"
+    ],
+    "acquittal_reasoning": "Benefit of doubt extended to other accused (Khan, Basara, Gahra)"
+  },
+  "sentence": {
+    "original": "Death penalty",
+    "commuted": "Transportation for life"
+  }
+}

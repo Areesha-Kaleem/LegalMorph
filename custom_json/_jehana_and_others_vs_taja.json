@@ -1,0 +1,59 @@
+{
+  "case_title": "JEHANA And Others vs TAJA",
+  "case_number": "R.O.R. No. 850 of 1989",
+  "court_name": "Board of Revenue",
+  "judgment_date": "1991-06-11",
+  "judge": "Ch. Talib Hussain",
+  "reported_as": "1994 C L C 87",
+  "result": "Revision rejected",
+  "appellant": "JEHANA And Others",
+  "respondent": "TAJA",
+  "facts": {
+    "village": "Dolekey",
+    "tehsil": "Hafizabad",
+    "district": "Gujranwala",
+    "consolidation_scheme_date": "1985-12-31",
+    "appeal_delay": "1 year 3 months 7 days",
+    "collector_decision_date": "1987-11-25",
+    "additional_commissioner_decision_date": "1989-03-14"
+  },
+  "arguments": {
+    "appellant": {
+      "contention": "Appeal was time-barred and rightly rejected.",
+      "claim": "Consolidation scheme was confirmed with respondent's consent through his son.",
+      "allegation": "Respondent developed greed after bypass construction and filed appeal."
+    },
+    "respondent": {
+      "contention": "Appeal was justified despite delay.",
+      "claim": "Valuable land fraudulently taken during consolidation operations.",
+      "evidence": "Fake thumb-impressions on resolutions; land still in possession."
+    }
+  },
+  "key_land_details": {
+    "khasra_1172_419": {
+      "size": "6 Kanals 7 Marlas",
+      "status": "Banjar Oadeem",
+      "owner": "Taja",
+      "location": "Corner on Lahore-Sargodha Road"
+    },
+    "khasra_343": {
+      "size": "8 Kanals 18 Marlas",
+      "joint_owners": "Nek Alam etc.",
+      "specific_ownership": {
+        "Taja": "1 Kanal",
+        "Mosque": "15 Marlas"
+      }
+    }
+  },
+  "legal_references": [
+    "PLD 1969 Lahore 365",
+    "1988 SCMR 1449"
+  ],
+  "evidence_act_reference": "Section 73 of the Evidence Act",
+  "court_findings": {
+    "fraud": "Land allocated without respondent's knowledge.",
+    "thumb_impression": "Comparison conducted; no objections raised.",
+    "limitation": "Fraud negates limitation concerns."
+  },
+  "final_decision": "Revision petition rejected."
+}

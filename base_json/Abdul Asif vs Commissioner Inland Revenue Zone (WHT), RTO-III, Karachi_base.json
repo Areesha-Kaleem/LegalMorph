@@ -1,0 +1,88 @@
+{
+  "case_title": "Abdul Asif vs Commissioner Inland Revenue Zone (WHT), RTO-III, Karachi",
+  "reference_no_or_id": "I.T.As. Nos. 535/KB and 536/KB of 2018",
+  "judgment_date": "2019-12-11",
+  "first_hearing_date": "N/A",
+  "court": "Appellate Tribunal Inland Revenue",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Ambreen Aslam"
+  ],
+  "appellant": [
+    "Abdul Asif"
+  ],
+  "respondant": [
+    "Commissioner Inland Revenue Zone (WHT), RTO-III, Karachi"
+  ],
+  "accussed_details": [
+    {
+      "name": "Abdul Asif",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Private Secretary, Sindh High Court",
+      "allegation": [
+        "Erroneous deemed assessment under Section 120 of Income Tax Ordinance, 2001",
+        "Claiming exemption on Special Judicial Allowance"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Ali Hassan"
+    ],
+    "defense": [
+      "Aqeel Ahmed"
+    ]
+  },
+  "complaint_summary": "The appellant filed income tax returns for 2011 and 2012 claiming exemptions on Special Judicial Allowance, which were deemed erroneous and prejudicial to revenue interests by the Commissioner Inland Revenue.",
+  "investigation_summary": "Proceedings initiated under Section 122(5A) of the Income Tax Ordinance, 2001 led to disallowance of refunds and creation of tax liabilities for the appellant.",
+  "judgment_summary": "The Tribunal accepted the appeals, ruling that the Special Judicial Allowance granted to the appellant was not taxable under Section 12(2)(c) of the Income Tax Ordinance, 2001, and the Commissioner Inland Revenue's orders were set aside.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Appeals accepted; orders of Commissioner Inland Revenue set aside.",
+  "legal_arguments": [
+    "The notice issued under Section 122(5A) was not properly served, violating procedural requirements.",
+    "Special Judicial Allowance is exempt under Clause 39 of Part I of the Second Schedule of the Income Tax Ordinance, 2001.",
+    "The Commissioner Inland Revenue misinterpreted the applicable clauses and ignored relevant judicial precedents."
+  ],
+  "assets": [],
+  "statutes": [
+    "Income Tax Ordinance, 2001",
+    "Clause 39 of Part I of Second Schedule"
+  ],
+  "sections": [
+    "Section 120",
+    "Section 122(5A)",
+    "Section 12(2)(c)"
+  ],
+  "citations": [
+    "2020 P T D (Trib.) 1258",
+    "1991 SCMR 1041",
+    "2018 PTD 806"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Tax Law",
+    "Judicial Allowance Exemption"
+  ],
+  "key_issues": [
+    "Whether Special Judicial Allowance is taxable under the Income Tax Ordinance, 2001.",
+    "Procedural irregularities in serving notice under Section 122(5A)."
+  ],
+  "maxims": {
+    "Equal Protection of Law": "Persons similarly situated must be treated alike."
+  },
+  "legal_terms": {
+    "Deemed Assessment": "An assessment accepted as filed without further scrutiny.",
+    "Special Judicial Allowance": "Allowance granted to judicial staff for performance of duties."
+  },
+  "words_and_phrases": {
+    "Erroneous Assessment": "An assessment prejudicial to the interest of revenue.",
+    "Refund Disallowance": "Denial of tax refund claimed by the taxpayer."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around the taxability of Special Judicial Allowance claimed by a government employee. The Tribunal ruled in favor of the appellant, emphasizing procedural lapses and legal exemptions under the Income Tax Ordinance, 2001."
+}

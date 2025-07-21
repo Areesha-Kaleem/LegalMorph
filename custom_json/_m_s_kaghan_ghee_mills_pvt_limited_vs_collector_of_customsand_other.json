@@ -1,0 +1,63 @@
+{
+  "case_title": "M/S. Kaghan Ghee Mills (Pvt.) Limited vs Collector Of Customs and Other",
+  "case_number": "S.A.O. No. 27 of 2002",
+  "court_name": "Peshawar High Court",
+  "judgment_date": "2012-11-06",
+  "judges": "Qaisar Khan, Mian Fasih-ul-Mulk",
+  "appellant": "M/S. Kaghan Ghee Mills (Pvt.) Limited",
+  "respondent": "Collector Of Customs and Other",
+  "result": "Appeal allowed",
+  "reported_as": "2013 P T D 1259, PTCL 2013 CL. 511",
+  "legal_basis": {
+    "primary_law": "Customs Act, 1969",
+    "sections_invoked": [
+      "156(1) Clause 62",
+      "156(1) Clause 90",
+      "Section 30",
+      "Section 33 of Sales Act, 1990"
+    ],
+    "constitutional_articles": [
+      "Article 4",
+      "Article 25 of the Constitution of Pakistan, 1973"
+    ],
+    "notifications": [
+      "S.R.O. 328(I)/95 dated 19-4-1995",
+      "S.R.O. 108(I)/95 dated 12-2-1995"
+    ]
+  },
+  "penalty_details": {
+    "initial_penalty": "Rs. 10,00,000",
+    "reduced_penalty": "Rs. 5,00,000",
+    "final_penalty": "Rs. 25,000"
+  },
+  "facts": {
+    "imported_goods": "395.312 tonnes of RBD Palm Oil",
+    "warehouse_location": "Gadoon",
+    "unlawful_removal": "230.525 tonnes",
+    "evaded_amount": "Rs. 4,313,686",
+    "admission_by_appellant": "Removal of goods without payment of duties and taxes"
+  },
+  "issues": [
+    "Applicability of Clause 62 vs Clause 90 of Section 156(1) of Customs Act",
+    "Valuation of goods under Section 30 of Customs Act",
+    "Exemptions under S.R.O. notifications",
+    "Criminal nature of penalty proceedings"
+  ],
+  "advocates": {
+    "appellant": "Mr. Isaac Ali Qazi",
+    "respondent": "Mr. Tasleem Hussain"
+  },
+  "precedents": [
+    {
+      "case_title": "Messrs Paper International Limited Aman Garh, G.T. Road Nowshera v. Collector of Customs, Peshawar",
+      "case_number": "F.A.O. No.91 of 2000",
+      "judgment_date": "2011-12-12",
+      "supreme_court_review": {
+        "case_number": "C.P.No. 173 of 2002",
+        "result": "Dismissed",
+        "judgment_date": "2006-08-16"
+      }
+    }
+  ],
+  "final_decision": "Penalty under Clause 62 of Section 156(1) of Customs Act, 1969 limited to Rs. 25,000."
+}

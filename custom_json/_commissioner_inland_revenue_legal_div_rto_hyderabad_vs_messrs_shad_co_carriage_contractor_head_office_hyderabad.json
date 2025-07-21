@@ -1,0 +1,74 @@
+{
+  "case_title": "COMMISSIONER INLAND REVENUE, LEGAL DIV. RTO, HYDERABAD vs Messrs SHAD & CO. CARRIAGE CONTRACTOR HEAD OFFICE, HYDERABAD",
+  "case_number": "I.T.A. No,738/KB of 2009",
+  "judgment_date": "2011-01-08",
+  "court_name": "Appellate Tribunal Inland Revenue",
+  "judges": [
+    "Abdul Aziz Memon",
+    "Syed Safdar Hussain Shah Bokhari"
+  ],
+  "appellant": "COMMISSIONER INLAND REVENUE, LEGAL DIV. RTO, HYDERABAD",
+  "respondent": "Messrs SHAD & CO. CARRIAGE CONTRACTOR HEAD OFFICE, HYDERABAD",
+  "result": "Appeal accepted",
+  "reported_as": "2011 P T D (Trib.) 2389",
+  "legal_provisions": [
+    "Income Tax Ordinance, 2001",
+    "Sections 122(4)(5)/177(6)",
+    "Section 21(c)",
+    "Section 21(m)",
+    "Section 21(1)",
+    "Section 174(2)",
+    "Section 18(3)",
+    "Section 22(12)"
+  ],
+  "grounds_of_appeal": [
+    "Order passed by Commissioner of Income Tax (Appeals) is bad in law and against facts of the case.",
+    "Error in holding that Taxation Officer acted without justification under section 177.",
+    "Error in holding that selection of case for audit after two years of filing return is unsustainable.",
+    "Error in holding that further amendment under section 122(4)(5) read with section 177(6) was not lawful.",
+    "Error in deleting additions made on account of depreciation on leased assets.",
+    "Error in deleting addition under sections 21(c) and (m) regarding salaries exceeding threshold without deduction.",
+    "Error in deleting addition under section 21(1) regarding repair and maintenance expenses exceeding Rs 50,000.",
+    "Error in deleting addition under section 174(2) regarding unverifiable expenses."
+  ],
+  "key_findings": [
+    "Taxpayer filed revised returns increasing declared income.",
+    "Taxation Officer failed to consider revised returns under section 122(3).",
+    "Audit selection criteria were communicated but deficiencies in initial review persisted.",
+    "Additions made under various sections were contested and deemed unjustified by CIR(A).",
+    "Revised returns should have been treated as amended assessment orders under section 122(3)."
+  ],
+  "income_details": {
+    "original_income": "Rs 11,20,530",
+    "first_revised_income": "Rs 13,02,000",
+    "second_revised_income": "Rs 15,10,900",
+    "amended_income": "Rs 3,95,798"
+  },
+  "additions": [
+    {
+      "section": "21(c) and (m)",
+      "amount": "Rs 1,57,40,004",
+      "reason": "Salaries exceeding threshold without deduction or banking channel payment."
+    },
+    {
+      "section": "21(1)",
+      "amount": "Rs 57,30,403",
+      "reason": "Repair and maintenance expenses exceeding Rs 50,000 not paid through banking channel."
+    },
+    {
+      "section": "174(2)",
+      "amount": "Rs 66,19,347",
+      "reason": "Unverifiable expenses under various heads."
+    },
+    {
+      "section": "18(3) read with 22(12)",
+      "amount": "Rs 99,52,144",
+      "reason": "Excessive depreciation claim on leased assets."
+    }
+  ],
+  "arguments": {
+    "department": "Additions were justified and taxpayer failed to provide complete records.",
+    "taxpayer": "Revised returns should be accepted; expenses were legitimate and supported by evidence."
+  },
+  "final_decision": "Assessment framed by Taxation Officer deemed illegal and cancelled."
+}

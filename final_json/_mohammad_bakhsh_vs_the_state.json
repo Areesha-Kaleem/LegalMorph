@@ -1,0 +1,94 @@
+{
+  "case_title": "MOHAMMAD BAKHSH vs The STATE",
+  "reference_no_or_id": "Criminal Miscellaneous No. 65 of 1970",
+  "judgment_date": "1970-03-04",
+  "first_hearing_date": "N/A",
+  "court": "Baghdad-ul-Jadid",
+  "bench_type": "Single Bench",
+  "judges": [
+    "A. R. Sheikh"
+  ],
+  "appellant": [
+    "MOHAMMAD BAKHSH"
+  ],
+  "respondant": [
+    "The STATE"
+  ],
+  "accussed_details": [
+    {
+      "name": "MOHAMMAD BAKHSH",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "N/A",
+      "allegation": [
+        "Preventive measures under sections 107 and 151 of the Code of Criminal Procedure"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "M. M. A. Pirzada"
+    ]
+  },
+  "complaint_summary": "The petitioner sought to challenge the preventive measures under sections 107 and 151 of the Code of Criminal Procedure and raised objections to the procedure adopted by the Assistant Commissioner, Ahmadpur East.",
+  "investigation_summary": "The Assistant Commissioner, Ahmadpur East, acted in accordance with the law under sections 107 and 119 of the Code of Criminal Procedure. No evidence of procedural violations was found.",
+  "judgment_summary": {
+    "decision": "The petition was dismissed.",
+    "reasoning": "The objections raised against the procedure adopted by the Assistant Commissioner were found to be without force, and the apprehension of unfair trial was deemed baseless."
+  },
+  "punishment": "N/A",
+  "Decision_or_verdict": "Petition dismissed",
+  "legal_arguments": {
+    "state_counsel": {
+      "argument_1": "Preventive measures under sections 107 and 151 of the Code of Criminal Procedure are not offences under the Pakistan Penal Code, hence cannot be compounded under section 345, Cr. P. C.",
+      "argument_2": "Section 494, Cr. P. C does not apply to proceedings under Chapter VIII; proceedings under section 107, Cr. P. C. can only be terminated under section 119, Cr. P. C.",
+      "case_reference": "The King v. Ba Khin and others (AIR 1940 Rang. 189)"
+    },
+    "petitioner_counsel": {
+      "argument_1": "Failed to counter the arguments presented by the State counsel.",
+      "argument_2": "Claimed apprehension of unfair trial due to Magistrate's refusal to accept sureties initially, but this argument was deemed without merit."
+    }
+  },
+  "assets": [],
+  "statutes": [
+    "Code of Criminal Procedure"
+  ],
+  "sections": [
+    "107",
+    "151",
+    "345",
+    "494",
+    "119"
+  ],
+  "citations": [
+    "AIR 1940 Rang. 189",
+    "1972 P Cr. L J 705"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Criminal Law",
+    "Preventive Measures"
+  ],
+  "key_issues": [
+    "Validity of preventive measures under sections 107 and 151 of the Code of Criminal Procedure.",
+    "Applicability of section 494 to proceedings under Chapter VIII."
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "Preventive Measures": "Actions taken to prevent potential offences or breaches of peace.",
+    "Compounding": "The process of settling a dispute or offence outside of court."
+  },
+  "words_and_phrases": {
+    "Preventive Measures": "Actions under sections 107 and 151 to prevent potential breaches of peace.",
+    "Fair Trial": "A trial conducted impartially and in accordance with legal principles."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case involved the dismissal of a petition challenging preventive measures under sections 107 and 151 of the Code of Criminal Procedure. The court ruled that these measures do not constitute offences under the Pakistan Penal Code and upheld the actions of the Assistant Commissioner, Ahmadpur East."
+}

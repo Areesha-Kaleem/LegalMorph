@@ -1,0 +1,69 @@
+{
+  "case_title": "NAZAR MUHAMMAD Etc vs SULTAN AHMAD Etc",
+  "case_number": "R.O.R. No. 2103 and 2104 of 1988",
+  "court_name": "Board of Revenue, Punjab",
+  "judgment_date": "1994-01-03",
+  "judge": "Mian Muhammad Akram",
+  "reported_as": "K.L.R. 1995 Revenue Cases 138",
+  "result": "Order dismissed",
+  "appellant": "Nazar Muhammad Etc",
+  "respondent": "Sultan Ahmad Etc",
+  "legal_basis": {
+    "primary_law": "Consolidation of Holdings Ordinance 1960",
+    "sections_referenced": [
+      "Section 10(3)",
+      "Section 13"
+    ],
+    "additional_law": "Redemption and Restitution of Mortgaged Lands Act 1964",
+    "precedent_case": "Nazeer Versus Abdul Ghaffar (PLD 1966 S.C. 267)"
+  },
+  "key_facts": {
+    "village": "Rawani, Tehsil Lodhran, District Multan",
+    "consolidation_scheme_date": "1985-09-29",
+    "mortgaged_land_details": [
+      {
+        "land_measurement": "25k-10m",
+        "mortgagor": "Predecessors-in-interest of Nazar Muhammad Etc",
+        "mortgagee": "Sultan Ahmad Etc"
+      },
+      {
+        "land_measurement": "5k-16m",
+        "mortgagor": "Predecessors-in-interest of Muhammad Azam Etc",
+        "mortgagee": "Sultan Ahmad Etc"
+      }
+    ],
+    "appeal_details": {
+      "appeal_date": "1986-08-31",
+      "delay": "2 years, 3 months, 17 days",
+      "collector_decision": "Bifurcation and preparation of separate wandas for Sultan Ahmad Etc"
+    },
+    "revision_details": {
+      "additional_commissioner_decision_date": "1988-10-02",
+      "decision": "Separate wandas for Sultan Ahmad Etc, no change in possession until court decision"
+    }
+  },
+  "arguments": {
+    "petitioners": {
+      "contentions": [
+        "Respondents as mortgagees were not entitled to proprietary rights.",
+        "Delay in appeal was unlawfully condoned.",
+        "Civil suit filed by respondents was dismissed.",
+        "Joint wanda cannot be partitioned without consent of co-sharers."
+      ]
+    },
+    "respondents": {
+      "contentions": [
+        "Sixty years had lapsed, mortgaged land matured into ownership.",
+        "Petitioners failed to redeem the land within the legal timeframe."
+      ]
+    }
+  },
+  "judgment_summary": {
+    "findings": [
+      "Sixty years had lapsed, respondents assumed status of right-holders.",
+      "Petitioners legally barred from redemption under Section 3 of the Redemption and Restitution of Mortgaged Lands Act 1964.",
+      "Separate wandas and physical possession of land granted to respondents."
+    ],
+    "final_decision": "Revisions rejected, respondents entitled to separate wandas and physical possession."
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "case_title": "Postmaster General, Karachi and another vs Arshad Ali",
+  "reference_no_or_id": "Civil Appeal No. 18-K of 2021",
+  "judgment_date": "2022-08-02",
+  "first_hearing_date": "2021-05-17",
+  "court": "Supreme Court of Pakistan",
+  "bench_type": "Two-Judge Bench",
+  "judges": [
+    "Sajjad Ali Shah",
+    "Muhammad Ali Mazhar"
+  ],
+  "appellant": [
+    "Postmaster General, Karachi",
+    "Another"
+  ],
+  "respondant": [
+    "Arshad Ali"
+  ],
+  "accussed_details": [
+    {
+      "name": "Arshad Ali",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Former Head Postmaster, Kutchery Post Office, Karachi",
+      "allegation": [
+        "Misconduct",
+        "Inefficiency",
+        "Corruption",
+        "Abetment",
+        "Connivance in embezzlement of Rs.298,207,618/-"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Deputy Attorney General (DAG)"
+    ],
+    "defense": [
+      "Counsel for Respondent"
+    ]
+  },
+  "complaint_summary": "Arshad Ali, while officiating as Head Postmaster at Kutchery Post Office, Karachi, failed to report irregularities and fraud committed by Izhar Hussain Siddiqui, resulting in embezzlement of Rs.298,207,618/- in Savings Bank Accounts.",
+  "investigation_summary": "Departmental inquiry found Arshad Ali guilty of supervisory negligence, concealment of facts, and criminal breach of trust. He was dismissed from service under the Removal from Service (Special Powers) Ordinance, 2000.",
+  "judgment_summary": "The Supreme Court allowed the appeal, setting aside the Federal Service Tribunal's judgment that reinstated Arshad Ali. The Court held that the respondent was negligent and incompetent in performing his duties, which led to substantial financial loss.",
+  "punishment": "Dismissal from service with immediate effect.",
+  "Decision_or_verdict": "Appeal allowed; reinstatement order by Federal Service Tribunal set aside.",
+  "legal_arguments": [
+    "Prosecution argued that Arshad Ali failed to supervise financial affairs and report fraud, resulting in embezzlement.",
+    "Defense contended procedural irregularities in the inquiry and lack of evidence proving Arshad Ali's involvement."
+  ],
+  "assets": [
+    "N/A"
+  ],
+  "statutes": [
+    "Removal from Service (Special Powers) Ordinance, 2000"
+  ],
+  "sections": [
+    "Section 2(b)",
+    "Section 3"
+  ],
+  "citations": [
+    "2022 PLC (C.S.) 1407",
+    "2020 SCMR 1708",
+    "2021 SCMR 420"
+  ],
+  "witnesses": [
+    "Wazir Ahmed (Departmental Representative)"
+  ],
+  "witness_statement": {
+    "Wazir Ahmed": "Confirmed supervisory negligence and concealment of facts by Arshad Ali during his tenure as Head Postmaster."
+  },
+  "appeal_number": "Cr. Acctt. Acq. Appeal No. 06/2007 (pending in Sindh High Court)",
+  "legal_categories": [
+    "Service Law",
+    "Misconduct",
+    "Corruption"
+  ],
+  "key_issues": [
+    "Negligence in supervisory duties",
+    "Failure to report fraud",
+    "Misappropriation of public funds"
+  ],
+  "maxims": {
+    "N/A": "N/A"
+  },
+  "legal_terms": {
+    "Misconduct": "Conduct prejudicial to good order or service discipline.",
+    "Corruption": "Abuse or misuse of official position for undue advantage."
+  },
+  "words_and_phrases": {
+    "Supervisory Negligence": "Failure to oversee and manage responsibilities effectively.",
+    "Embezzlement": "Misappropriation of funds entrusted to one's care."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around allegations of misconduct and supervisory negligence by Arshad Ali during his tenure as Head Postmaster at Kutchery Post Office, Karachi. The Supreme Court found him guilty of failing to prevent embezzlement of public funds amounting to Rs.298,207,618/- and dismissed him from service, overturning the Federal Service Tribunal's reinstatement order."
+}

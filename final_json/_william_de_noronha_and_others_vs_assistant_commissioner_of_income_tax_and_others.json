@@ -1,0 +1,117 @@
+{
+  "case_title": "WILLIAM DE NORONHA and others vs ASSISTANT COMMISSIONER OF INCOME-TAX and others",
+  "reference_no_or_id": "Civil Miscellaneous Writ Petition No.1020 of 1996",
+  "case_number": "Civil Miscellaneous Writ Petition No. 1020 of 1996",
+  "judgment_date": "1996-07-09",
+  "first_hearing_date": "N/A",
+  "court": "Allahabad High Court",
+  "court_name": "Allahabad High Court",
+  "bench_type": "Division Bench",
+  "judges": [
+    "B. M. Lal",
+    "J. S. Sidhu"
+  ],
+  "appellant": [
+    "William De Noronha and others"
+  ],
+  "appellants": "WILLIAM DE NORONHA and others",
+  "respondant": [
+    "Assistant Commissioner of Income-Tax and others"
+  ],
+  "respondents": "ASSISTANT COMMISSIONER OF INCOME-TAX and others",
+  "accussed_details": [
+    {
+      "name": "Terrance De Noronha",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Partner in Garg Noronhas",
+      "allegation": [
+        "Improper valuation of properties under Wealth Tax Act and Income Tax Act"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Sri Bharati Agarwal"
+    ],
+    "defense": [
+      "Sri Prabhakar Mehrotra",
+      "Sri P.N. Bathan"
+    ]
+  },
+  "advocates": {
+    "for_petitioners": [
+      "Sri Prabhakar Mehrotra"
+    ],
+    "for_revenue": [
+      "Sri Bharati Agarwal"
+    ]
+  },
+  "complaint_summary": "Petitioners sought quashing of the valuation reference made for properties Nos. 17/9 and 17/9-A, the Mall, Kanpur, under sections 16-A of the Wealth Tax Act and 55-A of the Income Tax Act.",
+  "investigation_summary": "Respondents argued that the valuation reference was made to determine capital gains liability and deemed gift liability under relevant statutes, asserting legality of the proceedings.",
+  "judgment_summary": "The court dismissed the petition, holding that the valuation reference was valid under sections 16-A of the Wealth Tax Act and 55-A of the Income Tax Act. The petitioners' arguments were deemed misconceived.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Petition dismissed; stay order dated October 17, 1995, vacated.",
+  "result": "Petition dismissed",
+  "reported_as": "1998 P T D 1744",
+  "legal_arguments": [
+    "Petitioners argued valuation proceedings were contrary to section 16-A of the Wealth Tax Act.",
+    "Respondents contended valuation reference was valid under sections 16-A of the Wealth Tax Act and 55-A of the Income Tax Act to determine liabilities."
+  ],
+  "key_arguments": {
+    "petitioners": "Valuation of properties under orders dated February 2, 1995, and July 10, 1995, is contrary to Section 16-A of the Wealth Tax Act as no assessment or reassessment proceedings were pending.",
+    "respondents": "Valuation reference is valid under Section 16-A of the Wealth Tax Act and Section 55-A of the Income Tax Act due to pending proceedings against one of the partners under Section 148 of the Income Tax Act."
+  },
+  "assets": [
+    "Properties Nos. 17/9 and 17/9-A, the Mall, Kanpur"
+  ],
+  "properties_involved": [
+    "17/9, The Mall, Kanpur",
+    "17/9-A, The Mall, Kanpur"
+  ],
+  "statutes": [
+    "Wealth Tax Act",
+    "Income Tax Act",
+    "Gift Tax Act"
+  ],
+  "sections": [
+    "16-A of Wealth Tax Act",
+    "55-A of Income Tax Act",
+    "45 of Income Tax Act",
+    "4(1)(a) of Gift Tax Act",
+    "148 of Income Tax Act",
+    "45 read with Section 9(1)(i) of Income Tax Act"
+  ],
+  "citations": [
+    "1998 P T D 1744",
+    "V.K. Jain v. WTO (1992) 193 ITR 89 (All.)",
+    "Laxmi Devi Jain v. WTO (1992) 193 ITR 154 (All.)"
+  ],
+  "court_findings": {
+    "validity_of_reference": "The reference for valuation under Section 16-A of the Wealth Tax Act and Section 55-A of the Income Tax Act is legal and valid.",
+    "applicability_of_precedents": "Cited cases (V.K. Jain v. WTO and Laxmi Devi Jain v. WTO) are not applicable to the facts of this case."
+  },
+  "final_decision": "Petition dismissed. Stay order dated October 17, 1995, vacated.",
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Taxation Law",
+    "Property Valuation"
+  ],
+  "key_issues": [
+    "Validity of valuation reference under section 16-A of Wealth Tax Act.",
+    "Applicability of section 55-A of Income Tax Act for property valuation."
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "Valuation Reference": "A process to determine the fair market value of assets for tax purposes."
+  },
+  "words_and_phrases": {
+    "Fair Market Value": "The price at which an asset would trade in a competitive auction setting."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case involved a dispute over the legality of property valuation references under tax statutes. The court upheld the validity of the references, dismissing the petitioners' claims as misconceived."
+}

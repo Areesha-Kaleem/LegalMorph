@@ -1,0 +1,38 @@
+{
+  "case_title": "KAJIR AND 2 Other vs BARAN SHAH",
+  "case_number": "Second Appeal from Order No. 16 of 1967",
+  "judgment_date": "1969-10-08",
+  "court": "Balochistan High Court",
+  "judge": "A. R. Sheikh",
+  "reported_as": "P L D 1970 Quetta 19",
+  "result": "Appeal dismissed",
+  "appellant": "KAJIR AND 2 Other",
+  "respondent": "BARAN SHAH",
+  "legal_issue": "Interpretation of Section 45 of the Punjab Land Revenue Act, 1867",
+  "key_arguments": {
+    "appellant": "Section 45(1) is mandatory and requires prior permission from the Collector before filing a suit in civil court.",
+    "respondent": "Section 45(1) is permissive and not mandatory, allowing suits to be filed directly in civil court."
+  },
+  "court_findings": {
+    "section_45_1": "Permissive and enabling, not mandatory.",
+    "word_interpretation": "The word 'may' in Section 45(1) does not mean 'must'.",
+    "impact_of_fcr_withdrawal": "The withdrawal of the Frontier Crimes Regulation rendered subsection (2) of Section 45 inoperative, leaving civil courts as the appropriate forum."
+  },
+  "decision": {
+    "reasoning": "Section 45(1) was not mandatory, and the suits filed without prior permission were valid and maintainable.",
+    "costs": "Parties to bear their own costs."
+  },
+  "related_statutes": {
+    "Punjab_Land_Revenue_Act_1867": "Section 45",
+    "Specific_Relief_Act_1877": "Chapter VI",
+    "Frontier_Crimes_Regulation_1901": "Sections 8, 9, and 10"
+  },
+  "cited_cases": [
+    "Shamsuddin Ahmed v. Registrar, High Court of East Pakistan, Dacca (P L D 1967 S C 501)",
+    "Dad Muhammad Khan v. Bassa (P L D 1965 Lah. 77)",
+    "Sayed A.I Amir v. Dalmaa Cement Ltd. (P L D 1961 Kar. 255)",
+    "Muhammad Ismail and others v. The State (P L D 1969 S G 241)"
+  ],
+  "printed_by": "Areesha Kaleem",
+  "printed_on": "2025-07-15"
+}

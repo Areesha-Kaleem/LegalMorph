@@ -1,0 +1,52 @@
+{
+  "case_title": "Mirza Mehboob (since deceased) through his legal heir Ahmed Ali Rauf Mirza vs Mst. Najma Begum & others",
+  "case_number": "Constitution Petition No. S – 276 of 2024",
+  "judgment_date": "2025-07-07",
+  "court": "Sindh High Court",
+  "judge": "Muhammad Jaffer Raza",
+  "result": "Petition Dismissed",
+  "reported_as": "2025 SHC KHI 1831",
+  "appellant": "Mirza Mehboob (since deceased) through his legal heir Ahmed Ali Rauf Mirza",
+  "respondent": "Mst. Najma Begum & others",
+  "legal_provisions": {
+    "primary_section": "Section 14 of the Sindh Rented Premises Ordinance, 1979",
+    "related_section": "Section 15 of the Sindh Rented Premises Ordinance, 1979"
+  },
+  "case_history": {
+    "rent_case_number": "Rent Case No.364/2021",
+    "rent_case_decision_date": "2023-09-18",
+    "appeal_number": "First Rent Appeal No.169/2023",
+    "appeal_decision_date": "2024-01-25"
+  },
+  "grounds_of_petition": {
+    "default": "Petitioner argued that no ground of default can be ascertained under Section 14 of the Ordinance.",
+    "personal_need": "Petitioner argued that the criteria for personal need under Section 14 were not met."
+  },
+  "respondent_arguments": {
+    "personal_need": "Respondent argued that she is a widow and requires the premises for herself and her daughter, who is also a widow.",
+    "default": "Respondent argued that the Petitioner is a willful defaulter and admitted default."
+  },
+  "court_findings": {
+    "default": "The Court held that findings of default under Section 14 were impermissible as it falls under Section 15.",
+    "personal_need": "The Court held that the Respondent, being a widow, met the criteria under Section 14 and no evidence was provided to show she had other tenements."
+  },
+  "key_excerpts": {
+    "section_14": "Allows landlords in special categories (e.g., widows) to reclaim premises for personal use.",
+    "court_observation": "The threshold for personal need under Section 14 is lower than Section 15, and no requirement for 'good faith' exists under Section 14."
+  },
+  "precedents_cited": [
+    {
+      "case": "Abdul Shakoor through L. Rs. vs Mst. Zahida Haroon",
+      "citation": "2024 Y L R 254"
+    },
+    {
+      "case": "Muhammad Aslam vs Mst. Hafizan Begum",
+      "citation": "2020 Y L R 2237"
+    },
+    {
+      "case": "Shajar Islam vs Muhammad Siddique",
+      "citation": "PLD 2007 SC 45"
+    }
+  ],
+  "final_order": "The petition is dismissed with no order as to cost."
+}

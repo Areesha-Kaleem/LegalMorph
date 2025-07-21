@@ -1,0 +1,59 @@
+{
+  "case_title": "M. MUNAF SHAIKH vs QURESH ALI, ADVOCATE",
+  "case_number": "P.M.C.No,31 of 1992",
+  "judgment_date": "2001-04-21",
+  "court_name": "Bar Council Tribunal",
+  "judges": [
+    "S. A. Sarwana",
+    "Abrar Hasan",
+    "Abdul Aziz Shaikh"
+  ],
+  "reported_as": "2001 Y L R 2977",
+  "appellant": "M. MUNAF SHAIKH",
+  "respondent": "QURESH ALI, ADVOCATE",
+  "result": "Order accordingly",
+  "facts": {
+    "respondent_employment": {
+      "position": "Primary School Teacher",
+      "department": "Education Department, Government of Sindh",
+      "employment_period": "1960-09-21 to 1979-05-01"
+    },
+    "pupilage_details": {
+      "mentor": "Mr. Mazhar Ali Siddiqui",
+      "training_period": "1971-07-15 to 1972-01-15"
+    },
+    "enrolment_details": {
+      "certificate_number": "00442",
+      "date_of_enrolment": "1976-10-23",
+      "viva_voce_exam_date": "1976",
+      "application_for_high_court_enrolment": "1987-02-07/08"
+    },
+    "complaint_details": {
+      "complainant": "Mr. Muhammad Munaf Shaikh",
+      "allegations": [
+        "Misrepresentation in Form A regarding employment status",
+        "Simultaneous employment as teacher and advocate",
+        "Submission of false affidavits",
+        "Violation of bond of service with Education Department"
+      ]
+    }
+  },
+  "disciplinary_proceedings": {
+    "initial_referral_date": "1993-02-27",
+    "committee_decision_date": "1997-06-14",
+    "tribunal_decision_date": "2000-12-23"
+  },
+  "tribunal_findings": {
+    "misconduct": "Professional misconduct and perjury",
+    "evidence": "Suppression of material facts and submission of false affidavits",
+    "disciplinary_action": "Immediate removal from practice under section 41 of Legal Practitioners and Bar Councils Rules, 1973",
+    "criminal_prosecution": "Not pursued due to respondent's apology"
+  },
+  "legal_references": {
+    "laws": [
+      "Legal Practitioners and Bar Councils Act, 1973",
+      "Section 191, P.P.C."
+    ],
+    "precedent_case": "Qamar Zaman Shinwari v. S. Nadir Shah Gillani, Advocate, 1996 MLD 513"
+  }
+}

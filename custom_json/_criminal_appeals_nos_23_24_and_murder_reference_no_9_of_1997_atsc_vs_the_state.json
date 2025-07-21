@@ -1,0 +1,87 @@
+{
+  "case_title": "Criminal Appeals Nos.23, 24 and Murder Reference No.9 of 1997(ATSC) vs THE STATE",
+  "case_number": "Criminal Appeal No.37, Criminal Revision No.25 and Murder Reference No.201 of 1996",
+  "court_name": "Appellate Tribunal Inland Revenue",
+  "judgment_date": "1998-01-27",
+  "judges": [
+    "Muhammad Nawaz Abbasi",
+    "Ahmed Nawaz Malik"
+  ],
+  "appellants": [
+    {
+      "name": "Muhammad Yousaf",
+      "father_name": "Suleman",
+      "residence": "Chishtian, District Bahawalnagar"
+    },
+    {
+      "name": "Anees alias Muhammad Umar",
+      "father_name": "Abdul Ghani",
+      "residence": "Karachi"
+    }
+  ],
+  "respondent": "THE STATE",
+  "charges": [
+    {
+      "sections": "392, P.P.C.",
+      "description": "Robbery"
+    },
+    {
+      "sections": "302/34, P.P.C.",
+      "description": "Murder with common intention"
+    }
+  ],
+  "facts": {
+    "incident_date": "1997-09-24",
+    "location": "Chungi No.8 LMQ, Multan",
+    "victim": "Azhar Ehsan",
+    "summary": "During a robbery attempt, Anees alias Muhammad Umar fired at Azhar Ehsan, causing his death. Both appellants were apprehended at the scene."
+  },
+  "trial_court_decision": {
+    "date": "1997-11-25",
+    "convictions": [
+      {
+        "appellant": "Muhammad Yousaf",
+        "sections": "392, P.P.C.",
+        "sentence": "Rigorous imprisonment for 10 years, fine of Rs. 20,000, and 1-year simple imprisonment in case of default."
+      },
+      {
+        "appellant": "Anees alias Muhammad Umar",
+        "sections": "302/34, P.P.C.",
+        "sentence": "Death penalty"
+      },
+      {
+        "appellant": "Anees alias Muhammad Umar",
+        "sections": "392, P.P.C.",
+        "sentence": "Rigorous imprisonment for 10 years, fine of Rs. 20,000, and 1-year simple imprisonment in case of default."
+      }
+    ]
+  },
+  "appellate_decision": {
+    "modifications": [
+      {
+        "appellant": "Muhammad Yousaf",
+        "sections": "302, P.P.C.",
+        "decision": "Conviction and sentence set aside."
+      }
+    ],
+    "confirmations": [
+      {
+        "appellant": "Anees alias Muhammad Umar",
+        "sections": "302, P.P.C.",
+        "decision": "Death sentence confirmed."
+      },
+      {
+        "appellant": "Anees alias Muhammad Umar",
+        "sections": "392, P.P.C.",
+        "decision": "Conviction and sentence maintained."
+      },
+      {
+        "appellant": "Muhammad Yousaf",
+        "sections": "392, P.P.C.",
+        "decision": "Conviction and sentence maintained."
+      }
+    ]
+  },
+  "result": "Order accordingly",
+  "reported_as": "1999 Y L R 858"
+}

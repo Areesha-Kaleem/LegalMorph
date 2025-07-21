@@ -1,0 +1,41 @@
+{
+  "case_title": "IHSAN-UL-HAQ vs EXECUTIVE ENGINEER HIGHWAY and others",
+  "case_number": "RFA No. 50 of 1999",
+  "judgment_date": "2005-03-22",
+  "court_name": "Peshawar High Court",
+  "judges": [
+    "Nasir-ul-Mulk",
+    "Ijaz-ul-Hassan Khan"
+  ],
+  "result": "Appeal dismissed",
+  "reported_as": "PLJ 2006 Peshawar 182",
+  "appellant": "IHSAN-UL-HAQ",
+  "respondent": "EXECUTIVE ENGINEER HIGHWAY and others",
+  "legal_provisions": {
+    "land_acquisition_act": "Section 18 and Section 23 of the Land Acquisition Act, 1894"
+  },
+  "compensation_details": {
+    "original_rate": "Rs. 1004/- per marla",
+    "enhanced_rate": "Rs. 10,000/- per marla",
+    "additional_charges": "15% compulsory acquisition charges",
+    "interest_rate": "6% from 1992-10-04 until payment"
+  },
+  "issues_raised": {
+    "appellant_arguments": [
+      "Improper appreciation of evidence by trial judge",
+      "Ignoring the report of the local commission",
+      "Inadequate compensation for standing crops and fruit trees"
+    ],
+    "respondent_arguments": [
+      "Compensation increased without justifiable reason",
+      "Market value should be based on notification date under Section 4(1)",
+      "Trial court unjustified in enhancing rate without solid evidence"
+    ]
+  },
+  "court_findings": {
+    "local_commission_report": "Detailed and comprehensive, rightly relied upon",
+    "evidence_review": "No misreading or non-appreciation of evidence found",
+    "final_decision": "Compensation deemed adequate and fair"
+  },
+  "costs": "No order as to costs"
+}

@@ -1,0 +1,127 @@
+{
+  "case_title": "Abdul Asif vs Commissioner Inland Revenue Zone (WHT), RTO-III, Karachi",
+  "reference_no_or_id": "I.T.As. Nos. 535/KB and 536/KB of 2018",
+  "judgment_date": "2019-12-11",
+  "first_hearing_date": "N/A",
+  "court": "Appellate Tribunal Inland Revenue",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Ambreen Aslam"
+  ],
+  "appellant": [
+    "Abdul Asif"
+  ],
+  "respondant": [
+    "Commissioner Inland Revenue Zone (WHT), RTO-III, Karachi"
+  ],
+  "accussed_details": [
+    {
+      "name": "Abdul Asif",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Private Secretary, Sindh High Court",
+      "allegation": [
+        "Erroneous deemed assessment under Section 120 of Income Tax Ordinance, 2001",
+        "Claiming exemption on Special Judicial Allowance"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Ali Hassan"
+    ],
+    "defense": [
+      "Aqeel Ahmed"
+    ]
+  },
+  "complaint_summary": "The appellant filed income tax returns for 2011 and 2012 claiming exemptions on Special Judicial Allowance, which were deemed erroneous and prejudicial to revenue interests by the Commissioner Inland Revenue.",
+  "investigation_summary": "Proceedings initiated under Section 122(5A) of the Income Tax Ordinance, 2001 led to disallowance of refunds and creation of tax liabilities for the appellant.",
+  "judgment_summary": "The Tribunal accepted the appeals, ruling that the Special Judicial Allowance granted to the appellant was not taxable under Section 12(2)(c) of the Income Tax Ordinance, 2001, and the Commissioner Inland Revenue's orders were set aside.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Appeals accepted; orders of Commissioner Inland Revenue set aside.",
+  "legal_arguments": [
+    "The notice issued under Section 122(5A) was not properly served, violating procedural requirements.",
+    "Special Judicial Allowance is exempt under Clause 39 of Part I of the Second Schedule of the Income Tax Ordinance, 2001.",
+    "The Commissioner Inland Revenue misinterpreted the applicable clauses and ignored relevant judicial precedents.",
+    "Judgment of Peshawar High Court regarding exemption of Special Judicial Allowance was ignored.",
+    "Employees of High Courts are similarly situated and entitled to exemption under Article 208 of the Constitution of Pakistan."
+  ],
+  "assets": [],
+  "statutes": [
+    "Income Tax Ordinance, 2001",
+    "Clause 39 of Part I of Second Schedule"
+  ],
+  "sections": [
+    "Section 120",
+    "Section 122(5A)",
+    "Section 12(2)(c)"
+  ],
+  "citations": [
+    "2020 P T D (Trib.) 1258",
+    "1991 SCMR 1041",
+    "2018 PTD 806",
+    "Judgment of Peshawar High Court in Writ Petition No.4747-P/2016",
+    "C.P. No.D-1637 of 2013 (Sindh High Court)"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Tax Law",
+    "Judicial Allowance Exemption"
+  ],
+  "key_issues": [
+    "Whether Special Judicial Allowance is taxable under the Income Tax Ordinance, 2001.",
+    "Procedural irregularities in serving notice under Section 122(5A)."
+  ],
+  "key_points": {
+    "grounds_of_appeal": [
+      "Order passed by Commissioner Inland Revenue (Appeals) is illegal and bad in law.",
+      "Notice issued under section 122(5A) and proceedings initiated are without jurisdiction and violate specific conditions.",
+      "Notice for compliance on 22-03-2017 was neither issued nor served on the appellant.",
+      "Order passed on 23-07-2017 without issuing a fresh notice is illegal.",
+      "Exemption claimed under Clause (39) of Part I of Second Schedule of Income Tax Ordinance, 2001 was not considered.",
+      "Commissioner Inland Revenue (Appeals) wrongly relied on Clause 39 of Part VI instead of Part I of Second Schedule.",
+      "Judgment of Peshawar High Court regarding exemption of Special Judicial Allowance was ignored.",
+      "Employees of High Courts are similarly situated and entitled to exemption under Article 208 of the Constitution of Pakistan."
+    ],
+    "facts_of_case": {
+      "appellant_position": "Private Secretary at Sindh High Court",
+      "tax_years": [
+        "2011",
+        "2012"
+      ],
+      "declared_salary_income": [
+        "Rs.926,434",
+        "Rs.1,240,457"
+      ],
+      "refund_disallowed": [
+        "Rs.116,592",
+        "Rs.137,531"
+      ],
+      "tax_liabilities_created": [
+        "Rs.161,197",
+        "Rs.165,555"
+      ]
+    },
+    "legal_findings": {
+      "special_judicial_allowance": "Not chargeable to income tax as per Section 12(2)(c) and Clause 39 of Part I of Second Schedule of Income Tax Ordinance, 2001.",
+      "natural_justice": "Ample opportunity of hearing was not provided to the appellant."
+    }
+  },
+  "maxims": {
+    "Equal Protection of Law": "Persons similarly situated must be treated alike."
+  },
+  "legal_terms": {
+    "Deemed Assessment": "An assessment accepted as filed without further scrutiny.",
+    "Special Judicial Allowance": "Allowance granted to judicial staff for performance of duties."
+  },
+  "words_and_phrases": {
+    "Erroneous Assessment": "An assessment prejudicial to the interest of revenue.",
+    "Refund Disallowance": "Denial of tax refund claimed by the taxpayer."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around the taxability of Special Judicial Allowance claimed by a government employee. The Tribunal ruled in favor of the appellant, emphasizing procedural lapses, legal exemptions under the Income Tax Ordinance, 2001, and the principle of equal treatment for judicial employees."
+}

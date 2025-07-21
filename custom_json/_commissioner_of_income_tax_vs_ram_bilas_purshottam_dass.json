@@ -1,0 +1,59 @@
+{
+  "case_title": "COMMISSIONER OF INCOME-TAX vs RAM BILAS PURSHOTTAM DASS",
+  "case_number": "Income-tax Reference No. 150 of 1984",
+  "court_name": "Allahabad High Court",
+  "judgment_date": "1992-03-25",
+  "judges": "R. K. Gulati, Anshuman Singh",
+  "appellant": "Commissioner of Income-Tax",
+  "respondent": "Ram Bilas Purshottam Dass",
+  "result": "Question answered",
+  "reported_as": "1993 P T D 1424",
+  "key_issues": {
+    "legal_question": "Whether the Appellate Tribunal was justified in upholding the order of the Commissioner of Income-tax (Appeals) directing the Income-tax Officer to frame two separate assessments for two periods within the same assessment year?",
+    "assessment_periods": [
+      "April 1, 1977 to October 10, 1977",
+      "October 12, 1977 to March 31, 1978"
+    ]
+  },
+  "facts": {
+    "firm_name": "Ram Bilas Purshottam Dass",
+    "assessment_year": "1978-79",
+    "previous_year_end": "1978-03-31",
+    "partners_at_start": [
+      "Ram Bilas",
+      "Prem Kumar"
+    ],
+    "event": "Death of Prem Kumar on October 9, 1977",
+    "new_partner": "Sushil Kumar",
+    "new_firm_date": "October 12, 1977",
+    "returns_filed": "Two separate returns for pre- and post-change periods"
+  },
+  "legal_analysis": {
+    "section_187": {
+      "definition": "Change in constitution of the firm",
+      "proviso": "Firm dissolved on death of a partner is excluded",
+      "applicability": "Not applicable due to dissolution of firm"
+    },
+    "section_188": {
+      "definition": "Succession of one firm by another",
+      "applicability": "Applicable due to dissolution and succession"
+    },
+    "precedents": [
+      {
+        "case_name": "Dahi Laxmi Dal Factory v. ITO",
+        "citation": "103 ITR 517",
+        "holding": "Dissolution on death of a partner leads to succession under Section 188"
+      },
+      {
+        "case_name": "CIT v. Kunj Behari Shyam Lal",
+        "citation": "109 ITR 154",
+        "holding": "Death of a partner dissolves the firm; Section 188 applies"
+      }
+    ]
+  },
+  "judgment": {
+    "decision": "Affirmative",
+    "reasoning": "The firm was dissolved on the death of a partner, leading to succession under Section 188. Separate assessments for pre- and post-change periods were legally required.",
+    "costs_awarded": "Rs. 250 in favor of the assessee"
+  }
+}

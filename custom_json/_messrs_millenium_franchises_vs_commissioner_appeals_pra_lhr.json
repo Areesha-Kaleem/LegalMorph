@@ -1,0 +1,90 @@
+{
+  "case_title": "Messrs Millenium Franchises vs Commissioner (Appeals) PRA, LHR",
+  "case_number": "Appeal No.67 of 2019",
+  "court_name": "Appellate Tribunal Punjab Revenue Authority",
+  "judgment_date": "2020-02-10",
+  "judges": [
+    "Haroon Latif Khan",
+    "Imran Hayee Khan"
+  ],
+  "appellant": "Messrs Millenium Franchises",
+  "respondent": "Commissioner (Appeals) PRA, Lahore",
+  "result": "Appeal dismissed",
+  "reported_as": "2021 P T D (Trib.) 329",
+  "laws_cited": [
+    "Section 66 of PSTSA 2012",
+    "Section 2(43), 3, 10, 11, 18, 35 of PSTSA 2012",
+    "Section 24 of PSTSA 2012",
+    "Section 48 and 49 of PSTSA 2012",
+    "Section 36 of PRA Act 2012",
+    "Section 5(4) of PRA Act 2012"
+  ],
+  "key_facts": {
+    "show_cause_notice_date": "2018-12-28",
+    "tax_evasion_amount": "16,430,877",
+    "penalty_amount": "16,430,877",
+    "assessment_order_date": "2019-02-14",
+    "commissioner_appeals_order_date": "2019-05-13",
+    "appeal_filing_date": "2019-06-19",
+    "franchisee": "Subway International BV",
+    "tax_periods": [
+      {
+        "period": "Sep to Dec 2015",
+        "royalty_fee": "3,326,804",
+        "actual_services": "41,585,046",
+        "declared_services": "7,382,429",
+        "suppressed_services": "34,202,617",
+        "suppressed_tax": "5,472,419"
+      },
+      {
+        "period": "Jan to Dec 2016",
+        "royalty_fee": "3,646,209",
+        "actual_services": "45,577,619",
+        "declared_services": "22,190,029",
+        "suppressed_services": "23,387,590",
+        "suppressed_tax": "3,742,014"
+      },
+      {
+        "period": "Jan to Dec 2017",
+        "royalty_fee": "3,578,718",
+        "actual_services": "44,733,975",
+        "declared_services": "27,327,839",
+        "suppressed_services": "17,405,136",
+        "suppressed_tax": "2,784,982"
+      },
+      {
+        "period": "Jan to Sept 2018",
+        "royalty_fee": "3,073,033",
+        "actual_services": "38,412,913",
+        "declared_services": "10,716,272",
+        "suppressed_services": "27,696,641",
+        "suppressed_tax": "4,431,462"
+      }
+    ]
+  },
+  "arguments": {
+    "appellant": [
+      "Agreement between franchiser and franchisee was not confronted.",
+      "Calculations in SCN are incorrect.",
+      "SCN lacks specific subsections/clauses.",
+      "No criminal proceedings initiated despite allegations.",
+      "Assessing officer passed order without hearing appellant.",
+      "Penalty amount equal to tax assessed is harsh."
+    ],
+    "respondent": [
+      "Appellant did not contest SCN properly.",
+      "Presence of appellant was not marked due to absence.",
+      "Subsections/clauses were not required in SCN.",
+      "Appellant showed evasive attitude during proceedings."
+    ]
+  },
+  "tribunal_findings": {
+    "appellant_conduct": "Lethargic and evasive.",
+    "opportunities_provided": "Sufficient opportunities were given.",
+    "record_basis": "Sales tax returns and franchiser information.",
+    "affidavit_reliability": "Unreliable and afterthought.",
+    "composition_of_PRA": "Validated by amendments in PRA Act 2012."
+  },
+  "final_decision": "Appeal dismissed",
+  "instructions": "Registrar directed to communicate order and file consigned to record room."
+}

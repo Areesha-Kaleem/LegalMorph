@@ -1,0 +1,127 @@
+{
+  "case_title": "NAIMATULLAH and another vs ABDUL QAHAR and 2 others",
+  "case_number": "Criminal Revision Petition No. 108 of 2005",
+  "court_name": "Balochistan High Court",
+  "judgment_date": "2005-12-28",
+  "judges": [
+    "Mehta Kelash Nath Kohli",
+    "Amanullah Khan Yasinzai"
+  ],
+  "appellants": "NAIMATULLAH and another",
+  "respondents": "ABDUL QAHAR and 2 others",
+  "result": "Petition dismissed",
+  "reported_as": "PLJ 2006 Cr.C. (Quetta) 811",
+  "facts": {
+    "complainant": "Naimatullah son of Muhammad Musa",
+    "incident_date": "2003-01-31",
+    "location": "Pood Killi Chowk, Quetta",
+    "accused": [
+      {
+        "name": "Abdul Qahar",
+        "weapon": "axe"
+      },
+      {
+        "name": "Zia-ud-Din",
+        "weapon": "dagger"
+      }
+    ],
+    "victims": [
+      {
+        "name": "Bibi Rubiqa",
+        "age": "13/14 years",
+        "status": "deceased"
+      },
+      {
+        "name": "Samiullah",
+        "age": "3 years",
+        "status": "deceased"
+      },
+      {
+        "name": "Roohullah",
+        "status": "deceased"
+      }
+    ]
+  },
+  "initial_trial": {
+    "court": "Special Judge Anti Terrorism Court-I, Quetta",
+    "judgment_date": "2003-06-12",
+    "sentences": {
+      "Abdul Qahar": {
+        "death_penalty": true,
+        "conviction_under": [
+          "Section-10(3) Offence of Zina (Enforcement of Hadood) Ordinance, 1979",
+          "Section-7 read with Section-21-M(2) of the Anti Terrorism Act, 1997"
+        ]
+      },
+      "Zia-ud-Din": {
+        "death_penalty": true
+      }
+    }
+  },
+  "appeal": {
+    "appeal_number": "27 of 2003",
+    "judgment_date": "2005-05-23",
+    "decision": "Case remanded to Juvenile Court",
+    "reasoning": "Accused covered under Juvenile Justice System Ordinance, 2000"
+  },
+  "juvenile_court_trial": {
+    "sentences": [
+      {
+        "accused": "Abdul Qahar",
+        "convictions": [
+          {
+            "section": "302(b) read with 34 PPC",
+            "sentence": "life imprisonment",
+            "compensation": "Rs. 100,000",
+            "victim": "Bibi Rubiqa"
+          },
+          {
+            "section": "7 read with Section 10 of Offence of Zina (Enforcement of Hadood) Ordinance, 1979",
+            "sentence": "5 years RI",
+            "fine": "Rs. 5000"
+          },
+          {
+            "section": "302(b) read with 34 PPC",
+            "sentence": "life imprisonment",
+            "compensation": "Rs. 100,000",
+            "victim": "Samiullah"
+          },
+          {
+            "section": "302(b) read with 34 PPC",
+            "sentence": "life imprisonment",
+            "compensation": "Rs. 100,000",
+            "victim": "Roohullah"
+          }
+        ]
+      },
+      {
+        "accused": "Zia-ud-Din",
+        "convictions": [
+          {
+            "section": "302(b) read with 34 PPC",
+            "sentence": "life imprisonment",
+            "compensation": "Rs. 100,000",
+            "victim": "Bibi Rubiqa"
+          },
+          {
+            "section": "302(b) read with 34 PPC",
+            "sentence": "life imprisonment",
+            "compensation": "Rs. 100,000",
+            "victim": "Samiullah"
+          },
+          {
+            "section": "302(b) read with 34 PPC",
+            "sentence": "life imprisonment",
+            "compensation": "Rs. 100,000",
+            "victim": "Roohullah"
+          }
+        ]
+      }
+    ],
+    "benefit_of_section_382_B_CrPC": true
+  },
+  "petition_for_enhancement": {
+    "status": "dismissed",
+    "reasoning": "Juvenile Justice System Ordinance, 2000 prohibits death penalty for juveniles"
+  }
+}

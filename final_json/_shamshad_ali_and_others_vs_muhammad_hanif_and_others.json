@@ -1,0 +1,103 @@
+{
+  "case_title": "SHAMSHAD ALI and others vs MUHAMMAD HANIF and others",
+  "reference_no_or_id": "ROR No.141 of 2006",
+  "case_number": "ROR No.141 of 2006",
+  "judgment_date": "2006-06-30",
+  "first_hearing_date": "N/A",
+  "court": "Board of Revenue",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Ch. Zafar Iqbal"
+  ],
+  "appellant": [
+    "Shamshad Ali and others"
+  ],
+  "respondant": [
+    "Muhammad Hanif and others"
+  ],
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": [
+        "Fraudulent alteration of death dates to invalidate mutations"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "The appellants challenged the decision of EDO (Rev.) dated 25-1-2006, alleging partiality and collusion with the respondents to invalidate mutations Nos.1423 to 1426 based on fraudulent alteration of death dates.",
+  "investigation_summary": "The EDO (Rev.) examined records from two Union Councils and found discrepancies in the death dates of the general power of attorney givers, Mst. Bakhtan and Sunahara, leading to the conclusion that the mutations were invalid.",
+  "judgment_summary": "The court dismissed the revision petition, affirming that the mutations were invalid as the power of attorney givers, Mst. Bakhtan and Sunahara, had died prior to their attestation. The court upheld the EDO (Rev.)'s decision under the West Pakistan Land Revenue Act, 1967, barring Civil Courts from intervening in revenue matters.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Revision dismissed in limine.",
+  "legal_arguments": [
+    "Appellants argued that the EDO (Rev.) misread tampered death dates, ignored norms of justice, and improperly adjudicated a civil matter under revenue law.",
+    "Respondents argued that the EDO (Rev.) acted impartially, relying on corroborated evidence from Union Council records to invalidate the mutations, and emphasized that revenue matters do not require civil court intervention."
+  ],
+  "assets": [],
+  "statutes": [
+    "West Pakistan Land Revenue Act, 1967"
+  ],
+  "sections": [
+    "Section 172"
+  ],
+  "citations": [
+    "2007 C L C 1072"
+  ],
+  "witnesses": [
+    "Secretary of the distant Union Council"
+  ],
+  "witness_statement": {
+    "Secretary of Union Council": "Corroborated discrepancies in death dates recorded in distant Union Council."
+  },
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Revenue Law",
+    "Fraudulent Documentation"
+  ],
+  "key_issues": [
+    "Validity of mutations based on power of attorney",
+    "Jurisdiction of Civil Courts in revenue matters",
+    "Fraudulent alteration of death dates"
+  ],
+  "key_points": {
+    "mutations": "Nos.1423 to 1426",
+    "power_of_attorney_givers": "Mst. Bakhtan and Sunahara",
+    "dates_of_death": "Tampered and preceding mutations",
+    "main_issue": "Validity of mutations based on power of attorney after death of givers",
+    "legal_basis": "Section 172 of the West Pakistan Land Revenue Act, 1967"
+  },
+  "maxims": {},
+  "legal_terms": {
+    "Mutation": "A change or transfer in ownership of property in revenue records.",
+    "Presumption of Truth": "Revenue records are presumed to be accurate unless proven otherwise."
+  },
+  "words_and_phrases": {
+    "In limine": "At the outset; without further consideration."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around the validity of mutations Nos.1423 to 1426 based on power of attorney, with allegations of fraudulent alteration of death dates of Mst. Bakhtan and Sunahara. The court upheld the EDO (Rev.)'s decision under revenue law, dismissing the revision petition.",
+  "arguments": {
+    "petitioners": {
+      "claims": "EDO (Rev.) acted with partiality and ignored norms of justice.",
+      "allegations": "Respondents tampered dates of death with mala fide intent.",
+      "legal_error": "Case should have been treated as civil litigation, not revenue matter."
+    },
+    "respondents": {
+      "defense": "EDO (Rev.) acted impartially and based decision on valid evidence.",
+      "evidence": "Dates of death corroborated by Union Council records.",
+      "legal_basis": "Revenue matters do not require civil court intervention."
+    }
+  }
+}

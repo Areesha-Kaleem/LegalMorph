@@ -1,0 +1,97 @@
+{
+  "case_title": "MUSLIM COMMERCIAL BANK LTD. through General Manager Circle Office, Peshawar vs SHAMSUL AULIA",
+  "reference_no_or_id": "Labour Appeal No. 35 of 2004",
+  "judgment_date": "2005-03-14",
+  "first_hearing_date": "N/A",
+  "court": "Peshawar High Court",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Nasir-ul-Mulk"
+  ],
+  "appellant": [
+    "Muslim Commercial Bank Ltd. through General Manager Circle Office, Peshawar"
+  ],
+  "respondant": [
+    "Shamsul Aulia"
+  ],
+  "accussed_details": [
+    {
+      "name": "Shamsul Aulia",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Ex-Officer Grade III, Cashier",
+      "allegation": [
+        "Failure to inform management about misappropriation",
+        "Violation of bank staff rules by not obtaining presenter’s signature on cheques"
+      ]
+    },
+    {
+      "name": "Attaullah",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Manager",
+      "allegation": [
+        "Direct misappropriation of Rs. 11,82,300 through 31 cheques"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Qazi Muhammad Anwar"
+    ],
+    "defense": [
+      "Ijaz Anwar"
+    ]
+  },
+  "complaint_summary": "The respondent, Shamsul Aulia, was accused of facilitating misappropriation of Rs. 11,82,300 by failing to follow bank rules, specifically by not obtaining the presenter’s signature on cheques. The main charge of misappropriation was against the Manager, Attaullah.",
+  "investigation_summary": "Separate inquiries were conducted for Attaullah and Shamsul Aulia. Attaullah admitted misappropriation and repaid the amount, abandoning legal remedies. The Labour Court initially dismissed the petitions, but the Labour Appellate Tribunal remanded the cases for determination of maintainability. Eventually, the Labour Court reinstated Shamsul Aulia with full back-benefits.",
+  "judgment_summary": "The court upheld the Labour Court’s decision to reinstate Shamsul Aulia, finding that the allegations against him were based on conjecture rather than evidence. The bank failed to prove that his actions facilitated misappropriation. The appeal and cross-objection were dismissed.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Appeal dismissed; reinstatement of respondent upheld.",
+  "legal_arguments": [
+    "Prosecution argued that failure to follow bank rules facilitated misappropriation.",
+    "Defense argued that mere violation of rules does not constitute misconduct and cited relevant precedents."
+  ],
+  "assets": [
+    "Misappropriated amount: Rs. 11,82,300"
+  ],
+  "statutes": [
+    "Operations Manual of MCB"
+  ],
+  "sections": [
+    "Clause (v) of para 1.18.03, Chapter 18"
+  ],
+  "citations": [
+    "Raja Javed Akhtar v. Executive Vice-President UBL (1998 SCMR 212)",
+    "Muhammad Shamim v. Pakistan Tobacco Company (1975 SCMR 46)",
+    "Allied Bank of Pakistan v. M. Zaheerul Hassan (1990 PLC 238)",
+    "Cresent Jute Products Ltd. v. Muhammad Yaqub (PLD 1978 SC 207)"
+  ],
+  "witnesses": [],
+  "witness_statement": {
+    "Shamsul Aulia": "Denied knowledge of misappropriation and clarified actions regarding cheque payments."
+  },
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Labour Law",
+    "Misconduct",
+    "Employment Reinstatement"
+  ],
+  "key_issues": [
+    "Whether failure to follow bank rules constitutes misconduct.",
+    "Extent of Labour Court’s jurisdiction to examine factual findings."
+  ],
+  "maxims": {
+    "Double Check Principle": "Labour Court has full authority to re-examine facts regardless of domestic inquiry findings."
+  },
+  "legal_terms": {
+    "Misconduct": "Violation of established rules or procedures without evidence of intent to facilitate wrongdoing."
+  },
+  "words_and_phrases": {
+    "Facilitation": "Actions or omissions that indirectly enable wrongdoing."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around allegations of misconduct against a cashier for failing to follow bank rules, which allegedly facilitated misappropriation by the branch manager. The court dismissed the appeal, emphasizing lack of evidence and conjectural findings by the Inquiry Officer."
+}

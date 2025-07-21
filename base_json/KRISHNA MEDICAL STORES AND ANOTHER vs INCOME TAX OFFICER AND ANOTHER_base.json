@@ -1,0 +1,100 @@
+{
+  "case_title": "KRISHNA MEDICAL STORES and another vs INCOME TAX OFFICER and another",
+  "reference_no_or_id": "Criminal Revisions Cases Nos. 627 and 628 and Criminal Revision Petitions Nos. 627 and 625 of 1990",
+  "judgment_date": "1992-02-25",
+  "first_hearing_date": "N/A",
+  "court": "Andhra Pradesh High Court",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Eswara Prasad"
+  ],
+  "appellant": [
+    "KRISHNA MEDICAL STORES",
+    "Another"
+  ],
+  "respondant": [
+    "INCOME TAX OFFICER",
+    "Another"
+  ],
+  "accussed_details": [
+    {
+      "name": "KRISHNA MEDICAL STORES",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "Firm",
+      "allegation": [
+        "Wilful attempt to evade tax under Section 276-C of Income Tax Act"
+      ]
+    },
+    {
+      "name": "Partner of KRISHNA MEDICAL STORES",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "Partner",
+      "allegation": [
+        "False verification of returns under Section 277",
+        "Wilful attempt to evade tax under Section 276-C read with Section 278-B"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "Sri Venkataiah"
+    ]
+  },
+  "complaint_summary": "The petitioners were accused of evading tax by making false debit entries in the names of individuals who were not employees of the firm.",
+  "investigation_summary": "The Income Tax Officer disallowed the debit entries made in the names of two brothers of the second petitioner, finding them non-employees. Appeals to higher authorities confirmed the disallowance.",
+  "judgment_summary": "The court held that the prosecution failed to establish mens rea or wilful intent to evade tax. Convictions and sentences were set aside, and fines paid by the petitioners were ordered to be refunded.",
+  "punishment": "Convictions and sentences set aside; fines refunded.",
+  "Decision_or_verdict": "Revisions allowed; convictions and sentences set aside.",
+  "legal_arguments": [
+    "Mens rea is essential for conviction under Sections 276-C, 277, and 278.",
+    "Prosecution failed to prove wilful intent or knowledge of false statements.",
+    "Income tax returns of the alleged employees were accepted by authorities."
+  ],
+  "assets": [],
+  "statutes": [
+    "Income Tax Act, 1961"
+  ],
+  "sections": [
+    "276-C",
+    "277",
+    "278",
+    "278-B"
+  ],
+  "citations": [
+    "1995 P T D 283",
+    "206 I T R 76"
+  ],
+  "witnesses": [
+    "Accountant of the firm"
+  ],
+  "witness_statement": {
+    "Accountant": "Accounts were written at the instance of A-4, not the second petitioner."
+  },
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Tax Law",
+    "Criminal Law"
+  ],
+  "key_issues": [
+    "Whether the petitioners wilfully attempted to evade tax.",
+    "Whether the debit entries were made with knowledge of falsity."
+  ],
+  "maxims": {
+    "Mens rea": "Essential element for criminal liability under tax evasion provisions."
+  },
+  "legal_terms": {
+    "Wilful": "Act done with bad purpose or evil motive."
+  },
+  "words_and_phrases": {
+    "Wilful omission": "Intentional exclusion of relevant entries in account books."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around alleged tax evasion by KRISHNA MEDICAL STORES and its partner. The court emphasized the necessity of proving mens rea for convictions under Sections 276-C, 277, and 278 of the Income Tax Act. The prosecution failed to establish wilful intent or knowledge of falsity in the returns filed by the petitioners. Consequently, the convictions and sentences were set aside, and fines refunded."
+}

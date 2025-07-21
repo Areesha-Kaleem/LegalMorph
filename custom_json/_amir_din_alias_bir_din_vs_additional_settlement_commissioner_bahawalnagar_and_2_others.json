@@ -1,0 +1,83 @@
+{
+  "case_title": "AMIR DIN alias BIR DIN vs ADDITIONAL SETTLEMENT COMMISSIONER, BAHAWALNAGAR AND 2 OTHERS",
+  "case_number": "Letters Patent Appeal No. 4 and Writ Miscellaneous No. 194 of 1975/BWP",
+  "judgment_date": "1979-02-17",
+  "court": "Baghdad-ul-Jadid",
+  "judges": [
+    "Dilawar Mahmood",
+    "M. Mehboob Ahmad"
+  ],
+  "appellant": "Amir Din alias Bir Din",
+  "respondents": [
+    "Additional Settlement Commissioner, Bahawalnagar",
+    "Two Others"
+  ],
+  "result": "Appeal allowed",
+  "reported_as": "1979 C L C 711",
+  "key_issues": [
+    "Cancellation of allotment under section 10 of the Displaced Persons (Land Settlement) Act, 1958.",
+    "Allegations of fraud and false representation in obtaining land allotment.",
+    "Practice of confirming urban agricultural land allotments to individuals with verified rural claims."
+  ],
+  "facts": {
+    "temporary_allotment": {
+      "allottee": "Mukhtar (son of appellant)",
+      "land_details": "Chak No. 15 Gajiani, Chishtian, District Bahawalnagar",
+      "date": "1948-05-01",
+      "khasras": [
+        3,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ]
+    },
+    "claim_verification": {
+      "appellant_father": "Umer Din",
+      "inheritance_mutation": "Mutation No. 12",
+      "land_type": "Rural area"
+    },
+    "confirmation_proposal": {
+      "date": "1963-10-21",
+      "land_area": "48 kanals",
+      "khasras": [
+        3,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "scheme": "Rehabilitation Settlement Scheme"
+    },
+    "cancellation_order": {
+      "date": "1969-03-28",
+      "authority": "Additional Settlement Commissioner (Land), Bahawalnagar",
+      "reason": "Alleged fraud and ineligibility under section 10 of the Displaced Persons (Land Settlement) Act, 1958"
+    }
+  },
+  "legal_arguments": {
+    "appellant_contentions": [
+      "No fraud or false representation was committed by the appellant.",
+      "Departmental practice allowed confirmation of urban agricultural land against verified rural claims for individuals in possession.",
+      "The appellant was in continuous possession of the land since 1948."
+    ],
+    "respondent_contentions": [
+      "Appellant was not eligible for urban land confirmation against a rural claim.",
+      "Temporary allotment was in the name of the appellant's son, not the appellant."
+    ]
+  },
+  "court_findings": {
+    "fraud_analysis": "The appellant's actions did not constitute fraud or false representation. The allotment was based on departmental practice and full disclosure of facts.",
+    "departmental_practice": "The department had a practice of confirming urban land allotments to individuals in possession, even if the temporary allotment was in the name of their relatives.",
+    "section_10_scope": "Section 10 of the Displaced Persons (Land Settlement) Act, 1958, cannot be invoked for irregular allotments without fraud or false representation."
+  },
+  "judgment": {
+    "decision": "The appeal is allowed.",
+    "order": "The cancellation order dated 1969-03-28 by the Additional Settlement Commissioner is declared without lawful authority and quashed.",
+    "costs": "No order as to costs."
+  }
+}

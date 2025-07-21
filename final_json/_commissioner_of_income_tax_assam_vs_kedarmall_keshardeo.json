@@ -1,0 +1,110 @@
+{
+  "case_title": "COMMISSIONER OF INCOME-TAX, ASSAM vs KEDARMALL KESHARDEO",
+  "reference_no_or_id": "Income-tax Reference No. 14 of 1966",
+  "case_number": "Income-tax Reference No. 14 of 1966",
+  "judgment_date": "1971-02-20",
+  "first_hearing_date": "N/A",
+  "court": "Assam High Court",
+  "court_name": "Assam High Court",
+  "bench_type": "Division Bench",
+  "judges": [
+    "P. K. Goswami",
+    "C. S. Nayudu"
+  ],
+  "appellant": [
+    "Commissioner of Income-Tax, Assam"
+  ],
+  "respondant": [
+    "Kedarmall Keshardeo"
+  ],
+  "respondent": "Kedarmall Keshardeo",
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": []
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Senior Government Advocate"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "Dispute regarding the validity and registration of a partnership deed under the Indian Income-tax Act, 1922.",
+  "investigation_summary": "The Income-tax Appellate Tribunal referred three questions of law concerning the interpretation of the partnership deed dated February 25, 1953, and the jurisdiction of the Commissioner under section 33-B of the Indian Income-tax Act, 1922.",
+  "judgment_summary": "The court held that Smt. Tribeni Debi was a partner in a representative capacity and not in a dual capacity. The minor, Sri Gobindram Bajaj, was not made a full-fledged partner liable for losses. The partnership deed was valid, and the assessee-firm was entitled to registration under the Indian Income-tax Act, 1922. The Commissioner had jurisdiction under section 33-B of the repealed Act, as per section 297(2) of the Income-tax Act, 1961.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Answered in the affirmative; the Tribunal's decisions were upheld.",
+  "result": "Answered in the affirmative",
+  "reported_as": "1971 PTD 942",
+  "legal_arguments": [
+    "Section 66(1) of the Indian Income-tax Act, 1922",
+    "Section 33-B of the Indian Income-tax Act, 1922",
+    "Section 297(2) of the Income-tax Act, 1961",
+    "Section 4, 5, and 30 of the Indian Partnership Act"
+  ],
+  "assets": [],
+  "statutes": [
+    "Indian Income-tax Act, 1922",
+    "Income-tax Act, 1961",
+    "Indian Partnership Act"
+  ],
+  "sections": [
+    "Section 66(1)",
+    "Section 33-B",
+    "Section 297(2)(a)"
+  ],
+  "citations": [
+    "Kalawati Devi Harlalka v. Commissioner of Income-tax ((1967) 66 ITR 680 (SC))",
+    "Commissioner of Income-tax v. Dwarkadas Khetan & Co. ((1961) 41 ITR 528)",
+    "N. T. Patel & Co. v. Commissioner of Income-tax ((1961) 42 ITR 224)",
+    "Commissioner of Income-tax v. Bagyalakshmi & Co. ((1965) 55 ITR 660 (SC))",
+    "Commissioner of Income-tax v. A. Abdul Rahim & Co. ((1965) 55 ITR 651 (SC))",
+    "Ram Laxman Sugar Mills v. Commissioner of Income-tax ((1967) 66 ITR 613 (SC))"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Tax Law",
+    "Partnership Law"
+  ],
+  "key_issues": [
+    "Validity of partnership deed under the Indian Income-tax Act, 1922",
+    "Jurisdiction of Commissioner under section 33-B post-repeal of the Act",
+    "Interpretation of partnership deed regarding minor's inclusion"
+  ],
+  "key_findings": {
+    "minor_status": "A minor cannot be a full-fledged partner under section 30 of the Indian Partnership Act.",
+    "registration_validity": "The partnership deed was valid and genuine, and the firm was entitled to registration under section 26-A of the Income-tax Act.",
+    "jurisdiction": "The Commissioner retained jurisdiction under section 33-B of the repealed Income-tax Act, 1922, due to section 297(2) of the Income-tax Act, 1961."
+  },
+  "questions_of_law": {
+    "question_1": {
+      "sub_question_a": "Smt. Tribeni Debi was a partner in a representative capacity.",
+      "sub_question_b": "The minor, Sri Gobindram Bajaj, was not made a full-fledged partner liable for losses.",
+      "sub_question_c": "Smt. Tribeni Debi was not a partner in a dual capacity, and the deed of partnership was not invalid.",
+      "sub_question_d": "Smt. Tribeni Debi and her minor son, Sri Gobindram Bajaj, had not been made partners jointly, and their individual shares were not required to be specified."
+    },
+    "question_2": "The Tribunal was justified in law in holding that the assessee-firm constituted under the deed of partnership dated February 25, 1953, was entitled to registration and in setting aside the order of the Commissioner under section 33-B of the Indian Income-tax Act, 1922.",
+    "question_3": "The Commissioner of Income-Tax could invoke jurisdiction under section 33-B of the Indian Income-tax Act, 1922, even after its repeal by section 297 of the Income-tax Act, 1961."
+  },
+  "maxims": {},
+  "legal_terms": {
+    "Partnership": "A relation between persons who agree to share profits of a business carried on by all or any of them acting for all.",
+    "Registration": "Legal recognition of a partnership deed under tax laws."
+  },
+  "words_and_phrases": {
+    "Representative Capacity": "Acting on behalf of another individual or entity.",
+    "Dual Capacity": "Holding two distinct roles simultaneously."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around the interpretation of a partnership deed and its implications under tax law. The court upheld the Tribunal's decision, affirming the validity of the partnership deed and the jurisdiction of the Commissioner under section 33-B of the repealed Indian Income-tax Act, 1922."
+}

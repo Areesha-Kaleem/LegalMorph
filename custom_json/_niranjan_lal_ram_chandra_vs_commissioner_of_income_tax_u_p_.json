@@ -1,0 +1,36 @@
+{
+  "case_title": "NIRANJAN LAL RAM CHANDRA vs COMMISSIONER OF INCOME-TAX, U. P.",
+  "case_number": "246 of 1958",
+  "judgment_date": "1962-08-21",
+  "court": "Allahabad High Court",
+  "judges": [
+    "Brijlal Gupta",
+    "M. C. Desai"
+  ],
+  "appellant": "NIRANJAN LAL RAM CHANDRA",
+  "respondent": "COMMISSIONER OF INCOME-TAX, U. P.",
+  "result": "Negative and against the Department",
+  "question_referred": "Whether, on the facts and in the circumstances of the case, the sum of Rs. 5,347 was income arising to the assessee during the course of the business and liable to tax?",
+  "facts": {
+    "compensation_received": 16000,
+    "expenses_incurred": 10653,
+    "balance_amount": 5347,
+    "business_activity": "Motor operator and dealer in motor-cars and trucks",
+    "government_scheme": "Hind Roadways Corporation",
+    "compensation_reason": "Loss and expense sustained due to abandonment of the scheme by the Government"
+  },
+  "tribunal_findings": {
+    "receipt_nature": "Compensation for loss of anticipated profits",
+    "profit_source": "Operation of Hind Roadways Corporation",
+    "loss_reason": "Abandonment of the corporation scheme by the Government",
+    "legal_conclusion": "Compensation paid for loss of a capital asset is not taxable income"
+  },
+  "court_observations": {
+    "tribunal_order": "Unsatisfactory",
+    "appellate_assistant_commissioner_findings": "Detailed and relevant",
+    "tribunal_action": "Neither confirmed nor overruled findings of Appellate Assistant Commissioner",
+    "legal_error": "Wrong conclusion on taxable nature of compensation"
+  },
+  "costs_awarded": 200,
+  "reported_as": "1964 P T D 618"
+}

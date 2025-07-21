@@ -1,0 +1,177 @@
+{
+  "case_title": "LAHORE STOCK EXCHANGE vs SHAHID GHAFFAR, COMMISSIONER (SECURITIES MARKET)",
+  "reference_no_or_id": "Appeal No. 2 of 2002",
+  "judgment_date": "2002-06-27",
+  "first_hearing_date": "2002-04-26",
+  "court": "Appellate Bench of Securities and Exchange Commission of Pakistan",
+  "bench_type": "Appellate Bench",
+  "judges": [
+    "Abdul Rehman Oureshi",
+    "N. K. Shahani"
+  ],
+  "appellant": [
+    "Lahore Stock Exchange"
+  ],
+  "respondant": [
+    "Shahid Ghaffar, Commissioner (Securities Market)"
+  ],
+  "accussed_details": [
+    {
+      "name": "Respondent No. 3",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "Broker",
+      "allegation": [
+        "Fraudulent cross-transactions",
+        "Violation of trading regulations"
+      ]
+    },
+    {
+      "name": "Respondent No. 4",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "Broker",
+      "allegation": [
+        "Fraudulent cross-transactions",
+        "Violation of trading regulations"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Mr. Faisal Islam",
+      "Mr. Aamir Zareef Khan"
+    ],
+    "defense": [
+      "Syed Aamir Masood",
+      "Ms. Sumbul Naved Qureshi",
+      "Mr. Salim Chamdia",
+      "Ejaz Ahmed Bodla",
+      "Riaz Chaudhry",
+      "Mr. Rafay Alam",
+      "Mr. Arif Habib"
+    ]
+  },
+  "complaint_summary": "LSE deleted 23 trades involving 1,002,500 shares of Adamjee Insurance Company Limited, alleging fraudulent cross-transactions and negotiated deals.",
+  "investigation_summary": "The Commission remanded the case to LSE, which imposed fines on brokers. Subsequent investigations by the Joint Committee found procedural compliance by respondents and deemed LSE's deletion of trades unjustified.",
+  "judgment_summary": "The Appellate Bench upheld the deletion of trades as unlawful, reprimanded LSE for violations, and directed action against responsible directors. Compensation claims were referred to civil courts.",
+  "punishment": "Fine of Rs. 25,000 imposed on Respondents Nos. 3 and 4 by LSE.",
+  "Decision_or_verdict": "Deletion of trades declared unlawful; LSE warned and reprimanded.",
+  "legal_arguments": [
+    "Violation of principles of natural justice",
+    "Improper investigation under SECP Act",
+    "Jurisdictional overreach by Commission",
+    "Validity of Regulation 19(f) of LOTS"
+  ],
+  "assets": [
+    "1,061,400 shares of Adamjee Insurance Company Limited (AICL)"
+  ],
+  "statutes": [
+    "Securities and Exchange Commission of Pakistan Act, 1997",
+    "Securities and Exchange Ordinance, 1969",
+    "Contract Act, 1872"
+  ],
+  "sections": [
+    "Section 20 of SECP Act",
+    "Section 17 of Securities and Exchange Ordinance, 1969",
+    "Section 23 of Contract Act, 1872"
+  ],
+  "citations": [
+    "2002 C L D 1583",
+    "1994 SCMR 150",
+    "PLD 1985 SC 86",
+    "AIR 1999 Gujarat 221"
+  ],
+  "witnesses": [
+    "Respondent No. 2",
+    "Respondent No. 3",
+    "Respondent No. 4",
+    "Mr. Tariq Iqbal Khan"
+  ],
+  "witness_statement": {
+    "Respondent No. 3": "Admitted to negotiated deals but disputed deletion of trades.",
+    "Respondent No. 4": "Denied allegations of connivance and fraudulent transactions."
+  },
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Securities Regulation",
+    "Fraudulent Transactions",
+    "Contract Law"
+  ],
+  "key_issues": [
+    "Validity of trade deletion by LSE",
+    "Jurisdiction of SECP",
+    "Application of Regulation 19(f)",
+    "Whether pending litigation in Sindh High Court warrants stay of proceedings",
+    "Whether principles of natural justice were violated",
+    "Whether investigation was required under SECP Act",
+    "Whether LSE had power to delete transactions and exercised it judiciously",
+    "Whether SEC has jurisdiction to grant relief in terms of the impugned order"
+  ],
+  "maxims": {
+    "audi alteram partem": "No one is to be condemned unheard."
+  },
+  "legal_terms": {
+    "Negotiated Deal": "A deal negotiated between two parties outside the regular market.",
+    "Cross-Transaction": "Transactions where buyer and seller originate from the same brokerage house."
+  },
+  "words_and_phrases": {
+    "Settlement": "Final adjustment or payment in a trade.",
+    "Exposure": "Risk borne by a clearing house in trade transactions."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around LSE's deletion of trades involving Adamjee Insurance shares, citing fraudulent cross-transactions. SECP declared the deletion unlawful, reprimanded LSE, and referred compensation claims to civil courts.",
+  "facts": {
+    "trading_period": "2000-05-22 to 2000-05-26",
+    "shares_involved": "1,061,400 shares of Adamjee Insurance Company Limited (AICL)",
+    "trades_deleted": "23 out of 33 trades",
+    "grounds_for_deletion": [
+      "Cross-transactions",
+      "Negotiated deal",
+      "Fraudulent intention to shift exposures"
+    ]
+  },
+  "key_events": [
+    {
+      "date": "2000-05-30",
+      "event": "LSE directed deletion of 23 trades from LOTS."
+    },
+    {
+      "date": "2000-05-31",
+      "event": "Respondent No. 2 challenged deletion and requested honoring of trades."
+    },
+    {
+      "date": "2000-07-15",
+      "event": "Commission remanded case back to LSE for fresh decision."
+    },
+    {
+      "date": "2000-09-15",
+      "event": "LSE subcommittee upheld deletion and imposed fines on respondents Nos. 3 and 4."
+    },
+    {
+      "date": "2001-01-03",
+      "event": "Commission issued directive to treat 23 trades as genuine and allow settlement."
+    },
+    {
+      "date": "2001-03-13",
+      "event": "LSE requested withdrawal of directive and another hearing."
+    },
+    {
+      "date": "2001-09-14",
+      "event": "Hearing held; impugned order passed directing LSE to honor trades."
+    }
+  ],
+  "findings": {
+    "pending_litigation": "No stay warranted as issues and parties differ.",
+    "natural_justice": "LSE had sufficient opportunity to contest; procedural objections dismissed.",
+    "investigation": "Not mandatory; sufficient facts and documents were available.",
+    "power_to_delete": "Deletion deemed unlawful; LSE failed to substantiate grounds.",
+    "jurisdiction": "SEC has authority under SECP Act but cannot enforce performance of contracts."
+  },
+  "directions": {
+    "to_LSE": "Warned and reprimanded to refrain from violations; action against responsible directors directed.",
+    "to_respondent_No_2": "Advised to seek compensation for losses before appropriate forum."
+  }
+}

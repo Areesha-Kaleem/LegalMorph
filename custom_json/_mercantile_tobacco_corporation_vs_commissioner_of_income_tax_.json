@@ -1,0 +1,48 @@
+{
+  "case_title": "MERCANTILE TOBACCO CORPORATION vs COMMISSIONER OF INCOME-TAX",
+  "case_number": "Writ Petition No. 524 of 1962",
+  "judgment_date": "1964-07-03",
+  "court_name": "Andhra Pradesh High Court",
+  "judge": "Gopalakrishnan Nair",
+  "appellant": "MERCANTILE TOBACCO CORPORATION",
+  "respondent": "COMMISSIONER OF INCOME-TAX",
+  "result": "Petition dismissed",
+  "facts": {
+    "assessment_year": "1958-59",
+    "disputed_amount": "Rs. 14,000",
+    "assessment_order_date": "1959-09-26",
+    "appeal_dismissal_date": "1960-01-13",
+    "revision_filing_date": "1961-01-19",
+    "revision_rejection_date": "1961-02-24"
+  },
+  "legal_provisions": {
+    "income_tax_act": "Income-tax Act (XI of 1922)",
+    "sections": [
+      "Section 33(1)",
+      "Section 33(2A)",
+      "Section 33(4)",
+      "Section 33(6)",
+      "Section 33A(1)",
+      "Section 33A(2)"
+    ]
+  },
+  "key_arguments": {
+    "petitioner": "The appeal dismissed by the Tribunal as time-barred does not constitute an appeal in the eye of law, and the Commissioner should have entertained the revision.",
+    "respondent": "The appeal was admitted and dismissed as time-barred, making the Appellate Assistant Commissioner's order the subject of appeal, precluding revision under Section 33A(2)."
+  },
+  "precedents_cited": [
+    {
+      "case_name": "Nagendranath Dey v. Sureshchandra Dey",
+      "citation": "(1933) ILR 60 Cal. 1"
+    },
+    {
+      "case_name": "Mela Ram & Sons v. Commissioner of Income-tax",
+      "citation": "(1956) 29 ITR 607"
+    },
+    {
+      "case_name": "Sreenivasalu v. Commissioner of Income-tax",
+      "citation": "(1948) 16 ITR 341"
+    }
+  ],
+  "costs_awarded": "Rs. 100"
+}

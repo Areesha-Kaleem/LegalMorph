@@ -1,0 +1,28 @@
+{
+  "case_title": "MUHAMMAD NAWAZ and others vs MUHAMMAD IKHLAQ and others",
+  "case_number": "R.O.Rs, Nos.920, 931, 1127 of 1990 and 1462 of 1991",
+  "court_name": "Board of Revenue, Punjab",
+  "judgment_date": "1992-04-28",
+  "judge": "Akhtar Said",
+  "appellant": "MUHAMMAD NAWAZ and others",
+  "respondent": "MUHAMMAD IKHLAQ and others",
+  "result": "Petition dismissed",
+  "reported_as": "P L D 1993 Revenue 44",
+  "legal_issue": "Recognition of 'temporary Lambardar' and 'permanent Lambardar' under the Land Revenue Act and Rules.",
+  "key_points": {
+    "rule_17": "No distinction in qualifications for Lambardar appointments across estates owned by Government or private individuals.",
+    "rule_19": "Succession criteria differ based on estate ownership (Government-owned vs privately-owned).",
+    "rule_21": "Special contingency rule unrelated to normal circumstances under rules 17 and 19.",
+    "primogeniture": "Mandatory for succession in privately-owned estates under rule 19(2).",
+    "misinterpretation": "Deputy Commissioner and Commissioner erred in considering Sana Ullah a 'temporary Lambardar'."
+  },
+  "facts": {
+    "initial_appointment": "Sana Ullah appointed on probation in 1908 and confirmed in 1910.",
+    "ownership_change": "Village transitioned from Government-owned to privately-owned before Sana Ullah's death in 1987.",
+    "succession_error": "Officials wrongly applied rule 17 instead of rule 19(2)."
+  },
+  "decision": {
+    "revision_petition": "Accepted",
+    "successor": "Naseer Ahmad appointed Lambardar in place of Sana Ullah."
+  }
+}

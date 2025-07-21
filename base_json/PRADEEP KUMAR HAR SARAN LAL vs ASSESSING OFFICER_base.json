@@ -1,0 +1,93 @@
+{
+  "case_title": "PRADEEP KUMAR HAR SARAN LAL vs ASSESSING OFFICER",
+  "reference_no_or_id": "Civil Miscellaneous Writ Petition No. 414 of 1996",
+  "judgment_date": "1997-03-21",
+  "first_hearing_date": "N/A",
+  "court": "Allahabad High Court",
+  "bench_type": "Double Bench",
+  "judges": [
+    "B. K. Sharma",
+    "Om Prakash"
+  ],
+  "appellant": [
+    "PRADEEP KUMAR HAR SARAN LAL"
+  ],
+  "respondant": [
+    "ASSESSING OFFICER"
+  ],
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": [
+        "Failure to disclose fully and truly all material facts in the income tax return."
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "Sri Vikram Gulati"
+    ]
+  },
+  "complaint_summary": "Petitioner challenged the notice issued under Section 148 of the Income Tax Act, 1961, alleging escaped assessment of income for the financial year 1988-89.",
+  "investigation_summary": "Assessing Officer issued notice under Section 148 after finding discrepancies in taxable income reported by the petitioner. Adjustments were made under Section 143(1)(a), which were later deleted by the Commissioner of Income-tax (Appeals). The Assessing Officer argued that Rs. 7,23,889 had escaped assessment.",
+  "judgment_summary": "The court dismissed the petition, allowing the Assessing Officer to proceed with the notice under Section 148. It held that adjustments made under Section 143(1)(a) were void and reassessment proceedings were valid under Section 147.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Petition dismissed; Assessing Officer allowed to proceed with reassessment under Section 148.",
+  "legal_arguments": [
+    "Petitioner argued that profits computed under Section 44-AC were already assessed under Section 143(1)(a).",
+    "Assessing Officer contended that Rs. 7,23,889 escaped assessment due to failure to disclose material facts.",
+    "Court held that adjustments under Section 143(1)(a) were void and reassessment under Section 147 was valid."
+  ],
+  "assets": [
+    "Excise license for nine liquor shops",
+    "Total purchase price: Rs. 19,69,456"
+  ],
+  "statutes": [
+    "Income Tax Act, 1961"
+  ],
+  "sections": [
+    "Section 143(1)(a)",
+    "Section 147",
+    "Section 148",
+    "Section 154",
+    "Section 44-AC"
+  ],
+  "citations": [
+    "A. Sanyasi Rao v. Government of Andhra Pradesh (1989) 178 ITR 31",
+    "Sri Venkateswara Timber Depot v. Union of India (1991) 189 ITR 741",
+    "Union of India v. A. Sanyasi Rao (1996) 219 ITR 330",
+    "Jorawar Singh Baid v. Assistant Commissioner of Income-tax (1992) 198 ITR 47 (Cal.)"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Taxation Law",
+    "Income Tax Assessment"
+  ],
+  "key_issues": [
+    "Validity of reassessment proceedings under Section 147.",
+    "Applicability of Section 44-AC for computing profits.",
+    "Jurisdiction of Assessing Officer under Section 143(1)(a)."
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "Section 143(1)(a)": "Provision for summary adjustments in income tax returns.",
+    "Section 147": "Provision for reassessment of escaped income.",
+    "Section 148": "Notice for reassessment under Section 147."
+  },
+  "words_and_phrases": {
+    "Escaped Assessment": "Income not assessed due to failure to disclose material facts.",
+    "Adjustment Explanatory Sheet": "Document detailing adjustments made under Section 143(1)(a)."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "Petitioner challenged reassessment notice under Section 148 of the Income Tax Act, alleging escaped assessment of Rs. 7,23,889. Court upheld reassessment proceedings, dismissing the petition and allowing the Assessing Officer to proceed under Section 147."
+}

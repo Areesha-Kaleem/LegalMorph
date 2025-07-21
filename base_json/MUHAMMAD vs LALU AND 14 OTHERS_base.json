@@ -1,0 +1,88 @@
+{
+  "case_title": "MUHAMMAD vs LALU AND 14 OTHERS",
+  "reference_no_or_id": "R. O. R. No, 738 of 1976-77",
+  "judgment_date": "1977-07-21",
+  "first_hearing_date": "N/A",
+  "court": "Board of Revenue",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Aslam Arab"
+  ],
+  "appellant": [
+    "Muhammad"
+  ],
+  "respondant": [
+    "Lalu",
+    "14 Others"
+  ],
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": []
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "The petitioner claimed he was allotted inferior land and not given his full entitlement. He opposed the separation of his co-sharer Khia's share in Scheme No. 474.",
+  "investigation_summary": "The record showed that the petitioner and his co-sharer Khia received 5 kanals-17 marlas less land (in terms of Class I) than their entitlement after consolidation.",
+  "judgment_summary": "The court dismissed the revision petition but directed the Collector (Cons.) to make good the shortage of 3 kanals-17 marlas (in terms of Class I) from respondents who received excess land. The request to keep Khia's share joint was rejected to avoid friction and litigation.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Revision dismissed with modification to address land shortage.",
+  "legal_arguments": [
+    "Petitioner argued he was allotted inferior land and requested Khia's share not be separated.",
+    "Court found petitioner and Khia received less land than entitled and directed correction."
+  ],
+  "assets": [
+    {
+      "type": "Land",
+      "details": {
+        "scheme_no": "474",
+        "class_I": "65 kanals-8 marlas",
+        "class_II": "149 kanals-13 marlas",
+        "class_III": "11 kanals"
+      }
+    }
+  ],
+  "statutes": [
+    "Consolidation of Holdings Ordinance, 1960"
+  ],
+  "sections": [
+    "Section 13"
+  ],
+  "citations": [
+    "P L D 1978 Rey. 23"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Land Consolidation",
+    "Property Dispute"
+  ],
+  "key_issues": [
+    "Entitlement to land allocation",
+    "Separation of co-sharer's share"
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "Khata": "A record of land ownership and division among co-sharers.",
+    "Wanda": "Division of land among co-sharers."
+  },
+  "words_and_phrases": {
+    "Consolidation": "The process of reorganizing land holdings to improve efficiency and equity.",
+    "Co-sharer": "A person who jointly owns a property with others."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case involves a revision petition under Section 13 of the Consolidation of Holdings Ordinance, 1960. The petitioner claimed inferior land allocation and opposed separation of co-sharer's share. The court dismissed the petition but directed correction of land shortage from respondents who received excess land."
+}

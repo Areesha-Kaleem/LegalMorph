@@ -1,0 +1,59 @@
+{
+  "case_title": "Malik UMAR ASLAM AWAN vs Mst SUMAIRA MALIK and others",
+  "case_number": "Election Petition No. 104 of 2008",
+  "judgment_date": "2013-04-05",
+  "court_name": "Election Tribunal",
+  "judge": "Ijaz-ul-Ahsan",
+  "reported_as": "2013 C L C 984",
+  "result": "Petition dismissed",
+  "appellant": "Malik UMAR ASLAM AWAN",
+  "respondent": "Mst SUMAIRA MALIK and others",
+  "issues": {
+    "issue_1": "Whether in the facts and circumstances given in the election petition, the election of NA-69 is void?",
+    "issue_2": "Whether the election petition is not maintainable and has been instituted in violation of the provisions of the Representation of the People Act, 1976?"
+  },
+  "judgment_summary": {
+    "allegations": {
+      "corrupt_acts": "Alleged corrupt and illegal acts by respondent No. 1 before and during polling.",
+      "bogus_votes": "Claims of bogus votes cast and manipulation of election results.",
+      "degree_fraud": "Accusation that respondent No. 1 procured a fabricated Bachelor of Arts degree through impersonation."
+    },
+    "findings": {
+      "degree_verification": "University of Punjab verified the degree as valid after two inquiries.",
+      "impersonation_claims": "No credible evidence provided to substantiate impersonation allegations.",
+      "photograph_comparison": "Photographs on admission forms matched respondent No. 1."
+    },
+    "decision": {
+      "issue_1": "Decided against the petitioner; allegations of fraud and impersonation not proven.",
+      "issue_2": "Election petition deemed maintainable but dismissed due to lack of merit."
+    }
+  },
+  "evidence": {
+    "petitioner_witnesses": [
+      "Muhammad Ahmad Farooqi",
+      "Muhammad Tariq Hussain",
+      "Muhammad Zubair",
+      "Ghulam Hussain Baloch",
+      "Muhammad Rauf Nawaz",
+      "Mazhar Iqbal",
+      "Malik Muhammad Aslam"
+    ],
+    "respondent_witnesses": [
+      "Respondent No. 1"
+    ],
+    "documents_produced": [
+      "Admission Form",
+      "Roll Number Slip",
+      "National Identity Card",
+      "Poster from election campaign",
+      "University inquiry reports"
+    ]
+  },
+  "legal_basis": {
+    "laws_invoked": [
+      "Representation of the People Act, 1976",
+      "Code of Civil Procedure, 1908",
+      "Qanun-e-Shahadat Order, 1984"
+    ]
+  }
+}

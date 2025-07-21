@@ -1,0 +1,34 @@
+{
+  "case_title": "QAISER vs THE STATE",
+  "case_number": "338 of 1967",
+  "judgment_date": "1968-02-28",
+  "court_name": "Baghdad-ul-Jadid",
+  "judge": "Ch. Muhammad Siddiq",
+  "reported_as": "1968 P Cr. L J 781",
+  "result": "Application allowed",
+  "appellant": "QAISER",
+  "respondent": "THE STATE",
+  "legal_provisions": {
+    "criminal_procedure_code_section": "526",
+    "pakistan_penal_code_sections": [
+      "366",
+      "148",
+      "149"
+    ]
+  },
+  "grounds_for_transfer": {
+    "ground_1": "Disallowed cross-examination of Noor Muhammad regarding identification of accused.",
+    "ground_2": "Disallowed cross-examination of Mst. Allah Rakhi regarding identification of accused due to lack of identification parade request.",
+    "ground_3": "Prosecution allowed to produce evidence in instalments, prejudicing the defense.",
+    "ground_4": "Presiding Officer threatened to cancel bails upon defense objection regarding witness production."
+  },
+  "magistrate_report": {
+    "denial_of_threats": "Magistrate denied threatening to cancel bails.",
+    "cross_examination_noor_muhammad": "Disallowed due to Noor Muhammad's admission of inability to identify accused.",
+    "cross_examination_mst_allah_rakhi": "Disallowed for unsound reasons; accused should have been allowed to cross-examine."
+  },
+  "judgment_summary": {
+    "transfer_order": "Case transferred to another Court of competent jurisdiction.",
+    "reasoning": "Procedure adopted prejudiced the defense and disallowed valid cross-examination."
+  }
+}

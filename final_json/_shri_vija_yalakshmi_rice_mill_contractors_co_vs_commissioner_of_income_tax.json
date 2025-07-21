@@ -1,0 +1,94 @@
+{
+  "case_title": "Shri VIJA YALAKSHMI RICE MILL CONTRACTORS CO. vs COMMISSIONER OF INCOME-TAX",
+  "reference_no_or_id": "Income-tax Reference No. 171 of 1984",
+  "judgment_date": "1989-02-01",
+  "first_hearing_date": "N/A",
+  "court": "Andhra Pradesh High Court",
+  "bench_type": "Division Bench",
+  "judges": [
+    "B. P. Jeevan Reddy",
+    "V. Neeladri Rao"
+  ],
+  "appellant": [
+    "Shri VIJA YALAKSHMI RICE MILL CONTRACTORS CO."
+  ],
+  "respondant": [
+    "COMMISSIONER OF INCOME-TAX"
+  ],
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": []
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "Sri Y. Ratnakar"
+    ]
+  },
+  "complaint_summary": "The appellant sought registration of its partnership firm under Section 256(1) of the Income-tax Act, 1961, but was denied due to failure to produce account books, claiming they were lost.",
+  "investigation_summary": "The Income-tax Officer declined registration of the firm, citing lack of evidence to verify profit distribution among partners due to missing account books. The Appellate Assistant Commissioner and Tribunal upheld this decision.",
+  "judgment_summary": "The court affirmed the Tribunal's decision, stating the refusal of registration was justified as the appellant failed to prove the genuineness of the firm and proper distribution of profits and losses as per the partnership deed.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Question answered in the affirmative, in favor of the Revenue and against the assessee.",
+  "legal_arguments": [
+    "The appellant argued that copies of accounts showing profit distribution were submitted along with the return.",
+    "The Income-tax Officer argued that the loss of account books was not satisfactorily explained, warranting an adverse inference."
+  ],
+  "assets": [],
+  "statutes": [
+    "Income-tax Act, 1961"
+  ],
+  "sections": [
+    "Section 256(1)"
+  ],
+  "citations": [
+    "1990 P T D 552"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Income Tax",
+    "Partnership Registration"
+  ],
+  "key_issues": [
+    "Whether the refusal of registration of the firm was justified due to failure to produce account books.",
+    "Whether the genuineness of the firm was established in the absence of account books."
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "adverse inference": "A legal principle allowing a court to infer that missing evidence would have been unfavorable to the party responsible for its absence."
+  },
+  "words_and_phrases": {
+    "registration of firm": "The process of legally recognizing a partnership firm under applicable statutes."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around the refusal of registration of a partnership firm due to the appellant's inability to produce account books, which were claimed to be lost. The court upheld the decision of the Income-tax Officer and Tribunal, affirming that the genuineness of the firm could not be established without proper evidence of profit distribution.",
+  "case_number": "Income-tax Reference No. 171 of 1984",
+  "court_name": "Andhra Pradesh High Court",
+  "result": "Question answered in the affirmative",
+  "legal_question": "Whether, on the facts and circumstances of the case, the Tribunal is justified in upholding the refusal of registration of the firm by the lower authorities?",
+  "facts": {
+    "assessment_year": "1976-77",
+    "accounting_year_end": "1975-10-13",
+    "return_filed_loss": "Rs. 2,46,230",
+    "income_assessed": "Rs. 20,000",
+    "books_of_account_status": "Lost (not accepted by authorities)"
+  },
+  "reasoning": {
+    "income_tax_officer": "Refused registration due to lack of proof of profit distribution and loss of books.",
+    "appellate_assistant_commissioner": "Agreed with refusal, citing lack of genuineness of the firm.",
+    "tribunal": "Upheld the reasoning of lower authorities."
+  },
+  "advocate_for_assessee": "Sri Y. Ratnakar",
+  "final_decision": "Registration of the firm refused; decision in favor of Revenue and against the assessee."
+}

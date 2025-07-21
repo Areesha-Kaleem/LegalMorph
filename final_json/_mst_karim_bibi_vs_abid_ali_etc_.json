@@ -1,0 +1,147 @@
+{
+  "case_title": "Mst. KARIM BIBI vs ABID ALI ETC.",
+  "reference_no_or_id": "R. O. R. No, 1474 of 1966-67",
+  "case_number": "R. O. R. No. 1474 of 1966-67",
+  "judgment_date": "1976-10-16",
+  "first_hearing_date": "N/A",
+  "court": "Board of Revenue",
+  "bench_type": "Full Board",
+  "judges": [
+    "M. S. Chaudhry",
+    "Zahur Azar",
+    "Aslam Arab"
+  ],
+  "appellant": [
+    "Mst. Karim Bibi"
+  ],
+  "respondant": [
+    "Abid Ali",
+    "Others"
+  ],
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": []
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "Mst. Karim Bibi challenged the termination of her tenancy rights under section 3 of the Muslim Personal Law (Shariat) Application Act, 1962, arguing that her rights were statutory under section 20(b) of the Colonization of Government Lands Act, 1912, and not governed by Customary Law.",
+  "investigation_summary": "The case involved the interpretation of succession rights under section 20(b) of the Colonization of Government Lands Act, 1912, and whether these rights were affected by section 3 of the Muslim Personal Law (Shariat) Application Act, 1962.",
+  "judgment_summary": "The court ruled that the Muslim Personal Law (Shariat) Application Act, 1962, does not abolish life interests held by females under section 20(b) of the Colonization of Government Lands Act, 1912. The succession to tenancy under section 20(b) is statutory and unaffected by the Shariat Act.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Reference answered accordingly. Mst. Karim Bibi's tenancy rights under section 20(b) were upheld.",
+  "legal_arguments": [
+    "Section 20(b) of the Colonization of Government Lands Act, 1912, provides statutory succession rights.",
+    "Section 3 of the Muslim Personal Law (Shariat) Application Act, 1962, applies only to life estates under Customary Law.",
+    "Precedents cited include P L D 1970 S C 580 and P L D 1971 Lab. 567."
+  ],
+  "assets": [],
+  "statutes": [
+    "Colonization of Government Lands Act, 1912",
+    "Muslim Personal Law (Shariat) Application Act, 1962"
+  ],
+  "sections": [
+    "Section 20(b) - Colonization of Government Lands Act, 1912",
+    "Section 3 - Muslim Personal Law (Shariat) Application Act, 1962"
+  ],
+  "citations": [
+    "P L D 1977 Rev. 54",
+    "P L D 1970 S C 580",
+    "P L D 1971 Lab. 567"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Succession Law",
+    "Property Law",
+    "Statutory Interpretation"
+  ],
+  "key_issues": [
+    "Interpretation of section 20(b) of the Colonization of Government Lands Act, 1912.",
+    "Applicability of section 3 of the Muslim Personal Law (Shariat) Application Act, 1962."
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "Statutory Succession": "Succession rights defined by statute rather than Customary Law.",
+    "Life Estate": "A property interest limited to the lifetime of the holder."
+  },
+  "words_and_phrases": {
+    "Reward Grant": "Land granted as a reward under statutory provisions.",
+    "Customary Law": "Traditional legal practices governing succession and property."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around the interpretation of statutory succession rights under section 20(b) of the Colonization of Government Lands Act, 1912, and their immunity from section 3 of the Muslim Personal Law (Shariat) Application Act, 1962. The court upheld the statutory basis of Mst. Karim Bibi's tenancy rights.",
+  "result": "Reference answered accordingly",
+  "reported_as": "P L D 1977 Rev. 54",
+  "legal_issues": [
+    "Applicability of the Muslim Personal Law (Shariat) Application Act, 1962, to life interests under section 20(b) of the Colonization of Government Lands Act, 1912."
+  ],
+  "key_points": {
+    "original_grantee": "Miran Bakhsh",
+    "land_details": "Squares Nos. 23, 24, 30, 45, and 46 of Chak No. 651/GB, Tehsil Toba Tek Singh, District Lyallpur",
+    "grant_year": 1930,
+    "grant_type": "Reward grant under section 10 of the Colonization of Government Lands Act, 1912",
+    "succession": {
+      "initial_successor": "Mst. Karim Bibi (widow) under section 20(b)",
+      "mutation_date": "1964-10-13",
+      "mutation_order": {
+        "Mst. Karim Bibi": "1/8 share",
+        "Mst. Nawab Bibi, Ahmad Bibi, Mst. Anwari": "2/3 share",
+        "Abdul Ghafoor Khan, Ali Ahmad, Ghulam Nabi": "Residuaries"
+      }
+    }
+  },
+  "appeals": [
+    {
+      "authority": "Collector",
+      "decision_date": "1965-11-03",
+      "result": "Dismissed"
+    },
+    {
+      "authority": "Commissioner, Sargodha Division",
+      "decision_date": "1967-01-25",
+      "result": "Rejected"
+    }
+  ],
+  "arguments": {
+    "petitioner": [
+      "The Muslim Personal Law (Shariat) Application Act, 1962, does not apply to statutory grants under section 20(b) of the Colonization of Government Lands Act, 1912.",
+      "Her rights are statutory and not based on Customary Law.",
+      "She is entitled to retain the grant until death or remarriage."
+    ],
+    "respondent": [
+      "The tenancy devolved under section 20(b) is subject to Customary Law and terminated under section 3 of the Shariat Act, 1962.",
+      "The language of section 20(b) aligns with Customary Law, making it subject to the Shariat Act."
+    ]
+  },
+  "court_opinion": {
+    "main_findings": [
+      "Section 20(b) of the Colonization of Government Lands Act, 1912, provides a statutory rule of succession.",
+      "The Muslim Personal Law (Shariat) Application Act, 1962, applies only to life estates held under Customary Law, not statutory grants.",
+      "Succession under section 20(b) is distinct from section 21(b), which is governed by Customary Law."
+    ],
+    "precedents_cited": [
+      {
+        "case": "Mst. Hanamon and others v. Sohan Singh",
+        "finding": "Section 20 provides a self-contained law of succession overriding Customary Law."
+      },
+      {
+        "case": "P L D 1970 S C 580",
+        "finding": "Customary Law does not apply to estates governed by sections 19, 20, and 21 of the Colonization of Government Lands Act."
+      }
+    ]
+  }
+}

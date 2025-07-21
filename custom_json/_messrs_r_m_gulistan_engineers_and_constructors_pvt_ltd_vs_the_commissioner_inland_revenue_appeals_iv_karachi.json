@@ -1,0 +1,55 @@
+{
+  "court_name": "Appellate Tribunal Inland Revenue",
+  "judges": [
+    "Abdul Nasir Butt",
+    "Abdul Qayyoom Sheikh"
+  ],
+  "case_title": "Messrs R.M. GULISTAN ENGINEERS AND CONSTRUCTORS (PVT.) LTD. vs The COMMISSIONER INLAND REVENUE (APPEALS-IV), KARACHI",
+  "case_number": "S.T.A. No,15/KB of 2013",
+  "judgment_date": "2015-04-29",
+  "reported_as": "2016 P T D (Trib.) 1957",
+  "result": "Order accordingly",
+  "appellant": "Messrs R.M. GULISTAN ENGINEERS AND CONSTRUCTORS (PVT.) LTD.",
+  "respondent": "The COMMISSIONER INLAND REVENUE (APPEALS-IV), KARACHI",
+  "facts": {
+    "allegation": "Short payment of duty and taxes on import of Seamless Steel Pipes/Tubes.",
+    "show_cause_notices": [
+      {
+        "date": "2012-03-28",
+        "details": "Wrong application of S.R.O. 575(I)/2006 at the time of clearance of goods."
+      },
+      {
+        "date": "2012-04-21",
+        "details": "Misclassification under H.S. Code 7303.0000 instead of H.S. Code 7304.3900."
+      }
+    ],
+    "amounts": {
+      "sales_tax_short_paid": "Rs. 11,531,518",
+      "federal_excise_duty_short_paid": "Rs. 69,306"
+    }
+  },
+  "legal_issues": {
+    "jurisdiction": "Concurrent jurisdiction between Customs and Inland Revenue departments leading to 'Double Jeopardy'.",
+    "show_cause_notices": "Deficient, vague, and time-barred under Section 36(2) of the Sales Tax Act, 1990.",
+    "classification": "Dispute over PCT Heading for Ductile Cast Iron Pipes under S.R.O. 575(I)/2006."
+  },
+  "key_arguments": {
+    "appellant": {
+      "jurisdiction": "Audit and contravention report initiated by Directorate of Post Clearance Audit Lahore were without jurisdiction.",
+      "show_cause_notices": "Not issued within the prescribed limitation period and lacked proper legal provisions.",
+      "classification": "Incorrect claim to PCT Heading does not amount to misdeclaration."
+    },
+    "respondent": {
+      "jurisdiction": "Inland Revenue Officer has authority under relevant provisions of Sales Tax Act, 1990 and Federal Excise Act, 2005.",
+      "classification": "Imported items do not fall under 'machinery and equipment'."
+    }
+  },
+  "decision": {
+    "summary": "Show cause notices dated 28.03.2012 and 21.04.2012 declared invalid and time-barred. Proceedings based on these notices annulled.",
+    "legal_basis": [
+      "Section 36(2) of the Sales Tax Act, 1990",
+      "Doctrine of Double Jeopardy",
+      "Relevant case laws cited by appellant"
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "case_title": "INDU BHUSHAN SAH (H.U.F.) vs WEALTH TAX OFFICER and another",
+  "reference_no_or_id": "Writ Petition No. 506 of 1981",
+  "judgment_date": "1994-01-24",
+  "first_hearing_date": "N/A",
+  "court": "Allahabad High Court",
+  "bench_type": "Division Bench",
+  "judges": [
+    "R. K. Gulati",
+    "A. P. Misra"
+  ],
+  "appellant": [
+    "INDU BHUSHAN SAH (H.U.F.)"
+  ],
+  "respondant": [
+    "WEALTH TAX OFFICER",
+    "Valuation Officer"
+  ],
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": []
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "The appellant challenged the initiation of assessment proceedings under Section 17 of the Wealth Tax Act for the assessment years 1975-76 to 1978-79, alleging that the notices were issued solely based on audit objections.",
+  "investigation_summary": "The appellant inspected the files on July 24, 1981, revealing that the impugned notices were issued due to audit objections. No counter-affidavit was filed by the respondents despite repeated opportunities.",
+  "judgment_summary": "The court held that initiation of proceedings under Section 17 of the Wealth Tax Act based solely on audit objections was unsustainable. The impugned notices and orders were quashed, and the writ petitions were allowed with costs.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Impugned notices and orders quashed; writ petitions allowed with costs.",
+  "legal_arguments": [
+    "Section 17 of the Wealth Tax Act is in pari materia with Section 147 of the Income Tax Act, 1961.",
+    "Audit objections cannot form the basis for reopening assessments as per precedents in Ashoke Gupta v. Asstt. CED (1991) 188 ITR 715 (All.) and Indian and Eastern Newspaper Society Ltd. (1979) 119 ITR 996 (SC)."
+  ],
+  "assets": [],
+  "statutes": [
+    "Wealth Tax Act",
+    "Income Tax Act, 1961",
+    "Estate Duty Act, 1953"
+  ],
+  "sections": [
+    "Section 17 of the Wealth Tax Act",
+    "Section 35 of the Wealth Tax Act",
+    "Section 16-A(2) of the Wealth Tax Act",
+    "Section 147 of the Income Tax Act",
+    "Section 59 of the Estate Duty Act"
+  ],
+  "citations": [
+    "1995 P T D 987",
+    "208 I T R 598",
+    "Ashoke Gupta v. Asstt. CED (1991) 188 ITR 715 (All.)",
+    "Indian and Eastern Newspaper Society Ltd. (1979) 119 ITR 996 (SC)"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Tax Law",
+    "Administrative Law"
+  ],
+  "key_issues": [
+    "Validity of assessment proceedings initiated under Section 17 of the Wealth Tax Act based on audit objections.",
+    "Applicability of precedents regarding reopening assessments."
+  ],
+  "maxims": {
+    "pari materia": "Statutes addressing similar subject matter should be interpreted harmoniously."
+  },
+  "legal_terms": {
+    "audit objection": "A formal objection raised during the audit process regarding procedural or substantive issues."
+  },
+  "words_and_phrases": {
+    "impugned notice": "A notice that is being challenged in a legal proceeding."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case involves the challenge to assessment proceedings under Section 17 of the Wealth Tax Act for multiple years. The court quashed the notices and orders, citing precedents that audit objections cannot justify reopening assessments."
+}

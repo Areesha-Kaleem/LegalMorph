@@ -1,0 +1,87 @@
+{
+  "case_title": "Novartis AG vs Nabiqasim Industries (Private) Limited",
+  "reference_no_or_id": "HCA No. 134 of 2015",
+  "judgment_date": "2017-03-03",
+  "first_hearing_date": "2015-04-23",
+  "court": "Sindh High Court",
+  "bench_type": "Division Bench",
+  "judges": [
+    "Sajjad Ali Shah",
+    "Zulfiqar Ahmad Khan"
+  ],
+  "appellant": [
+    "Novartis AG"
+  ],
+  "respondant": [
+    "Nabiqasim Industries (Private) Limited"
+  ],
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": [
+        "Use of deceptively similar trademark DESCOL"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Counsel for Novartis AG"
+    ],
+    "defense": [
+      "Counsel for Nabiqasim Industries"
+    ]
+  },
+  "complaint_summary": "Novartis AG alleged that Nabiqasim Industries used a deceptively similar trademark DESCOL, which infringed upon their registered trademark LESCOL used for pharmaceuticals.",
+  "investigation_summary": "The court reviewed the packaging, phonetic similarities, and registration status of both trademarks. It analyzed precedents and public health concerns regarding confusion between drug names.",
+  "judgment_summary": "The court allowed the appeal, setting aside the impugned order. It ruled that DESCOL was deceptively similar to LESCOL and posed risks of confusion, especially in the pharmaceutical domain. The court emphasized public health concerns and ordered the main suit to be decided within six months.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Appeal allowed; respondents restricted from using the trademark DESCOL.",
+  "legal_arguments": [
+    "Phonetic similarity between LESCOL and DESCOL.",
+    "Public health risks due to confusion between drug names.",
+    "Trade Mark laws govern the use of drug names in the market, not Drug Authority registration."
+  ],
+  "assets": [],
+  "statutes": [
+    "Pakistan Trade Marks Registry",
+    "Drug Authority Regulations"
+  ],
+  "sections": [],
+  "citations": [
+    "Glucophage vs. Gluconorm",
+    "CIPROXIN vs. CIPROQUINE vs. CIPROCIDE (2003 CLD 794)",
+    "Glaxo Laboratories Limited vs. Assistant Registrar Trade Marks Karachi (PLD 1977 Karachi 858)",
+    "Sanofi-Aventis v GlaxoSmithKline Biologicals SA ((2010) 89 CPR (4th) 378 (TMOB))"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Intellectual Property",
+    "Trademark Infringement",
+    "Pharmaceutical Regulations"
+  ],
+  "key_issues": [
+    "Likelihood of confusion between trademarks.",
+    "Impact of deceptive similarity on public health.",
+    "Legal precedence in trademark disputes."
+  ],
+  "maxims": {
+    "N/A": "N/A"
+  },
+  "legal_terms": {
+    "Phonetic similarity": "Similarity in sound between two trademarks.",
+    "Deceptive similarity": "A resemblance between trademarks that may mislead consumers."
+  },
+  "words_and_phrases": {
+    "Totality of impression test": "A method to assess overall similarity between trademarks.",
+    "Prescription medicines": "Drugs sold only upon a doctor's prescription."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around trademark infringement in the pharmaceutical sector. Novartis AG's registered trademark LESCOL was allegedly infringed by Nabiqasim Industries' use of DESCOL. The court ruled in favor of Novartis AG, emphasizing public health risks and the likelihood of confusion between the trademarks."
+}

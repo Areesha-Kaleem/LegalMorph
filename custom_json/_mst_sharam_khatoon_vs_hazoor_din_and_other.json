@@ -1,0 +1,56 @@
+{
+  "case_title": "Mst. SHARAM KHATOON vs HAZOOR DIN And Other",
+  "case_number": "Civil Appeal No. 13-A of 1954",
+  "judgment_date": "1955-02-16",
+  "court": "Baghdad-ul-Jadid",
+  "judges": [
+    "Abdul Hameed Malik",
+    "Faiz Muhammad"
+  ],
+  "appellant": "Mst. Sharam Khatoon",
+  "respondent": "Hazoor Din And Other",
+  "result": "Appeal dismissed",
+  "facts": {
+    "plaintiff": "Mst. Sharam Khatoon",
+    "defendants": [
+      "Ali Muhammad",
+      "Muhammad Abdullah"
+    ],
+    "land_location": "Mouza Gahi Tehsil Sadiqabad",
+    "sale_price": "Rs. 15,000",
+    "sale_date": "1952-03-26",
+    "pre_emption_suit_date": "1953-06-15",
+    "claim_basis": "Plaintiff claimed superior right of pre-emption as daughter of the vendor."
+  },
+  "legal_arguments": {
+    "plaintiff_arguments": [
+      "Section 9 of the Punjab Pre-emption Act of 1913 does not repeal Section 5 of the Punjab Land Alienation Act of 1900.",
+      "Improper enquiry by Deputy Commissioner before sanctioning sale under Section 3(2) of the Punjab Land Alienation Act.",
+      "Section 72 of the Interim Constitution Act 1952 of Bahawalpur renders the Land Alienation Act of 1900 inoperative and void."
+    ],
+    "defendant_arguments": [
+      "Sale sanctioned by Deputy Commissioner under Section 3(2) of the Punjab Land Alienation Act of 1900.",
+      "Land not pre-emptiable under Section 9 of the Punjab Pre-emption Act."
+    ]
+  },
+  "court_findings": {
+    "section_9_pre_emption_act": "Explicitly bars pre-emption for sales sanctioned under Section 3(2) of the Punjab Land Alienation Act.",
+    "section_21_land_alienation_act": "Debars Civil Courts from questioning Deputy Commissioner's exercise of powers under the Act.",
+    "section_72_interim_constitution_act": "Prohibition clause does not invalidate the Land Alienation Act due to Section 75 of the Interim Constitution Act, which preserves prior laws."
+  },
+  "legal_precedents": [
+    {
+      "citation": "124 P R 388",
+      "finding": "Section 9 of the Pre-emption Act repeals conflicting provisions of Section 5 of the Punjab Land Alienation Act."
+    },
+    {
+      "citation": "Unreported ruling of High Court dated 1952-10-27",
+      "finding": "Civil Courts lack jurisdiction over matters decided by Revenue Officers under the Punjab Land Alienation Act."
+    }
+  ],
+  "decision": {
+    "reasoning": "Sale sanctioned under Section 3(2) of the Punjab Land Alienation Act is immune from pre-emption under Section 9 of the Pre-emption Act. Land Alienation Act remains valid under Section 75 of the Interim Constitution Act.",
+    "costs": "Parties to bear their own costs."
+  },
+  "reported_as": "P L D 1955 Baghdad-ul-Jadid 13"
+}

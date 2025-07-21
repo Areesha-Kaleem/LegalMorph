@@ -1,0 +1,160 @@
+{
+  "case_title": "PUSPA DEVI vs COMMISSIONER OF INCOME-TAX",
+  "reference_no_or_id": "Income Tax Reference No. 54 of 1986",
+  "judgment_date": "1993-02-11",
+  "first_hearing_date": "N/A",
+  "court": "Allahabad High Court",
+  "bench_type": "Division Bench",
+  "judges": [
+    "A. P. Misra",
+    "M. C. Agarwal"
+  ],
+  "appellant": [
+    "PUSPA DEVI"
+  ],
+  "respondant": [
+    "COMMISSIONER OF INCOME-TAX"
+  ],
+  "accussed_details": [
+    {
+      "name": "Puspa Devi",
+      "age": "N/A",
+      "gender": "Female",
+      "designation": "Widow of Narendra Kumar",
+      "allegation": [
+        "Income arising to minor sons from partnership benefits assessed under section 64(1)(iii) of Income Tax Act, 1961."
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "The Assessing Officer sought to include income arising to the minor sons of the assessee from their admission to the benefits of a partnership firm in the assessee's total income under section 64(1)(iii) of the Income Tax Act, 1961.",
+  "investigation_summary": "The Assessing Officer initiated action under section 148 of the Income Tax Act for assessment years 1976-77, 1977-78, and 1978-79. The assessee contended that she had no income of her own to which the minors' income could be added. This contention was rejected by the Assessing Officer but accepted by the Appellate Assistant Commissioner. The Income Tax Tribunal upheld the Assessing Officer's view.",
+  "judgment_summary": "The court held that the income arising to the minor sons of the assessee from their admission to the benefits of a partnership firm is liable to be included and assessed in the hands of the assessee under section 64(1)(iii) of the Income Tax Act, 1961, even if the assessee has no income of her own from any source.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Reference answered in favor of the Revenue.",
+  "legal_arguments": [
+    "Section 64(1)(iii) of the Income Tax Act, 1961 mandates inclusion of income arising to minor children admitted to partnership benefits in the total income of the parent.",
+    "The assessee argued that absence of her own income precludes application of section 64(1)(iii).",
+    "The court rejected this argument, citing precedents from Andhra Pradesh, Karnataka, Patna, Orissa, and Madhya Pradesh High Courts."
+  ],
+  "assets": [],
+  "statutes": [
+    "Income Tax Act, 1961"
+  ],
+  "sections": [
+    "Section 64(1)(iii)",
+    "Section 148",
+    "Section 256(1)",
+    "Section 260(1)"
+  ],
+  "citations": [
+    "Sivalal Sogaji, In re (1983) 140 ITR 39",
+    "CIT v. G. Gopal Rao (1985) 151 ITR 308",
+    "CIT v. L.N. Horkeri (1986) 162 ITR 513",
+    "CIT v. Rameshwarlal Jawanpuria (1992) 197 ITR 606",
+    "CIT v. Sanyasi Mohapatra (1991) 188 ITR 602",
+    "CIT v. Shri Manakram (1990) 183 ITR 382",
+    "Additional CIT v. H.L. Gulati (1982) 138 ITR 648"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Income Tax",
+    "Tax Evasion"
+  ],
+  "key_issues": [
+    "Whether income arising to minor sons admitted to partnership benefits can be assessed in the hands of the parent under section 64(1)(iii) of the Income Tax Act, 1961.",
+    "Interpretation of 'total income' under section 64(1)(iii)."
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "Total Income": "Defined under section 2(45) of the Income Tax Act, 1961.",
+    "Partnership Benefits": "Income arising to minors admitted to partnership benefits."
+  },
+  "words_and_phrases": {
+    "Admission to Benefits of Partnership": "Inclusion of minors in partnership profits without being partners."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk",
+    "reported_as": "1994 P T D 617"
+  },
+  "summary_vector_notes": "The judgment clarifies the application of section 64(1)(iii) of the Income Tax Act, 1961, emphasizing that income arising to minor children admitted to partnership benefits is includible in the parent's total income, irrespective of the parent's own income status. The court relied on precedents from multiple High Courts to reject the assessee's contention.",
+  "case_number": "Income Tax Reference No. 54 of 1986",
+  "facts": {
+    "deceased_partner": "Sri Narendra Kumar",
+    "firm_name": "Messrs Malik Chemical Works, Bulanala, Varanasi",
+    "assessee_relation": "Widow of Sri Narendra Kumar",
+    "minor_children": [
+      "Ashok Kumar",
+      "Rakesh Kumar",
+      "Rajesh Kumar",
+      "Rajendra Kumar",
+      "Surendra Kumar"
+    ],
+    "assessment_years": [
+      "1976-77",
+      "1977-78",
+      "1978-79"
+    ],
+    "assessee_income_status": "No income of her own",
+    "minor_income_source": "Admission to benefits of partnership in the firm"
+  },
+  "legal_provisions": {
+    "primary_section": "Section 64(1)(iii) of the Income Tax Act, 1961",
+    "definition_referenced": "Section 2(45) of the Income Tax Act, 1961"
+  },
+  "precedents_considered": [
+    {
+      "case_name": "Sivalal Sogaji, In re",
+      "citation": "1983 140 ITR 39",
+      "court": "Andhra Pradesh High Court",
+      "decision": "Rejected similar contention"
+    },
+    {
+      "case_name": "CIT v. G. Gopal Rao",
+      "citation": "1985 151 ITR 308",
+      "court": "Andhra Pradesh High Court",
+      "decision": "Rejected similar contention"
+    },
+    {
+      "case_name": "CIT v. L.N. Horkeri",
+      "citation": "1986 162 ITR 513",
+      "court": "Karnataka High Court",
+      "decision": "Rejected similar contention"
+    },
+    {
+      "case_name": "CIT v. Rameshwarlal Jawanpuria",
+      "citation": "1992 197 ITR 606",
+      "court": "Patna High Court",
+      "decision": "Rejected similar contention"
+    },
+    {
+      "case_name": "CIT v. Sanyasi Mohapatra",
+      "citation": "1991 188 ITR 602",
+      "court": "Orissa High Court",
+      "decision": "Rejected similar contention"
+    },
+    {
+      "case_name": "CIT v. Shri Manakram",
+      "citation": "1990 183 ITR 382",
+      "court": "Madhya Pradesh High Court",
+      "decision": "Rejected similar contention"
+    }
+  ],
+  "key_arguments": {
+    "assessee_argument": "Income of minors cannot be included as assessee has no other income to which it can be added.",
+    "court_rationale": "Section 64(1)(iii) does not require the assessee to have other income for inclusion of minor's income. Accepting the assessee's interpretation would render similar provisions unworkable."
+  },
+  "decision": {
+    "question_answered": "Affirmative",
+    "reasoning": "Income arising to minor sons admitted to the benefits of partnership is includible in the assessee's total income, even if the assessee has no other income."
+  }
+}

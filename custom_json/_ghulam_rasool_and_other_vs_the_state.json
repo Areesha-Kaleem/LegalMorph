@@ -1,0 +1,60 @@
+{
+  "case_title": "GHULAM RASOOL, And Other vs THE STATE",
+  "case_number": "Review No. 243,192 and 193 of 1995",
+  "judgment_date": "1995-07-19",
+  "court_name": "Board of Revenue, Punjab",
+  "judge": "Raza Ali",
+  "reported_as": "K.L.R. 1995 Revenue Cases 188",
+  "result": "Accepted",
+  "appellant": "GHULAM RASOOL, And Other",
+  "respondent": "THE STATE",
+  "facts": {
+    "lease_scheme": "15 years Leases Scheme",
+    "issues": [
+      "Non-payment of rent",
+      "Non-cultivation of land to 90% extent"
+    ],
+    "land_resumption_date": "1981-03-25",
+    "lower_court_decisions": [
+      {
+        "court": "Additional Commissioner",
+        "decision_date": "1992-06-30",
+        "result": "Dismissed (time-barred)"
+      },
+      {
+        "court": "Member (J-III)",
+        "decision_dates": [
+          "1995-03-30",
+          "1995-05-15"
+        ],
+        "result": "Dismissed (time-barred)"
+      }
+    ]
+  },
+  "review_petitions": {
+    "petition_numbers": [
+      "ROR No. 1395/94",
+      "ROR No. 1369/94",
+      "ROR No. 1370/94"
+    ],
+    "result": "Accepted",
+    "modifications": {
+      "penalty": "Rs. 5,000/- each",
+      "lease_extension": "Up to Rabi 1998",
+      "conditions": [
+        "Deposit arrears of lagan within three months",
+        "Apply for proprietary rights under the 1995 scheme"
+      ]
+    }
+  },
+  "legal_arguments": {
+    "petitioner_claims": [
+      "Lower courts did not consult the record",
+      "Land resumed without issuing notices",
+      "Breaches are rectifiable"
+    ],
+    "court_findings": [
+      "Non-cultivation and non-payment of rent are rectifiable breaches"
+    ]
+  }
+}

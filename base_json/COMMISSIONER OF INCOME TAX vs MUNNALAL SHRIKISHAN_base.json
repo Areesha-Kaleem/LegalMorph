@@ -1,0 +1,79 @@
+{
+  "case_title": "COMMISSIONER OF INCOME TAX vs MUNNALAL SHRIKISHAN",
+  "reference_no_or_id": "Income Tax Application No. 4 of 1987 connected with I.T.A. Nos. 12 to 19 of 1987",
+  "judgment_date": "1987-03-31",
+  "first_hearing_date": "N/A",
+  "court": "Allahabad High Court",
+  "bench_type": "Division Bench",
+  "judges": [
+    "A. N. Varma",
+    "V. K. Khanna"
+  ],
+  "appellant": [
+    "Commissioner of Income Tax"
+  ],
+  "respondant": [
+    "Munnalal Shrikishan"
+  ],
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": []
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "Sri B. N. Bhatnagar"
+    ]
+  },
+  "complaint_summary": "The Commissioner of Income Tax filed an application challenging the Tribunal's refusal under Section 256(1) of the Income-tax Act, 1961, and raised questions regarding the calculation of interest under Section 220(2).",
+  "investigation_summary": "The Tribunal had earlier refused the application under Section 256(1) of the Income-tax Act, and the Commissioner of Income Tax filed a subsequent application under Section 256(2) to seek clarification on legal questions.",
+  "judgment_summary": "The court overruled the preliminary objection raised by the respondent regarding the limitation period under Section 256(2), clarifying that six months refers to calendar months. The court directed the Tribunal to state the case for the first question and submit it for the court's opinion.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Application partly allowed.",
+  "legal_arguments": [
+    "The respondent argued that the application was barred by limitation, citing Section 256(2) and a prior decision in CIT v. Laxmi Rattan Cotton Mills Co. Ltd.",
+    "The court clarified that the limitation period under Section 256(2) refers to six calendar months, not 180 days."
+  ],
+  "assets": [],
+  "statutes": [
+    "Income-tax Act, 1961"
+  ],
+  "sections": [
+    "Section 256(1)",
+    "Section 256(2)",
+    "Section 220(2)",
+    "Section 271(1)(a)"
+  ],
+  "citations": [
+    "CIT v. Laxmi Rattan Cotton Mills Co. Ltd. [1974] 27 ITR 285"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Income Tax",
+    "Limitation"
+  ],
+  "key_issues": [
+    "Interpretation of 'month' under Section 256(2) of the Income-tax Act.",
+    "Error in charging interest under Section 220(2)."
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "calendar month": "A full month as per the calendar, not necessarily 30 days."
+  },
+  "words_and_phrases": {
+    "month": "Interpreted as calendar month under Section 256(2)."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case involved the interpretation of limitation periods under Section 256(2) of the Income-tax Act, 1961, and the calculation of interest under Section 220(2). The court clarified that six months refers to calendar months and directed the Tribunal to submit the case for the first question."
+}

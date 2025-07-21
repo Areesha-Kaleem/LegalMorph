@@ -1,0 +1,124 @@
+{
+  "case_title": "SHER KHAN vs RAWALPINDI ELECTRIC & POWER Co. LTD.",
+  "reference_no_or_id": "Case No. 18(159) of 1976",
+  "judgment_date": "1976-09-23",
+  "first_hearing_date": "1976-02-18",
+  "court": "National Industrial Relations Commission",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Qaisar Khan"
+  ],
+  "appellant": [
+    "Sher Khan"
+  ],
+  "respondant": [
+    "Rawalpindi Electric & Power Co. Ltd."
+  ],
+  "accussed_details": [
+    {
+      "name": "Sher Khan",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Cooly",
+      "allegation": [
+        "Theft of materials from Power Workshop"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "Iftikhar Ahmad Abbasi (initially refused to appear)"
+    ]
+  },
+  "complaint_summary": "Sher Khan was accused of stealing materials from the Power Workshop and selling them to a party across the Railway Line, Chamanzar Colony. He was charge-sheeted and terminated from service effective 24-07-76.",
+  "investigation_summary": "An inquiry committee was formed on 14-02-76 to investigate the theft case. Sher Khan was issued a charge-sheet on 19-03-76 and required to submit an explanation. Multiple inquiries were held, but Sher Khan was not properly informed of changes in inquiry dates. The inquiry report lacked sufficient evidence to prove theft. The initial inquiry committee included Allah Bux Awan, Shafiq Ahmad, Fazal Dad, and Ijaz Ahmad. It was later reconstituted to include the Commercial Officer, Administrative Officer, and Union Representative Maqbool Ahmad.",
+  "judgment_summary": {
+    "findings": [
+      "No proper inquiry conducted",
+      "Ambiguity in charge-sheet",
+      "Insufficient evidence against Sher Khan",
+      "Failure to notify Sher Khan of inquiry date change"
+    ],
+    "decision": "Termination order declared illegal",
+    "directive": "Sher Khan reinstated with full back benefits",
+    "management_rights": "Liberty to conduct proper inquiry if desired"
+  },
+  "punishment": "Reinstatement with full back benefits.",
+  "Decision_or_verdict": "Termination of Sher Khan's services declared illegal; reinstatement ordered.",
+  "legal_arguments": [
+    "Violation of Section 6 of the Pakistan Essential Services (Maintenance) Act, 1952.",
+    "Improper inquiry procedures and lack of evidence."
+  ],
+  "assets": [
+    "N/A"
+  ],
+  "statutes": [
+    "Pakistan Essential Services (Maintenance) Act, 1952"
+  ],
+  "sections": [
+    "Section 6"
+  ],
+  "citations": [
+    "1977 P L C 560"
+  ],
+  "witnesses": [
+    "Jahangir Khan",
+    "Unnamed lady witness"
+  ],
+  "witness_statement": {
+    "Jahangir Khan": "Confirmed his previous statement but did not provide evidence proving theft.",
+    "Unnamed lady witness": "Statement confirmed by other witnesses but lacked direct evidence against Sher Khan."
+  },
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Employment Law",
+    "Industrial Relations"
+  ],
+  "key_issues": [
+    "Improper inquiry procedures.",
+    "Ambiguity in charge-sheet.",
+    "Lack of evidence proving theft."
+  ],
+  "maxims": {
+    "Audi alteram partem": "Sher Khan was not properly informed of inquiry changes, violating his right to be heard."
+  },
+  "legal_terms": {
+    "Charge-sheet": "A formal document accusing an individual of misconduct.",
+    "Ex parte": "Decision made in absence of the accused."
+  },
+  "words_and_phrases": {
+    "Essential service": "A service deemed critical for public welfare and subject to special regulations."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "Sher Khan's termination was declared illegal due to procedural lapses in inquiry and lack of evidence. The court ordered reinstatement with full back benefits, allowing the employer to conduct a proper inquiry if desired.",
+  "key_issues_details": {
+    "employment_termination_date": "1976-07-24",
+    "allegations": "Theft of articles from the establishment",
+    "legal_basis": "Section 6 of the Pakistan Essential Services (Maintenance) Act, 1952",
+    "appellant_claim": "Improper inquiry and illegal termination",
+    "respondent_claim": "Proper inquiry held and appellant found guilty"
+  },
+  "inquiry_details": {
+    "initial_committee": [
+      "Allah Bux Awan",
+      "Shafiq Ahmad",
+      "Fazal Dad",
+      "Ijaz Ahmad"
+    ],
+    "reconstituted_committee": [
+      "Commercial Officer",
+      "Administrative Officer",
+      "Union Representative Maqbool Ahmad"
+    ],
+    "charge_sheet_date": "1976-03-19",
+    "charge_sheet_served_date": "1976-03-27",
+    "appellant_reply_date": "1976-03-30",
+    "final_inquiry_date": "1976-06-26",
+    "termination_order_date": "1976-07-14"
+  }
+}

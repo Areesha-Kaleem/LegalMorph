@@ -1,0 +1,37 @@
+{
+  "case_title": "IFFAT SULTANA vs THE STATE",
+  "case_number": "R.O.R. L.R. No. 36/1987",
+  "judgment_date": "1991-04-25",
+  "court_name": "Board of Revenue, Punjab",
+  "judge": "Asad Ali Shah",
+  "appellant": "Iffat Sultana",
+  "respondent": "The State",
+  "result": "N/A",
+  "reported_as": "(K.L.R. 1996 Revenue Cases 47)",
+  "laws_referenced": "Land Reforms Act, II of 1977; Punjab Land Reforms Rules, 1977",
+  "facts": {
+    "declaration_date": "1977-10-26",
+    "holding_determined": "9936 P.I. Units",
+    "excess_land_resumed": "1936 P.I. Units",
+    "surrender_date": "1977-10-22",
+    "initial_order_date": "1984-09-17",
+    "appeal_order_date": "1987-02-09"
+  },
+  "issues": {
+    "choice_of_area_surrendered": "Dispute over land surrendered in village Walla Rai versus village Jhalar Mehr Shah",
+    "calculation_of_p_i_units": "Claim of incorrect calculation and soil classification"
+  },
+  "arguments": {
+    "petitioner": {
+      "choice_of_area": "Requested resumption of 1436 P.I. Units from village Jhalar Mehr Shah and 500 P.I. Units from village Walla Rai",
+      "calculation_error": "Claimed incorrect calculation of P.I. Units and soil classification"
+    }
+  },
+  "findings": {
+    "choice_of_area": "Original declaration form indicated surrender of land in village Walla Rai; petition rejected on this point",
+    "calculation_error": "Deputy Land Commissioner directed to review records and report if necessary"
+  },
+  "directions": {
+    "review_records": "Deputy Land Commissioner to review relevant records in presence of petitioner or counsel"
+  }
+}

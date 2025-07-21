@@ -1,0 +1,116 @@
+{
+  "case_title": "IHSAN-UL-HAQ vs EXECUTIVE ENGINEER HIGHWAY and others",
+  "reference_no_or_id": "RFA No. 50 of 1999",
+  "judgment_date": "2005-03-22",
+  "first_hearing_date": "N/A",
+  "court": "Peshawar High Court",
+  "bench_type": "Coram 2",
+  "judges": [
+    "Nasir-ul-Mulk",
+    "Ijaz-ul-Hassan Khan"
+  ],
+  "appellant": [
+    "Ihsan-ul-Haq"
+  ],
+  "respondant": [
+    "Executive Engineer Highway",
+    "Collector Acquisition, Nowshera"
+  ],
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": []
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Muhammad Ayaz (Deputy Advocate General)"
+    ],
+    "defense": [
+      "Tauqeer Ahmad Lodhi"
+    ]
+  },
+  "complaint_summary": "Appellants challenged the compensation rate for land acquired for construction of a bridge and approach road in District Nowshera.",
+  "investigation_summary": "The trial court fixed compensation at Rs. 10,000/- per marla with 15% compulsory acquisition charges and 6% interest from 1992. Evidence and local commission report were considered.",
+  "judgment_summary": "The court upheld the trial court's decision, finding the compensation fair and adequate based on the local commission's report and evidence presented.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Appeal dismissed; trial court's judgment and decree maintained.",
+  "legal_arguments": [
+    "Defense argued misreading of evidence and inadequate compensation for crops and fruit trees.",
+    "Prosecution argued the compensation increase lacked justification and the local commission's report was unreliable."
+  ],
+  "assets": [
+    {
+      "type": "Land",
+      "value": "Rs. 10,000/- per marla"
+    }
+  ],
+  "statutes": [
+    "Land Acquisition Act, 1894"
+  ],
+  "sections": [
+    "Section 18",
+    "Section 4(1)",
+    "Section 23"
+  ],
+  "citations": [
+    "PLJ 2006 Peshawar 182"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "RFA No. 70 of 1999",
+  "legal_categories": [
+    "Land Acquisition",
+    "Compensation"
+  ],
+  "key_issues": [
+    "Adequacy of compensation for acquired land",
+    "Consideration of local commission's report"
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "Compulsory Acquisition Charges": "Additional charges imposed during land acquisition.",
+    "Market Value": "Value of land as determined at the time of notification."
+  },
+  "words_and_phrases": {
+    "Misreading of Evidence": "Incorrect interpretation or omission of evidence during judgment."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around the adequacy of compensation for land acquired for public infrastructure. The trial court's decision was upheld, dismissing appeals from both parties. Compensation was deemed fair based on evidence and the local commission's report.",
+  "case_number": "RFA No. 50 of 1999",
+  "court_name": "Peshawar High Court",
+  "result": "Appeal dismissed",
+  "reported_as": "PLJ 2006 Peshawar 182",
+  "legal_provisions": {
+    "land_acquisition_act": "Section 18 and Section 23 of the Land Acquisition Act, 1894"
+  },
+  "compensation_details": {
+    "original_rate": "Rs. 1004/- per marla",
+    "enhanced_rate": "Rs. 10,000/- per marla",
+    "additional_charges": "15% compulsory acquisition charges",
+    "interest_rate": "6% from 1992-10-04 until payment"
+  },
+  "issues_raised": {
+    "appellant_arguments": [
+      "Improper appreciation of evidence by trial judge",
+      "Ignoring the report of the local commission",
+      "Inadequate compensation for standing crops and fruit trees"
+    ],
+    "respondent_arguments": [
+      "Compensation increased without justifiable reason",
+      "Market value should be based on notification date under Section 4(1)",
+      "Trial court unjustified in enhancing rate without solid evidence"
+    ]
+  },
+  "court_findings": {
+    "local_commission_report": "Detailed and comprehensive, rightly relied upon",
+    "evidence_review": "No misreading or non-appreciation of evidence found",
+    "final_decision": "Compensation deemed adequate and fair"
+  },
+  "costs": "No order as to costs"
+}

@@ -1,0 +1,154 @@
+{
+  "case_title": "CHAIRMAN EVACUEE TRUST PROPERTY BOARD, GOVERNMENT OF PAKISTAN, LAHORE and another vs PRESIDENT OF QUETTA HINDU PUNCHAYAT and another",
+  "reference_no_or_id": "Civil Misc. Appin. Nos, 220 & 221 of 2009, in C.R. No, 176 of 2005",
+  "judgment_date": "2009-07-20",
+  "first_hearing_date": "2005-05-29",
+  "court": "Balochistan High Court",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Ahmed Khan Lashari"
+  ],
+  "appellant": [
+    "Chairman, Evacuee Trust Property Board, Government of Pakistan, Lahore",
+    "Assistant Administrator, Evacuee Trust Property Board, Quetta"
+  ],
+  "respondant": [
+    "President of Quetta Hindu Punchayat",
+    "Dr. Tara Chand, Member, Provincial Assembly, Balochistan"
+  ],
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": []
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Kamran Murtaza",
+      "Abid Mehmood"
+    ],
+    "defense": [
+      "Sundar Dass"
+    ]
+  },
+  "complaint_summary": "Respondents filed a suit for declaration and injunction against the appellants, alleging interference in the religious property Arya Samaj Mandir, declared for religious purposes by the Evacuee Department.",
+  "investigation_summary": "Trial Court dismissed the suit on 05-04-2004. On appeal, Additional District Judge-V, Quetta decreed the suit on 26-02-2005. Civil Revision Petition was filed but dismissed for non-prosecution on 23-05-2008.",
+  "judgment_summary": "Applications for restoration of petition and condonation of delay were dismissed due to failure to explain the delay of over nine months and lack of sufficient cause.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Applications dismissed",
+  "legal_arguments": [
+    "Applicants argued illness and subsequent death of counsel's brother caused absence and delay.",
+    "Respondents argued delay was unjustified and lacked sufficient cause.",
+    "Court emphasized the need to explain delay for each day and found negligence on part of applicants."
+  ],
+  "assets": [
+    {
+      "property_name": "Arya Samaj Mandir",
+      "location": "Masjid Road, Quetta",
+      "details": "Municipal No. 2-37/10-A, Khasra No. 4320, measuring 9145 sq.ft., consisting of four rooms with prayer halls."
+    }
+  ],
+  "statutes": [
+    "Section 115 CPC",
+    "Article 181 of the Limitation Act"
+  ],
+  "sections": [],
+  "citations": [
+    "PLJ 2010 Quetta 10",
+    "1971 SCMR 740",
+    "PLD 1997 Peshawar 55",
+    "2004 SCMR 400",
+    "2004 SCMR 387",
+    "2004 SCMR 615",
+    "PLJ 1994 Lahore 542"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Civil Law",
+    "Property Law",
+    "Limitation Act"
+  ],
+  "key_issues": [
+    "Condonation of delay in filing restoration application",
+    "Restoration of petition dismissed in default",
+    "Interference in religious property"
+  ],
+  "maxims": {
+    "Delay defeats equity": "Applicants failed to explain delay for each day, leading to dismissal."
+  },
+  "legal_terms": {
+    "Condonation of delay": "Legal forgiveness for delay in filing applications.",
+    "Inherent jurisdiction": "Court's power to act in absence of specific statutory provision."
+  },
+  "words_and_phrases": {
+    "Non-prosecution": "Failure to actively pursue a legal case.",
+    "Default": "Failure to fulfill a legal obligation or appear in court."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case involves a dispute over religious property Arya Samaj Mandir. Respondents alleged interference by appellants despite the property being declared for religious purposes. Trial Court dismissed the suit, but it was decreed on appeal. Civil Revision Petition was dismissed for non-prosecution. Applications for restoration and condonation of delay were rejected due to unexplained delay and negligence.",
+  "property_details": {
+    "name": "Arya Samaj Mandir",
+    "municipal_number": "2-37/10-A",
+    "location": "Masjid Road, Quetta",
+    "khasra_number": "4320",
+    "area": "9145 sq.ft.",
+    "description": "Four rooms with prayer halls"
+  },
+  "legal_proceedings": {
+    "trial_court_decision": {
+      "date": "2004-04-05",
+      "result": "Suit dismissed"
+    },
+    "appeal_decision": {
+      "date": "2005-02-26",
+      "result": "Appeal allowed, suit decreed"
+    },
+    "civil_revision_petition": {
+      "admission_date": "2005-05-29",
+      "dismissal_date": "2008-05-23",
+      "reason": "Default and non-prosecution"
+    },
+    "restoration_application": {
+      "filing_date": "2009-03-04",
+      "result": "Dismissed"
+    }
+  },
+  "arguments": {
+    "applicants": {
+      "counsel": [
+        "Kamran Murtaza",
+        "Abid Mehmood"
+      ],
+      "reason_for_absence": "Illness and subsequent death of counsel's brother",
+      "delay_explanation": "No sufficient explanation for nine-month delay",
+      "legal_references": [
+        "1971 SCMR 740",
+        "PLD 1997 Peshawar 55",
+        "2004 SCMR 400"
+      ]
+    },
+    "respondents": {
+      "counsel": "Sundar Dass",
+      "argument": "Delay not justified, applications lack merit",
+      "legal_references": [
+        "2004 SCMR 387",
+        "2004 SCMR 615",
+        "PLJ 1994 Lahore 542"
+      ]
+    }
+  },
+  "legal_principles": {
+    "limitation_period": "Three years under Article 181 of Limitation Act",
+    "precedents": [
+      "2004 SCMR 387 - Delay must be explained for each day",
+      "2004 SCMR 615 - Negligence and lack of diligence not excused"
+    ]
+  }
+}

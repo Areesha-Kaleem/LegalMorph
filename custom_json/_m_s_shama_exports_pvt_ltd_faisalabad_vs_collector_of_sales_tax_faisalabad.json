@@ -1,0 +1,63 @@
+{
+  "case_title": "M/S. Shama Exports (Pvt.) Ltd., Faisalabad vs Collector Of Sales Tax, Faisalabad",
+  "case_number": "STA. No. 560/LB/09",
+  "court_name": "Appellate Tribunal Inland Revenue",
+  "judgment_date": "2010-12-22",
+  "judges": [
+    "Raja Lehrasab Khan",
+    "Amjad Ikram Ali"
+  ],
+  "appellant": "M/S. Shama Exports (Pvt.) Ltd., Faisalabad",
+  "respondent": "Collector Of Sales Tax, Faisalabad",
+  "result": "Appeal accepted",
+  "cited_by": 1,
+  "citing_cases": 17,
+  "statutes_referenced": [
+    "Sales Tax Act, 1990",
+    "Sales Tax Rules, 2006 (S.R.O. 555(I)/2006)"
+  ],
+  "key_issues": [
+    {
+      "issue": "Scrutiny for verification of input tax",
+      "amount": 86968,
+      "finding": "Rejection of refund on this ground is unlawful and beyond the scope of sales tax laws."
+    },
+    {
+      "issue": "Registration suspended",
+      "amount": 105799,
+      "finding": "Rejection of refund during suspension of registration is premature and illegal."
+    },
+    {
+      "issue": "Non-filer",
+      "amount": 34814,
+      "finding": "Rejection of refund due to non-updating of automated system is unjustified."
+    },
+    {
+      "issue": "Shipping bill does not exist",
+      "amount": 32533,
+      "finding": "Quadruplicate copy of shipping bill provided; objection vacated."
+    },
+    {
+      "issue": "Wrong tax period",
+      "amount": 17906,
+      "finding": "Claiming refund in succeeding tax period is permissible under section 7 of the Act."
+    }
+  ],
+  "legal_principles": [
+    "Taxation statutes must be interpreted strictly based on clear and unambiguous language.",
+    "Executive orders or notifications cannot operate retrospectively if they adversely affect vested rights.",
+    "Procedural lapses should not result in denial of refund rights."
+  ],
+  "citations": [
+    "PLD 1991 SC 280",
+    "PLD 1991 SC 630",
+    "PTCL 2000 CL 696",
+    "2010 PTD (Trib.) 857",
+    "2004 PTD 868",
+    "1993 SCMR 274",
+    "2002 PTD 2457",
+    "PTCL 1998 CL 354",
+    "PTCL 2005 CL 138"
+  ],
+  "summary": "The appeal filed by M/S. Shama Exports (Pvt.) Ltd. was accepted, and objections raised by the sales tax department were found to be unlawful or procedurally invalid. Refund claims were directed to be processed under the provisions of the Sales Tax Act, 1990."
+}

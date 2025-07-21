@@ -1,0 +1,110 @@
+{
+  "case_title": "Shri Krishna Pharmaceuticals Limited vs UOI",
+  "case_number": "Writ Petition No. 21530 of 2002",
+  "judgment_date": "2003-11-27",
+  "court": "Andhra Pradesh High Court",
+  "judges": [
+    "Motilal B. Naik",
+    "Dalava Subramanyam"
+  ],
+  "appellant": "Shri Krishna Pharmaceuticals Limited",
+  "respondent": "UOI",
+  "result": "Allowed",
+  "reported_as": "2005 P.C.T.L.R. 545",
+  "issues": [
+    "Exemption of customs duty under Advance License Scheme",
+    "Validity of communication dated 2.9.2002 rejecting exemption for consignments"
+  ],
+  "facts": {
+    "scheme": "Advance License Scheme",
+    "imported_material": "Acetic Anhydride",
+    "notifications": [
+      {
+        "number": "183/93-Cus",
+        "date": "1993-11-25",
+        "effect": "Withdrawal of exemption"
+      },
+      {
+        "number": "105/94-Cus",
+        "date": "1994-03-18",
+        "effect": "Clarification that Advance License transactions are unaffected"
+      }
+    ],
+    "consignments": [
+      {
+        "bill_of_entry": "293",
+        "date": "1993-12-03",
+        "status": "Cleared without customs duty"
+      },
+      {
+        "bill_of_entry": "305",
+        "date": "1993-12-18",
+        "status": "Cleared without customs duty"
+      },
+      {
+        "bill_of_entry": "314",
+        "date": "1993-12-31",
+        "status": "Initially detained, later cleared without customs duty"
+      }
+    ],
+    "demand_notices": [
+      {
+        "date": "1994-01-20",
+        "amount": "553391"
+      },
+      {
+        "date": "1994-01-20",
+        "amount": "1164078"
+      }
+    ]
+  },
+  "procedural_history": {
+    "appeals": [
+      {
+        "authority": "Appellate Commissioner",
+        "decision_date": "1999-03-04",
+        "result": "Demand notices confirmed"
+      },
+      {
+        "authority": "CEGAT",
+        "decision_date": "2005",
+        "result": "Appeals withdrawn with liberty to approach High Court"
+      }
+    ],
+    "writ_petitions": [
+      {
+        "number": "25534 of 1999",
+        "result": "Division Bench directed respondents to pass detailed orders"
+      },
+      {
+        "number": "25535 of 1999",
+        "result": "Division Bench directed respondents to pass detailed orders"
+      },
+      {
+        "number": "13888 of 2000",
+        "result": "Division Bench directed respondents to pass detailed orders"
+      }
+    ]
+  },
+  "arguments": {
+    "petitioner": [
+      "Exemption under Advance License Scheme was withdrawn by Notification No. 183/93-Cus.",
+      "Clarification issued by Notification No. 105/94-Cus reinstated exemption.",
+      "Respondents failed to provide reasons for rejecting exemption for consignments 1 and 2."
+    ],
+    "respondent": [
+      "Actions justified under Section 25 of the Customs Act.",
+      "Policy supports non-clearance of consignments 1 and 2."
+    ]
+  },
+  "decision": {
+    "key_findings": [
+      "Respondents failed to comply with earlier High Court directions to pass detailed orders.",
+      "Petitioner entitled to exemption under Advance License Scheme for all three consignments."
+    ],
+    "orders": [
+      "Respondents directed to extend exemptions for consignments under Bill of Entry 293 (dated 1993-12-03) and 305 (dated 1993-12-18).",
+      "Exercise to be completed within 10 weeks."
+    ]
+  }
+}

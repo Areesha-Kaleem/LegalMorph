@@ -1,0 +1,80 @@
+{
+  "case_title": "AUTO SALES vs COMMISSIONER OF INCOME-TAX",
+  "reference_no_or_id": "Income-tax Reference No. 341 of 1980",
+  "judgment_date": "1996-07-22",
+  "first_hearing_date": "N/A",
+  "court": "Allahabad High Court",
+  "bench_type": "Division Bench",
+  "judges": [
+    "B. M. Lal",
+    "Alok Chakrabarti"
+  ],
+  "appellant": [
+    "AUTO SALES"
+  ],
+  "respondant": [
+    "COMMISSIONER OF INCOME-TAX"
+  ],
+  "accussed_details": [
+    {
+      "name": "N/A",
+      "age": "N/A",
+      "gender": "N/A",
+      "designation": "N/A",
+      "allegation": []
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Ashok Kumar"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "The appellant challenged the Tribunal's conclusion that transactions by book entries were not genuine and interest payments on debits resulting from such transactions were not allowable as deduction expenditure.",
+  "investigation_summary": "The Income-tax Officer disallowed the deduction of interest payments totaling Rs. 17,550, citing Section 40(b) of the Income Tax Act, 1961, and added the amount to the assessee's total income. The Appellate Assistant Commissioner upheld this decision.",
+  "judgment_summary": "The court ruled that the transactions of gifts made by the partners were not genuine due to insufficient credit balances in their accounts. The question referred was answered in the affirmative and against the assessee.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Reference disposed; ruling against the assessee.",
+  "legal_arguments": [
+    "The appellant argued that the transactions were valid gifts supported by credit balances in the accounts of the partners.",
+    "The respondent contended that the transactions were not genuine due to insufficient credit balances and the timing of the gifts."
+  ],
+  "assets": [],
+  "statutes": [
+    "Income Tax Act, 1961"
+  ],
+  "sections": [
+    "Section 40(b)"
+  ],
+  "citations": [
+    "CIT v. Veeriah Reddiar (1969) 73 ITR 162",
+    "CIT v. Dr. R.S. Gupta (1987) 165 ITR 36 (SC)",
+    "Gulab Rai Govind Prasad v. CIT (1987) 165 ITR 163 (SC)"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Income Tax",
+    "Tax Deduction"
+  ],
+  "key_issues": [
+    "Validity of gift transactions",
+    "Applicability of Section 40(b) of the Income Tax Act"
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "credit balance": "The amount of funds available in an account.",
+    "deduction expenditure": "Expenses that can be subtracted from taxable income."
+  },
+  "words_and_phrases": {
+    "genuine transactions": "Transactions that are authentic and not fabricated.",
+    "book entries": "Accounting records of financial transactions."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case involved the disallowance of interest deductions claimed by AUTO SALES due to alleged non-genuine gift transactions among partners. The court upheld the Tribunal's finding against the assessee, citing insufficient credit balances in the accounts of the partners."
+}

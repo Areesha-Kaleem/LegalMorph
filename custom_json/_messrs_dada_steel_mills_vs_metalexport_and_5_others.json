@@ -1,0 +1,68 @@
+{
+  "case_title": "Messrs DADA STEEL MILLS vs METALEXPORT and 5 others",
+  "case_number": "H.C.A. No. 22 of 1985",
+  "judgment_date": "2009-07-27",
+  "court": "Sindh High Court",
+  "judges": [
+    "Khilji Arif Hussain",
+    "Soofia Latif"
+  ],
+  "appellant": "Messrs DADA STEEL MILLS",
+  "respondents": [
+    "METALEXPORT",
+    "Respondent Nos. 1 to 4",
+    "Others"
+  ],
+  "result": "Order accordingly",
+  "issues": [
+    "Whether defendant/respondent committed breach of agreement dated 24-10-1972",
+    "What amount of compensation, if any"
+  ],
+  "facts": {
+    "agreement_date": "1972-10-24",
+    "subject_matter": "Purchase of vessel 'S.S. Marbella'",
+    "letter_of_credit": "Irrevocable letter of credit opened by appellant",
+    "delivery_issue": "Respondents refused to deliver vessel citing non-compliance with clause 16 of agreement",
+    "auction_details": {
+      "auction_date": "1973-10-16",
+      "auction_price": "Rs. 65,05,299",
+      "amount_paid_to_respondents": "Rs. 30,27,394",
+      "balance_amount": "Rs. 34,77,899"
+    }
+  },
+  "legal_provisions": {
+    "contract_act_section_73": "Compensation for loss or damage caused by breach of contract",
+    "specific_relief_act_section_19": "Power to award compensation in certain cases"
+  },
+  "judgment": {
+    "specific_performance": "Granted",
+    "damages_awarded": "Rs. 20,36,628",
+    "excess_amount_to_be_deposited": "Rs. 14,41,271",
+    "interest_rate": "7.25%"
+  },
+  "arguments": {
+    "appellant": {
+      "counsel": "Mr. Khalid Anwar",
+      "contentions": [
+        "Respondents committed breach of contract",
+        "Appellant entitled to compensation under section 19 of Specific Relief Act",
+        "Appellant purchased vessel for re-rolling factory use, not for selling scrap"
+      ]
+    },
+    "respondents": {
+      "representation": "None present"
+    }
+  },
+  "precedents_cited": [
+    "Sm. Shakuntla Devi v. Harish Chandra AIR 1952 Allahabad 620",
+    "Ganga Singh v. Santosh Kumar AIR 1963 Allahabad 201",
+    "Muhammad Sharif v. National Motors Ltd. 1989 CLC 916",
+    "Messrs Nigar Pictures v. Messrs United Brothers PLD 1970 Karachi 770",
+    "Wroth v. Tyler 1973 (1) All ER 897"
+  ],
+  "key_findings": {
+    "breach_of_contract": "Respondents committed breach of agreement",
+    "appellant_entitlement": "Appellant entitled to specific performance and compensation",
+    "use_of_vessel": "Appellant intended to use vessel scrap for re-rolling factory"
+  }
+}

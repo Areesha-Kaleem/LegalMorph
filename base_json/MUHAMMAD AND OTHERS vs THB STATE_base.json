@@ -1,0 +1,90 @@
+{
+  "case_title": "MUHAMMAD AND OTHERS vs THB STATE",
+  "reference_no_or_id": "Criminal Revision No. 936 of 1969",
+  "judgment_date": "1976-03-09",
+  "first_hearing_date": "1969-04-16",
+  "court": "Baghdad-ul-Jadid",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Ch. Muhammad Siddique"
+  ],
+  "appellant": [
+    "Muhammad and Others"
+  ],
+  "respondant": [
+    "THB State"
+  ],
+  "accussed_details": [
+    {
+      "name": "Haji Muhammad",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "N/A",
+      "allegation": [
+        "Murder under Section 302 PPC",
+        "Unlawful assembly under Sections 148/149 PPC"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Muhammad Aslam"
+    ],
+    "defense": [
+      "Asghar Ali Bhatsi"
+    ]
+  },
+  "complaint_summary": "Fateh Muhammad, father of deceased Muhammad Tufail, filed a revision petition challenging the discharge of accused under Section 209 CrPC by Magistrate Minchinabad.",
+  "investigation_summary": "Police charged petitioners under Sections 302, 148/149 PPC following an incident on 25-5-1965. Magistrate discharged accused citing lack of prima facie evidence.",
+  "judgment_summary": "The impugned judgment by Syed Sajjad Ali Shah was declared void due to lack of jurisdiction. Case remitted to Sessions Judge Bahawalnagar for fresh disposal.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Petition accepted. Impugned judgment quashed.",
+  "legal_arguments": [
+    "Jurisdiction of Sessions Judge after transfer",
+    "Authority to transfer cases between divisions",
+    "Applicability of Section 9 CrPC for jurisdiction extension"
+  ],
+  "assets": [
+    {
+      "item": "Gun P.7",
+      "status": "Restored to Shames Din"
+    },
+    {
+      "item": "Licence 2 xh. P.L./I",
+      "status": "Restored to Shames Din"
+    }
+  ],
+  "statutes": [
+    "Criminal Procedure Code (CrPC)"
+  ],
+  "sections": [
+    "Section 209 CrPC",
+    "Section 9 CrPC",
+    "Sections 302, 148/149 PPC"
+  ],
+  "citations": [
+    "1976 P Cr. L J 1037"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Criminal Law",
+    "Jurisdiction"
+  ],
+  "key_issues": [
+    "Jurisdiction of transferred Sessions Judge",
+    "Legality of case transfer between divisions"
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "functus officio": "A legal term indicating that an officer or authority has exhausted its mandate."
+  },
+  "words_and_phrases": {
+    "prima facie": "At first glance; based on initial impression."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case revolves around jurisdictional issues following the transfer of a Sessions Judge. The impugned judgment was quashed due to lack of lawful authority, and the case was remitted for fresh disposal by the competent Sessions Judge."
+}

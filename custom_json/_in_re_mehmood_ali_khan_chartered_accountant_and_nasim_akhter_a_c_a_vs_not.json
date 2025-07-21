@@ -1,0 +1,63 @@
+{
+  "case_title": "In re: MEHMOOD ALI KHAN, CHARTERED ACCOUNTANT AND NASIM AKHTER, A.C.A. vs NOT",
+  "case_number": "NOT",
+  "judgment_date": "2002-02-13",
+  "court_name": "Appellate Bench of Securities and Exchange Commission of Pakistan",
+  "judges": [
+    "Shahid Ghaffar",
+    "M. Zafar-Ul-Haq Hijazi"
+  ],
+  "appellants": [
+    "Mehmood Ali Khan, FCA",
+    "Nasim Akhter, ACA"
+  ],
+  "respondent": "NOT",
+  "result": "Order upheld; appeal dismissed",
+  "reported_as": "2002 C L D 1164",
+  "penalty": {
+    "amount": "2000",
+    "currency": "PKR",
+    "imposed_on": [
+      "Mehmood Ali Khan",
+      "Nasim Akhter"
+    ]
+  },
+  "laws_cited": [
+    {
+      "section": "257(1)",
+      "ordinance": "Companies Ordinance, 1984"
+    },
+    {
+      "section": "260(1)",
+      "ordinance": "Companies Ordinance, 1984"
+    },
+    {
+      "section": "476",
+      "ordinance": "Companies Ordinance, 1984"
+    },
+    {
+      "section": "205",
+      "ordinance": "Companies Ordinance, 1984"
+    },
+    {
+      "ordinance": "Chartered Accountants Ordinance, 1961"
+    }
+  ],
+  "key_points": [
+    "Violation of section 257(1) of Companies Ordinance, 1984 by appellants.",
+    "Auditor's report signed by unauthorized individual (Nasim Akhter).",
+    "Verbal partnership claim rejected due to lack of legal documentation.",
+    "Executive Director (E&M) legally empowered under SEC's S.R.O. No. 230(1)/2001.",
+    "Penalty of Rs. 2,000 imposed on each appellant upheld.",
+    "Professional misconduct referred to Institute of Chartered Accountants of Pakistan."
+  ],
+  "arguments_by_appellants": [
+    "Verbal constitution of partnership should be accepted.",
+    "Auditor's report signed by Mehmood Ali Khan before AGM.",
+    "Executive Director lacked legal authority under section 476(1)(b)."
+  ],
+  "bench_opinion": "Appellants not interested in pursuing appeal; excuses deemed invalid.",
+  "advocates": {
+    "respondent": "Mubashar Saeed Saddozai, Deputy Director (E&M)"
+  }
+}

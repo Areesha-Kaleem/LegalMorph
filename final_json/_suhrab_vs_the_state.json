@@ -1,0 +1,98 @@
+{
+  "case_title": "SUHRAB vs THE STATE",
+  "reference_no_or_id": "Criminal Bail Application No.204 and M.A. No.497 of 2007",
+  "judgment_date": "2007-06-04",
+  "first_hearing_date": "N/A",
+  "court": "Sindh High Court",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Khilji Arif Hussain"
+  ],
+  "appellant": [
+    "Sohrab"
+  ],
+  "respondant": [
+    "The State"
+  ],
+  "accussed_details": [
+    {
+      "name": "Sohrab",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "N/A",
+      "allegation": [
+        "Presence at the crime scene",
+        "Accused in Crime No. 19 of 2003",
+        "Offences under sections 302, 459, 148, and 149 of P.P.C."
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [],
+    "defense": []
+  },
+  "complaint_summary": "The accused was alleged to be present at the crime scene along with another individual but no overt act or direct involvement in the crime was attributed to him.",
+  "investigation_summary": "The FIR indicated the presence of the accused at the crime scene but did not allege any active participation or overt act in the crime.",
+  "judgment_summary": "The court granted bail to the accused, Sohrab, on the grounds that no overt act or direct involvement in the crime was attributed to him. Bail was granted upon furnishing a surety of Rs. 200,000 as P.R. Bond to the satisfaction of the trial court.",
+  "punishment": "Bail granted with surety of Rs. 200,000 as P.R. Bond.",
+  "Decision_or_verdict": "Bail granted.",
+  "legal_arguments": [
+    "No overt act attributed to the accused.",
+    "Presence at the crime scene does not establish direct involvement.",
+    "Case requires further inquiry."
+  ],
+  "assets": [],
+  "statutes": [
+    "Pakistan Penal Code (P.P.C.)"
+  ],
+  "sections": [
+    "302",
+    "459",
+    "148",
+    "149"
+  ],
+  "citations": [
+    "2007 Y L R 2374"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Criminal Law",
+    "Bail Application"
+  ],
+  "key_issues": [
+    "Whether the accused's presence at the crime scene constitutes sufficient grounds for denial of bail.",
+    "Whether further inquiry is required to establish the accused's involvement."
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "P.R. Bond": "Personal Recognizance Bond"
+  },
+  "words_and_phrases": {
+    "Overt act": "An open and observable action that constitutes part of a crime."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The judgment granted bail to the accused due to lack of evidence of direct involvement or overt act in the crime. The case was deemed to require further inquiry.",
+  "crime_details": {
+    "crime_number": "19 of 2003",
+    "police_station": "Khanpur",
+    "offences": [
+      "302",
+      "459",
+      "148",
+      "149"
+    ],
+    "law": "P.P.C."
+  },
+  "bail_conditions": {
+    "surety_amount": "Rs.200,000",
+    "bond_type": "P.R. Bond",
+    "satisfaction_authority": "Trial Court"
+  },
+  "reported_as": "2007 Y L R 2374",
+  "subsequent_references": "None",
+  "cited_by": "2"
+}

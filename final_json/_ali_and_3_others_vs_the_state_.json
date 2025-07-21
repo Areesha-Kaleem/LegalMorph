@@ -1,0 +1,196 @@
+{
+  "case_title": "ALI AND 3 OTHERS vs THE STATE",
+  "reference_no_or_id": "Criminal Appeal No. 237 and Confirmation Case No. 60 of 1967",
+  "judgment_date": "1969-09-27",
+  "court": "Sindh High Court",
+  "bench_type": "Criminal Bench",
+  "judges": [
+    "Muhammad Afzal Cheema",
+    "Muhammad Gul"
+  ],
+  "appellants": [
+    "Durro",
+    "Arbab",
+    "Ramzan",
+    "Ali"
+  ],
+  "respondent": "The State",
+  "accused_details": [
+    {
+      "name": "Durro",
+      "gender": "Male",
+      "allegation": [
+        "Murder of Mahmud",
+        "Possession of unlicensed firearm"
+      ]
+    },
+    {
+      "name": "Arbab",
+      "gender": "Male",
+      "allegation": [
+        "Murder of Mahmud",
+        "Possession of licensed firearm"
+      ]
+    },
+    {
+      "name": "Ramzan",
+      "gender": "Male",
+      "allegation": [
+        "Murder of Mahmud"
+      ]
+    },
+    {
+      "name": "Ali",
+      "gender": "Male",
+      "allegation": [
+        "Murder of Mahmud"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Assistant Advocate-General"
+    ],
+    "defense": [
+      "Mr. A. K. Brohi"
+    ]
+  },
+  "charges": [
+    {
+      "section": "305 read with section 34",
+      "law": "Pakistan Penal Code",
+      "description": "Murder of Mahmud"
+    },
+    {
+      "section": "13(d)",
+      "law": "Arms Ordinance",
+      "description": "Possession of firearms"
+    }
+  ],
+  "sentences": [
+    {
+      "appellants": [
+        "Durro",
+        "Arbab"
+      ],
+      "sentence": "Death penalty"
+    },
+    {
+      "appellants": [
+        "Ramzan",
+        "Ali"
+      ],
+      "sentence": "Transportation for life",
+      "fine": "Rs. 1,000 each",
+      "default_sentence": "1 year rigorous imprisonment"
+    },
+    {
+      "appellants": [
+        "Durro",
+        "Ramzan",
+        "Ali"
+      ],
+      "sentence": "2 years rigorous imprisonment (concurrent)"
+    }
+  ],
+  "complaint_summary": "Sajawal, brother of deceased Mahmud, reported that four appellants and two unidentified individuals armed with guns entered their courtyard and shot Mahmud dead. The incident was motivated by blood-feud between the parties.",
+  "investigation_summary": "Police recovered 13 empties, live cartridges, blood-stained earth, and a shoe from the crime scene. Autopsy confirmed gunshot wounds caused instant death. Weapons were recovered from accused individuals, and forensic analysis was inconclusive due to tampering concerns.",
+  "judgment_summary": "The court found discrepancies in witness testimonies and flaws in corroborative evidence, including tampered forensic samples. The plea of alibi for Arbab and Ramzan was deemed plausible. The court acquitted all appellants, granting them the benefit of doubt.",
+  "final_decision": {
+    "description": "The appellants were acquitted of all charges and their convictions and sentences were set aside.",
+    "details": "The death sentences for Durro and Arbab were not confirmed. Any fines paid were ordered to be refunded."
+  },
+  "legal_arguments": [
+    "Discrepancies in witness testimonies",
+    "Tampering of forensic evidence",
+    "Plausibility of alibi for Arbab and Ramzan",
+    "Unreliable corroborative evidence"
+  ],
+  "key_points": [
+    {
+      "description": "The appellants were related and had a history of blood feuds with the complainant party."
+    },
+    {
+      "description": "The prosecution alleged that the appellants committed murder during a nighttime attack."
+    },
+    {
+      "description": "Eyewitness testimony was inconsistent and lacked credibility."
+    },
+    {
+      "description": "The plea of alibi raised by Arbab and Ramzan was supported by police station diary entries but was rejected by the trial court."
+    },
+    {
+      "description": "The recovery of firearms and other evidence was deemed unreliable due to procedural flaws."
+    },
+    {
+      "description": "The court found the prosecution's case insufficient to establish guilt beyond reasonable doubt."
+    }
+  ],
+  "assets": [
+    {
+      "type": "Firearm",
+      "details": "Unlicensed gun recovered from Durro"
+    },
+    {
+      "type": "Firearm",
+      "details": "Licensed gun recovered from Arbab"
+    }
+  ],
+  "statutes": [
+    "Pakistan Penal Code",
+    "Arms Ordinance",
+    "Criminal Procedure Code"
+  ],
+  "sections": [
+    "Section 305",
+    "Section 34",
+    "Section 13(d)",
+    "Section 374"
+  ],
+  "citations": [
+    "1969 P Cr. L J 28",
+    "PLD 1957 Lah. 263",
+    "PLD 1952 FC 71",
+    "PLD 1961 Kar. 150",
+    "PLD 1962 SC 269",
+    "PLD 1967 SC 217"
+  ],
+  "witnesses": [
+    "Sajawal (P.W. 5)",
+    "Mst. Sadori (P.W. 6)",
+    "Bakhairo (P.W. 7)",
+    "A.S.I. Ali Nawaz (P.W. 9)",
+    "Maula Bakhsh (P.W. 1)"
+  ],
+  "witness_statement": {
+    "Sajawal": "Identified appellants and reported the incident.",
+    "Mst. Sadori": "Provided details of the incident but showed discrepancies in testimony.",
+    "Bakhairo": "Corroborated identification of appellants but showed inconsistencies.",
+    "A.S.I. Ali Nawaz": "Recovered evidence from the crime scene.",
+    "Maula Bakhsh": "Arrested Durro and recovered firearm."
+  },
+  "legal_categories": [
+    "Criminal Law",
+    "Evidence Law"
+  ],
+  "key_issues": [
+    "Discrepancies in witness testimonies",
+    "Tampering of forensic evidence",
+    "Plausibility of alibi",
+    "Unreliable corroborative evidence"
+  ],
+  "maxims": {
+    "Benefit of Doubt": "Accused must be acquitted if evidence does not establish guilt beyond reasonable doubt."
+  },
+  "legal_terms": {
+    "Alibi": "A claim or evidence that the accused was elsewhere when the alleged act took place.",
+    "Corroboration": "Additional evidence that confirms or supports a statement or finding."
+  },
+  "words_and_phrases": {
+    "Hakal": "A shout or call used to alert or challenge someone."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case involved a murder motivated by blood-feud. Witness testimonies were inconsistent, and forensic evidence was tampered with. The court found the alibi plausible and acquitted all appellants."
+}

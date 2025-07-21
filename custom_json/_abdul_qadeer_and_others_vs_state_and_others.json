@@ -1,0 +1,76 @@
+{
+  "case_title": "ABDUL QADEER and others vs STATE and others",
+  "case_number": "Crl. Appeal No. 112 of 2008 & Crl. R. No. 14 of 2008",
+  "judgment_date": "2009-05-11",
+  "court_name": "Balochistan High Court",
+  "judges": [
+    "Akhter Zaman Malghani",
+    "Muhammad Maher Khan"
+  ],
+  "result": "Appeal disposed of",
+  "reported_as": "PLJ 2010 Cr.C. (Quetta) 116",
+  "appellant": "ABDUL QADEER and others",
+  "respondent": "STATE and others",
+  "facts_of_case": {
+    "incident_date": "2004-02-22",
+    "location": "Killi Ismail High School, Quetta",
+    "victim": "Abdul Razaq",
+    "reporting_person": "Nazir Ahmed",
+    "allegations": "Murder of Abdul Razaq",
+    "investigation_details": {
+      "investigating_officer": "Tariq Manzoor",
+      "evidence_collected": [
+        "Blood-stained earth",
+        "Six empties of T.T",
+        "Two lead bullets"
+      ],
+      "confession_recorded": "Under Section 164 Cr.P.C."
+    }
+  },
+  "trial_details": {
+    "initial_charge": "Section 303 (a) P.P.C.",
+    "sentence": "14 years R.I.",
+    "prosecution_witnesses": [
+      "Nazir Ahmed",
+      "Abdullah Jan",
+      "Meera Jan",
+      "Muhammad Hayat",
+      "Rafiq Ahmed",
+      "Dr. Fareeda",
+      "Raz Muhammad",
+      "Answar Iqbal",
+      "Inayat Ullah",
+      "Ali Ahmed",
+      "Tariq Manzoor"
+    ],
+    "defense": {
+      "plea": "Not guilty",
+      "statement": "Denied allegations",
+      "evidence": "No defense witnesses produced"
+    }
+  },
+  "appeal_details": {
+    "arguments_by_appellant": [
+      "Confessional statement was retracted and uncorroborated.",
+      "Claimed innocence and argued self-defense."
+    ],
+    "arguments_by_state_counsel": "Supported trial court judgment.",
+    "arguments_by_complainant": "Requested enhancement of sentence under Section 302 P.P.C."
+  },
+  "judgment_analysis": {
+    "homicidal_death": "Confirmed by Dr. Fareeda's medical evidence.",
+    "confessional_statement": {
+      "voluntary": "Yes",
+      "corroboration": "Supported by circumstantial evidence."
+    },
+    "legal_findings": {
+      "initial_section": "Section 303 (a) P.P.C.",
+      "altered_section": "Section 302 (c) P.P.C.",
+      "sentence_revised": "7 years R.I.",
+      "benefit_extended": "Section 382-B Cr.P.C."
+    }
+  },
+  "revision_petition": {
+    "status": "Dismissed"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "case_title": "G.V.K. INDUSTRIES LIMITED and another vs INCOME-TAX OFFICER and another",
+  "case_number": "Writ Petition No. 6866 of 1995",
+  "judgment_date": "1997-05-02",
+  "court": "Andhra Pradesh High Court",
+  "judges": [
+    "B. S. Raikote",
+    "Syed Shah Mohammad Quadri"
+  ],
+  "appellant": "G.V.K. INDUSTRIES LIMITED and another",
+  "respondent": "INCOME-TAX OFFICER and another",
+  "result": "Petition dismissed",
+  "reported_as": "1999 P T D 2655",
+  "key_issues": [
+    {
+      "issue": "Whether the 'success fee' payable by the petitioner-company to the NRC or any portion thereof is chargeable under the provisions of the Income Tax Act, 1961."
+    },
+    {
+      "issue": "Whether the petitioner-company is entitled to a 'no objection certificate'."
+    }
+  ],
+  "facts": {
+    "petitioner_company": "G.V.K. Industries Ltd.",
+    "incorporation_date": "1992-06-18",
+    "main_objective": "Generate and sell electricity",
+    "project_details": "Constructed a power generating station with a capacity of 235 MW near Rajahmundry, Andhra Pradesh",
+    "consultant": "ABB--Projects and Trade Finance (International) Ltd., Zurich, Switzerland (NRC)",
+    "success_fee": "0.75% of total debt financing",
+    "amount_requested": "Rs. 5.4 crores",
+    "application_section": "Section 195 of the Income Tax Act, 1961"
+  },
+  "legal_arguments": {
+    "petitioners": {
+      "contentions": [
+        "NRC rendered services from outside India and had no business connection in India.",
+        "Success fee does not accrue or arise in India under Section 9(1)(i) or 9(1)(vii).",
+        "Petitioner-company was not an agent of NRC."
+      ]
+    },
+    "respondents": {
+      "contentions": [
+        "NRC provided managerial and consultancy services.",
+        "Income deemed to accrue or arise in India under Section 9(1)(i) and 9(1)(vii)(b).",
+        "Petitioner-company acted on behalf of NRC for processing loans."
+      ]
+    }
+  },
+  "court_findings": {
+    "business_connection": "No business connection established between petitioner-company and NRC.",
+    "technical_services": "Success fee falls within the ambit of 'fees for technical services' under Section 9(1)(vii)(b).",
+    "legislative_validity": "Section 9(1)(vii)(b) upheld as valid by previous judgments."
+  },
+  "judgment_summary": {
+    "decision": "The 'success fee' is chargeable under the provisions of the Income Tax Act, 1961.",
+    "no_objection_certificate": "Petitioner-company not entitled to 'no objection certificate'.",
+    "dismissal": "Writ petition dismissed."
+  }
+}

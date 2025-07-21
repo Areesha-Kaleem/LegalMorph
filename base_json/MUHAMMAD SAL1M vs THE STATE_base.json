@@ -1,0 +1,85 @@
+{
+  "case_title": "MUHAMMAD SAL1M vs THE STATE",
+  "reference_no_or_id": "R. 0. R. No, 2755 of 1984",
+  "judgment_date": "1985-01-10",
+  "first_hearing_date": "N/A",
+  "court": "Board of Revenue, Punjab",
+  "bench_type": "Single Bench",
+  "judges": [
+    "S. M. Nasim"
+  ],
+  "appellant": [
+    "MUHAMMAD SAL1M"
+  ],
+  "respondant": [
+    "THE STATE"
+  ],
+  "accussed_details": [
+    {
+      "name": "MUHAMMAD SAL1M",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Petitioner",
+      "allegation": [
+        "Improper acquisition of proprietary rights of State land"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "Petitioner challenged the review of proprietary rights granted to him for land under the 5 Years Lease Scheme, citing compliance with lease conditions and independent ownership status.",
+  "investigation_summary": "The petitioner was granted proprietary rights for 1 acre and 18 marlas of land under the 5 Years Lease Scheme in 1980. The order was reviewed in 1984, citing that his father had already obtained proprietary rights for 64 kanals of land under the Ejected Tenants Scheme, disqualifying the petitioner under the subsistence holding rule.",
+  "judgment_summary": "The court restored the proprietary rights granted to the petitioner on 1-7-1980 and set aside the orders of the Additional Commissioner dated 20-6-1984 and A.C./Collector dated 15-5-1984, citing leniency and lack of authority for review under para. 163 of the Land Revenue Act.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Petition allowed; proprietary rights restored.",
+  "legal_arguments": [
+    "Petitioner fulfilled lease conditions and deposited the price of land.",
+    "Petitioner was married and independent, making para. 4(b) of Notification dated 3-9-1979 inapplicable.",
+    "Member (Colonies), Board of Revenue lacked authority to review the order under para. 163 of Land Revenue Act."
+  ],
+  "assets": [
+    "1 acre and 18 marlas of land in Chak No. 208/G.B."
+  ],
+  "statutes": [
+    "Land Revenue Act",
+    "Notification dated 3-9-1979"
+  ],
+  "sections": [
+    "Para. 4(b) of Notification dated 3-9-1979",
+    "Para. 163 of Land Revenue Act"
+  ],
+  "citations": [
+    "P L D 1986 Rev. 4"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Land Disputes",
+    "Property Rights"
+  ],
+  "key_issues": [
+    "Authority to review proprietary rights under Land Revenue Act",
+    "Compliance with lease conditions",
+    "Subsistence holding calculation"
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "Subsistence Holding": "The maximum amount of land a family can hold under state rules.",
+    "Proprietary Rights": "Legal ownership rights granted for land."
+  },
+  "words_and_phrases": {
+    "Ejected Tenants Scheme": "A scheme under which displaced tenants were granted land.",
+    "5 Years Lease Scheme": "A lease program allowing tenants to acquire land after fulfilling conditions."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "Petitioner challenged the review of proprietary rights granted under the 5 Years Lease Scheme. The court ruled in favor of the petitioner, restoring his ownership rights and invalidating the review orders citing lack of authority and compliance with lease conditions."
+}

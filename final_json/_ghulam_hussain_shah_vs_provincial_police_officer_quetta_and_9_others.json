@@ -1,0 +1,154 @@
+{
+  "case_title": "GHULAM HUSSAIN SHAH vs PROVINCIAL POLICE OFFICER, QUETTA and 9 others",
+  "reference_no_or_id": "S.A. No. 6 of 2007",
+  "judgment_date": "2010-12-14",
+  "first_hearing_date": "N/A",
+  "court": "Balochistan Service Tribunal",
+  "bench_type": "Tribunal Bench",
+  "judges": [
+    "Muhammad Hashim Khan Kakar",
+    "Muhammad Idrees Baloch",
+    "Muhammad Anwar Khan"
+  ],
+  "appellant": [
+    "Ghulam Hussain Shah"
+  ],
+  "respondant": [
+    "Provincial Police Officer, Quetta",
+    "9 others"
+  ],
+  "accussed_details": [
+    {
+      "name": "Ghulam Hussain Shah",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Sub-Inspector",
+      "allegation": [
+        "Involvement in financial corruption",
+        "Earning adverse ACRs",
+        "Concealing absence of 97 deserter officials"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "Salahuddin Mengal (Advocate-General Balochistan)"
+    ],
+    "defense": [
+      "Choudry Muhammad Rafique"
+    ]
+  },
+  "complaint_summary": "Appellant's promotion to Inspector was deferred despite Departmental Promotion Committee's recommendation, citing allegations of financial corruption and adverse ACRs.",
+  "investigation_summary": "Departmental inquiry revealed concealment of absence of 97 deserter officials, resulting in forfeiture of 2 years approved service as penalty. No substantial evidence was provided for financial corruption or adverse ACRs.",
+  "judgment_summary": "The Tribunal directed the respondent to reconsider appellant's promotion to Inspector based on Departmental Promotion Committee's recommendation, citing lack of lawful authority in supersession and double jeopardy concerns.",
+  "punishment": "Forfeiture of 2 years approved service (minor penalty)",
+  "Decision_or_verdict": "Reconsideration of appellant's promotion to Inspector from the date juniors were promoted.",
+  "result": "Order accordingly",
+  "legal_arguments": [
+    "Condonation of delay under section 5 of Limitation Act 1908 due to counsel's injury in bomb blast.",
+    "Double jeopardy under section 403 Cr.P.C., section 26 General Clauses Act 1897, and Article 13 of Constitution of Pakistan.",
+    "Adverse ACRs not communicated as per Annual Confidential Reports 1986 guidelines.",
+    "Minor penalties should not hinder promotion under Police Disciplinary Rules 1975."
+  ],
+  "assets": [],
+  "statutes": [
+    "Balochistan Service Tribunals Act 1974",
+    "Police Disciplinary Rules 1975",
+    "Annual Confidential Reports 1986",
+    "Police Order 2002"
+  ],
+  "sections": [
+    "Section 4 of Balochistan Service Tribunals Act 1974",
+    "Section 403 Cr.P.C.",
+    "Section 26 General Clauses Act 1897",
+    "Article 13 of Constitution of Pakistan",
+    "Article 165 Police Order, 2002",
+    "Section 5 of Limitation Act 1908"
+  ],
+  "citations": [
+    "2011 P L C (C.S.) 831",
+    "PLC 2005 (C.S.) 132",
+    "PLD 1987 SC 271",
+    "1991 SCMR 1637",
+    "2002 PLC (C.S.) 1375",
+    "PLC 2003 (C.S.) 1425"
+  ],
+  "witnesses": [],
+  "witness_statement": {},
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Service Law",
+    "Promotion Disputes",
+    "Administrative Law"
+  ],
+  "key_issues": [
+    "Delay in filing appeal",
+    "Double jeopardy in promotion deferral",
+    "Non-communication of adverse ACRs",
+    "Supersession without lawful authority",
+    "Alleged involvement in financial corruption and adverse ACRs."
+  ],
+  "maxims": {
+    "Double Jeopardy": "No one can be punished twice for the same offence."
+  },
+  "legal_terms": {
+    "ACRs": "Annual Confidential Reports",
+    "DPC": "Departmental Promotion Committee",
+    "PPO": "Provincial Police Officer"
+  },
+  "words_and_phrases": {
+    "Forfeiture of approved service": "A minor penalty under Police Disciplinary Rules 1975.",
+    "Adverse ACRs": "Negative remarks in Annual Confidential Reports."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "Promotion case deferred despite DPC recommendation; allegations of financial corruption and adverse ACRs unsupported by evidence; double jeopardy concerns raised; Tribunal directed reconsideration of promotion.",
+  "legal_basis": {
+    "primary_law": "Balochistan Service Tribunals Act 1974, Section 4",
+    "additional_laws": [
+      "Limitation Act 1908, Section 5",
+      "Police Disciplinary Rules 1975, Section 4",
+      "Article 13 of the Constitution of Islamic Republic of Pakistan 1973",
+      "Article 165 Police Order, 2002"
+    ]
+  },
+  "facts": {
+    "employment_history": {
+      "joined_as": "Constable",
+      "joining_date": "1977-05-09",
+      "promotions": [
+        {
+          "rank": "A.S.-I",
+          "date": "1999-01-01"
+        },
+        {
+          "rank": "Sub-Inspector",
+          "date": "2001-09-10"
+        }
+      ]
+    },
+    "promotion_case": {
+      "year": 2006,
+      "posts_available": 31,
+      "recommendation_date": "2006-05-20",
+      "notification_date": "2006-09-30",
+      "issue": "Appellant's promotion ignored despite DPC recommendation; juniors promoted instead."
+    },
+    "departmental_representation": {
+      "date": "2006-10-10",
+      "response": "Neither accepted nor rejected; reasons for deferment communicated on 2006-12-27."
+    }
+  },
+  "legal_findings": {
+    "delay_condonation": "Granted due to counsel's injury in bomb blast.",
+    "minor_penalty": "Forfeiture of 2 years approved service is a minor penalty and should not hinder promotion.",
+    "adverse_remarks": "Uncommunicated adverse remarks cannot be considered for promotion decisions.",
+    "mandatory_procedure": "Recommendations of DPC under Article 165 Police Order, 2002 must be followed unless strong reasons exist."
+  },
+  "order": {
+    "directive": "Respondent No. 1 to reconsider appellant's promotion to Inspector based on DPC recommendation from the date juniors were promoted.",
+    "costs": "No order as to costs."
+  },
+  "reported_as": "2011 P L C (C.S.) 831"
+}

@@ -1,0 +1,54 @@
+{
+  "case_title": "COMMISSIONER OF INCOME-TAX vs ASHWANI KUMAR LILADHAR",
+  "case_number": "Income-tax Reference No. 134 of 1980",
+  "court_name": "Allahabad High Court",
+  "judgment_date": "1996-07-19",
+  "judges": [
+    "B. M. Lal",
+    "Alok Chakrabarti"
+  ],
+  "appellant": "COMMISSIONER OF INCOME-TAX",
+  "respondent": "ASHWANI KUMAR LILADHAR",
+  "result": "Reference answered in favor of Revenue and against the assessee",
+  "reported_as": "1999 P T D 632",
+  "questions_of_law": [
+    {
+      "question": "Whether, on the facts and in the circumstances of the case, the Appellate Tribunal was justified in holding that the loss of Rs. 1,72,279 was a loss by embezzlement by an employee and as such was a business loss?",
+      "answer": "No"
+    },
+    {
+      "question": "Whether, on the facts and in the circumstances of the case, the Appellate Tribunal was justified in holding that the loss of Rs. 1,72,279 was completely irrecoverable during the previous year relevant to the assessment year 1968-69?",
+      "answer": "No"
+    },
+    {
+      "question": "Whether, on the facts and in the circumstances of the case, the Appellate Tribunal was justified in holding that the loss of Rs. 1,72,279 was a business loss allowable in the assessment year 1968-69?",
+      "answer": "No"
+    }
+  ],
+  "key_points": {
+    "assessment_year": "1968-69",
+    "amount_involved": "Rs. 1,72,279",
+    "claim_reason": "Embezzlement by Sri Ganesh Narain Somani",
+    "income_tax_officer_findings": "Claim of loss not proved; Sri Somani was a partner, not an employee.",
+    "tribunal_findings": "Sri Somani was an employee entitled to 40% profits; loss irrecoverable.",
+    "court_findings": "Loss not proved; insufficient evidence; no legal steps taken for recovery."
+  },
+  "legal_references": [
+    {
+      "case_name": "Associated Banking Corporation of India Ltd. v. CIT",
+      "citation": "(1965) 56 ITR 1 (SC)"
+    },
+    {
+      "case_name": "Kothari & Sons v. CIT",
+      "citation": "(1966) 61 ITR 23 (Mad.)"
+    },
+    {
+      "case_name": "Hopkin and Williams (Travancore) Ltd. v. CIT",
+      "citation": "(1967) 64 ITR 76 (Ker.)"
+    }
+  ],
+  "advocates": {
+    "for_assessee": "Sri A.N. Mahajan",
+    "for_revenue": "Sri S. Srivastava"
+  }
+}

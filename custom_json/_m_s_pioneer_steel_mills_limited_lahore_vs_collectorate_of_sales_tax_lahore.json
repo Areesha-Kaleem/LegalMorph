@@ -1,0 +1,54 @@
+{
+  "case_title": "M/S. PIONEER STEEL MILLS LIMITED, LAHORE vs COLLECTORATE OF SALES TAX, LAHORE",
+  "case_number": "Appeal No. 302/LB/2000",
+  "court_name": "Appellate Tribunal Inland Revenue",
+  "judgment_date": "2001-11-26",
+  "judges": [
+    "Abdul Majeed Tiwana",
+    "Sarfraz Ahmad Khan"
+  ],
+  "appellant": "M/S. PIONEER STEEL MILLS LIMITED, LAHORE",
+  "respondent": "COLLECTORATE OF SALES TAX, LAHORE",
+  "result": "Appeal dismissed",
+  "penalty_reduction": {
+    "original_penalty": "Rs. 874713/-",
+    "reduced_penalty": "Rs. 200,000/-",
+    "personal_penalty_waived": "Rs. 50000/-"
+  },
+  "key_issues": [
+    "Sales tax liability on goods supplied to Azad Jammu and Kashmir",
+    "Applicability of Sales Tax Act, 1990 to Azad Jammu and Kashmir",
+    "Compliance with Customs Act, 1969 for export procedures"
+  ],
+  "arguments": {
+    "appellant": {
+      "contentions": [
+        "Azad Jammu and Kashmir is not part of Pakistan and constitutes a foreign territory.",
+        "Goods supplied to Azad Jammu and Kashmir are zero-rated exports under Sections 3 and 4 of the Sales Tax Act, 1990.",
+        "Non-applicability of penal provisions of the Sales Tax Act, 1990."
+      ],
+      "case_law_references": [
+        "PLD 1985 S.C. (AJK) 762",
+        "PLD 1966 S.C. 88",
+        "PLD 1965 S.C. (A.J. And K) 62"
+      ]
+    },
+    "respondent": {
+      "contentions": [
+        "Sales tax is leviable under the Sales Tax Act, 1990 even for goods supplied to Azad Jammu and Kashmir.",
+        "Azad Jammu and Kashmir is not a foreign territory.",
+        "No legal formalities for export were completed."
+      ],
+      "case_law_reference": "1998 PTD 2561"
+    }
+  },
+  "judgment_summary": {
+    "findings": [
+      "Azad Jammu and Kashmir is legally considered a disputed foreign territory.",
+      "Appellants failed to provide sufficient evidence of sale transactions and dispatch of goods.",
+      "Non-compliance with Customs Act, 1969 export procedures invalidated the claim of zero-rated exports."
+    ],
+    "decision": "Appeal dismissed with penalty reduction."
+  },
+  "reported_as": "2002 P.C.T.L.R. 652"
+}

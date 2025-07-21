@@ -1,0 +1,103 @@
+{
+  "case_title": "RANJAH vs THE STATE",
+  "reference_no_or_id": "Criminal Appeal No. 62 of 1961",
+  "judgment_date": "1962-02-24",
+  "first_hearing_date": "1960-12-14",
+  "court": "Baghdad-ul-Jadid",
+  "bench_type": "Criminal Bench",
+  "judges": [
+    "Sajjad Ahmed",
+    "Bashir Ahmed"
+  ],
+  "appellant": [
+    "Ranjah"
+  ],
+  "respondant": [
+    "The State"
+  ],
+  "accussed_details": [
+    {
+      "name": "Ranjah",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "Farmer",
+      "allegation": [
+        "Murder of Mst. Sharaf Elahi"
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "N/A"
+    ],
+    "defense": [
+      "N/A"
+    ]
+  },
+  "complaint_summary": "Ranjah was accused of murdering his mother-in-law, Mst. Sharaf Elahi, following a domestic dispute involving his wife, Mst. Nur Sain.",
+  "investigation_summary": "The murder occurred on the night between December 7th and 8th, 1960, in village Khatan. Witnesses claimed Ranjah shot Mst. Sharaf Elahi after a heated argument. A country-made revolver and cartridges were recovered from Ranjah, and forensic analysis confirmed the weapon's use in the crime.",
+  "judgment_summary": "The court found procedural flaws in the commitment inquiry, particularly the denial of cross-examination rights to the appellant's counsel. Witness statements were deemed unreliable due to perjury and lack of cross-examination. The conviction was quashed, and the appellant was acquitted.",
+  "punishment": "Transportation for life (initial conviction, later overturned)",
+  "Decision_or_verdict": "Appeal accepted; conviction quashed; appellant set at liberty.",
+  "legal_arguments": [
+    "Denial of cross-examination rights under Section 340 of Cr. P. C.",
+    "Reliance on defective evidence recorded during commitment inquiry.",
+    "Judicial precedents supporting recall of witnesses for cross-examination."
+  ],
+  "assets": [
+    "Country-made revolver (Exh. P. 7)",
+    "Six cartridges (Exhs. P. 8 to P. 13)",
+    "Spent bullet (Exh. P. 6)"
+  ],
+  "statutes": [
+    "Criminal Procedure Code (Sections 208(2), 288, 340, 540)"
+  ],
+  "sections": [
+    "Section 208(2)",
+    "Section 288",
+    "Section 340",
+    "Section 540"
+  ],
+  "citations": [
+    "P L D 1962 Baghdad-ul-Jadid 12",
+    "A I R 1924 Cal. 780",
+    "A I R 1930 Cal. 706"
+  ],
+  "witnesses": [
+    "Muhammad Hussain",
+    "Mst. Nur Sain",
+    "Khushi Muhammad",
+    "Sher Muhammad"
+  ],
+  "witness_statement": {
+    "Muhammad Hussain": "Reported the incident and claimed to be an ocular witness.",
+    "Mst. Nur Sain": "Claimed to be an ocular witness but later exonerated the appellant.",
+    "Khushi Muhammad": "Testified that the deceased charged the appellant before her death.",
+    "Sher Muhammad": "Corroborated Khushi Muhammad's testimony."
+  },
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Criminal Law",
+    "Procedural Law"
+  ],
+  "key_issues": [
+    "Denial of cross-examination rights.",
+    "Reliability of witness statements.",
+    "Procedural irregularities during commitment inquiry."
+  ],
+  "maxims": {
+    "Audi alteram partem": "The right to be heard, including cross-examination, is fundamental in criminal trials."
+  },
+  "legal_terms": {
+    "Commitment Inquiry": "Preliminary hearing to determine if a case should proceed to trial.",
+    "Cross-examination": "Questioning of witnesses by the opposing party."
+  },
+  "words_and_phrases": {
+    "Transportation for life": "A form of punishment involving exile or imprisonment for life.",
+    "Defective evidence": "Evidence that lacks reliability or procedural integrity."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case highlights procedural flaws in criminal trials, emphasizing the importance of cross-examination and legal representation for accused persons. The judgment underscores judicial precedents advocating liberal attitudes towards recalling witnesses to ensure justice."
+}

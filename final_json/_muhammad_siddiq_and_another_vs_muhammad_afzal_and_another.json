@@ -1,0 +1,114 @@
+{
+  "case_title": "MUHAMMAD SIDDIQ AND ANOTHER vs MUHAMMAD AFZAL AND ANOTHER",
+  "reference_no_or_id": "Criminal Miscellaneous No. 132 of 1975",
+  "judgment_date": "1975-03-13",
+  "first_hearing_date": "N/A",
+  "court": "Baghdad-ul-Jadid",
+  "bench_type": "Single Bench",
+  "judges": [
+    "Abdul Jabbar Khan"
+  ],
+  "appellant": [
+    "Muhammad Siddique",
+    "Muhammad Hanif"
+  ],
+  "respondant": [
+    "Muhammad Afzal",
+    "Another"
+  ],
+  "accussed_details": [
+    {
+      "name": "Muhammad Siddique",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "N/A",
+      "allegation": [
+        "Assault under Section 452/326, P.P.C."
+      ]
+    },
+    {
+      "name": "Muhammad Hanif",
+      "age": "N/A",
+      "gender": "Male",
+      "designation": "N/A",
+      "allegation": [
+        "Assault under Section 452/326, P.P.C."
+      ]
+    }
+  ],
+  "lawyers": {
+    "prosecution": [
+      "State Counsel"
+    ],
+    "defense": [
+      "Counsel for Petitioners"
+    ]
+  },
+  "complaint_summary": "On 21-2-1974, a case was registered against the petitioners for assaulting the complainant Muhammad Afzal under Section 452, P.P.C. The complainant later sought to compound the offense citing a peace move initiated by relatives and brotherhood.",
+  "investigation_summary": "The Public Prosecutor recommended compounding the case based on the complainant's application. However, the District Magistrate declined the request after reviewing the medico-legal report and hearing the petitioners.",
+  "judgment_summary": "The court dismissed the petition for quashment under Section 561-A, Cr.P.C., citing the availability of eyewitnesses and the complainant's potential support for the prosecution. It noted that the District Magistrate was not the trial court and advised the complainant to file the withdrawal petition in the proper forum.",
+  "punishment": "N/A",
+  "Decision_or_verdict": "Petition dismissed.",
+  "legal_arguments": [
+    "Petitioners argued that the case would end in acquittal due to lack of complainant support.",
+    "State Counsel argued that the case had sufficient evidence, including eyewitnesses, and involved non-compoundable offenses."
+  ],
+  "assets": [],
+  "statutes": [
+    "Criminal Procedure Code (Cr.P.C.)"
+  ],
+  "sections": [
+    "Section 561-A",
+    "Section 494",
+    "Section 452",
+    "Section 326",
+    "Section 439"
+  ],
+  "citations": [
+    "1976 P Cr. L J 1422"
+  ],
+  "witnesses": [
+    "Complainant Muhammad Afzal",
+    "Other eyewitnesses (unspecified)"
+  ],
+  "witness_statement": {
+    "Complainant": "Expressed willingness to compound the offense citing peace efforts."
+  },
+  "appeal_number": "N/A",
+  "legal_categories": [
+    "Criminal Law",
+    "Procedural Law"
+  ],
+  "key_issues": [
+    "Whether the case qualifies for quashment under Section 561-A, Cr.P.C.",
+    "Whether the District Magistrate had jurisdiction under Section 494, Cr.P.C."
+  ],
+  "maxims": {},
+  "legal_terms": {
+    "Quashment": "The act of nullifying or voiding a legal proceeding.",
+    "Compoundable Offense": "An offense that can be resolved through compromise between parties."
+  },
+  "words_and_phrases": {
+    "Peace Move": "Efforts initiated by relatives and brotherhood to resolve disputes amicably."
+  },
+  "metadata": {
+    "source_website": "www.eastlaw.pk"
+  },
+  "summary_vector_notes": "The case involved a petition for quashment of proceedings under Section 561-A, Cr.P.C., filed by Muhammad Siddique and Muhammad Hanif. The complainant sought to compound the offense citing peace efforts, but the District Magistrate declined the request. The court dismissed the petition, emphasizing the availability of evidence and proper jurisdiction for withdrawal petitions.",
+  "facts": {
+    "incident_date": "1974-02-21",
+    "location": "Police Station, Marot",
+    "charges": "Assault under section 452 P.P.C.",
+    "complainant": "Muhammad Afzal",
+    "compromise_attempt": "Initiated by relatives and brotherhood (biradary) of the parties",
+    "district_magistrate_decision": "Declined withdrawal of the case"
+  },
+  "judgment": {
+    "quashment_request": "Denied",
+    "observations": [
+      "District Magistrate is not the trial court",
+      "Complainant can reinitiate withdrawal petition in proper forum",
+      "Trial Magistrate has discretion under the law"
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "case_title": "Assistant Commissioner, SRB, Karachi vs Messrs Mohsin Mehmood (Manzoor Ahmad)",
+  "case_number": "Appeal No. AT-113 of 2018",
+  "judgment_date": "2019-05-17",
+  "court": "Appellate Tribunal Inland Revenue",
+  "judges": [
+    "Nadeem Azhar Siddiqui",
+    "Agha Kafeel Barik"
+  ],
+  "appellant": "Assistant Commissioner, SRB, Karachi",
+  "respondent": "Messrs Mohsin Mehmood (Manzoor Ahmad)",
+  "result": "Case remanded",
+  "reported_as": "2020 P T D (Trib.) 836",
+  "key_issues": [
+    "Exemption under Sindh Sales Tax on Services Act, 2011",
+    "Tariff headings 9809.0000 vs 9824.0000",
+    "Status of Dow University as a government entity"
+  ],
+  "facts": {
+    "tax_periods": "July 2015 to June 2016",
+    "services_provided": "Construction services",
+    "gross_receipts": "Rs.533,456,514",
+    "tax_assessed": "Rs.74,683,912",
+    "penalty_imposed": "Rs.3,734,196"
+  },
+  "notifications_referred": [
+    "SRB-3-4/7/2013 dated 18-06-2013",
+    "SRB-3-4/3/2011 dated 26-08-2011"
+  ],
+  "laws_referred": [
+    "Sindh Sales Tax on Services Act, 2011",
+    "Income Tax Ordinance, 2001",
+    "Dow University of Health Sciences Act, 2004"
+  ],
+  "arguments": {
+    "appellant": {
+      "position": "Dow University is not a government entity.",
+      "tariff_heading": "9809.0000",
+      "exemption_claim": "Not applicable."
+    },
+    "respondent": {
+      "position": "Dow University is a government entity.",
+      "tariff_heading": "9824.0000",
+      "exemption_claim": "Applicable under notifications."
+    }
+  },
+  "findings": {
+    "dow_university_status": "Statutory and autonomous body, not a government entity.",
+    "tariff_heading": "9824.0000 correctly applied.",
+    "exemption_notifications": "Not applicable for the tax periods in question."
+  },
+  "decision": {
+    "order_in_original": "Set aside.",
+    "order_in_appeal": "Set aside.",
+    "case_remanded": "To Assessing Officer for fresh assessment."
+  }
+}
