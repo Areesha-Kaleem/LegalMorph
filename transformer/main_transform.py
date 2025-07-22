@@ -8,13 +8,13 @@ load_dotenv()
 def transform():
     # --- Azure OpenAI GPT-4o client setup ---
     client = AzureOpenAI(
-        api_key="EkkatBw5ktWZPOs3unXeiH5lNAKpMAYOYJqQuaOpiAGjDHDY4xZUJQQJ99BGACYeBjFXJ3w3AAAAACOGtZUY",
-        api_version="2024-11-01-preview",
-        azure_endpoint="https://data-ai-interns.cognitiveservices.azure.com/"
+        api_key="Your api key",
+        api_version="version",
+        azure_endpoint="platform endpoint"
     )
 
     # Directories
-    deployment_name = "gpt-4o"
+    deployment_name = "name"
     input_dir = "D:/LegalMorph/data"
     output_dir_base = "D:/LegalMorph/base_json"
     summarized_dir = "D:/LegalMorph/summarized_text"
