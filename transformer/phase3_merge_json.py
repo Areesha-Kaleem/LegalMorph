@@ -60,7 +60,7 @@ def merge_json_gpt(base_dir, custom_dir, output_dir, issues_dir_base, issues_dir
                 try:
                     print(f"🧠 Attempt {attempt + 1}: Merging {base_file} + {custom_file}")
                     response = client.chat.completions.create(
-                        model="gpt-4o",
+                        model="model name",
                         messages=[
                             {"role": "system", "content": system_prompt.strip()},
                             {"role": "user", "content": f"""
@@ -156,7 +156,7 @@ def merge_issue_resolver(base_dir, custom_dir, output_dir, system_prompt, client
                 try:
                     print(f"🧠 Attempt {attempt + 1}: Merging {base_file} + {custom_file}")
                     response = client.chat.completions.create(
-                        model="gpt-4o",
+                        model="model name",
                         messages=[
                             {"role": "system", "content": system_prompt.strip()},
                             {"role": "user", "content": f"""
