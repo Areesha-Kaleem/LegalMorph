@@ -11,14 +11,14 @@ load_dotenv()
 
 
 # === Token helper ===
-def count_tokens(text, model="gpt-4-1106-preview"):
+def count_tokens(text, model="your model name"):
     enc = tiktoken.encoding_for_model(model)
     return len(enc.encode(text))
 
 
 # === Chunking for summarization ===
 def split_text_into_token_chunks(text, max_tokens_per_chunk=120000):
-    enc = tiktoken.encoding_for_model("gpt-4o")
+    enc = tiktoken.encoding_for_model("your deployment name")
     tokens = enc.encode(text)
     for i in range(0, len(tokens), max_tokens_per_chunk):
         yield enc.decode(tokens[i:i + max_tokens_per_chunk])
@@ -74,7 +74,7 @@ def call_gpt_with_schema(schema, text, system_prompt, deployment_name, client, t
 
 def call_gpt_for_file(case_text, client, system_prompt, token):
     response = client.chat.completions.create(
-        model="gpt-4o",
+        model="model name",
         messages=[
             {"role": "system", "content": system_prompt},
             {"role": "user", "content": case_text}
