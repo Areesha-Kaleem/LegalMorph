@@ -33,14 +33,12 @@ def load_json(json_dir, name, collection):
     print(f"\n📦 Done. Total documents inserted: {inserted_count}")
 
 
-def txt_json_db():
+def txt_json_db(text_dir, name, collection):
     # MongoDB connection setup
     client = MongoClient("mongodb://localhost:27017/")  # change this if you're using remote DB
-    db = client["Raw"]
-    collection = db["Legal_raw_cases"]
+    db = client[name]
+    collection = db[collection]
 
-    # Directory containing .txt files
-    text_dir = "D:\\LegalMorph\\data"
 
     # Loop through all .txt files and insert into MongoDB
     for filename in os.listdir(text_dir):
