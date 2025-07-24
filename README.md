@@ -141,6 +141,15 @@ LegalMorph/
 
 ---
 
+## Pipeline flow diagram:
+https://github.com/Areesha-Kaleem/LegalMorph/blob/main/End_to_End_Flow_of_Cases_pipeline_With_functions.png
+
+## Simple work flow:
+https://github.com/Areesha-Kaleem/LegalMorph/blob/main/Simple_End_to_End_Flow_of_Cases_pipeline.png
+
+## Scraper flow for cases on eastlaw:
+https://github.com/Areesha-Kaleem/LegalMorph/blob/main/Flow_of_Cases_Scraper_eastlaw.png
+
 ## 📦 Installation
 
 ```bash
@@ -183,13 +192,7 @@ Contributions are welcome!
 - Submit a pull request with a clear description of your changes.
 - Please add tests if you introduce new features.
 
-### Example UI (Streamlit):
 
-```
-⚖️ LegalMorph Data Pipeline
-
-
-```
 
 ### Example JSON Schema (from `transformer/base_json_schema.py`):
 
@@ -322,13 +325,13 @@ LegalMorph/
 3. **Merging:** Merge and resolve JSONs for completeness.
 4. **Interface:** Use the Streamlit app to run and monitor each phase.
 
-```
-## Flow of Pipeline
+---
+## Flow of Pipeline:
+https://github.com/Areesha-Kaleem/LegalMorph/blob/main/Statutes_pipeline_flow.png
+
+## Scraper Flow for statutes on eastlaw:
+https://github.com/Areesha-Kaleem/LegalMorph/blob/main/Scraper_flow_for_statutes_eastlaw.png
   
-
-```
-## Flow of scraper
-
 ---
 
 ## 📦 Installation
@@ -399,7 +402,5 @@ Contributions are welcome!
 --- 
 
 ---
-
-> _For missing sections (tests, license, contact), please update this README as your project evolves!_
 
 --- 
