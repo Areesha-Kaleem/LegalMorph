@@ -1,4 +1,4 @@
-# ⚖️ LegalMorph
+# ⚖️ LegalMorph Case Pipeline
 
 ## 📄 Description
 
@@ -172,13 +172,7 @@ pip install streamlit selenium pymongo python-dotenv openai langdetect beautiful
    - Click **Transform & Merge JSON** to process and summarize the data.
    - Click **Load into MongoDB** to store the results.
 
-> **Note:** The extraction step requires manual login to EastLaw in the browser window that opens.
-
----
-
-## 🧪 Tests
-
-[TODO: Add or describe test suite if available. No user-facing tests found in the codebase.]
+> **Note:** The extraction step requires manual login to EastLaw in the browser window that opens
 
 ---
 
@@ -189,32 +183,12 @@ Contributions are welcome!
 - Submit a pull request with a clear description of your changes.
 - Please add tests if you introduce new features.
 
-[TODO: Add code style/contribution guidelines if needed.]
-
----
-
-## 📃 License
-
-[TODO: Add LICENSE file or specify license type. No license file found in the repository.]
-
----
-
-## 🙋‍♂️ Contact / Maintainer
-
-[TODO: Add maintainer name, email, or GitHub profile.]
-
----
-
-## 📝 Example Output
-
 ### Example UI (Streamlit):
 
 ```
 ⚖️ LegalMorph Data Pipeline
 
-[📄 Number of Cases to Scrape: 5] [🧲 Extract Case Files]
-[🔄 Transform & Merge JSON]
-[📥 Load into MongoDB]
+
 ```
 
 ### Example JSON Schema (from `transformer/base_json_schema.py`):
@@ -266,6 +240,163 @@ Contributions are welcome!
   "summary_vector_notes": ""
 }
 ```
+
+# ⚖️ LegalMorph Statutes Pipeline
+
+## 📄 Description
+
+**LegalMorph Statutes Pipeline** is an end-to-end ETL (Extract, Transform, Load) system for legal statutes. It automates the scraping, structuring, and storage of statutes from online sources, turning unstructured legal text into structured, queryable data using web scraping, NLP, and database integration.
+
+---
+
+## 🚀 Features
+
+- Automated scraping of legal statutes (with OCR for scanned documents)
+- Schema-based transformation of raw text into structured JSON using LLMs
+- Merging of custom and base JSONs for comprehensive data
+- MongoDB integration for scalable storage
+- Streamlit web UI for step-by-step pipeline execution
+
+---
+
+## 🛠️ External Libraries & Frameworks
+
+| Library/Framework      | Purpose                                                                                   |
+|-----------------------|-------------------------------------------------------------------------------------------|
+| **streamlit**         | Web UI for running the pipeline                                                           |
+| **selenium**          | Automates browser actions for scraping                                                    |
+| **pymongo**           | MongoDB integration                                                                       |
+| **openai**            | Accesses Azure OpenAI (GPT-4o) for text transformation                                    |
+| **python-dotenv**     | Loads environment variables                                                               |
+| **pytesseract**       | OCR for scanned statute images                                                            |
+| **Pillow**            | Image processing for OCR                                                                  |
+| **tiktoken**          | Token counting for LLM input/output                                                       |
+| **json5**             | Parses flexible JSON formats                                                              |
+
+---
+
+## 🏗️ Project Structure & Module Roles
+
+```
+LegalMorph/
+│
+├── statutes_app.py                # Streamlit UI for statutes pipeline
+│
+├── extractor/
+│   ├── scraper_statutes.py        # Scrapes statutes (Selenium + OCR)
+│   ├── main_statutes_extractor.py # Entrypoint for statute scraping
+│
+├── transformer/
+│   ├── statutes_transformation.py     # Cleans, parses, and transforms statutes
+│   ├── main_statutes_transform.py     # Entrypoint for statute transformation
+│   └── base_schema_statute.json       # Statute JSON schema
+│
+└── venv/                        # Python virtual environment (not for production)
+```
+
+---
+
+## 🔬 Module & Function Overview
+
+### `statutes_app.py`
+- **Role:** Streamlit UI for the statutes pipeline. Lets users trigger extraction and transformation steps interactively.
+
+### `extractor/`
+- **scraper_statutes.py**
+  - `scrape_statutes(statute_limit)`: Scrapes statutes from the web, including OCR for scanned pages, and stores them in MongoDB.
+- **main_statutes_extractor.py**
+  - `run_statute_scraper(limit)`: Entrypoint for scraping; calls `scrape_statutes`.
+
+### `transformer/`
+- **statutes_transformation.py**
+  - Cleans, parses, and transforms raw statute text into structured JSON using LLMs.
+- **main_statutes_transform.py**
+  - `transform_statute()`: Orchestrates the transformation pipeline, including merging and issue resolution.
+
+---
+
+## 🔄 Pipeline Workflow
+
+1. **Extraction:** Scrape statutes and store in MongoDB.
+2. **Transformation:** Process and convert raw text to structured JSON (base and custom schema).
+3. **Merging:** Merge and resolve JSONs for completeness.
+4. **Interface:** Use the Streamlit app to run and monitor each phase.
+
+```
+## Flow of Pipeline
+  
+
+```
+## Flow of scraper
+
+---
+
+## 📦 Installation
+
+> No `requirements.txt` is included. Install dependencies manually:
+
+```bash
+pip install streamlit selenium pymongo python-dotenv openai pytesseract pillow tiktoken json5
+```
+- Install [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) and update its path in `scraper_statutes.py` if needed.
+- Ensure MongoDB is running locally (`mongodb://localhost:27017/` by default).
+
+---
+
+## ⚙️ Usage
+
+1. **Start MongoDB** (if not already running).
+2. **Run the Streamlit App:**
+   ```bash
+   streamlit run statutes_app.py
+   ```
+3. **Follow the UI:**
+   - Set the number of statutes to scrape.
+   - Click **Extract Statutes** (manual login may be required in the browser window).
+   - Click **Transform Statutes** to process and structure the data.
+
+
+---
+
+## 🙌 Contributing
+
+Contributions are welcome!  
+- Fork the repo and create a new branch.
+- Submit a pull request with a clear description.
+
+---
+
+## 📝 Example Statute JSON Schema
+
+```json
+{
+  "Statute_Name": "",
+  "Act_Ordinance_Name": "",
+  "Enactment_Date": "",
+  "Promulgation_Date": "",
+  "Province": "",
+  "Statute_Type": "",
+  "Year": "",
+  "Sections": [
+    {
+      "Section": "",
+      "Definition": "",
+      "Statute": "",
+      "Citations": [
+        {
+          "Citation_Name": ""
+        }
+      ],
+      "Metadata": {},
+      "Bookmark_ID": ""
+    }
+  ]
+}
+```
+
+---
+
+--- 
 
 ---
 
