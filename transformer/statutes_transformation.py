@@ -9,14 +9,14 @@ from difflib import get_close_matches
 
 load_dotenv()
 
-def count_tokens(text, model="gpt-4-1106-preview"):
+def count_tokens(text, model="model version"):
     enc = tiktoken.encoding_for_model(model)
     return len(enc.encode(text))
 
 
 # === Chunking for summarization ===
 def split_text_into_token_chunks(text, max_tokens_per_chunk=120000):
-    enc = tiktoken.encoding_for_model("gpt-4o")
+    enc = tiktoken.encoding_for_model("deployment name")
     tokens = enc.encode(text)
     for i in range(0, len(tokens), max_tokens_per_chunk):
         yield enc.decode(tokens[i:i + max_tokens_per_chunk])
