@@ -8,9 +8,9 @@ load_dotenv()
 def transform_statute():
     # --- Azure OpenAI GPT-4o client setup ---
     client = AzureOpenAI(
-        api_key="EkkatBw5ktWZPOs3unXeiH5lNAKpMAYOYJqQuaOpiAGjDHDY4xZUJQQJ99BGACYeBjFXJ3w3AAAAACOGtZUY",
-        api_version="2024-11-01-preview",
-        azure_endpoint="https://data-ai-interns.cognitiveservices.azure.com/"
+        api_key="your api key",
+        api_version="version",
+        azure_endpoint="platform endpoint"
     )
 
     deployment_name = "gpt-4o"
