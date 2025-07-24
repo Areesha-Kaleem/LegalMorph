@@ -13,7 +13,7 @@ def transform_statute():
         azure_endpoint="platform endpoint"
     )
 
-    deployment_name = "gpt-4o"
+    deployment_name = "name"
 
     base_statute_prompt = """
     You are a Legal Statutes Data Transformer AI.
