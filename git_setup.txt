@@ -1,0 +1,29 @@
+# Git commands for pushing to GitHub
+
+# 1. Initialize git repository (if not already initialized)
+git init
+
+# 2. Add the remote repository
+git remote add origin https://github.com/Areesha-Kaleem/LegalMorph.git
+
+# 3. Add all files (excluding those in .gitignore)
+git add .
+
+# 4. Commit the changes
+git commit -m "Initial commit: Legal document processing pipeline"
+
+# 5. Push to the main branch
+git push -u origin main
+
+# Note: If you get an error about the remote branch not existing, you might need to:
+# git branch -M main
+# git push -u origin main
+
+# To check if everything is working correctly:
+# git status   # Should show "nothing to commit, working tree clean"
+# git remote -v   # Should show your remote repository
+
+# For subsequent updates:
+# git add .
+# git commit -m "Your commit message"
+# git push

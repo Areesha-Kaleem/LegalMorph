@@ -1,0 +1,81 @@
+# Data directories - exclude all raw and processed data
+data/
+**/data/
+**/*/data/
+**/raw/
+**/base/
+**/custom/
+**/merge/
+**/summarise/
+
+# Environment variables and secrets
+.env
+**/.env
+*.env
+**/*.env
+secrets.py
+**/secrets.py
+config.ini
+**/config.ini
+credentials.json
+**/credentials.json
+
+# API keys and authentication files
+**/*api_key*
+**/*secret*
+**/*token*
+**/*password*
+**/*credential*
+api_config.py
+api_settings.py
+auth_config.py
+
+# Cache directories and temporary files
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints
+**/.ipynb_checkpoints
+.pytest_cache/
+.coverage
+htmlcov/
+*.log
+logs/
+**/logs/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# MongoDB data
+**/mongodb/
+**/db/
+mongodb_data/
+
+# Build output
+dist/
+build/
+*.egg-info/
+
+# Streamlit specific
+.streamlit/secrets.toml
+.streamlit/config.toml
+
+# Large files and binaries
+*.pkl
+*.h5
+*.model
+*.bin
+*.zip
+*.tar.gz
+*.rar
